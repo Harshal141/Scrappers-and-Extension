@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "dnb scripting",
+    "version": "1.0",
+    "permissions": ["scripting", "tabs", "storage"],
+    "host_permissions": ["https://www.dnb.com/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "web_accessible_resources": [
+        {
+        "resources": ["source.json"],
+        "matches": ["<all_urls>"]
+        }
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://www.dnb.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
