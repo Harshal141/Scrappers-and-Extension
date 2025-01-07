@@ -5,14 +5,17 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
         const selectedProducts = productList.filter(
           (product) => product.index >= startIndex && product.index <= endIndex
         );
-        console.log("Selected Products:", selectedProducts);
 
         const scrapingResults = [];
-        
-        // Sequentially process each product
+        let counter = 0
         for (const product of selectedProducts) {
           console.log(`Processing product ID: ${product.index}`);
-  
+          if(counter == 100){
+            console.log(scrapingResults)
+            counter = 0
+          }else{
+            counter +=1;
+          }
           try {
             // Open a new tab and wait for the navigation to complete
             const tab = await openAndScrapeTab(product);
