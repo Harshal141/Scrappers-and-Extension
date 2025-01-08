@@ -6,13 +6,14 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
           (product) => product.index >= startIndex && product.index <= endIndex
         );
 
-        const scrapingResults = [];
+        let scrapingResults = [];
         let counter = 0
         for (const product of selectedProducts) {
           console.log(`Processing product ID: ${product.index}`);
-          if(counter == 100){
+          if(counter == 1000){
             console.log(scrapingResults)
-            counter = 0
+            scrapingResults = []
+            counter = 1
           }else{
             counter +=1;
           }

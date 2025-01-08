@@ -1,18 +1,30 @@
 import json
 
-def add_index_to_json(json_file_path):
-    # Load the JSON data from the file
-    with open(json_file_path, "r", encoding="utf-8") as file:
+def process_json(input_file, output_file):
+    # Read the JSON data from the input file
+    with open(input_file, 'r') as file:
         data = json.load(file)
-    
-    # Add an index to each item in the list
-    for i, item in enumerate(data):
-        item["index"] = i + 1  # Index starting from 1 (or use `i` for 0-based indexing)
 
-    # Save the updated data back to the file
-    with open(json_file_path, "w", encoding="utf-8") as file:
-        json.dump(data, file, indent=4)
+    # Use a dictionary to remove duplicates based on the 'name' field
+    unique_data = {}
+    for entry in data:
+        if entry['name'] not in unique_data:
+            unique_data[entry['name']] = entry
 
-    print(f"Index added to {len(data)} items in {json_file_path}")
+    # Replace 'id' with 'index' and create a list of unique entries
+    processed_data = []
+    for index, (name, entry) in enumerate(unique_data.items(), start=1):
+        processed_data.append({
+            'index': index,
+            'name': entry['name'],
+            'url': entry['domain']
+        })
 
-add_index_to_json("./dnb/company_data.json")
+    # Write the processed data to the output file
+    with open(output_file, 'w') as file:
+        json.dump(processed_data, file, indent=4)
+
+# Example usage
+input_file = './dnb/DNB_list.json'
+output_file = './dnb/DNB_filtered.json'  
+process_json(input_file, output_file)
