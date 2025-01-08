@@ -9,7 +9,7 @@ document.getElementById("start").addEventListener("click", async () => {
       const response = await chrome.runtime.sendMessage({
         action: "navigate_and_scrape",
         productList: productList,
-        startIndex: 7001,
+        startIndex: 5000,
         endIndex: 10000,
       });
   
