@@ -1,35 +1,27 @@
-import requests
+from bs4 import BeautifulSoup
+import csv
 
-url = "https://www.dnb.com/business-directory/company-profiles.magna_international_inc.a5e89a69831772b0540706aeb05c039a.html"
+# Path to the HTML file
+html_file_path = "expoData.html"  # Replace with the path to your HTML file
 
-# Headers as provided
-headers = {
-    # ":authority": "api5763.d41.co",
-    # ":method": "GET",
-    # ":path": "/api?ctver=6&req=api5763&form=json",
-    # ":scheme": "https",
-    "accept": "*/*",
-    "accept-encoding": "gzip, deflate, br, zstd",
-    "accept-language": "en-US,en;q=0.9",
-    "origin": "https://www.dnb.com",
-    "priority": "u=1, i",
-    "referer": "https://www.dnb.com/business-directory/company-profiles.magna_international_inc.a5e89a69831772b0540706aeb05c039a.html",
-    "sec-ch-ua": '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
-    "sec-ch-ua-mobile": "?0",
-    "sec-ch-ua-platform": '"Windows"',
-    "sec-fetch-dest": "empty",
-    "sec-fetch-mode": "cors",
-    "sec-fetch-site": "cross-site",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-}
+# Load the HTML file
+with open(html_file_path, "r", encoding="utf-8") as file:
+    html_content = file.read()
 
-# Sending the GET request
-response = requests.get(url, headers=headers)
+# Parse the HTML content
+soup = BeautifulSoup(html_content, 'html.parser')
 
-# Output the response
-if response.status_code == 200:
-    print("Request successful!")
-    print("Response:", response.text)
-else:
-    print(f"Failed to fetch the page. Status code: {response.status_code}")
-    print("Response:", response.text)
+# Find all elements with the class `csdXSf`
+elements = soup.find_all(class_='csdXSf')
+
+# Extract the text and remove duplicates
+data = {element.get_text(strip=True) for element in elements}  # Use a set to store unique texts
+
+# Save the data to a CSV file
+output_file = 'csdXSf_data_unique.csv'
+with open(output_file, mode='w', newline='', encoding='utf-8') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Text'])  # Header row
+    writer.writerows([[text] for text in sorted(data)])  # Sort data alphabetically for consistency
+
+print(f"Unique data extracted and saved to {output_file}")
