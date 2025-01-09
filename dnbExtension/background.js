@@ -9,27 +9,68 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
             let allResults = [];
             const maxConcurrentTabs = 10;
 
-            const processProduct = async (product) => {
-                console.log(`Processing product ID: ${product.index}`);
-                let tab = null; // Declare tab outside the try block
+            // Function to process each product with fallback mechanisms
+            async function processProduct(product) {
+                let httpsTab = null; // Tab for HTTPS
+                let httpTab = null; // Tab for HTTP
+
                 try {
-                    tab = await openAndScrapeTab(product); // Assign tab here
+                    // Try opening with HTTPS
+                    console.log(`Trying HTTPS for product ID: ${product.index}`);
+                    const httpsUrl = `https://${product.url}`;
+                    httpsTab = await openAndScrapeTab({ ...product, url: httpsUrl });
                     return {
                         productID: product.index,
-                        url: product.url,
-                        extractedData: tab.result,
+                        manufacturer_id: product.manufacturer_id,
+                        url: httpsUrl,
+                        extractedData: httpsTab.result,
                     };
-                } catch (error) {
-                    console.error(`Error processing product ID: ${product.index}`, error);
-                    return null; // Handle errors gracefully
+                } catch (httpsError) {
+
+                    console.error(`HTTPS failed for product ID: ${product.index}.`, httpsError);
+
+                    if (httpsError?.id) {
+                        await closeTab(httpsError.id); // Ensure HTTPS tab is closed
+                    }
+
+                    try {
+                        // Fallback to HTTP
+                        console.log(`Fallback to HTTP for product ID: ${product.index}`);
+                        const httpUrl = `http://${product.url}`;
+                        httpTab = await openAndScrapeTab({ ...product, url: httpUrl });
+                        return {
+                            productID: product.index,
+                            manufacturer_id: product.manufacturer_id,
+                            url: httpUrl,
+                            extractedData: httpTab.result,
+                        };
+                    } catch (httpError) {
+                        console.error(`HTTP failed for product ID: ${product.index}`, httpError);
+                        if (httpError?.id) {
+                            console.log("er g oit here");
+                            await closeTab(httpError.id); // Ensure HTTPS tab is closed
+                        }
+                        return {
+                            productID: product.index,
+                            manufacturer_id: product.manufacturer_id,
+                            url: product.url,
+                            error: `Both HTTPS and HTTP failed: ${httpError.error.message}`,
+                        };
+                    }
                 } finally {
-                    // Close tab only if it was successfully opened
-                    if (tab?.id) {
-                        await closeTab(tab.id);
+                    // Ensure both tabs are closed
+                    if (httpsTab?.id) {
+                        console.log(`Closing HTTPS tab for ${product.url}`);
+                        await closeTab(httpsTab.id);
+                    }
+                    if (httpTab?.id) {
+                        console.log(`Closing HTTP tab for ${product.url}`);
+                        await closeTab(httpTab.id);
                     }
                 }
-            };
+            }
 
+            // Process products in batches for better efficiency
             const processInBatches = async (products) => {
                 for (let i = 0; i < products.length; i += maxConcurrentTabs) {
                     const batch = products.slice(i, i + maxConcurrentTabs);
@@ -74,22 +115,40 @@ function openAndScrapeTab(product) {
                         chrome.tabs.onUpdated.removeListener(listener);
 
                         if (chrome.runtime.lastError || !response) {
-                            reject(new Error(`Scraping failed for tab ID ${tab.id}`));
-                        } else {
+                            reject({
+                                id: tab.id,
+                                error: new Error(`Scraping failed for tab ID ${tab.id}: ${chrome.runtime.lastError?.message || 'No response received.'}`)
+                            });                        } else {
                             resolve({ id: tab.id, result: response });
                         }
                     });
                 }
             });
+
+            setTimeout(() => {
+                if (!tab) {
+                    reject({
+                        id: tab.id,
+                        error: new Error(`Scraping failed for tab ID ${tab.id}: ${chrome.runtime.lastError?.message || 'No response received.'}`)
+                    });
+                }
+            }, 8000);
         });
     });
 }
 
-// Helper function to close a tab
+// Helper function to close a tab with error handling
 function closeTab(tabId) {
     return new Promise((resolve) => {
         if (tabId) {
-            chrome.tabs.remove(tabId, () => resolve());
+            chrome.tabs.remove(tabId, () => {
+                if (chrome.runtime.lastError) {
+                    console.error(`Failed to close tab ID ${tabId}:`, chrome.runtime.lastError.message);
+                } else {
+                    console.log(`Tab ID ${tabId} closed successfully.`);
+                }
+                resolve();
+            });
         } else {
             resolve();
         }

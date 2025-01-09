@@ -1,27 +1,20 @@
-from bs4 import BeautifulSoup
 import csv
+import json
 
-# Path to the HTML file
-html_file_path = "expoData.html"  # Replace with the path to your HTML file
+def csv_to_json_with_index(csv_file, json_file):
+    data = []
+    
+    with open(csv_file, mode='r') as file:
+        csv_reader = csv.DictReader(file)
+        for idx, row in enumerate(csv_reader, start=1):
+            indexed_row = {"index": idx, **row}
+            data.append(indexed_row)
+    
+    with open(json_file, mode='w') as file:
+        json.dump(data, file, indent=4)
 
-# Load the HTML file
-with open(html_file_path, "r", encoding="utf-8") as file:
-    html_content = file.read()
+# Input and output file paths
+csv_file = 'source.csv'  # Replace with your CSV file path
+json_file = 'output.json'  # Replace with your desired JSON output file path
 
-# Parse the HTML content
-soup = BeautifulSoup(html_content, 'html.parser')
-
-# Find all elements with the class `csdXSf`
-elements = soup.find_all(class_='csdXSf')
-
-# Extract the text and remove duplicates
-data = {element.get_text(strip=True) for element in elements}  # Use a set to store unique texts
-
-# Save the data to a CSV file
-output_file = 'csdXSf_data_unique.csv'
-with open(output_file, mode='w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Text'])  # Header row
-    writer.writerows([[text] for text in sorted(data)])  # Sort data alphabetically for consistency
-
-print(f"Unique data extracted and saved to {output_file}")
+csv_to_json_with_index(csv_file, json_file)
