@@ -7,7 +7,8 @@ const DATA_FILE = 'data.json';
 
 // Enable CORS for all origins
 app.use(cors());
-app.use(express.json());
+
+app.use(express.json({ limit: '100mb' }));
 
 // Function to safely read and parse JSON file
 function readDataFile() {
@@ -20,7 +21,6 @@ function readDataFile() {
   }
 }
 
-// Endpoint to receive and store data
 app.post('/store', (req, res) => {
   const newData = req.body;
 
@@ -29,13 +29,13 @@ app.post('/store', (req, res) => {
   }
 
   try {
-    // Safely read existing data from the file
+    // Read current data from the file
     const currentData = readDataFile();
 
-    // Merge new data into the existing array
+    // Merge new data into current data
     const updatedData = [...currentData, ...newData];
 
-    // Write updated data to the file
+    // Write updated data back to the file
     fs.writeFileSync(DATA_FILE, JSON.stringify(updatedData, null, 2));
 
     res.status(200).json({ message: 'Data stored successfully' });
@@ -44,7 +44,6 @@ app.post('/store', (req, res) => {
   }
 });
 
-// Start the server
 const PORT = 3000;
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);

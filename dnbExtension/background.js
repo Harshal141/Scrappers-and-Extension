@@ -1,13 +1,13 @@
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     if (message.action === "navigate_and_scrape") {
         (async () => {
-            const { productList, startIndex, endIndex } = message;
+            const { productList, startIndex, endIndex, instances, batchSize } = message;
             const selectedProducts = productList.filter(
                 (product) => product.index >= startIndex && product.index <= endIndex
             );
 
             let allResults = [];
-            const maxConcurrentTabs = 10;
+            const maxConcurrentTabs = instances;
 
             // Function to process each product with fallback mechanisms
             async function processProduct(product) {
@@ -15,8 +15,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                 let httpTab = null; // Tab for HTTP
 
                 try {
-                    // Try opening with HTTPS
-                    console.log(`Trying HTTPS for product ID: ${product.index}`);
+                    console.log("Processing: ", product.url," " , product.index);
                     const httpsUrl = `https://${product.url}`;
                     httpsTab = await openAndScrapeTab({ ...product, url: httpsUrl });
                     return {
@@ -27,15 +26,15 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                     };
                 } catch (httpsError) {
 
-                    console.error(`HTTPS failed for product ID: ${product.index}.`, httpsError);
+                    console.warn(`HTTPS failed for ${product.url}.`, httpsError);
 
                     if (httpsError?.id) {
-                        await closeTab(httpsError.id); // Ensure HTTPS tab is closed
+                        await closeTab(httpsError.id);
                     }
 
                     try {
                         // Fallback to HTTP
-                        console.log(`Fallback to HTTP for product ID: ${product.index}`);
+                        console.log(`Fallback to HTTP for ${product.url}`);
                         const httpUrl = `http://${product.url}`;
                         httpTab = await openAndScrapeTab({ ...product, url: httpUrl });
                         return {
@@ -45,10 +44,9 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                             extractedData: httpTab.result,
                         };
                     } catch (httpError) {
-                        console.error(`HTTP failed for product ID: ${product.index}`, httpError);
+                        console.error(`HTTP failed for ${product.url}`, httpError);
                         if (httpError?.id) {
-                            console.log("er g oit here");
-                            await closeTab(httpError.id); // Ensure HTTPS tab is closed
+                            await closeTab(httpError.id);
                         }
                         return {
                             productID: product.index,
@@ -60,11 +58,9 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                 } finally {
                     // Ensure both tabs are closed
                     if (httpsTab?.id) {
-                        console.log(`Closing HTTPS tab for ${product.url}`);
                         await closeTab(httpsTab.id);
                     }
                     if (httpTab?.id) {
-                        console.log(`Closing HTTP tab for ${product.url}`);
                         await closeTab(httpTab.id);
                     }
                 }
@@ -77,7 +73,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                     const batchResult = await Promise.all(batch.map(processProduct));
                     allResults.push(...batchResult);
 
-                    if (allResults.length >= 1000) {
+                    if (allResults.length >= batchSize) {
                         console.log("Scraping results batch:", allResults);
                         
                         // Send results to the server
@@ -105,48 +101,43 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     }
 });
 
-// Helper function to open a new tab and scrape
 function openAndScrapeTab(product) {
     return new Promise((resolve, reject) => {
         chrome.tabs.create({ url: product.url }, (tab) => {
+
+            const timeout = setTimeout(() => {
+                reject({
+                    id: tab.id,
+                    error: new Error(`Page took too long to load: ${product.url}`)
+                });
+            }, 10000); // 8 seconds timeout to kill the tab if it hangs
+
             chrome.tabs.onUpdated.addListener(function listener(tabId, changeInfo) {
                 if (tabId === tab.id && changeInfo.status === 'complete') {
+                    clearTimeout(timeout); // Clear the timeout once the page is loaded
                     chrome.tabs.sendMessage(tabId, { action: 'scrape' }, (response) => {
                         chrome.tabs.onUpdated.removeListener(listener);
-
                         if (chrome.runtime.lastError || !response) {
                             reject({
                                 id: tab.id,
                                 error: new Error(`Scraping failed for tab ID ${tab.id}: ${chrome.runtime.lastError?.message || 'No response received.'}`)
-                            });                        } else {
+                            });
+                        } else {
                             resolve({ id: tab.id, result: response });
                         }
                     });
                 }
             });
-
-            setTimeout(() => {
-                if (!tab) {
-                    reject({
-                        id: tab.id,
-                        error: new Error(`Scraping failed for tab ID ${tab.id}: ${chrome.runtime.lastError?.message || 'No response received.'}`)
-                    });
-                }
-            }, 8000);
         });
     });
 }
+
 
 // Helper function to close a tab with error handling
 function closeTab(tabId) {
     return new Promise((resolve) => {
         if (tabId) {
             chrome.tabs.remove(tabId, () => {
-                if (chrome.runtime.lastError) {
-                    console.error(`Failed to close tab ID ${tabId}:`, chrome.runtime.lastError.message);
-                } else {
-                    console.log(`Tab ID ${tabId} closed successfully.`);
-                }
                 resolve();
             });
         } else {

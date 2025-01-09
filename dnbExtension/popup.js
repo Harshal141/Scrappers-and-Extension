@@ -10,7 +10,9 @@ document.getElementById("start").addEventListener("click", async () => {
         action: "navigate_and_scrape",
         productList: productList,
         startIndex: 1,
-        endIndex: 3,
+        endIndex: 15,
+        instances: 5, // no of tabs to run concurrently (make sure to have high internet speed and good processor)
+        batchSize: 10 // batches of extracted data which will be saved to the server at a time
       });
   
       console.log("Scraping Response:", response);
