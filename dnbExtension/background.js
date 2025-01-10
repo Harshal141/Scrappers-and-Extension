@@ -110,7 +110,7 @@ function openAndScrapeTab(product) {
                     id: tab.id,
                     error: new Error(`Page took too long to load: ${product.url}`)
                 });
-            }, 10000); // 8 seconds timeout to kill the tab if it hangs
+            }, 20000); // 20 seconds timeout if not mark page as not resonding
 
             chrome.tabs.onUpdated.addListener(function listener(tabId, changeInfo) {
                 if (tabId === tab.id && changeInfo.status === 'complete') {

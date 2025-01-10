@@ -9,10 +9,10 @@ document.getElementById("start").addEventListener("click", async () => {
       const response = await chrome.runtime.sendMessage({
         action: "navigate_and_scrape",
         productList: productList,
-        startIndex: 1,
-        endIndex: 15,
+        startIndex: 15000,
+        endIndex: 20000,
         instances: 5, // no of tabs to run concurrently (make sure to have high internet speed and good processor)
-        batchSize: 10 // batches of extracted data which will be saved to the server at a time
+        batchSize: 1000 // batches of extracted data which will be saved to the server at a time
       });
   
       console.log("Scraping Response:", response);
