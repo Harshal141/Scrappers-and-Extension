@@ -1,10 +1,19 @@
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   if (message.action === "scrape") {
     try {
-      const textData = document.querySelector("body").innerText;
+      const heroSection = document.querySelector(".company-hero-info")
+      if(heroSection){
+        const link = heroSection.querySelector("a");
+        if(link){
+          sendResponse(link.href)
+        }else{
+          sendResponse("Domain not found!");
+        }
+      }else{
+        sendResponse("HeroSection not found!");
+      }
 
-      // Send the response with extracted data
-      sendResponse({textData});
+      sendResponse("Loop Break!");
     } catch (error) {
       // Send the error response if something goes wrong
       sendResponse({ success: false, error: error.message });

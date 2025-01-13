@@ -12,55 +12,31 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
             // Function to process each product with fallback mechanisms
             async function processProduct(product) {
                 let httpsTab = null; // Tab for HTTPS
-                let httpTab = null; // Tab for HTTP
 
                 try {
                     console.log("Processing: ", product.url," " , product.index);
-                    httpsTab = await openAndScrapeTab({ ...product, url: httpsUrl });
+                    httpsTab = await openAndScrapeTab(product);
                     return {
-                        url: httpsUrl,
-                        extractedData: httpsTab.result,
+                        name: product.name,
+                        domain: httpsTab.result,
                     };
                 } catch (httpsError) {
 
-                    console.warn(`HTTPS failed for ${product.url}.`, httpsError);
-
-                    if (httpsError?.id) {
-                        await closeTab(httpsError.id);
-                    }
-
-                    try {
-                        // Fallback to HTTP
-                        console.log(`Fallback to HTTP for ${product.url}`);
-                        const httpUrl = `http://${product.url}`;
-                        httpTab = await openAndScrapeTab({ ...product, url: httpUrl });
-                        return {
-                            productID: product.index,
-                            manufacturer_id: product.manufacturer_id,
-                            url: httpUrl,
-                            extractedData: httpTab.result,
-                        };
-                    } catch (httpError) {
-                        console.error(`HTTP failed for ${product.url}`, httpError);
-                        if (httpError?.id) {
-                            await closeTab(httpError.id);
-                        }
-                        return {
-                            productID: product.index,
-                            manufacturer_id: product.manufacturer_id,
-                            url: product.url,
-                            error: `Both HTTPS and HTTP failed: ${httpError.error.message}`,
-                        };
-                    }
+                    console.error(`HTTP failed for ${product.url}`, httpsError);
+                    await closeTab(httpsError.id)
+                    return {
+                        name: product.name,
+                        error: `Failed to scrape: ${httpsError.error.message}`,
+                    };
                 } finally {
-                    // Ensure both tabs are closed
                     if (httpsTab?.id) {
                         await closeTab(httpsTab.id);
                     }
-                    if (httpTab?.id) {
-                        await closeTab(httpTab.id);
-                    }
                 }
+            }
+
+            function delay(ms) {
+                return new Promise(resolve => setTimeout(resolve, ms));
             }
 
             // Process products in batches for better efficiency
@@ -78,6 +54,8 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                         
                         allResults = []; // Reset results after logging
                     }
+                    console.log("Waiting for 5 seconds before processing the next batch...");
+                    await delay(5000);  // TODO: add randomaizer in this
                 }
             };
 

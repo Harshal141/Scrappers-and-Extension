@@ -1,6 +1,3 @@
 node_modules
-venv
-.env
 
-!venv/Lib/site-packages/utility/
-!venv/Lib/site-packages/utility/*
+.env
