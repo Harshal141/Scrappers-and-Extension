@@ -74,17 +74,21 @@ async def main():
 
     final_data = []
 
-    counter = 0
+    # counter = 0
     for index, coman in enumerate(jsonData):
-        counter +=1
-        if(counter == 13):
-            break
+        # counter +=1
+        # if(counter == 13):
+        #     break
 
         if "error" in coman:
-            final_data.append({**coman, "isRelevent" : True})
+            final_data.append({**coman, "isRelated" : True})
+            continue
+        if "error" in coman["extractedData"]:
+            final_data.append({**coman, "isRelated" : True})
             continue
 
         domain = coman["url"]
+        print("Processing "+ domain )
         textualContent = coman["extractedData"]["textData"]
 
         isRelated = await check_food_and_beverage_manufacturing(domain, textualContent)
@@ -94,7 +98,7 @@ async def main():
         else:
             final_data.append({**coman, "isRelated" : False})
         
-        if (index + 1) % 5 == 0:
+        if (index + 1) % 1000 == 0:
             store_data(final_data)
             final_data.clear()
 
