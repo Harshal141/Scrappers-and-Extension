@@ -20,7 +20,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                     httpsTab = await openAndScrapeTab({ ...product, url: httpsUrl });
                     return {
                         productID: product.index,
-                        manufacturer_id: product.manufacturer_id,
+                        name: product.name,
                         url: httpsUrl,
                         extractedData: httpsTab.result,
                     };
@@ -39,7 +39,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                         httpTab = await openAndScrapeTab({ ...product, url: httpUrl });
                         return {
                             productID: product.index,
-                            manufacturer_id: product.manufacturer_id,
+                            name: product.name,
                             url: httpUrl,
                             extractedData: httpTab.result,
                         };
@@ -50,7 +50,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                         }
                         return {
                             productID: product.index,
-                            manufacturer_id: product.manufacturer_id,
+                            name: product.name,
                             url: product.url,
                             error: `Both HTTPS and HTTP failed: ${httpError.error.message}`,
                         };
