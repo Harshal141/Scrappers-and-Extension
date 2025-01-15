@@ -11,15 +11,15 @@ def cleanDomain(domainName):
     return website
 
 # Load data from JSON file
-input_file = "./lushaPackers/extData.json"
+input_file = "./node_server/data.json"
 with open(input_file, "r", encoding="utf-8") as file:
     data = json.load(file)
 
 # Prepare CSV output
-output_file = "./lushaPackers/extDataFiltered.json"
+output_file = "thomas_food-packaging-55622757.csv"
 
 # Define CSV headers
-headers = ["name" , "Domain"]
+headers = ["name" , "domain"]
 
 
 # Open CSV file for writing
