@@ -5,20 +5,11 @@ import time
 
 # List of website IDs and their corresponding URLs
 websites = {
-    "DNB1": "https://www.dnb.com/business-directory/company-information.food_manufacturing.ca.html",
-    "DNB2": "https://www.dnb.com/business-directory/company-information.animal_food_manufacturing.ca.html",
-    "DNB3": "https://www.dnb.com/business-directory/company-information.animal_slaughtering_and_processing.ca.html",
-    "DNB4": "https://www.dnb.com/business-directory/company-information.bakeries_and_tortilla_manufacturing.ca.html",
-    "DNB5": "https://www.dnb.com/business-directory/company-information.beverage_manufacturing.ca.html",
-    "DNB6": "https://www.dnb.com/business-directory/company-information.dairy_product_manufacturing.ca.html",
-    "DNB7": "https://www.dnb.com/business-directory/company-information.fruit_and_vegetable_preserving_and_specialty_food_manufacturing.ca.html",
-    "DNB8": "https://www.dnb.com/business-directory/company-information.grain_and_oilseed_milling.ca.html",
-    "DNB9": "https://www.dnb.com/business-directory/company-information.other_food_manufacturing.ca.html",
-    "DNB10": "https://www.dnb.com/business-directory/company-information.sugar_and_confectionery_product_manufacturing.ca.html",
-    "DNB11": "https://www.dnb.com/business-directory/company-information.seafood_product_preparation_and_packaging.ca.html"
+    "OFM_CA": "https://www.dnb.com/business-directory/company-information.other_fabricated_metal_product_manufacturing.ca.html",
 }
 
-output_file = "./dnb/DNB_list.json"
+
+output_file = "./dnb/DNB_sheet_8.json"
 
 # Ensure the output file exists and initialize as an empty list if not already present
 try:
