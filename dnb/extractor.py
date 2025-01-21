@@ -13,15 +13,11 @@ with open("./dnb/" + file_name, 'r') as file:
 driver = webdriver.Chrome()
 
 output_data = []
-seen_domains = set()  # To track unique domains
+seen_domains = set()
 index = 1
-slip = 0
 
 # Loop through each entry in the JSON
 for entry in data:
-    slip += 1
-    if slip == 3:
-        break
     url = entry.get("url_src")
     if not url:
         continue
