@@ -28,7 +28,7 @@ def append_to_json_file(file_path, new_data):
         json.dump(updated_data, file, indent=4)
 
 # Process all files (DNB_sheet_1.json to DNB_sheet_8.json)
-for i in range(1, 9):  # Loop through 1 to 8
+for i in range(3, 6):  # Loop through 3 to 5
     file_name = f"{file_base_name}{i}.json"
     input_path = os.path.join(input_dir, file_name)
     output_path = os.path.join(input_dir, f"{output_prefix}{file_name}")
@@ -49,7 +49,7 @@ for i in range(1, 9):  # Loop through 1 to 8
 
         # Visit the URL
         driver.get(url)
-        time.sleep(4)  # Wait for the page to load completely
+        time.sleep(5)  # Wait for the page to load completely
 
         # Extract the "Doing Business As" name
         try:
@@ -59,7 +59,7 @@ for i in range(1, 9):  # Loop through 1 to 8
             )
             business_as_name = business_as_element.text
         except Exception as e:
-            business_as_name = "Not Found"
+            business_as_name = entry.get("name")
             print(f"Error finding 'Doing Business As': {e}")
 
         # Extract the domain
