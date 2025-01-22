@@ -28,8 +28,9 @@ def append_to_json_file(file_path, new_data):
         json.dump(updated_data, file, indent=4)
 
 # Process all files (DNB_sheet_1.json to DNB_sheet_8.json)
-for i in range(3, 6):  # Loop through 3 to 5
+for i in range(5, 6):  # Loop through 3 to 5
     file_name = f"{file_base_name}{i}.json"
+    print(f"Processing {file_name}...")
     input_path = os.path.join(input_dir, file_name)
     output_path = os.path.join(input_dir, f"{output_prefix}{file_name}")
     
@@ -60,7 +61,7 @@ for i in range(3, 6):  # Loop through 3 to 5
             business_as_name = business_as_element.text
         except Exception as e:
             business_as_name = entry.get("name")
-            print(f"Error finding 'Doing Business As': {e}")
+            print(f"Error finding 'Doing Business As': {url}")
 
         # Extract the domain
         try:
@@ -86,7 +87,7 @@ for i in range(3, 6):  # Loop through 3 to 5
                     append_to_json_file(output_path, output_data)
                     output_data = []  # Clear the batch after saving
         except Exception as e:
-            print(f"Error finding domain: {e}")
+            print(f"Error finding domain: {url}")
 
     # Append remaining data to the file
     if output_data:
