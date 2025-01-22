@@ -1,0 +1,771 @@
+name,domain,isRelated
+Johnson & Johnson,jnj.com,False
+P&G,us.pg.com,False
+Kimberly-Clark,kimberly-clark.com,False
+"Georgia-Pacific Holdings, LLC",gp.com,False
+Avery Dennison,averydennison.com,True
+Westrock Merchandising Displays,westrock.com,True
+PCA,packagingcorp.com,True
+Sonoco,sonoco.com,True
+Pactiv Evergreen Inc.,pactivevergreen.com,True
+Greif,greif.com,False
+Zebra,zebra.com,False
+"Amcor Flexibles North America, Inc.",amcor.com,True
+Taylor Corporation,taylor.com,False
+Reynolds Consumer Products,reynoldsconsumerproducts.com,False
+"Pratt Industries, Inc.",prattindustries.com,False
+Edgewell,edgewell.com,False
+Bopp Films,inteplast.com,False
+Menasha,menashacorporation.com,True
+Orora North America,ororapackagingsolutions.com,True
+ACCO Brands,accobrands.com,False
+MCC Label,mcclabel.com,True
+Brady,bradyid.com,False
+D W Packaging Solutions,dwfinepack.com,True
+First Quality,firstquality.com,False
+Cytec Solvay Group,syensqo.com,True
+B C I,bcipkg.com,True
+International Greetings USA,dgamericas.com,False
+"Cenveo Enterprises, Inc.",cenveo.com,False
+TekniPlex Co,tekni-plex.com,True
+Novolex,novolex.com,True
+"Huhtamaki, Inc.",huhtamaki.com,True
+Menasha,menasha.com,True
+Kraft Group LLC,thekraftgroup.com,False
+COI Graphics,smurfitkappa.com,True
+Insulated Shipping Containers,thermosafe.com,True
+"SupplyOne Holdings Company, Inc.",supplyone.com,True
+Sappi Fine Paper,sappi.com,True
+Golden West Packaging Group LLC,goldenwestpackaging.com,True
+National Gypsum Company,nationalgypsum.com,False
+American Greetings,americangreetings.com,False
+"Printpack, Inc.",printpack.com,True
+"Nice-Pak Products, Inc.",nicepak.com,True
+CCL Design,cclind.com,True
+"Schwarz Partners, L.P.",schwarzpartners.com,True
+ProAmpac,proampac.com,True
+"PaperWorks Industries, Inc.",onepaperworks.com,True
+Shurtech Brands,shurtapetech.com,False
+Intertape Polymer Group,itape.com,True
+Tetra Pak CPS,tetrapak.com,True
+Insulated Transport Products,signode.com,True
+Hood Container Corporation,hoodcontainer.com,True
+Mauser Packaging Solutions,mauserpackaging.com,True
+CCP Industries,tranzonic.com,True
+"Holden Industries, Inc.",holdenindustriesinc.com,True
+Resolute Forest Products,resolutefp.com,True
+Solo Cup Operating Corporation,solocup.com,True
+A J M,ajmpack.com,False
+Flexographic Printing & Laminating Center Of Excellence,americanpackaging.com,True
+Nyx Redford,nyxinc.com,False
+Atlantic,atlanticpkg.com,True
+Mactac,mactac.com,False
+Beiersdorf North America Inc.,beiersdorfusa.com,False
+SoundView Paper Holdings LLC,soundviewpaper.com,False
+Easy Mask,loparex.com,False
+"Wingate Partners, L.P.",wingatepartners.com,False
+"Rusken Packaging, Inc.",rusken.com,True
+"ALJ Regional Holdings, Inc.",celebrate-faith.org,False
+3A Composites USA Inc.,3acompositesusa.com,False
+"Anchor Packaging, LLC",anchorpackaging.com,True
+"PLAYTEX PRODUCTS, LLC",playtextampons.com,False
+Great Northern Corporation,greatnortherncorp.com,True
+Aardvark Straws,hoffmaster.com,True
+CompoSecure,composecure.com,False
+Deltacraft,millcraft.com,True
+WCP Solutions,wcpsolutions.com,True
+Ranpak Holdings Corp.,ranpak.com,True
+ID&C,avery.com,False
+"Malnove Holding Company, Inc.",malnove.com,True
+Formica Corporation,formica.com,False
+Tension Envelope Corporation,tension.com,False
+Royal Continental Box Company,theroyalgroup.wpengine.com,True
+"UPM Raflatac, Inc.",upmraflatac.com,True
+Rand-Whitney Group LLC,randwhitney.com,True
+Fujifilm North America Corporation,fujifilm.com,False
+R F H,rf-holdings.com,False
+Heartland Business Systems,hbsprod.wpenginepowered.com,False
+GBS Filing Solutions,gbscorp.com,True
+Termalock,fresco.com,True
+Fortis Solutions Group,fortissolutionsgroup.com,True
+"Nippon Dynawave Packaging Company, LLC",nippondynawave.com,True
+"Schutz Container Systems, Inc.",schuetz-packaging.net,True
+Schutz Corp.,schuetz.net,True
+SMC Packaging Group,smcpackaging.com,True
+Jamestown Container Corporation,jamestowncontainer.com,True
+Foam Pac Materials Company,storopack.us,True
+Unicorr Group,unicorr.com,True
+Bay Cities Packaging & Design,bay-cities.com,True
+Gateway Printing,rohrer.com,False
+American Biltrite Inc.,ambilt.com,False
+"G3 Enterprises, Inc.",g3enterprises.com,True
+"Tesa Tape, Inc.",tesa.com,False
+"Nekoosa Coated Products, LLC",nekoosa.com,False
+Temperpack,temperpack.com,True
+IPS Packaging,ipack.com,True
+"Pacific Southwest Container, LLC",teampsc.com,True
+FGS PACKING SERVICES,fruitgrowerssupply.com,True
+"ABX Innovative Packaging Solutions, LLC",abxpackaging.com,True
+Lollicup Tea Zone,karatpackaging.com,True
+"MARCAL PAPER MILLS, LLC",marcalpaper.com,False
+MRCI WorkSource,mymrci.org,False
+"Smyth Companies, LLC",smythco.com,True
+Trojan Litho,trojanlitho.com,False
+Pacific Global Packaging South,pacificpkg.com,True
+Buckeye Business Products,buckeyebusiness.com,True
+"Dunn Paper Holdings, Inc.",bioriginsp.com,True
+"Oregon Food Bank, Inc.",oregonfoodbank.org,False
+Pak West Paper & Packaging,pakwest.blowerdempsay.com,True
+"Corrugated Supplies Company, LLC",corrugatedsuppliescompany.com,False
+DCG One,dcgone.com,False
+Web Industries Inc.,webindustries.com,False
+Econo Box,econobox.com,True
+"Unified2 Global Packaging Group, LLC",ugpg2.com,True
+Digital High Point,carolinacontainer.com,True
+Hospital Forms & Systems,hfs-wm.com,True
+Arclin Surfaces LLC,arclin.com,True
+E Ink Corporation,eink.com,True
+"COLUMBIA CORRUGATED BOX, LLC",ccbox.com,True
+"Southern Champion Tray, LLC",sctray.com,True
+Graphic Controls Data Recording,dr.graphiccontrols.com,True
+Arvco Speciality Packaging,arvco.com,True
+K T P,kleentest.com,True
+Nosco,nosco.com,True
+Stevens Tot-Mate,stevensind.com,False
+"Vanguard Packaging, LLC",vanguardpkg.com,True
+ACR,amercareroyal.com,True
+Spilfyter,fytertech.com,False
+Belmark,belmark.com,True
+"Appvion, LLC",appvion.com,True
+Concept Packaging Group,southlandcontainer.com,True
+Pro Con,proconusa.com,True
+McKinley Packaging Company,mckinleypackaging.com,True
+Mclean Packaging Corporation,mcleanpackaging.com,True
+"Ronpak, Inc",ronpak.com,True
+SIHL,sihlinc.com,True
+DOUBLE ENVELOPE,bscventures.com,False
+Bell Paper Box,bell-inc.com,True
+Acucote,acucote.com,True
+Georgia-Pacific,buildgp.com,False
+Liberty Packaging,libertycartontx.com,True
+"Tufco Holdings, LLC",tufco.com,False
+LOWRY SOLUTIONS,lowrysolutions.com,False
+Carris Plastics,carris.com,True
+Akers Packaging Service Group,akers-pkg.com,True
+Trend AT LLC,trendatcorp.com,False
+Prolamina Corporation,prolamina.com,False
+Pregis Holding II Corporation,pregis.com,True
+"Westlake Polymers, LLC",westlake.com,False
+Dreamworks Coating Solutions,libertypaper.com,False
+"The Smead Manufacturing Company, LLC",smead.com,False
+Valdese Weavers,valdeseweavers.com,False
+S P,specialtyprinting.net,False
+Omnisphere Corporation,omnisphere.net,False
+Sealed Air Corporation (US),sealedair.com,True
+Manus Products,manus.net,False
+LBP,sabert.com,True
+Max Solutions USA,biggerthanpackaging.com,True
+Howell Packaging,fmhowell.com,True
+PD Tempo,pdinstore.com,True
+Bennett Packaging and Displays,bpkc.com,True
+Technicote,technicote.com,False
+"Age Industries, Ltd.",anchorbaypackaging.com,True
+CLP Holdings LLC,clpholdingsllc.com,False
+"LLFlex, LLC",llflex.com,False
+Pioneer Packaging,pioneernorthwest.com,True
+D L S,teamdls.com,False
+"Independent II, LLC",independent2.com,False
+Packaging Systems,drcindustries.com,True
+Airtech Advanced Materials Group,airtechintl.com,False
+"Amgraph Packaging, Inc.",amgraph.com,True
+"Kaweah Container, Inc.",kcboxes.com,False
+Letica Corporation,letica.com,False
+Borinquen Packaging Group,borinquencontainer.com,True
+G P,brewtonstandard.com,False
+Bomarko,bomarko.com,False
+GUARDIAN STRAPPING,dubosestrapping.com,False
+"Flower City Printing, Inc.",flowercityprinting.com,False
+Rochester Midland Corporation,rochestermidland.com,True
+BOXES,boxesstl.com,True
+"Pioneer Packing, Inc.",pioneerpackinginc.com,False
+"Pax Holdings, LLC",pscapitalpartners.com,False
+"TELLUS PRODUCTS, LLC",tellusproducts.com,True
+Lawrence Paper Company,lpco.co,False
+PCI,packagingconceptsinc.com,True
+Barrday Advanced Material Solutions,barrday.com,False
+"Priority Envelope, Inc.",priorityenv.com,False
+Acorn Paper Products Co.,acorn-paper.com,False
+CRESCENT CARDBOARD COMPANY,potomaccorp.com,False
+TAB,tab.com,False
+"NEPTCO LAMINATED TAPES CO., INC.",chasecorp.com,False
+Easypak,easypak.com,True
+"Top Flight, Inc.",topflightpaper.com,False
+ATLAS CONTAINER,atlascontainer.com,True
+SGL Composites Inc.,sglcarbon.com,False
+Burd & Fletcher Company,burdfletcher.com,True
+"OpSec Security, Inc.",opsecsecurity.com,False
+Rubbermaid,rubbermaidcommercial.com,True
+"The Lang Companies, Inc.",dgamericasupscale.com,False
+GENERAL FORMULATIONS,generalformulations.com,False
+Streco,streco.com,False
+"Millstone Medical Outsourcing, LLC",millstonemedical.com,False
+UPM Blandin Paper,blandinfoundation.org,False
+Seda North America Inc.,sedagroup.com,True
+Shoreline Container and Packaging,shorelinecontainer.com,False
+SIHL,dietzgen.com,True
+Novacel,novacelinc.com,False
+MONDI,mondigroup.com,True
+Garlock Printing and Converting,garlockprinting.com,True
+"Pro Tapes, LLC",protapes.com,True
+Imprints USA,pennemblem.com,True
+Surys Inc.,surys.com,False
+York Container Company,yorkcontainer.com,True
+"Crosstex International, Inc.",crosstexbms.com,False
+Plastic Technology Division,gpaglobal.net,True
+Bradford Packaging,bradfordcompany.com,True
+Lawrence Packaging,lpsind.com,True
+"Selig Sealing Products, Inc.",seligsealing.com,True
+Tranquility,principlebusinessenterprises.com,False
+"Grafika Commercial Printing, Inc.",grafikaprint.com,True
+TSTImpreso,tstimpreso.com,True
+"Flutes, Inc.",flutescorrugated.com,True
+Weber Packaging Solutions,weberpackaging.com,True
+Hazen,hazen.com,True
+Liberty Scrapbook Supply,libertydistributors.com,True
+Roaring Spring Paper Products,crystal-springs.com,False
+Lowen Sign Company,lowensign.com,False
+Bunzl,keenpac.com,False
+Lam Tech,lamtech.net,False
+"Elanders USA, LLC",elandersamericas.com,False
+Unicep,silganunicep.com,True
+Covalence Coated Products,berryglobal.com,True
+Wynalda Packaging,wynalda.com,True
+"Champion Fiberglass, Inc.",championfiberglass.com,False
+The Beistle Company,beistle.com,False
+Mello Smello,minmor.com,False
+"U.S. Display Group, Inc.",usdisplaygroup.com,False
+"Mackay Mitchell Envelope Company, LLC",mackaymitchell.com,False
+Octal Extrusion Corp.,alpekpolyester.com,True
+Harris Packaging Corporation,harrispackaging.com,True
+Nelipak Healthcare Packaging,nelipak.com,False
+"President Container Group II, LLC",presidentcontainergroup.com,True
+Fleenor Paper Company,fleenorpaper.com,True
+Interstate Packaging Company,interstatepkg.com,True
+"Envelope 1, Inc.",envelope1.com,False
+Nuk USA LLC,nuk-usa.com,True
+Flexsol Holding Corp,isoflexpackaging.com,True
+"Danhil Containers II, Ltd.",danhilcontainers.com,True
+LOVE ENVELOPES,loveenvelopes.com,True
+"Rose's Southwest Papers, Inc.",rosessouthwest.com,False
+CORMAN USA INC.,corman.it,False
+Legacy Converting Inc,everwipe.com,False
+"Bancroft Bag, Inc.",bancroftbag.com,True
+"J. Josephson, Inc.",jjosephson.com,False
+"Ward-Kraft, Inc.",wardkraft.com,True
+Oliver Packaging And Equipment Company,oliverquality.com,True
+Papyrus,srgretail.com,False
+SELECT TISSUE OF PENNSYLVANIA,selectproducts-usa.com,False
+The Regal Press Incorporated,regalpress.com,False
+"Castcal, Identification Concepts",computype.com,False
+"ACME Corrugated Box Co., Inc.",acmebox.com,True
+"General Data Company, Inc.",general-data.com,True
+Insul-Fab,concote.com,False
+The Flesh Company,fleshco.com,False
+Tailored Chemical,tailoredchemical.com,False
+Maverick Enterprises,maverickcaps.com,True
+"Holliston Holdings, LLC",holliston.com,False
+BE THE CHANGE,kydinc.com,True
+"Five Star Sheets, LLC",fivestarsheets.com,True
+Scapa Holdings Inc.,scapa.com,False
+Midwest Filtration LLC,midwestfiltration.com,True
+"Seal Methods, Inc.",sealmethodsinc.com,True
+Mr Box,skyboxpackaging.com,False
+Papertech,papertrays.com,True
+Georgia-Pacific Containerboard LLC,gppackaging.com,True
+"TEXTAPE, INC.",textape.com,False
+General Paper Goods Co.,generalpapergoods.com,True
+"Arrow Container, LLC",arrowpackagingsolutions.com,True
+"North Coast Composites, Inc.",nctm.com,False
+Premier Care Industries,precare.com,False
+"Chief Container Co., Inc.",choosechief.com,True
+SOLUT!,gosolut.com,True
+Romanow Container,romanowcontainer.com,True
+The Louisiana Association For The Blind,lablind.com,False
+G M L,innovize.com,False
+"BWF AMERICA, INC.",bwf-group.com,False
+"York WallCoverings, Inc.",yorkwallcoverings.com,False
+"Novacel Americas, Inc.",novacel-solutions.com,False
+"Retal PA, LLC",retalgroup.com,True
+Document Security Systems,dssworld.com,True
+Accord Packaging,accordcarton.com,True
+"Thompson Pipe Group, Inc.",thompsonpipegroup.com,False
+Aargus Industries,aargusplastics.com,True
+CHEP Aerospace Solutions,unilode.com,False
+"Toppan USA, Inc.",toppan-usa.com,True
+Weber Display & Packaging,weberdisplay-pkg.com,True
+Bell Container Corp.,bellcontainer.com,True
+Smurfit Kappa,corr-pro.com,False
+"J.M. MURRAY CENTER, INC.",jmmurray.com,True
+Keene Building Products Co.,keenebuilding.com,False
+"Polynt Composites II, LLC",polynt.com,False
+Consolidated Label Co.,consolidatedlabel.com,True
+Gamse Litho & Gravure,gamse.com,True
+Manchester Industries,manind.com,True
+Pathfinder Community Connection,pathfinderservices.org,False
+"Flavorseal, LLC",flavorseal.com,True
+AccentGraphics,usvinyl.com,False
+Lamart Corporation,lamartcorp.com,False
+"SEACHANGE PRINTING AND MARKETING SERVICES, LLC",seachangemn.com,False
+"New-Tech Packaging, Inc.",newtechpackaging.com,True
+"Batavia Container, Inc.",bataviacontainer.com,True
+C. R. G.,channeledresources.com,True
+"NEW AMERICAN GBC, LLC",newmedicalgbc.com,True
+NPC Global Services,npcglobal.com,True
+"Pak-Rite Industries, Inc.",pakrite.com,False
+"R. Sabee Company, LLC",rsabeecompany.com,False
+"Boyd Biomedical, Inc.",boydbiomedical.com,False
+T V S,tvsinc.org,True
+Tapemark,ltslohmann.com,False
+"Plitek, L.L.C.",plitek.com,True
+Nissha Metallizing Solutions Ltd.,packle.io,True
+Unifoil Corporation,unifoil.com,True
+"Foam Pack Of Puerto Rico, Inc.",fpackpr.com,True
+Deco Division,amscan.com,True
+TPC Printing & Packaging,tpcpackaging.com,True
+Central Container,centralpackage.com,False
+Technocell Dekor U.S.A.,felix-schoeller.com,True
+Kimberly-Clark,industrialespr.org,False
+"Goldencorr Sheets, LLC",goldencorr.net,False
+Papercone Corporation,papercone.com,False
+Portco Packaging,portco.com,True
+North State Flexibles,sjpack.com,True
+Disco,cellucap.com,True
+"Globe Composite Solutions, LLC",globecomposite.com,True
+Epsi Masking And Hanging Solutions,epsi.com,False
+Tampax,tampax.com,False
+Budnick Supply,budnick.com,True
+Vandor Corporation,vandorcorp.com,False
+"Mueller Die Cut Solutions, Inc.",muellercustomcut.com,False
+"Pacific Paper Tube, LLC",pacificpapertube.com,False
+Flint Packaging Systems Div,landaal.com,True
+"Calumet Carton Company, The (inc)",calumetcarton.com,True
+C P,colbertpkg.com,True
+Graphic Packaging International Corporation,graphicpkg.com,True
+Cascades Sonoco US Inc.,cascades-sonoco.com,True
+"Morris Packaging, L.L.C.",morrispkg.com,True
+Niagara Sheets LLC,niagarasheets.com,True
+Vista Packaging & Logistics,vistaindustrialpackaging.com,True
+"Peachtree Packaging, Inc.",peachtreepackaging.com,True
+"Wasatch Container, Inc.",wasatchcontainer.com,True
+Kendall Packaging Corporation,kendallpkg.com,True
+"Hub Labels, Inc.",hublabels.com,True
+"Jefferson Fabrication, LLC",allegiantindustrial.com,False
+Oliver Inc.,oliverinc.com,True
+Printed Systems,ssptag.com,True
+"Jackson Corrugated, LLC",sustainablecorrugated.com,True
+Worcester Envelope Company,worcesterenvelope.com,False
+"Continental Datalabel, Inc.",datalabel.com,False
+"Fortifiber, LLC",fortifiber.com,True
+Stoffel Seals Corporation,stoffel.com,False
+TTL CORPORATION OF TENNESSEE,advancedlabelworx.com,False
+"Marking Services, Inc.",markserv.com,True
+Scout,scoutbags.com,False
+Stewart Sutherland Inc.,ssbags.com,True
+Jordan Reses Supply Co.,firstnationgroup.com,False
+"Reliance Packaging, LLC",reliancepkg.com,True
+L & M Corrugated Container Corporation,lmcontainer.com,True
+"C. L. Rabb, Inc.",clrabb.com,False
+Essentra Packaging,3cpackaging.com,False
+CPT,crescentpapertube.com,True
+LONE STAR CONTAINER,lonestarbox.com,True
+SOUTHLAND ENVELOPE LLC,marketing.com,False
+"Tavo Packaging, Inc.",tavopackaging.com,True
+"ONLINE LABELS, LLC",onlinelabels.com,False
+"Pitt Plastics, Inc.",pittplastics.com,True
+"Everett Graphics, Inc.",everettgraphics.com,True
+MSI,markingsystems.com,False
+Dazpak Flexible Packaging,dazpak.com,True
+Cascades Tissue Group,cascades.com,False
+"Cellotape, Inc.",resourcelabel.com,True
+COPACO,copacoinc.com,True
+Identco International Corporation,identco.com,False
+Midlands Packaging Corporation,midlandspkg.com,False
+"Kenmore Envelope Company, Inc.",kenmore-envelope.com,False
+"Jenco Productions, LLC",jencoproductions.com,False
+"Rx Systems, Inc.",rxsystems.com,False
+"Interkraft SC, LLC",kraftboard.com,True
+AmeriSource Companies,myamerisource.com,True
+Arrow Box Company Of St. Louis,arrowbox-stl.com,False
+"American Carton Company, Inc.",americancarton.com,False
+Quality Packaging Corp.,qualitypackagingcorp.com,True
+"RefrigiWear, LLC",refrigiwear.com,False
+"Fischer Paper Products, Inc.",fischerpaperproducts.com,True
+Michelsen Packaging Company Of California,michelsenpackaging.com,True
+EDP Holdings,edpllc-usa.com,False
+Norpak LLC,norpak.net,True
+"Goelzer Industries, Inc.",goelzerind.com,False
+"DeWAL Industries, LLC",dewal.com,False
+Great Lakes Packaging Corporation,gbp.com,True
+"Rochester 100, Inc.",rochester100.com,False
+Maxpak,maxpak.cc,True
+Identity Group,identitygroup.com,False
+Abox Packaging,aboxpackaging.com,True
+Ecopax LLC,ecopaxinc.com,True
+MIDLAND IRON AND STEEL CORPORATION,midlanddavis.com,False
+Batliner Paper Stock Company,pioneerintl.com,False
+Baumgartner Associates,paconmfg.com,False
+Tilsner Carton Co.,tilsnercarton.com,True
+Polytex Fibers International Corp,polytex.com,True
+Blue grass career Services,employmentsolutionsinc.org,False
+KAPCO,kapco.com,False
+Opus Packaging,opuspkg.com,True
+PDC-IDenticard,pdcorp.com,False
+Utah Paperbox,upbslc.com,True
+Hercules Bags,herculesinc.com,True
+Deline Box Co,delinebox.com,True
+Maco Bag Corporation,macopkg.com,True
+"Buckeye Boxes, Inc.",buckeyeboxes.com,True
+Kino Packaging Co,tucsoncontainer.com,False
+"Alpha Packaging, Inc.",alphapackaging.com,True
+Key Container Corporation,keycontainercorp.com,True
+NEXT,nilpeter.com,True
+"Dura-Fibre, LLC",durafibre.com,True
+Packaging Spectrum,advancepaperbox.com,True
+Geographics Australia,geographics.com,False
+Diamond Envelope Corporation,diamondenvelope.com,False
+Highland Supply Corporation,highlandsupply.com,False
+"Pro-Pak Industries, Inc.",pro-pakindustries.com,True
+Yazoo,yazoomills.com,True
+Concept Packaging Group,concept-pkg.com,True
+Diversified Plastics Corporation,dpcap.com,False
+Aladdin Packaging LLC,aladdinpackaging.com,True
+"American Containers, Inc",acontainers.com,True
+New England Wooden Ware Corporation,newwpkg.com,True
+Lamtec Corporation,lamtec.com,False
+Diemolding Corporation,diemolding.com,False
+"Newcorr Packaging, Inc.",newcorrpackaging.com,True
+Orcon,orconind.com,False
+Econoco Corporation,econoco.com,False
+"BOPKG, Inc.",boutwellowens.com,False
+Crescent Brands,crescentbrands.com,False
+Coastal Films Of Florida,sigmaplasticsgroup.com,True
+"Northstar Pulp & Paper Co., Inc.",northstarpulpandpaper.com,False
+"Kentwood Packaging, LLC",kpcpackaging.com,True
+"Westmark Industries, Inc.",westmarklm.com,True
+ADMIRAL PACKAGING CO.,admiralpkg.com,True
+Gaylord Archival,gaylord.com,False
+"Johnson/Anderson & Associates, Inc.",johnsonanderson.com,False
+"Jonco Industries, Inc.",joncoind.com,True
+"National Flooring Equipment, Inc.",nationalequipmentdirect.com,False
+Curtis Packaging Corporation,curtispackaging.com,True
+Katz Americas,katzamericas.com,True
+Raymar Holdings Corporation,cardinalcontainer.com,False
+"Classic Envelope, Inc.",supremex.com,True
+V P S,flex-pack.com,True
+Orange Packaging,orangepkg.com,True
+JR Plastics Corporation,jrplastics.com,False
+Alutrim North America,angell-demmel.com,True
+Atlanta Thermoplastic Products,crespac.com,True
+"Earthwise Bag Company, Inc.",earthwisebags.com,True
+Fuller Box,fullerbox.com,True
+"Tyoga Container Company, Inc.",tyogacontainer.com,True
+SEALSTRIP CORPORATION,sealstrip.com,True
+Viking Paper Company,packpros.net,False
+Accutech,accutechpkg.com,True
+TLF Graphics,tlfgraphicsusa.com,True
+Kelly Box And Packaging Corporation,kellybox.com,True
+AP Cultech,autajon.com,True
+Action Container,abbottaction.com,True
+TCR Composites,tcrcomposites.com,False
+MasterGraphics Incorporated,mastergraphics.com,False
+"Rengo Packaging, Inc.",rengopackaging.com,True
+FLEX-O-FILM,flexoglass.com,False
+"Stretchtape, Inc.",stretchtape.com,False
+NORAMCO,noramcobag.com,True
+Century Box,centurybox.com,True
+F.D.S. Manufacturing Company,fdsmfg.com,True
+Erving Paper Mills,ervingpaper.com,True
+"Open Road Brands, LLC",openroadbrands.com,False
+Lefavor Envelope Company,lefavor.com,False
+Georgia-Pacific Corrugated LLC,corrugated.gppackaging.com,True
+"R & R Corrugated Container, Inc.",randrbox.com,True
+API,americanproductsinc.com,False
+Scapa Healthcare,scapahealthcare.com,False
+MOD-PAC Corp.,modpac.com,False
+Len-Tex Wallcoverings,lentexwallcoverings.com,False
+Advanced Military Packaging,adinc.us.com,False
+Cumberland Container Corporation,cumberlandcontainer.com,True
+Pacific Paper Products Incorporated,paperco.com,True
+Key Container,keycontainer.com,True
+Pratt Industries,driveforpratt.com,True
+"3 Sigma, LLC",3sigma.cc,True
+Standard Bag Co,standardbag.com,True
+Menu Design,menudesigns.com,True
+ClearBags,clearbags.com,True
+"Quad Packaging, Inc.",quad.com,False
+"Great American Paper, Inc.",greatamericanpaper.com,True
+Lofton Label LLC,loftonlabel.com,True
+"Marian Milwaukee, Inc.",marianinc.com,False
+"Stora Enso North American Sales, LLC",storaenso.com,True
+"Daubert Cromwell, LLC",daubertcromwell.com,False
+PGI,pgisd.com,True
+"Sorma, U.S.A., LLC",sormausa.com,True
+Ferguson Supply And Box Mfg. Co.,fergusonbox.com,True
+Topflight Corporation,topflight.com,False
+Kent Manufacturing Company,kent-mfg.com,False
+Precision Press,precisionpressinc.com,True
+General Container,gcbox.com,True
+"Altex Packaging, Inc.",altexpackaging.com,True
+"Bagmakers, Inc.",bagmakersinc.com,True
+Indiana Carton Company Inc,indianacarton.com,True
+"Addev Materials Converting, LLC",addevmaterialsconverting.com,True
+SAICA,usa.saica.com,True
+Specialized Packaging Solutions-Wood,specializedpackagingsolutions.com,True
+Hood Flexible Packaging Corporation,hoodpkg.com,True
+Syracuse Label & Surround Printing,nglabel.com,True
+Ideal Tape Co-A Division Of American Bil,abitape.com,False
+"Neenah Paper FR, LLC",neenahpaper.com,True
+"Clysar, LLC",clysar.com,True
+World Centric,worldcentric.com,True
+Boise White Paper,boisepaper.com,False
+"Americraft Associates, Inc.",americraft.com,True
+The Pilcher Hamilton Corporation,pilcherhamilton.com,False
+"Bro-Tex Co., Inc.",brotex.com,False
+"Commercial Wagner, Inc.",commercialwagner.com,False
+Packaging Services Industries,psimd.com,True
+Dazpak Flexible Packaging,superior-bags.com,False
+Colorpak,poly-pak.com,True
+"Chartpak, Inc.",chartpak.com,False
+The Kennedy Group Incorporated,kennedygrp.com,True
+Lohmann Technologies Corporation,lohmann-tapes.com,False
+"SHIP SMART, INC.",shipsmart.com,False
+"Fox Converting, Inc.",foxconverting.com,True
+"Rose Plastic USA, LLLP",rose-plastic.us,False
+"Southern Container, LLC",southerncontainerllc.com,True
+MARKARD INDUSTRIES,contempocard.com,True
+"Endpak Packaging, Inc.",endpak.com,True
+"Heartland Label Printers, LLC",hrtlp.com,False
+"Automated Solutions, LLC",automatedsolutionsllc.com,False
+Corrugate Management,gtcontainer.com,True
+Michigan City Paper Box Company,buyabox.com,True
+"Tops Products, LLC",tops-products.com,False
+Elliott Group International,egitape.com,False
+Folding Cartons,garedgraphics.com,True
+Edwards Label,edwardslabel.com,True
+Tite-dri Industries,titedri.com,True
+Cady Bag,cadybag.com,True
+Spectrum Packaging,thinkspc.com,True
+Gunze Plastics & Engineering,gunze.co.jp,True
+"America Empack, Inc.",americaempack.com,True
+Mail Advertising Supply Co,lauterbachgroup.com,True
+"Fitesa Nonwoven, Inc.",fitesa.com,False
+HUNTER PANELS,hunterpanels.com,False
+Cherokee Enterprises,cherokeemfg.com,False
+"Lakeway Container, Inc.",lakewaycontainer.com,True
+"Triad Packaging, Inc., Athens, Alabama",triadpack.com,True
+LSI Graphic Solutions Plus,lsicorp.com,False
+Blackhawk Corrugated LLC,blackhawkcorrugated.com,True
+"Tagtime USA, Inc.",tagtimeusa.com,False
+ALNA ENVELOPE COMPANY,inlandenvelope.com,False
+Harmsco Filtration Products,harmsco.com,False
+All American Label,imprimus.com,True
+Alitec,alitecsolutions.com,True
+"Heritage Container, Inc.",heritagecontainer.com,False
+"Sierra Packaging & Converting, LLC",sierraconverting.com,True
+Inter-Continental Corporation,iccboxes.com,True
+Capitol City Container Corp.,capcitycontainer.com,True
+Axis Corrugated Container LLC,accbox.com,True
+"DEE PACKAGING SOLUTIONS, INC.",deepkg.com,True
+Counting House,paprproducts.com,False
+www.protect-all.com,protect-all.com,True
+Heartland Box Co,loylangebox.com,True
+Colonial Rapid,coloniallabelsystems.com,True
+"Converted Products, Inc.",convertedproducts.com,False
+"Lapoint Industries, Inc.",strainrite.com,True
+"Giant Industries, Inc.",giantpumps.com,False
+"Midwest Specialty Products, LLC",mspconverting.com,True
+Recycled Paper Products,gabrielcontainer.com,True
+Jamil Packaging Corporation,jamilpkg.com,True
+Tri-State Container Corp.,tristatecontainer.com,True
+"Nefab Packaging North East, LLC",nefab.com,False
+Premier Packaging Corporation,premierpackagingcorp.com,True
+RWDC Industries LLC,rwdc-industries.com,True
+"WasteZero, Inc.",wastezero.com,False
+Abvi-goodwill,goodwillfingerlakes.org,False
+"Rael, Inc.",getrael.com,False
+"C B Sheets, Inc.",calbox.com,True
+metalgrommets.com,arminip.com,True
+"BAG SUPPLY COMPANY, LLC",bagsupply.com,False
+"Tape Innovations, L.L.C.",tapeinnovations.com,False
+"Sunrise Mfg., Inc.",sunrisemfg.com,True
+Delta Corrugated Paper Products Corporation,deltacorrugated.com,False
+R B Converting,rbconverting.com,False
+AUDIO VIDEO COLOR CORPORATION,avccorp.com,True
+Corrugated Specialties,corrugatedspecialties.net,True
+Sav-Tyme Systems,sts-sys.com,False
+PACIFIC PAPER,pacificpaper.com,True
+"Koster Keunen, LLC",kosterkeunen.com,False
+"Technical Coating International, Inc.",tciinc.com,False
+"Ox Paper Tube And Core, Inc.",oxpapertube.com,True
+Kruger Packaging (USA) LLC,kruger.com,True
+"The Envelope Printery, Inc.",envelopeprintery.com,False
+Unitus,sensical.com,False
+Bollin Label Systems,bollin.com,True
+National Packaging Products,nationalpkg.com,True
+"Print-O-Tape, Inc.",printotape.com,True
+CompanyBox,companybox.com,True
+CAS Pack Corporation,caspack.com,True
+Polystar Inc.,polystarcontainment.com,False
+Packaging-Atlanta Corp.,pkgatl.com,True
+"JCMZ ENTERPRISES, INC.",pyramidpaper.com,False
+All Star Corrugated,allstarbox.com,True
+Wallquest Inc.,wallquest.com,False
+Miami Valley Packaging Solutions Inc.,mvpsohio.com,True
+"Prosegur EAS USA, LLC",prosegur-eas.com,True
+Brown Box Company,square1-solutions.com,True
+"Color Craft Graphic Arts, Inc.",ccga.com,True
+Ross and Wallace Paper Products Inc.,rossandwallace.com,True
+"CONVERTIBLE SOLUTIONS, LLC",convertiblesolutions.com,False
+"Midwest Packaging & Container, Inc.",midpack.com,True
+Packaging Specialists Inc. Southwest,psisw.com,False
+TERRAVIVE LLC,terravive.com,True
+Summit Erosion Control,summiterosion.com,False
+Sumter Packaging Corporation,sumterpackaging.com,True
+"Rex Carton Company, Inc.",rexcarton.com,True
+"Southern Index, Inc.",southernindex.com,False
+Tavens Packaging & Display Solutions,tavens.com,True
+D/C Group The,dcexport.com,False
+Sealock,novavisioninc.com,False
+Sheboygan Paper Box Co.,spbox.com,True
+Fresno Paper Express,paperconverter.com,True
+Fontana Forest Products,michiganbox.com,True
+Trans-Tex,trans-texinc.com,False
+"Nexgen Container, LLC",ngcontainer.com,False
+Heinrich Envelope Corp.,heinrichenvelope.com,False
+"High Caliper Growing, Inc.",treebag.com,False
+"Right Bag On Time, The",bulklift.com,True
+"FOODTOOLS CONSOLIDATED, INC.",foodtools.com,True
+"RCB Industries, Inc.",rcbindustries.com,True
+"Da Bomb, LLC",dabombfizzers.com,False
+Empire Packaging Company,qualitycarton.com,False
+Orchids,orchidspaper.com,False
+"Tek Pak, Inc.",tekpak.com,True
+"Welsh Custom Slitting And Rewinding, LLC",wcsrllc.com,True
+Petal Lane,petallane.com,False
+"Schwarz Partners Packaging Miami, LLC",sppmia.com,True
+Cardinal Tissue LLC,cardinal-tissue.com,False
+"International Dunnage, LLC",internationaldunnage.com,False
+"Health Care Products, Inc.",hcp3.com,False
+"Indexx, Inc.",indexx.com,False
+"Contemporary Graphics and Bindery, Inc.",contemporarygs.com,True
+Innovative Disposables LLC,saybugman.com,False
+"K. Sidrane, Inc.",ksidrane.com,True
+Alma Container Corporation,almacontainer.com,True
+Armor Packaging,armorpackaging.com,True
+Philpac Corporation,philpaccorp.com,False
+The Jet Container Company,jetcontainer.com,True
+"Skip Hop Holdings, Inc.",skiphop.com,False
+"MCR Printing And Packaging, Corp.",mcrprintingandpackaging.com,True
+DYPER P.B.C.,dyper.com,False
+"Identico, Inc. (nevada)",identico.com,True
+"Top Brass, Inc.",topbrassinc.com,False
+"Plasan US, Inc.",plasanus.com,False
+"IC Industries, Inc.",icind.com,False
+Texas Tissue Converting LLC,texastissue.com,False
+Chicago Mailing Tube Company,mailing-tube.com,False
+"Northwest Paper Box Mfrs., Inc.",nwpaperbox.com,True
+A C C,acconverting.com,True
+Rol-vac Limited Partnership,rolvac.com,False
+Paneltech,paneltechintl.com,False
+"Indigo Wild, L.L.C.",indigowild.com,False
+Badger Tag And Label Corporation,badgertag.com,False
+S & W Manufacturing A smead company,smeadcustom.com,False
+"GRAPHIC CONVERTING, LTD.",impactstamping.com,False
+Interstate Container,interstatecontainer.com,False
+"Axjo America, Inc.",axjoamerica.com,True
+"Best Diamond Plastics, LLC",bestdiamondplastics.com,True
+"NOVEX PRODUCTS, INC.",novexproducts.com,True
+"CORNEY TRANSPORTATION, INC.",corneytransportation.com,False
+"DJSC, Inc.",hollysprint.com,True
+"TUNDRA INNOVATIONS, LLC",tundracompanies.com,False
+IPR Group,standfastgroup.com,True
+BF Nelson Packaging Specialist,bfnelson.com,True
+Express One Source,sokypack.com,True
+"Kardol Quality Products, LLC",kardol.com,False
+"Buckeye Paper Co., Inc.",buckeyepaper.com,True
+Baskin-Robbins,baskinrobbins.com,True
+BMK Americas LLC,melamine-papers.com,True
+SAINT LABEL LIQUIDATION CORPORATION,fortdearborn.com,False
+STA LLC,sta-tapes.com,True
+QNP Technologies,qnp.com,False
+Package Crafters Incorporated,packagecrafters.com,True
+Shillington Box Company LLC,teamtrg.com,True
+"The Pencil Grip, Inc.",tpgcreations.com,False
+"Custom Fabricating & Supply, Inc.",customfabricate.com,True
+PREMIUM LABEL & PACKAGING SOLUTIONS,premiumlabelandpackaging.com,True
+"Norka, Inc.",norkainc.com,True
+Warneke Paper Box Company,warnekepaperbox.com,True
+Arrowhead Athletics,bsct.us,True
+"Triple P Packaging & Paper Products, Inc.",tripleppackaging.com,True
+"Shepherd Speciality Papers, Inc.",ssponline.com,False
+A-1 Paper Tubes & Sales,pts-mfg.com,True
+St. Tammany Box Company,sttammanybox.com,True
+Jamar Packaging,jamarpkg.com,True
+"CONDUCTIVE CONTAINERS, INC.",corstat.com,False
+"Hart Industries, Inc.",hartind.com,True
+Jit Milrob,lynkpkg.com,True
+"Universal Protective Packaging, Inc.",uppi.com,True
+R D A Container Corporation,rdacontainer.com,True
+"Pioneer Packaging, Inc.",pioneerpackaginginc.com,True
+Container Service Corp.,containerservicecorp.com,True
+Boogie Wipes,boogiewipes.com,False
+"Aggressive Box, Inc.",aggressivebox.com,True
+FIBRE CONVERTERS,fibreconverters.com,False
+Sinflex Paper Co Inc,sinflexpaper.com,True
+LOLA,mylola.com,False
+Custom Products Corporation,customproducts.net,True
+Specialty Tapes Manufacturing,specialtytapes.net,False
+"Dion Label Printing, Inc.",dionlabel.com,True
+Innovative Designs,innovativenyc.com,False
+"Viking Industries, Inc.",vikingpackaging.com,True
+"Dynamic Packaging Solutions, Inc.",dynamicclearsolutions.com,False
+THE SERVANTS INC,servants.com,True
+Cooper Container Corporation,coopercontainer.com,False
+Carolina Tape & Supply Corporation,carolinatape.com,True
+SpringDot,springdot.com,False
+"Arkansas Box, LLC",arkansasbox.com,True
+"F & S Tool, Inc.",fstoolinc.com,False
+S.E.MO. Box Co.,semobox.com,True
+The Pack America Corp.,packamerica.com,True
+COMMERCIAL CUTTING,commercialcutting.com,False
+Easter Seals Western and Central Pennsylvania,easterseals.com,False
+Keystone Cleanroom Products,keystonesafety.com,False
+"MOUNT VERNON PACKAGING, INC.",mountvernonpackaging.com,True
+Armor Protective Packaging,armorvci.com,False
+"PAC Basic, LLC",pacbasic.com,True
+CORRU-KRAFT IV,ororacorrugated.com,True
+Columbia Container,columbiacontainer.net,True
+WEBCOR,compakwebcor.com,False
+"Phoenix Converting, Inc.",phoenix-converting.com,True
+"Flock Tex, Inc.",flocktex.com,False
+Cushing and Company,cushingco.com,False
+Cheer Pack North America,cheerpack.com,True
+Kampack Inc.,kampack.com,True
+Elegant Packaging,elegantpackaging.com,True
+"Happy Planner, The",thehappyplanner.com,False
+"Tree House Pad & Paper, Inc.",treehousepaper.com,False
+"Screenprint/Dow, Inc.",screenprintdow.com,False
+"Mercantile Development, Inc.",mdiwipers.com,False
+Sigma Labs,sigmalabs.com,False
+"Rice Packaging, Inc.",ricepackaging.com,True
+"Winkelmann Group, Inc.",winkelmann-group.com,False
+Paper Systems Incorporated,papersystems.com,False
+Ray Products,rayproducts.com,False
+SUN AMERICA LLC,sun-america.com,True
+ImageTek Manufacturing,imagetekmfg.com,False
+"Winkelmann Flowform Technology, LP",winkelmann-flowforming.com,False
+Boxit Corporation,boxit.com,True
+"Milltown Paper, Inc.",milltown.com,False
+Dennecrepe Corporation,seamanpaper.com,True
+"Xshredders, Inc.",spring-fill.com,False
+Amspak,amspak.com,True

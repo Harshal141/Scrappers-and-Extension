@@ -1,0 +1,803 @@
+name,domain,isRelated
+PPG,ppg.com,True
+Corning,corning.com,False
+O-I,o-i.com,True
+Bridgestone Americas Sourcing,bridgestoneamericas.com,False
+Gentex,gentex.com,False
+Plycem USA,certainteed.com,False
+Dorman,dormanproducts.com,False
+Andersen Regional Mfg,andersenwindows.com,False
+Guardian,guardian.com,False
+Magna Engineered Glass,magna.com,False
+Apogee,apog.com,False
+Safelite Autoglass,safelite.com,False
+"Pilkington North America, Inc.",pilkington.com,False
+IPG,ipgphotonics.com,False
+AGC Glass Company North America,agc.com,False
+OWENS-BROCKWAY GLASS CONTAINERS,owens-brockway.com,False
+Instant Brands Holdings Inc.,corellebrands.com,True
+Libbey,libbey.com,True
+Patio Enclosures and Stanek Windows,greatdayimprovements.com,False
+The Churchill Companies,churchillcompanies.com,False
+PQ LLC,pqcorp.com,True
+O F S,ofsoptics.com,False
+Ele International,hach.com,False
+Schott Corporation,schott.com,False
+PGT Custom Windows + Doors,pgtwindows.com,False
+Anchor Glass Container Corporation,anchorglass.com,True
+"Anchor Hocking Company, The",anchorhocking.com,True
+Lidestri Food and Drink,lidestrifoodanddrink.com,True
+NEGA,neg.co.jp,True
+Verallia North America,ardaghgroup.com,True
+Vitro,pgwglass.com,True
+SIGCO,obe.com,False
+SMR Automotive Technology Holdings USA Partners LLP,smr-automotive.com,False
+"Grote Industries, Inc.",grote.com,False
+Dansk,lenox.com,True
+Gallo Glass Company,galloglass.com,True
+"Old Time Pottery, LLC",oldtimepottery.com,False
+Gerresheimer Glass Inc.,gerresheimer.com,False
+Vitro Architectural Glass,vitroglazings.com,False
+Duran Wheaton Kimble,dwk.com,False
+Solutia's Performance Films Division,eastman.com,False
+"Crystal Window & Door Systems, Ltd.",crystalwindows.com,False
+"OMPI OF AMERICA, INC.",stevanatogroup.com,False
+Fuyao Glass America Inc.,fuyaousa.com,False
+"Custom Glass Solutions, LLC",customglasssolutions.com,False
+"Comar Holding Company, LLC",comar.com,False
+"Vuteq USA, Inc.",vutequsa.com,False
+"Niagara Holdings, Inc.",niagaraholdingsinc.com,True
+"View, Inc.",view.com,False
+Mekra-Lang North America,mekralang.us,False
+Millville Vials,nipro-group.com,False
+Precision Concepts International LLC,pcinternational.com,True
+Edmund Optics Barrington,edmundoptics.com,False
+Viracon,viracon.com,False
+"Stoelzle Glass USA, Inc.",stoelzle.com,True
+PPG Aerospace,ppgaerospace.com,False
+Carclo Technical Plastics,carclo-optics.com,False
+"Piramal Glass - USA, Inc.",pgpfirstusa.com,True
+Smith Fibercast,nov.com,False
+"CATALYST ACOUSTICS HOLDINGS, INC.",catalystacoustics.com,False
+GWLA Acquisition Corp.,glasswerks.com,False
+Smith Mountain,aldoraglass.com,False
+Brin Northwestern Glass,bringlass.com,False
+"Swarco America, Inc.",swarco.com,False
+"Press Glass NA, Inc.",pressglass.com,True
+Amtech,amtechcorp.com,True
+"Velvac, Incorporated",velvac.com,False
+Murakami Manufacturing U.S.A. Inc.,murakami-usa.com,False
+Automotive,muthco.com,False
+Arkansas Glass Container,agcc.com,True
+"Press Glass, Inc.",pressglass.us,False
+Solar Skylights,solarindustriesinc.com,False
+"Verescence North America, Inc.",verescence.com,False
+EST,intigral.com,False
+"Hartung Glass Industries, Inc.",hartung-glass.com,False
+"Benson Industries, Inc.",bensonglobal.com,False
+Feit Electric,feit.com,False
+"Tru Vue, Inc.",tru-vue.com,False
+Kimble Chase,thermofisher.com,True
+"Steel Encounters, Inc.",steelencounters.com,False
+Transitions Lenses,transitions.cn,True
+EGP,egpglass.com,False
+KACI,kaci.com,False
+Rosco Vision Systems,roscomirrors.com,False
+AGC,agcem.com,False
+Cardinal FG Company,cardinalcorp.com,False
+Arrowall Company,arrowall.com,False
+"Halio, Inc.",halioinc.com,False
+Clarus,clarus.com,False
+"Beluga Ventures, LLC",sisel.net,False
+Marvin Windows And Doors,marvin.com,False
+"CVG Sprague Devices, LLC",sprague-devices.com,False
+GKN AEROSPACE TRANSPARENCY SYSTEMS INC.,gknaerospace.com,False
+"O. E. M. Controls, Inc.",oemcontrols.com,False
+"Arglass V-F1, LLC",arglass.us,True
+Taylor Made Products,taylormarine.com,False
+DR. BROWN'S COMPANY,drbrownsbaby.com,True
+ATI,autotempinc.com,False
+Omega Mirror Products,omeganationalproducts.com,False
+Gardner Glass Products,dreamwalls.com,False
+"North Central Insulation, Inc.",nci-ins.com,False
+Rochester Colonial Mfg. Corp.,rochestercolonial.com,False
+Glass America,gerbercollision.com,False
+TIKI,tikibrand.com,False
+Grandstand,egrandstand.com,False
+Basco Shower Enclosures,bascoshowerdoor.com,False
+ETS Express,etsexpress.com,False
+Cat-I Glass,catiglass.com,False
+General Glass International,generalglass.com,False
+BMC,bassettmirror.com,False
+State Wide Window,state-wide.com,False
+CamGlass,camglass.com,False
+"Carolina Filters, Inc.",carolinafilters.com,False
+KDLAMP Company,atc-lighting-plastics.com,False
+MFG CSC,moldedfiberglass.com,False
+C-P Flexible Packaging,cpflexpack.com,True
+Stahlin Enclosures,stahlin.com,False
+Kane Detention Products,kaneinnovations.com,False
+Timeless Reflections,afdhome.com,False
+Standard Bent Glass,standardbent.com,False
+"Glasstech, Inc.",glasstech.com,False
+"Sterling Cut Glass Company, Inc.",sterlingcutglass.com,True
+Lenoir Mirror Company,lenoirmirror.com,False
+Thermo-Twin Windows,thermotwin.com,False
+COASTAL SHOWER DOORS,coastalshowerdoors.com,False
+Carolina First,wholesaleglassdist.com,False
+"American Insulated Glass, LLC",aiglass.com,False
+Windoor Incorporated,windoorinc.com,False
+"Infinity Glass Concepts, LLC",infinityglassconcepts.com,False
+SIGCO,sigcoinc.com,False
+W C Q,wcq.com,True
+L M I,larrymethvin.com,True
+Bullseye Connection Gallery,bullseyeglass.com,False
+Coach Glass,coachglass.com,False
+Anderson's Carpet & Linoleum,andersoncf.com,False
+Emhart Glass Manufacturing Inc.,emhartglass.com,False
+Insulite,insuliteglass.com,False
+South Jersey Glass & Door,sjglassanddoor.com,False
+WinTech,wintechinc.com,False
+"Performance Composites, Inc.",performancecomposites.com,False
+"Kovach Enclosure Systems, LLC",kovach.net,False
+Assura Windows And Doors,assurawindows.com,False
+Thermo-Tech,ttwindows.com,False
+VIRGINIA GLASS,va-glass.com,False
+Global Security Glazing,isoclimasg.com,False
+Drummond Scientific,drummondsci.com,False
+Roblon US Inc.,roblon.com,False
+"Eurokera North America, Inc.",eurokera.com,False
+"GLASS BARON, THE",glassbaron.com,False
+"W.A. Wilson & Sons, Inc.",wawilsonglass.com,False
+Oran USA,osg-na.com,False
+Altair Lighting,jimway.com,False
+"Kensington Glass Arts, Inc.",kensingtonglass.com,False
+"SupraNaturals, LLC",supranaturals.com,False
+IAC ACOUSTICS,soundseal.com,False
+Century Shower Door,centurybathworks.com,False
+Shamir,rcpvrewards.com,False
+"Elan Technology, Inc.",elantechnology.com,False
+Heraeus Quartz North America LLC,heraeus-group.com,False
+"Syracuse Glass Company, LLC",syracuseglass.com,False
+Therm-All,therm-all.com,False
+Minneapolis Glass Company,minneapolisglass.com,False
+A J Blosenski,ajblosenski.com,False
+"Apollo Design Technology, Inc.",apollodesign.net,False
+"Luxwall, Inc",luxwall.com,False
+"Glass Solutions, Inc.",gsichicago.com,False
+Nufern,coherent.com,False
+"Extruflex North America, LLC",extruflex.com,True
+Global Packaging,globalpack.biz,False
+J.C. Moag Corporation,moagglass.com,False
+LTI Group,ltisg.com,True
+Kilolabs.com,sentinelprocess.com,False
+CGB,pulpstudio.com,False
+Champion,esi-blinds.com,True
+"Shaxon Industries, Inc.",shaxon.com,False
+"Lawson Industries, Inc.",lawson-industries.com,False
+CEVIANS LLC,cevians.com,False
+"Sound Glass Sales, Inc.",soundglass.com,False
+Nashville Tempered Glass Corporation,ntglass.com,False
+Central Aquatics,aqueonproducts.com,False
+AMICO / Seasafe,seasafe.com,True
+Flower City Glass,flowercityglass.com,False
+American Acoustical Products,aapusa.com,False
+FMT,floridamarinetanks.com,False
+FOH Worldwide,frontofthehouse.com,True
+GLOBAL WINDOWS,epsylon.ca,False
+"American Window And Glass, Inc.",americanwindowandglass.com,False
+SOS BEAUTY INC.,sosbty.com,False
+"Paragon Tempered Glass, LLC",paragontemperedglass.com,False
+"Pacific Vial Mfg., Inc.",pacificvial.com,True
+Precision Glass Bending Corporation,e-bentglass.com,False
+Kaough & Jones Electric Company Inc.,kje-inc.com,False
+C L S,clsdeco.com,True
+"Thermoseal Industries, LLC",thermoseal.com,False
+C G P,customglassproductswi.com,False
+Renin US LLC,renin.com,False
+Elevation Labs Colorado,elevationlabs.com,False
+"Bent Glass Design, Inc.",bentglassdesign.com,False
+Contour Glass,contourglass.com,False
+TRIMLITE LLC,trimlite.com,False
+Duo-Gard,duo-gard.com,False
+Glass Fab Tempering Sv,glassfabtempering.com,False
+"Sediver USA, Inc.",sediver.com,False
+"SIMON PEARCE (MD), INC.",simonpearce.com,True
+"Northwestern Industries, Inc.",nwiglass.com,False
+"Downey Group, LLC",downeyglass.com,False
+Camera Ready Cars,metalcrafters.com,False
+"Seachem Laboratories, Inc.",seachem.com,True
+"R&k Glass, Inc.",rkglass.com,False
+ACE Glass,aceglass.net,False
+Gold Tech Industries,goldtechind.com,True
+Bovard Studio Stained Glass,bovardstudioinc.com,False
+Tiama Americas Inc.,tiama.com,True
+Global Moulding,globalcompositesinc.com,False
+Trinity Technology Group,ttgtech.net,True
+GMM Pfaudler US Inc.,gmmpfaudler.com,True
+ALUMINUM PRODUCTS BY SAMUELS,samuelsglass.com,False
+"INVENIOS, LLC",invenios.com,False
+Skyline Design Inc.,skydesign.com,False
+"Nelson Glass Company, Inc.",nelsonglass.com,False
+"Copa Di Vino, Corporation",copadivino.com,True
+"Machine Vision Products, Inc.",visionpro.com,False
+Wickham Glass Co,wickhamglass.com,False
+"Swift Glass Co., Inc.",swiftglass.com,False
+Bellco Glass Inc,bellcoglass.com,False
+"Polymer Process Development, L.L.C.",ppdllc.com,True
+"Calyx Containers, LLC",calyxcontainers.com,True
+"Design Specialties, LLC",designspecialties.com,False
+Light Efficient Design,led-llc.com,False
+"WEINERT Fiber Optics, Inc.",leoni.com,False
+Triview,trivew-glass.squarespace.com,False
+W G D,wgdmemphis.com,False
+"Chihuly, Inc",chihuly.com,False
+U.S. Horizon Mfg,ushorizon.com,False
+Seal-Rite Door,palmerdonavin.com,False
+East Moline Glass Co.,eastmolineglass.com,False
+"FBN New Jersey Manufacturing, Inc.",vitrocom.com,False
+Tri-State Iron & Metal Co.,tsimco.com,False
+Sunoptic Technologies LLC,sunopticsurgical.com,False
+Euroview,euroview.com,False
+PRIVACY GLASS SOLUTIONS,privacyglasssolutions.com,False
+C I G,cigglass.com,True
+C Enterprises,rfindustries.com,False
+R & S Rolling Door Products,rsdoorproducts.com,False
+Open & Shut Doors,michbidoors.com,False
+ACCU-GLASS,accu-glass.com,False
+MINDRUM PRECISION PRODUCTS,mindrum.com,False
+Kas-Kel,ecoshieldwindows.com,False
+310 Tempering,310tempering.com,False
+Packline USA LLC,packlineusa.com,True
+Bethlehem Resource Recovery Division,bethlehemapparatus.com,False
+CAPITAL GLASS,capitalglassonline.com,False
+Square One Armoring Services Co.,sq1armor.com,False
+International Revolving Door Div,internationalrevolvingdoor.com,False
+Harris Seeds,harrisseeds.com,True
+Maltbie,kubikmaltbie.com,False
+"Silver Buffalo, LLC",silver-buffalo.com,False
+"Sunshine Windows Manufacturing, Inc.",sunshinewindows.com,False
+IRD Glass,irdglass.com,False
+"Gardner Metal Systems, Inc.",gardnermetal.com,False
+AROW GLOBAL CORP.,arowglobal.com,False
+Eastern Glass Resources Inc,eglassr.com,False
+"Carolina Copacking, LLC",carolinacopacking.com,True
+CLEER VISION TEMPERED GLASS,cleervision.com,False
+SURGITEL SYSTEMS,surgitel.com,False
+AIT Group,advanced-impact.com,False
+Glaspro,glas-pro.com,False
+R G Glass,carvart.com,False
+Techni-Glass Inc.,techni-glassllc.com,False
+Caplan Brothers Glass Company,caplanglass.com,False
+"Berger Iron Works, Inc.",bergeriron.com,False
+Alderfer Glass Company,alderferglass.com,False
+"Jafe Decorating, Inc.",jafedecorating.com,False
+"ASI Doors, Inc.",asidoors.com,True
+"Sky-frame, Inc.",sky-frame.com,False
+"D & W, Inc.",dwmirrorglass.com,False
+Bagatelos Architectural Glass Systems,bagatelos.com,False
+Glass Unlimited,glass-unlimited.com,False
+Vitreo Retinal Consultants,eyehealthservices.com,False
+"The Fredericks Company, Inc.",frederickscompany.com,False
+"Central Glass America, Inc.",carlex.com,False
+Csi (roanoke Ci),cycle-systems.blogspot.com,False
+"Coresix Precision Glass, Inc.",coresix.com,False
+Intelisent,intelisent.com,False
+American Bakeware,harrispotteries.com,True
+"Glass & Metals, Inc.",glassandmetals.com,False
+RMI,rmico.com,False
+Northern Indiana Manufacturing Inc,electroseal.net,True
+Pope,popeinc.com,True
+"Conrad Schmitt Studios, Inc.",conradschmitt.com,False
+Rath LLC,rath-group.com,False
+Metcoe Skylight Specialites,metcoe.com,True
+Astraglass Innovations Inc.,astraglassinnov.com,False
+"Lambda Research Optics, Inc.",lambda.cc,False
+Gallina USA LLC,gallinausa.com,False
+"Mr-Glass Doors & Windows Manufacturing, LLC",mrglasswindows.com,False
+"McGrory Glass, Inc.",mcgrory.com,False
+"Masonry & Glass Systems, Inc.",masonryglass.com,False
+MTH,mthindustries.com,False
+DDS Cisaplast USA LLC,ddsglassdoors.com,True
+"Talon Products, LLC",talonproducts.com,False
+Mo-Sci,mo-sci.com,False
+Glasscraft Door Manufacturing Corporation,glasscraft.com,False
+A c e,aceglass.com,False
+"Rochester Insulated Glass, Inc.",rochesterinsulatedglass.com,False
+Precision Polymer Manufacturing Inc.,ppmanufacturing.com,False
+Vialite Communications,vialite.com,False
+Premium Windows,premiumwindows.com,False
+"B & K Installations, Inc.",bkinstall.com,False
+Rayotek Scientific,rayotek.com,False
+ARROWPAK,baralan.com,False
+DIAMOND WINDOWS,diamondwindows.com,False
+Dare Products Inc,dareproducts.com,False
+YH Goods,yhgoods.com,True
+Josloff Glass Company,josloffglass.com,False
+"Zooceanarium Group, LLC",zooceanarium.com,False
+Wine and Beer Supply LLC,wineandbeersupply.com,True
+"Modern Ceramics Mfg, Inc.",modernceramics.com,False
+"Navitar, Inc.",navitar.com,False
+Curved Glass Distributors,curvedglassdist.com,False
+Opulux Glass Inc.,opuluxglass.com,False
+Carley,carleylamps.com,False
+Patriot Armor,pasarmor.com,False
+Friedman Bros Decorative Arts Inc.,friedmanbrothers.com,False
+Go!foton,gofoton.com,False
+Wisconsin Shower Door & Supply Corp.,wisconsinshowerdoor.com,False
+MIRRORS AND MARBLE,venturecirclellc.com,True
+Hawkins Glass,hawkinsglass.com,False
+"Electro-Glass Products, Inc.",electroglassproducts.com,False
+"Zadro Products, Inc.",zadroinc.com,False
+Quality Enclosures,qualityenclosures.com,False
+F & D,fdglass.com,False
+"General Signals, Inc.",generalsignals.com,False
+"Guthrie Glass & Mirror, Inc.",guthrieglass.com,False
+"Commander Technologies, Inc.",commandertech.com,False
+"SGC International, Inc.",sgc-usa.com,False
+Dillmeier Glass Company,dillmeierglass.com,True
+LA Glass,la-glass.com,False
+Sawyer Industries,stampedefp.com,False
+"National Glass Industries, Inc.",nationalglass.us,False
+West Coast Vinyl Windows,westcoastglass.com,False
+RockWell Window Wells,rockwellinc.com,False
+Custom Window Systems,cws.cc,False
+Bulbrite,bulbrite.com,False
+POLARITY LIGHTING AND DESIGN,lumecon.com,False
+Champion Window Siding & Patio Rooms,championwindow.com,False
+Glassstrand,idsiofga.com,False
+Christmas By Krebs Corporation,christmasbykrebs.com,False
+"Precision Frameworks, LLC",precisionframeworks.com,False
+DEL MANUFACTURING,lucasequine.com,False
+"OPTIWORKS, INC.",optiworks.com,False
+"Custom Industries, Inc.",bentcustomglass.net,True
+James+James LLC,carpenterjames.com,False
+Tempco Glass Fabrication LLC,tempcoglass.com,False
+"MID-AMERICAN AUTO GLASS, INC.",midamericanglass.com,False
+Venus Manufacturing Company,venusmanufacturing.com,False
+Sun-Tek Skylights,sun-tek.com,False
+M & M Glass L.L.C.,mmglass.net,False
+"Specialty Seal Group, Inc.",specialtysealgroup.com,False
+Faour Glass Technologies,faourglass.com,False
+"ST. REGIS, INC.",us.stregisgrp.com,False
+Hou-tex Glass & Mirror,houtexglass.com,True
+Home Lumber Readymix,homelumberhazard.com,False
+Fri Jado Inc,frijado.com,True
+Creekside Mirror & Glass,creeksidemirrorandglass.com,False
+STICKERSQUICK.COM,pvlabels.com,False
+Hosokawa Alpine American Inc.,halpine.com,True
+Gemini Pro-Lon LLC,gpltx.com,True
+Jensen Inert Products,jenseninert.com,False
+Meyda Lighting,meyda.com,False
+"Sensors Unlimited, Inc.",sensorsinc.com,False
+"Fiberoptic Systems, Inc.",fiberopticsystems.com,False
+STRUCTURE GLASS SOLUTIONS LLC,structuregs.com,True
+"GMI HOLDINGS, INC.",gildedmirrorsinc.com,False
+MIR Mosaic,mir-mosaic.com,False
+"Qualastat Electronics, LLC",qualastat.com,False
+"Ballistic Glass and Armor Solutions, LLC",ballisticglassandarmor.com,False
+Optical Cabling Systems,opticalcablingsys.com,False
+MateenBar USA Inc.,mateenbar.com,False
+"Sunstrand, LLC",sunstrands.com,False
+B S T,ftzind.com,False
+"Blenko Glass Company, Incorporated",blenko.com,False
+Signals Defense,signalsdefense.com,False
+SUNDENSITY INC.,sundensity.net,False
+"Mac Thin Films, Inc.",macthinfilms.com,False
+Cardinal FG Company,cardinalportage.com,False
+Pittsburgh Corning Corporation Asbestos Personal Injury Settlement Trust,owenscorning.com,False
+Waxahachie Glass Corporation,waxaglass.com,False
+"Tacoma Glass Manufacturing, Inc.",southtacomaglass.com,False
+"Match Eyewear, LLC",matcheyewear.com,False
+Sky Glass Aluminum,skybuildingmaterials.com,True
+14 WEST LLC,14-west.com,False
+Glass & Sash Inc.,glassandsash.com,False
+GLOBAL IMPACT PRODUCTS LLC,gipllc.us,False
+Winandy Greenhouse Company Inc,winandygreenhouse.com,True
+Innovative Building Products Inc,innovativebuildingproducts.com,False
+"P&P INTERNATIONAL, INC.",usa-ppi.com,True
+Lang Exterior Mfg Co,langexterior.com,False
+"SARASOTA SUNSET, INC.",santafeglass.com,False
+Intermountain West International,iwinsulation.com,False
+Styleline Doors,stylelinedoors.com,False
+"SCS Construction Services, Inc.",scscincinnati.com,False
+THOMPSON INNOVATIVE GLASS,thompsonig.com,False
+"QUALITY GLASS AND MIRROR SERVICE, LLC",qualityglassomaha.com,False
+Norwix Marking Systems,norwix.com,True
+Genicook Product LLC,genicook.com,True
+Burgess Snyder Window Co,burgess-snyder.com,False
+Solar Art,solarart.com,False
+"Full Service Glass, Inc.",fullserviceglass.net,False
+"Forethought Technologies, Inc.",forethought.ai,False
+Home Wet Bar,homewetbar.com,True
+Structural Glass Division,offenhauser.com,False
+Gillinder Glass,gillinderglass.com,False
+"Vetrotech Saint-Gobain North America, Inc.",vetrotech.com,False
+Corkcicle,corkcicle.com,True
+Norman Upholstery,normansglass.com,False
+"RMT Global Partners, LLC",rmtglobalpartners.com,True
+Clearlight Glass and Mirror,clearlightglass.com,False
+Avenue Lighting,avenuelighting.com,False
+VWGC,van-wingerden.com,True
+AJL SOLUTIONS (JAMES CITY CO),designmasters.com,False
+Vista Glass,sierravistaglass.com,False
+P E G,pegglass.com,False
+CK Glass LLC,bennuglass.com,True
+Analtech,milesscientific.com,False
+Amini's Home Rugs And Game Room,aminislighting.com,False
+"Dependable Glass Works, Inc.",dependableglass.com,False
+Wellington Window And Door Company,windowsanddoorsmadesimple.com,False
+Cincinnati Gasket & Industrial Glass,cgindustrialglass.com,False
+"Koller Products, LLC",kollerenterprises.com,True
+Royal Carolina Corporation,royalcarolina.com,False
+Specialty Glass,thespecialtyglass.com,False
+Accessories By Sherwood,gosherwood.com,False
+FIBERGLASS GRATING PROFESSIONALS,americangrating.com,True
+Kiinde,kiinde.com,True
+Hoya Corporation USA,hoya.com,False
+Valley Supply Company,whitecap.com,False
+R.Y.L. Inc.,colorglasstube.com,False
+"Whitacre Glass Works, LLC",whitacreglass.com,False
+Connor & Gaskins Unlimited LLC,cgunlimited.com,False
+Europtec,europtecusa.com,False
+Ideal Pure Water,idealpurewater.com,True
+"Flat Glass Distributors, LLC",flatglassdistributors.com,False
+"AMA Lighting, LLC",amalighting.com,False
+Renin Holdings LLC,bbxcapital.com,True
+"Princeton Optronics, Inc.",ams-osram.com,False
+Fibertec Inc.,fibertecinc.com,False
+FRE Composites USA Inc.,frecompositesinc.com,False
+"NDS Technologies, Inc",ndsglass.com,False
+"Bergin Glass Impressions, Inc.",berginglass.com,True
+Superior Frameless Showers,superiorshowers.com,False
+"American Paper Optics, LLC",3dglassesonline.com,False
+Barracuda Mfg,glassandmetalcraft.com,False
+"Gulf Fiberoptics, Inc.",gulffiberoptics.com,False
+G M Quartz,gm-quartz.com,False
+Nortech,nortechwaste.com,True
+"Elite Fiber Optics, LLC",elitefiberoptics.com,False
+RAMCO ENGINEERING INC,ramco-eng.com,False
+EGL,egl-lighting.com,False
+Envases Media Inc.,envases.mx,True
+Piva Group North America LLC,pivawindowsna.com,False
+Lapel Solutions LLC,lapelsolutions.com,False
+Jersey Tempered Glass Inc,jerseytemperedglass.com,False
+Mktk2 Liquidation Co.,howw.com,False
+BB & T,vanteal.com,False
+"Jay Strongwater Holdings, LLC",jaystrongwater.com,False
+"ELGIN-BUTLER BRICK COMPANY, LLC",elginbutler.com,False
+INTEGRITY BOTTLES LLC,integritybottles.com,True
+"EOS Surfaces, L.L.C.",eoscu.com,False
+"Munn Works, LLC",munnworks.com,False
+"ULTRAGLAS, INC.",ultraglas.com,False
+Tohickon Glass Eyes,tohickonglasseyes.com,False
+"Carib Sea, Inc.",caribsea.com,False
+Adagio Water Features,adagiowaterfeatures.com,False
+"Eye Health Northwest, P.C.",ehnpc.com,False
+MyBevi,mybevi.com,True
+Capitol Glass/Northerm Windows,capitolglassak.com,False
+Acton Research Corporation,actonoptics.com,False
+"SIXTH CITY GLAZING, LLC",sixthcityglazing.com,False
+Milgard Mfg,milgard.com,False
+"R.E. Watson & Associates, Inc.",rewatson.com,False
+"Perx, LLC",perferxprecision.com,False
+Acme Vial,acmevialglassa.openfos.com,True
+Diamond USA Inc.,diausa.com,False
+Head West,headwestinc.com,True
+Glasbox Inc.,glasbox.net,False
+Uni-Sky,uni-sky.com,False
+"Beans Best, LLC",beansbestllc.com,False
+"Meek Mirrors, LLC",meekmirrors.com,False
+BV Security,bvsecurity.com,False
+Avalon Glass & Mirror,avalonmirrorglass.com,False
+"AAG Glass, LLC",aagglass.com,False
+Fiber Systems,ifs-frp.com,False
+Worldwide Glass Resources Inc.,wwglassresource.com,True
+"CONTRACT GLASS SERVICE, INC",contractglass.com,False
+"Recycling Center, Inc",recyclingcenterinc.com,False
+"Bormioli Rocco Glass Co., Inc.",bormioliroccous.com,True
+Fuyao North America Incorporated,fuyaona.com,False
+Holcam Shower Doors,holcam.com,False
+VERRETEC COMPOSITE MATERIALS LLC,verretec.com,False
+"Bridgewave Communications, Inc.",bridgewave.com,False
+Rambusch Lighting,rambusch.com,False
+"Glasstemp, Inc.",glasstemp.com,False
+J D'S GLASSWORK,jdglass.com,False
+D & L Art Glass Supply,dlartglass.com,False
+"Optek Systems, Inc.",optek.humaneticsgroup.com,False
+"Signature Door, Inc.",signaturedoor.com,False
+"Twin City Creative Mirror, Inc.",rivercitycreativeglass.com,False
+"Shamrock Glass Co, Inc",shamrockglass.biz,False
+Glasslam,glasslam.com,False
+Custom Line Shower Door Co,atlasshowerdoor.com,False
+"Amco Metal Products, Inc.",amcometalproducts.com,False
+"J-Dak, LLC",jdak.com,True
+"Desert Glass Works, Inc.",dgw.com,False
+"Better Buy Glass, Mirror & Screen Co., Inc.",betterbuyglassmirror.com,False
+Kentwood Manufacturing Co.,kentwoodmfg.com,False
+"Fibernext, LLC",fibernext.com,False
+"GlassArt Design, Inc.",glassartdesign.com,False
+California Glass and Mirror Div.,tbmglass.com,True
+"BENSHOT, LLC",benshot.com,True
+FH Packaging,fhpkg.com,True
+"Bio Hazard, Inc.",biohazardinc.com,False
+"Hardric Laboratories, Inc.",hardric.com,False
+Americanlite,americanlite.com,False
+"Cleerline Technology Group, LLC",clrtec.com,True
+"All Plastics and Fiberglass, Inc.",allplastics-fiberglass.com,False
+GLASS PRO INC,glassproinc.com,False
+Fstc,wemaketents.com,False
+Kraftware Corporation,kraftwarecorp.com,True
+Stiles & Hart Brick Company,stilesandhart.com,True
+Truframe,rollaway.com,False
+Craftsman Awards,brickwholesaleglass.com,False
+"Art Effects, Inc.",arteffectsinc.com,False
+"Kapan - Kent Company, Inc.",kapankent.com,True
+North American Coating Laboratories,nacl.com,False
+Sol-A-Trol Aluminum Products,arsoenterprises.openfos.com,False
+Franklin Art Glass Studios Inc,franklinartglass.com,False
+STAR GLASS,starglassnola.com,False
+Hospitality Glass Brands,hospitalitybrandsusa.com,True
+Sream Inc.,liquidsciglass.com,False
+Arton Glass & Ceramic Decorators,artonproducts.com,True
+"JPON GLASS COMPANY, INC.",jponglass.com,False
+"TECHNICAL GLASS PRODUCTS, INC.",fireglass.com,False
+Cristaux International,cristaux.com,False
+"Marlin Windows, Inc.",marlinwindows.com,False
+"VINYLUME PRODUCTS, INC.",vinylumewindows.com,False
+Defenshield Inc,defenshield.com,False
+United Plate Glass Co,upgpa.com,False
+"Capital City Glass, Inc.",capitalcityglass.com,False
+SGD Pharma Packaging Inc,sgd-pharma.com,False
+"MIDWEST TROPICAL ENTERPRISES, INC.",midwest-tropical.com,False
+"GLASS IMAGES & CREATIONS, INC.",glassimages.org,False
+"Giant Glass & Mirror, Inc.",giantglassandmirror.com,False
+BKR,mybkr.com,False
+Advance Aqua Tanks,advanceaquatanks.com,False
+"SEE-ALL INDUSTRIES, INC.",seeall.com,False
+"EMAZING LIGHTS, LLC",gloving.com,False
+"Old Town Fiberglass, Inc.",oldtownfiberglass.com,False
+"Lisec America, Inc.",lisec.com,False
+"SOOS STAINED GLASS, INC.",soosstainedglass.com,False
+"Prism Research Glass, Inc.",prismresearchglass.com,False
+"AGI USA, Inc.",agi-group.com,False
+Planet Cotton,planetcotton.com,False
+"Saint-Gobain Sekurit USA, Inc.",saint-gobain-sekurit.com,False
+VIPO,visualinterest.com,False
+"JAMBCO MILLWORK, INC.",jambcomillwork.com,False
+"Employment Enterprises, Inc.",eeimn.org,False
+Tietsort LLC,tietsortllc.com,False
+First Glass Of Arkansas Inc,firstglassar.com,False
+"Tempered Glass Industries, Incorporated",temperedglassindustries.net,False
+Heinz Glas Usa Inc.,heinz-glas.com,True
+"ANNIEGLASS, INC.",annieglass.com,False
+Superior Glass And Metal LLC,superiorglass.org,False
+"Zadro, Inc.",zadrohs.com,False
+Site #456A,co.marion.or.us,True
+"Endorphin Farms, Inc.",endorphinfarms.com,True
+"Custom Glass & Doors, Inc.",cgdoor.com,False
+Sadev USA Incorporated,sadevusa.com,False
+Schodorf Truck Body & Equipment Co (Inc),schodorftruck.com,False
+Enameled Steel And Sign Company,enameledsteel.com,False
+"Ross International, Ltd.",rossint.com,True
+"Rami Designs, Inc.",ramidesigns.com,False
+Specialty Lens Corp.,specialtylens.com,True
+Premium Glass Products,premiumglassla.com,False
+"Technical Glass Products, Inc.",technicalglass.com,False
+Three Rivers Optical Company,3riversoptical.com,False
+Cindy Crawford Home,dcthorpe.com,True
+"Evergreen House, Inc.",evergreenhouse.com,False
+AGP USA,agpglass.com,False
+"Liberty Glass And Metal Industries, Incorporated",lgminc.net,False
+"Aaa Kartak, Co",aaakartak.com,False
+E.D. Luce Packaging,essentialsupplies.com,True
+Western States Glass,wsglass.com,False
+"Centerline Systems, LLC",centerlinesystems.net,False
+Decotron Llc,decotrontx.com,False
+Valley Glass Inc.,valleyglass.com,False
+"Stran Technologies, LLC",strantech.com,False
+"DISPLAYS & OPTICAL TECHNOLOGIES, INC.",doti-optics.com,False
+"L. P. Glassblowing, Inc.",lpglassblowing.com,False
+"BARON TECHNOLOGY, INC.",baronengraving.com,False
+"Klein USA, Inc.",klein-usa.com,False
+"Chicago Tempered Glass, Inc.",chicagotemperedglass.com,False
+Cast Stone Manufacturing,legacylv.com,False
+"M.N.S. Aluminum, Glass & Tiles Inc.",mns-marine.com,False
+Pioneer Worldwide,us.qualatex.com,False
+Wasco,wascowindows.com,False
+Modern Architechtural Glazing,modernglazing.com,False
+"JOHN KRIZAY, INC.",jkrizay.com,False
+Guild Optical Associates,guildoptics.com,False
+Western Skylights,kdlenterprises.com,False
+Salt Lake Shower Doors,beehiveglass.com,True
+Brin/northwestern Glass Company,nwglassfab.com,False
+"Glass Cages, LLC",glasscages.com,False
+SOUTHWEST ENTRANCES,southwestentrances.com,False
+Materials Research Group Inc.,materialsresearchgroup.com,False
+"Printguard, Inc.",printguard.com,False
+Rhyno Glass Cutter,rhyno.com,False
+Silgan White Cap Corporation,silgancontainers.com,True
+"Pottery Direct USA, LLC",potterydirect.com,False
+"MOSSER GLASS, INC.",mosserglass.com,False
+Seaco America LLC,seacoglobal.com,True
+"ELEMENTS GLASS, LLC",elementsglass.com,False
+Our Glass,test.stainedglassresources.ourgrnbusiness.com,False
+Original Glass Design,originalglassdesigns.com,False
+Glopak USA Corp,glopakusa.com,True
+Mason Jars Company,masonjars.com,True
+Better Sourcing Worldwide,miracles4funusa.com,True
+"DC Scientific, Inc.",dcscientific.com,False
+"North American Bullet Proof, Incorporated",nabulletproof.com,False
+Superior Huntington Composites,shcomposites.com,False
+DROPPETT,crincia.com,True
+Lastech LLC,lastechllc.com,True
+Continental Group,cgsi.co,False
+Dallas Digital Signs & Graphics,dallasdigitalsigns.com,False
+Beveled Glass & Lighting Designs,beveledglassdesigns.com,False
+"Myriad Fiber Imaging Technologies, Inc.",myriadfiber.com,False
+Ozeri,ozeri.com,True
+Aluma Glass,alumaglass.com,False
+Dalyte,dalyteusa.com,False
+Automated Filing & Storage Systems,ppcpackaging.com,True
+"H. I. S. C., INC.",shopdepalma.com,False
+"Center For Natural Medicine, Inc.",eaglerivercnm.com,False
+Advanced Fiber Products,afpfiberglass.com,False
+"GELTECH, INC.",lightpath.com,False
+VETRO GLASSBLOWING STUDIO,vetroartglass.com,False
+"Window-Fix, Inc.",windowfix.com,False
+"Pinguelo Construction, Inc.",pingueloconstruction.com,False
+Keller Glasco,kellerglasco.com,False
+"MOBILE GLASSBLOWING STUDIOS, LLC",mobileglassblowingstudios.com,False
+"Ifiber Optix, Inc.",ifiberoptix.com,False
+"City Sign Service, Inc.",citysignservice.net,False
+MTCI,mtccorp.com,False
+"Calumite Company, LLC",calumitellc.com,False
+Crystal Classics,crystalclassics.com,False
+"C-Bond Systems, Inc.",cbondsystems.com,False
+Precision Glass,spectrocell.com,False
+"Glass Recyclers, Ltd.",glassrecyclers.net,False
+Glass Designs,glassdesigns.com,False
+"Our Terms Fabricators, Inc.",ourtermsfabricators.com,True
+"MEMORY GLASS, LLC",memoryglass.com,False
+The Baut Studios Inc.,baut.com,False
+DEPP GLASS INC.,deppglass.com,False
+Batavia Precision Glass LLC,buffaloprecisionglass.com,False
+"GLAS WERK, INC.",glaswerk.com,False
+Tam Industries Inc,tamskylights.com,False
+Fastemp Glass Company,fastempglass.com,False
+Zigong Lantern Group,lektrik.com,False
+Inalfa Holding Inc.,inalfa.com,False
+Modwalls,modwalls.com,False
+Aladdin's Glass & Screen Products Inc,aladdinsglass.com,False
+Fenton Art Glass Company. (The),fentonartglass.com,False
+R & J Enterprises,rjaquatics.com,False
+"RECYCLING WORKS, LLC",wasteawaygroup.com,False
+Anritsu Instruments Company,anritsu.com,True
+Akey Group LLC,akeygroup.com,False
+"Glastron, Inc",glastroninc.com,False
+"GlassFab, Inc.",glassfab.com,False
+VAILLANCOURT FOLK ART INC.,valfa.com,False
+Fairmont Art Glass Studio,fairmontglass.com,False
+Susquehanna Glass Co.,susquehannaglass.com,True
+"Hartford Tec Glass Co., Inc.",hartfordglass.com,False
+Lehner Partners,3ldistribution.com,False
+Industrial Glass Technologies,industrialglasstech.com,False
+"Architectural Materials USA, Inc.",architecturalmaterials.com,False
+"Pressure Products Company, Inc.",pressureproducts.com,True
+G S S,glasscoat.com,False
+Furniture Wholesaler,noviland.com,False
+"Medelco, Inc.",cafe-brew.com,True
+"Emerald Art Glass, Inc.",emeraldartglass.com,False
+"INNOVAQUARTZ, LLC",innovaquartz.com,False
+"Twin Glass Industries, Inc.",twinglass.com,False
+Pacific Glass,pacificartglass.com,False
+Vinyl Lite Window Factory,vinyl-lite.com,False
+SPECTRA COMPOSITES OF EAST FLORIDA,spectracomposites.com,False
+"D3 Glass, LLC",d3glass.com,False
+MACPHERSON & COMPANY,macphersonglass.com,False
+NJ Glass & Metal,njgam.com,False
+Sure Plus Manufacturing Co.,sureplus.com,True
+Shower Glass & Mirror Co,southbayshowers.com,False
+THERMOLITE INC.,thermolitewindows.com,False
+"Weatherproof, Inc.",weatherproofinc.net,False
+"Guardian Glass, LLC",guardianglass.com,False
+"Seaclear Industries, LLC",seaclearllc.com,False
+"PRECISION GLASSBLOWING OF COLORADO, INC.",precisionglassblowing.com,False
+REMSPEC CORPORATION,main.remspec.com,False
+Dundy Glass,dundyglass.com,False
+"Jack's Glass & Shower Doors, Inc.",jackscustomglass.com,False
+Luna Sundara Limited Liability Company,lunasundara.com,False
+"BIELA'S GLASS & ALUMINUM PRODUCTS, INC.",bielaglasstx.com,True
+"Western Glass, LLC",westernglassllc.com,False
+Washington Glass Fabrication LLC,washingtonglassco.com,False
+"MAGGA PRODUCTS COMPANY, INC.",maggaproducts.com,False
+Sinclair Glass,sinclairglass.com,False
+Campus Crystal,glassgraphics.com,True
+Rohlf's Stained & Leaded Glass Studio Inc,rohlfstudio.com,False
+Waterbox Aquariums,waterboxaquariums.eu,False
+"C2 DEVELOPMENT, LLC",aquaillumination.com,False
+A Sunshine Glass & Aluminum,asunshineglass.com,False
+Lights.com,lights.com,False
+Specialty Glass Products,sgpinc.com,False
+Goodlite Products Inc,gllite.com,False
+The Judson Studios Inc,judsonstudios.com,False
+APF Munn Master Frame Makers,apfmunn.com,False
+Bullet Guard Corporation,bulletguard.com,False
+M2 CALIBRATION,m2sci.com,False
+Rolf Glass,rolfglass.com,True
+Mothership Glass L.L.C.,mothershipglass.com,False
+World Wine Bottles & Packaging,worldwinebottles.com,True
+"Decor, Inc.",decotech-inc.com,False
+"Thermal Seal Insulating Glass, Inc.",thermalseal.net,False
+"LONE STAR GLASS, INC.",lonestarglass.com,False
+Vertilite Inc.,vertilite.com,False
+"Glass Enterprises, Inc.",glassenterprises.com,False
+"Icup, Inc.",nmrbrands.com,False
+Sans Soucie Studio,sanssoucie.com,False
+Fiberglass & Composites Technology LLC,a-fact.org,False
+"Flexstake, Inc.",flexstake.com,False
+Beital's Aquarium Sales & Service,beitalsaquariums.com,False
+"LIGHTECH FIBEROPTIC, INC.",lightech.net,False
+Associated Crafts,stained-glass-window.us,False
+Eco Cups International Corp,ecocups.us,True
+"BAY COUNTRY COMMUNICATIONS, INC.",bcctv.com,False
+Spotlite America Corporation,spotlite-usa.com,False
+LCF Labs Inc.,lcflabs.com,False
+Northeastern Plate Glass Corp.,northeasternplateglass.com,False
+"Lighting Group NYC, The",thelightinggroupnyc.com,True
+Cristacurva LLC,cristacurva.com,False
+Wilmad-Labglass,sp-wilmadlabglass.com,False
+Dura Temp Corporation,duratemp.com,False
+American Sunspace,americansunspaceadditions.com,True
+Copper Lease,kheopsinternational.com,False
+Kiboworks,kiboworks.com,False
+Clear Mirror,clearmirror.com,False
+Gray Glass,grayglass.net,False
+Fas Break Glass,automobileglassco.net,False
+W T I,watringtc.com,True
+Glass Insulators Inc,glassinsulatorsinc.com,False
+"WILSON DEPENDABLE SERVICES, LLC",wdslifesci.com,False
+United Silica Products Inc,unitedsilica.com,False
+"Living Color Enterprises, Inc.",livingcolor.com,False
+Beach Manufacturing Co.,beachmfgco.com,True
+Fluenta Inc.,fluenta.com,False
+NWI,guardgenie.com,False
+Creative Industries Inc,cibulletproof.com,True
+Marset USA Inc.,marset.com,False
+Essex Int,hitchcockbutterfield.com,False
+"Knuckle Lights, LLC",knucklelights.com,False
+"Mt. Hood Glass, LLC",mthoodglass.com,False
+Ameriprise Co,ameripriseco.com,False
+Martin Glass Company,martinglass.net,False
+S & S Optical Co Inc,ssoptical.net,False
+CoasterStone,coasterstone.com,False
+DAVIS-LYNCH GLASS COMPANY,davis-lynchglass.com,False
+"Random Technologies, Llc",vicimetronics.com,False
+Cavalier Mirror,americanmirror.net,False
+"Screen Tech Inc Of New Jersey, Inc.",screentech-nj.com,False
+"GTS Services, LLC",gtsservices.com,False
+"TORT, INC.",tafco.com,False
+Iron Chef,mirrotek.com,True
+Maul Technology Co.,maultechnology.com,False
+A.S.I,asi-mo.com,False
+"C.L. Solutions, LLC",transparentarmorsolutions.com,False
+Onpoint Connections,onpointconnections.net,False
+"R.F.S.J., INC.",rfsj.com,True
+"FLICKINGER GLASSWORKS, INC.",flickingerglassworks.com,False
+Badash Crystal,badashcrystal.com,False
+"Exatec, LLC",exatec.de,False
+"CRYSTAL WORLD, INC.",crystalworld.com,True
+"A SERVICE GLASS, INC.",aserviceglass.com,False
+"Forel North America, Inc.",forelspa.com,False
+Mirrorchic,mirrorchic.com,False
+"Timeless Decor, LLC",timelessexpressions.com,True
+FIRELIGHT GLASS,firelight.com,False
+"HENSLEY MFG, INC.",hensleymfg.com,False
+Lifx,lifx.co,True
+Mr Glass Tempering LLC,mrglasstempering.com,False
+ALLIED SITE FURNISHINGS,allied-molded.com,True
+Art Glass,timelessartglass.com,False
+CMS WINDOWS & DOORS,cms-miami.com,False
+"SWARTZ GLASS CO., INC.",swartzglassvenice.com,False
+"Culinesco, LLC",culinesco.com,True
+"Market Fixtures Unlimited, Inc.",marketfixturesunlimited.net,True

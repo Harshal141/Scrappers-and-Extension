@@ -1,0 +1,805 @@
+name,domain,isRelated
+Dow Chemical,dow.com,True
+Ball,ball.com,True
+Berry,berryglobal.com,True
+GPHC,graphicpkg.com,True
+Avery Dennison,averydennison.com,True
+Newell Brands,newellbrands.com,False
+Masco,masco.com,False
+Clorox,thecloroxcompany.com,False
+Sonoco,sonoco.com,True
+Huntsman International,huntsman.com,False
+Silgan Holdings Inc.,silganholdings.com,True
+Carlisle,carlisle.com,False
+"Amcor Flexibles North America, Inc.",amcor.com,True
+Pactiv Evergreen,pactivevergreen.com,True
+"WestRock MWV, LLC",westrock.com,True
+Rubbermaid,rubbermaid.com,True
+Cabot,cabotcorp.com,False
+Novolex,novolex.com,True
+Wind Point Partners,wppartners.com,True
+Entegris,entegris.com,True
+AptarGroup,aptar.com,True
+Mueller,muellerindustries.com,False
+Hillenbrand,hillenbrand.com,True
+West,westpharma.com,False
+"DuPont de Nemours, Inc.",dupont.com,False
+"Plastipak Holdings, Inc.",plastipak.com,True
+ADS,adspipe.com,False
+Griffon,griffon.com,True
+"Hood Companies, Inc.",hoodcompanies.com,False
+Gates,gates.com,False
+"Mauser Packaging Solutions Intermediate Company, Inc.",mauserpackaging.com,True
+Dart,dartcontainer.com,True
+"Mativ Holdings, Inc.",mativ.com,False
+Plycem USA,certainteed.com,False
+"Sigma Plastics Group, The",sigmaplasticsgroup.com,True
+Menasha,menashacorporation.com,True
+ACCO Brands,accobrands.com,False
+Hexcel,hexcel.com,False
+"PMC Global, Inc.",pmcglobalinc.com,True
+MI Windows & Doors,miwindows.com,False
+YETI,yeti.com,False
+Oberthur Technologies,idemia.com,False
+Graham Packaging Company Inc.,grahampackaging.com,True
+CNG,cnginc.com,True
+The AZEK Company Inc.,azekco.com,False
+"Nan Ya Plastics Corporation, America",npcam.com,True
+Otter Tail Corporation,ottertail.com,False
+"Kuraray Holdings U.S.A., Inc.",kuraray.us.com,False
+Thyssenkrupp Steel Services Trading,thyssenkrupp-materials-na.com,False
+Mid Oaks Investments LLC,midoaks.com,False
+D&W Fine Pack,dwfinepack.com,True
+Alside Supply Center,associatedmaterials.com,False
+Transcontinental Packaging,transcontinentalkeyholding.com,True
+Albany International Corp.,albint.com,False
+MacLean Fasteners,macleanfogg.com,False
+FXI Foamex Innovations,fxi.com,False
+Entrust Datacard,entrust.com,False
+EnPro,enproindustries.com,False
+Voltek Division,sekisui-corp.com,False
+CARLON METER COMPANY,jsjcorp.com,False
+Solutia Inc.,eastman.com,False
+LDI,libertydiversified.com,True
+LEWISBINS,orbiscorporation.com,True
+Clopay Ames Inc.,clopaydoor.com,False
+"Atrium Windows and Doors, Inc.",atrium.com,False
+M z j,victoryintlgroup.com,True
+"Transpak, Inc.",globaltechnologyinc.com,False
+"Mack Group, Inc.",mack.com,False
+Charlotte Pipe and Foundry Company,charlottepipe.com,False
+Insulated Shipping Containers,thermosafe.com,False
+Myers Industries,myersindustries.com,False
+"Lintec USA Holding, Inc.",lintec-global.com,False
+FRED JONES MANUFACTURING,hall-capital.com,False
+Teknor Apex Company,teknorapex.com,True
+"Premier Packaging, LLC",prempack.com,True
+Toyoda Gosei North America Corporation,toyodagosei.com,False
+CORRCHOICE,greif.com,False
+Tredegar,tredegar.com,False
+"CPP Group Holdings, LLC",cppcorp.com,False
+Lubrizol,lubrizol.com,False
+Mannington Resilient Floors Division,mannington.com,False
+"Printpack, Inc.",printpack.com,True
+Bunzl Distribution,bunzldistribution.com,True
+KP Films,kpfilms.com,True
+AFI,armstrongflooring.com,False
+ProAmpac,proampac.com,True
+Hardwoods,hardwoods-inc.com,False
+Jadex,jadexinc.com,False
+Sabert Corporation,sabert.com,True
+Tank Holding Corp.,snydernet.com,True
+PPC Flex,ppcflex.com,True
+ConMet,conmet.com,False
+Atlas Roofing Corporation,atlasroofing.com,True
+Altium Packaging LLC,altiumpkg.com,True
+Pelican,pelican.com,True
+"Ring Container Technologies, LLC",ringcontainer.com,True
+Gilster-Mary Lee,gilstermarylee.com,True
+CFSP Acquisition Corp.,carlislefsp.com,True
+Technical Center,summitpolymers.com,False
+Technimark LLC,technimark.com,True
+"Phillips-Medisize, LLC",phillipsmedisize.com,False
+ProDriven Global Brands,wernerco.com,False
+Busak+Shamban,trelleborg.com,False
+"Anchor Hocking Holdings, Inc.",theoneidagroup.com,False
+Nibco,nibco.com,False
+SCIC LLC,solocup.com,True
+Carpenter Co.,carpenter.com,False
+"Westfall Technik, LLC",westfall-technik.com,False
+Novares Group,novaresteam.com,False
+NORTH AMERICAN PVC PIPE CORPORATION,westlakepipe.com,False
+Tessy Plastics Corp.,tessy.com,False
+Champion Window,championwindow.com,False
+"Kruger Family Industries, LLC",krugerfamilyindustries.com,False
+CKS Packaging,ckspackaging.com,True
+Future Foam,futurefoam.com,False
+"PII Holdings, Inc.",caplugs.com,False
+Mauser Packaging Solutions,bwaycorp.com,False
+Silgan Plastics LLC,silganplastics.com,True
+Nyx Redford,nyxinc.com,False
+Dickten Masch Plastics,techniplas.com,False
+Contech Engineered Solutions LLC,conteches.com,False
+Pol-Tex International Division,poly-america.com,False
+"Anchor Hocking Company, The",anchorhocking.com,True
+U.S. Farathane Corporation Extrusion Group,usfarathane.com,False
+KASAI,kasai-na.com,True
+KIK Custom Products,kikcorp.com,False
+"GEON Performance Solutions, LLC",geon.com,False
+Dayton Superior Corporation,daytonsuperior.com,False
+"Viant Medical Holdings, Inc.",viantmedical.com,False
+"Mitsui Chemicals America, Inc.",mitsuichemicals.com,False
+Jacuzzi Outdoor Products,jacuzzi.com,False
+"Cryovac, LLC",sealedair.com,True
+Alpha Packaging,pretiumpkg.com,True
+SMC,smcltd.com,False
+"MGS Mfg. Group, Inc.",mgsmfg.com,False
+Bishop Circle Assembly,reedcityplastics.com,False
+"Rehrig Pacific Holdings, Inc.",rehrigpacific.com,False
+3A Composites USA Inc.,3acompositesusa.com,False
+EPlastics,lairdplastics.com,False
+PRIMEX,primexplastics.com,True
+Amtopp Corporation,inteplast.com,False
+VT INDUSTRIES,vtindustries.com,False
+"Teijin Automotive Technologies, Inc.",teijinautomotive.com,False
+"SRG Global Coatings, LLC",srgglobal.com,True
+Hunter,hunterindustries.com,False
+Scholle Packaging,scholleipn.com,True
+Tarkett North America,tarketthome.com,False
+Panolam Surface Systems,panolam.com,False
+"Cretex Companies, Inc.",cretex.com,False
+Sabic Innovative Plastics,ff.sabic.eu,False
+Woodbridge Holdings Inc.,woodbridgegroup.com,False
+Vollrath,vollrathfoodservice.com,True
+Karat,irkarat.com,True
+"UFP Technologies, Inc.",ufpt.com,False
+CompoSecure,composecure.com,False
+TMD,tmdinc.com,False
+PakLab,paklab.com,False
+Presto Products Company,prestoconsumer.com,True
+Tasus Corporation,tasus.com,False
+Liqui-Box Corporation,liquibox.com,True
+"Lacks Enterprises, Inc.",lacksenterprises.com,False
+Molded Fiber Glass Companies,moldedfiberglass.com,False
+"Core Molding Technologies, Inc.",coremt.com,False
+NJT Enterprises,maycointernational.com,False
+Raven,ravenind.com,False
+Polaris Technologies,modernbuilderssupply.com,False
+EG-Gilero,sundancefamilyfoundation.org,False
+Aquatic Co.,aquaticbath.com,False
+"Southeastern Container, Inc.",secontainer.com,True
+CARDINAL STRAWS,wincup.com,True
+CASCADE CART SOLUTIONS,cascadeng.com,False
+Mexichem Shared Services,duraline.com,False
+Flexcon,flexcon.com,False
+WILLIAMSBURG PLASTICS,jonesplastic.com,False
+Cambro,cambro.com,True
+Synthomer Inc.,omnova.com,False
+JM Eagle,jmeagle.com,False
+Revolution Sustainable Solutions Holdings LLC,revolutioncompany.com,True
+OPmobility,opmobility.com,False
+Bryce Corporation,brycecorp.com,True
+Pexco,pexco.com,False
+Ipex USA LLC,ipexna.com,False
+"Transcendia, Inc.",transcendia.com,True
+"ATCO Rubber Products, Inc.",atcoflex.com,False
+Milgard Windows & Doors,milgard.com,False
+Adac Automotive,adacautomotive.com,False
+"Defiance Group, The",gttechnologies.com,False
+Smith Metal Products,plasticproductsco.com,True
+"HFI, LLC",hfi-inc.com,False
+Saint-Gobain,plastics.saint-gobain.com,True
+Aet Films,ti-films.com,True
+"Stanley Electric U.S. Co., Inc.",stanleyelectricus.com,False
+Alleguard,foamholdings.com,True
+Igloo,igloocoolers.com,True
+American Plastics LLC,americanplasticsllc.com,False
+INOAC,inoacusa.com,False
+VEKA Innovations,vekainc.com,False
+JVIS Masonic,jvisusallc.com,True
+The Gill Corporation,mcgillcorp.com,True
+Inhance Technologies Holdings LLC,inhancetechnologies.com,False
+"UPM Raflatac, Inc.",upmraflatac.com,True
+Minnesota Rubber & Plastics Co,mnrubber.com,True
+Nifco America Corporation,nifcousa.com,False
+Wilbert Plastic Services,wilbertplastics.com,False
+NDS,ndspro.com,False
+"LogoPlaste USA, Inc.",logoplaste.com,True
+Jarden Plastic Solutions,alltrista.com,False
+Montaplast,montaplast.com,False
+Kaneka,kanekanutrients.com,True
+Hi-tech Plastics,royaltechnologies.com,False
+I S C O,isco-pipe.com,False
+"Piedmont Plastics, Inc.",piedmontplastics.com,False
+Biomerics,biomerics.com,False
+S P P D,creativefoam.com,False
+"Century Mold Company, Inc.",centurymold.com,False
+"Vaupell Holdings, Inc.",vaupell.com,False
+Cantex Inc.,cantexinc.com,False
+Inpro,inprocorp.com,False
+Entek Technology Holdings LLC,entek.com,False
+AdvantaPure Division,newageindustries.com,True
+Glas-Col Div,templetoncoal.com,False
+Hanwha Advanced Materials Holdings USA LLC,hanwhaus.com,False
+Plasman US Holdco LLC,plasman.com,False
+Holm Industries,ilpeaindustries.com,False
+Brentwood Plastics,brentwoodindustries.com,False
+"Style Crest Enterprises, Inc.",stylecrestinc.com,False
+TOTO,totousa.com,False
+"Group Dekko, Inc.",dekko.com,False
+Jamestown Container Corporation,jamestowncontainer.com,True
+Isola Group,isola-group.com,False
+TRICO,tricoproducts.com,False
+Fralock Holdings LLC,fralock.com,False
+"Deceuninck North America, LLC",deceuninckna.com,False
+Foam Pac Materials Company,storopack.us,True
+Plastikon Automotive,plastikon.com,False
+Packaging And Supply Solutions,atlanticpkg.com,True
+Dinesol Plastics,dinesol.com,False
+The Pendaform Company,pendaform.com,True
+"Gemini Group, Inc.",geminigroup.net,False
+Uponor,uponor.com,False
+Guardian Packaging Industries,connerindustries.com,True
+Standridge Color Corporation,standridgecolor.com,False
+"TTL Holdings, LLC",trendtechnologies.com,False
+"Spectrum Plastics Group, Inc.",spectrumplastics.com,True
+Gateway Printing,rohrer.com,False
+Cellofoam,cellofoam.com,False
+Harrel,davis-standard.com,True
+"Petoskey Plastics, Inc.",petoskeyplastics.com,False
+PPG Aerospace,ppgaerospace.com,False
+Roppe Corporation,roppe.com,False
+PPC Industries Inc.,ppcind.com,True
+Fox Blocks,airliteplastics.com,True
+"Cirkul, Inc.",drinkcirkul.com,True
+WM. T. Burnett Holding LLC,williamtburnett.com,False
+"Marco Company, The",marcocompany.com,True
+Humphrey Companies LLC,hadleyadvantage.com,False
+"Pacific Southwest Container, LLC",teampsc.com,True
+"ABX Innovative Packaging Solutions, LLC",abxpackaging.com,True
+ClarkDietrich,clarkdietrich.com,False
+Redi Bag USA,redibagusa.com,True
+ILC,ilcdover.com,False
+Reflective Solutions Americas,orafol.com,False
+Kroy Building Products,plygem.com,False
+Clinton Nypro,jabil.com,False
+PX SERVICES,plasticexpress.com,False
+"ITR Industries, Inc",americanspecialties.com,False
+Greenbridge,polychem.com,False
+Rochling Glastic Composites,roechling.com,True
+Web Industries Inc.,webindustries.com,False
+"Laddawn, Inc.",laddawn.com,False
+"Uniloy, Inc.",uniloy.com,True
+Yachiyo Manufacturing Of America,yachiyo-of-america.com,False
+"Parkway Products, LLC",parkwayproducts.com,False
+Trinity Plastics Inc.,trinityplastics.com,True
+Pro Cal,hc-companies.com,False
+Shasta Pools,shastapools.com,False
+Pierceton Case & Tray,paragonmedical.com,False
+"Viskase Companies, Inc.",viskase.com,True
+"Kamco Industries, Inc.",kumi-na.com,True
+EPTAM Precision Solutions,eptam.com,False
+"Celgard, LLC",celgard.com,False
+Stockcap,sinclair-rush.com,True
+CARRIS COMMUNITY OF COMPANIES,carris.com,False
+Delfingen Industry,delfingen.com,False
+Grupo Phoenix,grupophoenix.com,True
+Mansfield Plumbing Products LLC,mansfieldplumbing.com,False
+"The Praxis Companies, LLC",praxiscompanies.com,True
+Quixote Corporation,quixote.com,False
+Aristech Surfaces LLC,aristechsurfaces.com,False
+SPS,summitpackagingsystems.com,True
+Thetford LLC,thetford.com,False
+Smithersoasis North America,oasisfloral.com,False
+Surelock Division,inlineplastics.com,True
+"Noel Group, LLC",noelgroup.net,True
+Johnson Plastic Plus,rowmark.com,False
+Fehrer South Carolina,fehrer.com,False
+"Prinsco, Inc.",prinsco.com,False
+PLI,plicards.com,False
+Ensinger,ensingerplastics.com,True
+Rogers Foam Corporation,rogersfoam.com,False
+Stratasys Direct Manufacturing,stratasys.com,False
+JAT Creative Products Division of LaFrance,lafrancecorp.com,False
+Precision Concepts International LLC,pcinternational.com,True
+EnovaPremier LLC,enovapremier.com,False
+Denali Incorporated,nov.com,False
+Concept Packaging Group,southlandcontainer.com,False
+Hydra Pools,beeneholdings.com,False
+"SK Microworks America, Inc.",skclightingusa.com,True
+FRANKFORT PLASTICS,washingtonpenn.com,False
+AMICO,amicoglobal.com,False
+Silgan Dispensing Systems Corporation,silgandispensing.com,False
+"Mercury Plastics, Inc.",mercplastics.com,True
+Xerxes Corporation,xerxes.com,False
+"Oakwood Group, The",theoakwoodgroup.com,False
+Cadrex,cadrex.com,False
+Avon Automotive,akwel-automotive.com,False
+INTEX PROPERTIES SOUTH BAY CORP.,intexcorp.com,False
+"Xaloy, LLC",xaloy.com,False
+"Crane Composites, Inc.",cranecomposites.com,False
+Altor Solutions,foamfabricatorsinc.com,False
+Mclean Packaging Corporation,mcleanpackaging.com,True
+"Centro, Inc.",centroinc.com,False
+Mitchell Plastics,mitchellplastics.com,False
+Schaeffler Aerospace USA Corporation,schaeffler.us,True
+ITW Affordable Housing Investments,itw.com,False
+Ventra Ionia Assembly,ioniacounty.org,False
+Quantum Plastics,quantumplastics.com,True
+Spiral Binding LLC,spiralbinding.com,False
+"Latham International, Inc.",lathampool.com,False
+Hellermanntyton Corporation,hellermanntyton.us,False
+"Armacell, LLC",armacell.us,False
+TRM Manufacturing Inc.,trmmfg.com,True
+Genpak,genpak.com,True
+GSE Environmental,solmax.com,False
+"DELSTAR, INC.",swmintl.com,False
+M&Q Holdings LLC,mqplastics.com,True
+Plano Holding LLC,planooutdoors.com,False
+Sidney Plant,advcmp.com,False
+Weather Shield Windows & Doors,weathershield.com,False
+WESTERN CONTAINER CORPORATION,westerncontainercoke.com,True
+Rieke Packaging Systems,riekepackaging.com,True
+Aluf Plastics Division,alufplastics.com,True
+Nalge Nunc International Corporation,nalgene.com,False
+"Tribar Technologies, Inc.",tribar.com,False
+"NBHX Holding-NA, Inc.",norcorp.com,True
+Proper Tooling,propergroupintl.com,False
+Duraco Specialty Tapes LLC,duraco.com,False
+"Iris USA, Inc.",irisusainc.com,True
+SWM International,delstarinc.com,True
+Porex Filtration Group,porex.com,False
+Tekra,conwed.net,True
+Chroma Color Corporation,chromacolors.com,True
+"Global Packaging, Inc.",glopkg.com,True
+Siemon Global Project Services,siemon.com,False
+Diamond Manufacturing Company,diamondman.com,False
+Enduro,endurocomposites.com,False
+Step 2,step2.com,False
+DOT-IT Restaurant Fulfillment,inovarpackaging.com,True
+Starplast USA LLC,starplastusa.com,True
+Checkers Industrial Safety Products,checkers.justrite.com,False
+MCCLARIN COMPOSITES,mcclarincomposites.com,False
+"Deflecto, LLC",deflecto.com,False
+Mrp Solutions,mrpcap.com,True
+Pregis Holding II Corporation,pregis.com,True
+Garyline,garyline.com,False
+NatureWorks LLC,natureworksllc.com,True
+Natco,natcohome.com,False
+Prent,prent.com,False
+Essentra Holdings Corp.,essentra.com,False
+Mission Rubber Co,missionclay.com,False
+RL Hudson,rlhudson.com,False
+"Meteor Creative, Inc.",meteor-creative.com,False
+WL Plastics LLC,wlplastics.com,False
+HI-Tech Duravent,flexibletechnologies.com,False
+"CHAPIN MANUFACTURING, INC.",chapinmfg.com,False
+Evco Plastics,evcoplastics.com,False
+Sigma Stretch Film,sigmastretchtools.com,True
+"Cresline Plastic Pipe Co., Inc.",cresline.com,False
+Robbins LLC,robbinsllc.com,True
+"Tribar Manufacturing, L.L.C.",tribarmfg.com,True
+Sproule Manufacturing,iig-llc.com,False
+"Independent Furniture Supply Co., Inc.",independentfurnituresupply.com,False
+Sybridge Technologies U.S. Inc.,sybridgetech.com,False
+Carclo Technical Plastics,carclo-optics.com,False
+BorgWarner Turbo Systems LLC,borgwarner.com,False
+"Nolato GW, Inc.",nolato.com,True
+Lar Lu,wincraft.com,False
+Greystone,greystonepallets.com,True
+EPE USA,epeusa.com,True
+"LIFOAM INDUSTRIES, LLC",lifemadeproducts.com,True
+APG Cash Drawer,spantek.com,False
+"Reyes Automotive Group, LLC",reyesautomotivegroup.com,False
+"LLFlex, LLC",llflex.com,False
+JAC Holding Corporation,jacproducts.com,False
+Engineered Profiles LLC,engineeredprofiles.com,False
+Premier Source,falconplastics.com,False
+Sigma Plastics Group,mcneelyplastic.com,False
+Ace Roto Mold,denhartogindustries.com,False
+Identity Group Holdings Corp.,identitygroup.com,False
+Consolidated Packaging Group Inc.,conpackgroup.com,True
+Airtech Advanced Materials Group,airtechintl.com,False
+"Amgraph Packaging, Inc.",amgraph.com,True
+Diamond Plastics Corporation,dpcpipe.com,False
+Letica Corporation,letica.com,False
+Apex Plastics,pce.us.com,True
+"Monoflo International, Inc",miworldwide.com,True
+ISO Flex Packaging,iso-poly-films-inc.edan.io,False
+"JPS Industries, Inc.",jpscm.com,False
+"Voss Automotive, Inc.",vossusa.com,False
+"Thomson Plastics, Inc.",thomsonplastics.com,False
+"Clarion Technologies, Inc.",clariontechnologies.com,False
+Advanced Converting Works,flex-pack.com,True
+Winpak Films Inc.,winpak.com,True
+CPP Global,cppglobal.com,True
+IGPS,igps.net,True
+FSI,fsi.co,False
+Koller Craft Plastic Products Div,koller-craft.com,True
+"PK U.S.A.,Inc.",pkusa.com,False
+Mossberg Industries,xytoolrtc.com,False
+"Supplyone Tucson, Inc.",supplyone.com,True
+"Lapeer Plating & Plastics, Inc.",lpp-inc.com,True
+"TRANSNAV HOLDING, INC.",groupe-plastivaloire.com,False
+PTI,teampti.com,False
+TCP,integreonglobal.com,True
+"Virginia Industries, Inc.",hartfordtechnologies.com,False
+Vision Technical Molding,flex.com,False
+"Viaflex, Inc.",viaflex.com,True
+Precision Concepts Group LLC,precisionconcepts.com,False
+Star Plastics,starplastics.com,False
+"Plastic Molding Mfg, Inc.",plasticmoldingmfg.com,False
+The Lozier Foundation,lozier.com,False
+Exotic Automation & Supply,exoticautomation.com,False
+Nomaco Inc.,nomaco.com,False
+Aluminum Div,lesueurinc.com,False
+Dougherty Manufacturing,dmade.com,False
+JB BRANANNE INC.,jbbrananne.com,True
+Springboard Manufacturing,springboardmfg.com,False
+Maxi-Lift,tuff-stand.com,False
+Motherson Drsc,dr-schneider.com,False
+NPPI,nationalpipe.com,False
+"TOSAF, INC.",tosaf.com,True
+Congoleum Corporation,congoleum.com,False
+Silver-Line Plastics LLC,slpipe.com,False
+Hoover Container Group,hooversolutions.com,True
+"Nudo Products, Inc.",nudo.com,False
+"NEPTCO LAMINATED TAPES CO., INC.",chasecorp.com,False
+Custom Profile,custom-profile.com,False
+"Homeland Vinyl Products, Inc.",homelandvinyl.com,False
+Mergon Corporation,mergon.com,False
+"Teamvantage Molding, LLC",velosity.com,False
+Zacros America Hedwin Division,zacrosamerica.com,True
+Peco Manufacturing,astronics.com,False
+BJK Flexible Packaging,bjkindustries.com,True
+"Pacor, Inc.",pacorinc.com,False
+"Lomanco, Inc.",lomanco.com,False
+"Cascade Designs, Inc.",cascadedesigns.com,False
+"TH Plastics, Inc.",thplastics.com,False
+A.M.A. Plastics,westfalltechnik.com,True
+Paramount Tube Division,ppgintl.com,False
+Jarden Applied Materials,shakespeareco.com,False
+AMALIE MIDWAY SALES,amalie.com,False
+"Plastic Industries, Inc.",plasticind.com,False
+Farrel Pomini,farrel-pomini.com,False
+Quantum Storage Systems,quantumstorage.com,True
+Nissha Eimo Technologies,eimotech.com,False
+"Kennerley-Spratling, Inc.",ksplastic.com,False
+Rubbermaid,rubbermaidcommercial.com,True
+"Plastic Ingenuity, Inc.",plasticingenuity.com,True
+"Dielectric Manufacturing, Inc.",dielectricmfg.com,False
+"Martech Medical Products, Inc.",martechmedical.com,False
+Diab Holdings Inc.,diabgroup.com,False
+OUACHITA FERTILIZER COMPANY DIV,polyprocessing.com,True
+"Innovative Gas Systems, Inc.",generon.com,False
+Kw Plastics Recycling,kwplastics.com,False
+Northern Contours Inc.,northerncontours.com,True
+Boneal,boneal.com,False
+Amtech,amtechcorp.com,True
+Hydrolevel Div,ccowles.com,False
+"Handgards, LLC",handgards.com,True
+"Nora Systems, Inc.",nora.com,False
+CRP Industries,crpindustries.com,True
+"Polymer Industries, LLC",polymerindustries.com,False
+"Hicks Plastics Company, Inc.",luxitgroup.com,False
+MAAX US Corp.,maax.com,False
+"Resilux America, LLC",resilux.com,True
+Seaway Plastics Engineering,seawayplastics.com,False
+Plasticolor,plasticolorinc.com,False
+"Packaging Personified, Inc.",packagingpersonified.com,True
+"Lacerta Group, LLC",lacerta.com,True
+Right Lane Industries LLC,rightlanecapital.com,False
+Thermoserv,ntl-brands.com,True
+MoistureShield Composite Decking,moistureshield.com,False
+"SA AUTOMOTIVE, LTD.",saautomotive.com,False
+Mylar Specialty Films Limited Partnership,usa.dupontteijinfilms.com,False
+G2G Holdings LP,good2grow.com,True
+Polyplex Americas,polyplex.com,True
+Formflex,formflexproducts.com,False
+"Tigerpoly Manufacturing, Inc.",tigerpoly.com,True
+Novacel,novacelinc.com,False
+CURIO HOME GOODS,munchkin.com,True
+Western Industries Plastic Products LLC,westernind.com,False
+Silgan Specialty Packaging LLC,silganspecialty.com,True
+"iwis Mechatronics, Inc.",mechatronics.iwis.com,False
+Otto Environmental Systems,otto-usa.com,False
+MONDI,mondigroup.com,True
+Saint-Gobain Performance Plastics,solargard.com,False
+Stewart Private Equity Holdings Management,summitplastics.com,True
+Everwhite,glenroy.com,True
+Berwick Industries,berwickoffraywholesale.bwweb.net,True
+Allied Plastics LLC,alliedplastics.com,False
+Custom Molded Devices,polytainer.com,True
+Republic Plastics,republicplastics.com,True
+"Norwesco, Inc.",norwesco.com,False
+Goya Foods of Mexico,goya.com,True
+Jindal Films,jindalfilms.com,True
+API,accredopackaging.com,True
+Mativ,argotec.com,False
+Sport Court,sportcourt.com,False
+Pinnpack Packaging,pinnpack.com,True
+Georgia-Pacific Nonwovens LLC,bkitech.com,True
+"VALGROUP NORTH AMERICA, INC.",valgroupco.com,False
+"ICP Adhesives and Sealants, Inc.",icpadhesives.com,False
+"Intertech Plastics, LLC",intertechplastics.com,True
+Weiss-Aug Co. Inc.,weiss-aug.com,False
+Lakeland Monroe Group,lakelandmonroe.com,False
+Heyco Werk USA Inc.,heycousa.com,True
+Lawrence Packaging,lpsind.com,True
+Rexam Containers,silganpfc.com,True
+B.R.P,bedfordreinforced.com,False
+Fibergrate Composite Structures Incorporated,fibergrate.com,True
+S.K.B. Corporation,skbcases.com,False
+Thompson Creek Window Company,thompsoncreek.com,False
+TESSY PLASTICS,total-ps.com,False
+ACTION,boydcorp.com,False
+"IVC US, LLC",ivcfloors.com,False
+"Mar-Bal, Inc.",mar-bal.com,False
+TSG,tradesupplygroup.com,False
+Thermos L.L.C.,thermos.com,True
+National Composites LLC,nationalcomposites.com,False
+SWD Urethane,swdurethane.com,False
+Evans Manufacturing,evans-mfg.com,True
+American Turf & Carpet,signature-systems.com,False
+Houston Foam Plastics Inc.,houstonfoam.com,False
+"VINYL TECHNOLOGY, LLC",vinyltechnology.com,False
+CDF Corporation,cdf1.com,True
+Alliance Precision Plastics Corporation,allianceppc.com,True
+"Toter, LLC",toter.com,False
+"Selig Sealing Holdings, Inc.",seligsealing.com,True
+Textiles Coated International,textilescoated.com,True
+"ABCO Products, Inc.",abcoproducts.com,False
+Futaba Indiana Of America Corporation,futabaindiana.com,False
+PSI,panelspec.com,False
+"Denso Manufacturing Arkansas, Inc.",denso.com,True
+"Polymer Logistics, Inc.",toscaltd.com,True
+"Marvin Composites, LLC",tectonproducts.com,False
+Kaysun,kaysun.com,False
+"20/20 Custom Molded Plastics, LLC",2020cmp.com,False
+Maax Spas,maaxspas.com,False
+"L.F. MANUFACTURING, INC.",lfm-frp.com,False
+Achilles Inflatable Boats,achillesusa.com,False
+CIE USA,cieautomotive.com,True
+Security Plastics,nationalmolding.com,False
+"Allmetal, Inc.",allmetalinc.com,False
+Squid Ink Manufacturing,engagetechnologies.net,True
+Sussex Injection Molding,sussexim.com,False
+Simona America Group Inc.,news.simona-america.com,False
+CRANE INTERIORS,gtindustries.com,True
+Industry Products Co.,industryproductsco.com,False
+Afco Millwork Products Division,afco-ind.com,False
+Forecast 3D,forecast3d.com,False
+"CCL Tube, Inc.",ccltube.com,True
+Spatz Laboratories,spatzlabs.com,True
+Sibley Engineering & Manufacturing,fmcorp.com,False
+Farmtek Division,esapco.com,False
+ROBCO-WESTERN INDUSTRIES,wicpack.com,False
+"Carfair Composites USA, Inc.",carfaircomposites.com,True
+SMP,smpco.com,False
+Waterway Plastics,waterwayplastics.com,False
+Longwood Industries,wabteccorp.com,False
+Auto Parts Manufacturing Mississippi Inc.,apmmguntown.com,False
+"Prism Plastics, Inc.",prismplastics.com,False
+Newell Brands Distribution LLC,newellbrands.dejobs.org,False
+Trim-Lok Inc.,trimlok.com,False
+J.L. Clark LLC,jlclark.com,True
+Cadillac Products Packaging Company,cadprod.com,True
+Midwest 1938,midwest1938.com,False
+"Pexco Aerospace, Inc.",pexcoaerospace.com,False
+Whirley-Drinkworks,whirleydrinkworks.com,True
+"Fluidmaster, Inc.",fluidmaster.com,False
+"FUTURE PIPE INDUSTRIES, INC.",futurepipe.com,True
+Vantage Plastics,vantageplastics.com,True
+Dart Container Corporation of Pennsylvania,gsmsince1927.com,False
+C D I,comdelinnovation.com,False
+Harris Packaging Corporation,harrispackaging.com,True
+Leon Automotive Interiors,motusintegrated.com,False
+Nelipak Healthcare Packaging,nelipak.com,False
+"IFCO Systems US, LLC",ifco.com,True
+JunoPacific,junopacific.com,False
+Deluxe Plastics,alwin.com,False
+"Energy Absorption Systems, LLC",valtir.com,False
+"United Plastic Fabricating, Inc.",unitedplastic.com,False
+T S E Industries Inc.,tse-industries.com,True
+"Polymedex Discovery Group, Inc.",polymedexgroup.com,False
+R3 Composites Corp.,r3composites.com,False
+Protection Pro,madico.com,False
+Flexsol Holding Corp,isoflexpackaging.com,True
+"Ashley Industrial Molding, Inc.",ashinmold.com,False
+JVIS - USA,jvis.us,False
+"M & M Industries, Inc.",mmcontainer.com,True
+Vention Medical,nordsonmedical.com,False
+Chomarat NA,chomarat.com,False
+Peachtree City,gerresheimer.com,False
+P L I,pliusa.com,False
+OC DESIGNS,ecommercialplastics.com,True
+"Ironwood Plastics, Inc.",ironwood.com,True
+Hartson-Kennedy Cabinet Top Co Inc,hartson-kennedy.com,False
+V P,ventureplastics.com,False
+"ABC Technologies Michigan, Inc.",abctechnologies.com,False
+Trimold LLC,tstech.com,False
+Bedford Industries,bedford.com,True
+Clack MFG,clackcorp.com,False
+Huntington Solutions,hunt-sol.com,True
+TECAN,tecan.com,False
+FUSION SKFIT LLC,fusionskfit.com,True
+Hobas Pipe USA,hobaspipe.com,False
+"CHawk Technology Intl., Inc.",chawktechnology.com,False
+"Merrick Engineering, Inc.",merrickengineering.com,False
+All American Poly Corp.,allamericanpoly.com,True
+Comar Glass,comar.com,False
+"Scott Industries, LLC",scott-mfg.com,True
+"Acrilex, Inc.",acrilex.com,False
+Impact Products LLC,impact-products.com,True
+"Rextac, LLC",rextac.com,False
+Satellite,satelliteindustries.com,False
+Rotuba,rotubacompounding.com,False
+Nissen Chemitec America,nissenchemitec.com,False
+Kysor Panel Systems,kpsglobal.com,True
+Arcmed,arcmedgroup.com,False
+"AIR-DRIVE, INC.",revcor.com,True
+M & S EXTRUSIONS,vintechplastics.com,False
+R O M,romcorp.com,False
+"Century Park Capital Partners, LLC",centuryparkcapital.com,False
+"Macro Plastics, Inc.",macroplastics.com,True
+Nordic Ice,temperatsure.com,False
+Broshco Fabricated Products,jayindinc.com,False
+QuARTz,acousa.com,False
+Industrial Products Dvn,tenaxus.com,False
+RPS Non Metallic Resources,rpscomposites.com,False
+Seung-Chang Airtek,sc-autotech.com,False
+West Liberty Commons,rootcandles.com,False
+BUSINESS SYSTEMS FINISHING,albar.com,False
+"General Data Company, Inc.",general-data.com,True
+Insul-Fab,concote.com,False
+Aptyx,moldeddevices.com,False
+S D M,sdmplastics.com,False
+"Chelsea Building Products, Inc",chelseabuildingproducts.com,False
+Industrial Division,federalfoam.com,False
+"C & J Industries, Inc.",cjindustries.com,False
+BE THE CHANGE,kydinc.com,True
+"TPI Iowa, LLC",tpicomposites.com,False
+PCI,rosti.com,False
+Strongwell Corporation,strongwell.com,False
+"Volk Enterprises, Inc.",volkenterprises.com,True
+Blenderbottle Company,trovebrands.com,True
+Guardian Automotive Trim,guardian.com,False
+Advanced Foam Products Division,tmptech.com,False
+"O'Sullivan Films, Inc.",continental-industry.com,True
+G D C,gdc-corp.com,False
+SEAWIN HOSPITALITY,seawinglobal.com,False
+"Agru/America, Inc.",agruamerica.com,False
+Oliver Fiber Glass Products,olivertechnologies.com,False
+Mr Box,skyboxpackaging.com,True
+"CUSTOM-PAK, INC.",custom-pak.com,True
+"Syndicate Sales, Inc.",syndicatesales.com,False
+ATC Lighting & Plastics,oneatlas.com,False
+"DICAR, INC.",dicar.com,True
+Cortec Corporation,cortecvci.com,False
+EFP,efppackaging.com,True
+Olon Decoratives,olon.ca,False
+"Tooling Technology Holdings, LLC",toolingtechgroup.com,False
+Tri Town Precision Plastics,swpc.com,False
+"LAKE PACIFIC PARTNERS, LLC",lakepacific.com,True
+"Reo Plastics, Inc.",reoplastics.com,False
+Coats North America De Republica Dominicana,makeitcoats.com,False
+"Koroseal Interior Products, LLC",koroseal.com,False
+S & A Industries Corporation,s-aindustries.com,False
+Federal Package Network Inc.,federalpackage.com,False
+Norpak,nortonpackaging.com,True
+Fabrik Molded Plastics,fabrikind.com,False
+Dunmore International Corp.,dunmore.com,True
+TriEnda,trienda.com,True
+D.A. Inc.,daiwa-da.com,False
+"RADIUS PACKAGING, INC.",schoeneck.com,False
+Polygon Company,polygoncomposites.com,False
+Thermoplastic Division,trianglerubberco.com,True
+"Allied Moulded Products, Inc.",alliedmoulded.com,False
+Revstone,omniagentsolutions.com,False
+Hans-Mill Corp,hansmart.com,False
+"Toray Industries (America), Inc.",toray.com,True
+Tennplasco,manarinc.com,False
+"Majors Plastics, Inc.",majorsplastics.com,False
+"Reinhold Holdings, Inc.",reinhold-ind.com,False
+Westlake Royal Building Products Inc.,thetapcogroup.com,True
+Global Enterprises,globalent.org,False
+"Nickolas Plastics, LLC",centrexplastics.com,False
+"Elkamet, Inc.",elkamet.com,False
+"H&K Perforating, LLC",hkperf.com,False
+G M L,innovize.com,False
+"SUPER SACK BAG, INC.",bagcorp.com,True
+American Store Fixtures,americanlouver.com,False
+"CPI Card Group - Colorado, Inc.",cpicardgroup.com,False
+Zotefoams Inc.,zotefoams-usa.com,True
+Optimim Portland,optimim.com,False
+Accuma Corporation,accuma.com,False
+Perfect Plastic Printing Corp.,perfectplastic.com,False
+LITTLE GIANT SOLUTIONS,littlegiantladders.com,False
+Renolit,laminatefinder.com,False
+Fiberesin Industries,fiberesin.com,False
+"Ferguson Production, Inc.",fergusonproduction.com,False
+Armaly Brands,armalybrands.com,False
+"Poli-Film America, Inc.",polifilm.com,True
+Forward Industries,forwardindustries.com,True
+Crane Materials International,cmilc.com,False
+ITW Filter Products Transmission Filtration,filtertek.com,True
+AP Packaging,appackaging.com,True
+Trusscore USA Inc.,trusscore.com,False
+Aargus Industries,aargusplastics.com,True
+"LECLAIR INDUSTRIES, INC.",permarproducts.com,False
+E&T Plastics,e-tplastics.com,True
+Complemar Packaging and Fulfillment,complemar.com,True
+"Medegen, LLC",medegenmed.com,False
+"Cabka North America, Inc.",cabka.com,True
+Fiber Bond,fiberbond.com,True
+Hayward Plastic Products Division,hayward.com,False
+"Asahi/America, Inc.",asahi-america.com,False
+"Hackney Ladish, Inc.",hackneyladish.com,False
+Cumberland Plastic Solutions,cumberlandps.com,False
+Made By Gather,madebygather.com,True
+"Sekisui S-Lec America, LLC",s-lecfilm.com,False
+Rctenn LLC,rctenn.com,False
+Palram 2000,palram.com,True
+Convenience Products,claytoncorp.com,True
+American Technical Molding,a-t-m.com,False
+Universal Plastic Mold,upminc.com,False
+"Mainetti USA, Inc.",mainetti.com,False
+The Nelson Company,nelsoncompany.com,True
+Priority Plastics Inc.,priorityplastics.com,True
+"TEEL PLASTICS, LLC",teel.com,False
+Marietta NDT,marietta-ndt.com,False
+Arlon Graphics LLC,arlon.com,False
+"Medbio, LLC",medbiollc.com,False
+"Haysite Reinforced Plastics, LLC",haysite.com,False
+General Plastics Manufacturing Co.,generalplastics.com,False
+"Marglen Industries, Inc.",marglen.us,False
+Medplas,upgintl.com,False
+Fuller Industries Inc.,fuller.com,False
+Alkon Corporation,alkoncorp.com,False
+"Kelta, Inc.",keltacorp.com,True
+Inoac Packaging Group Inc.,discoverinoac.com,True
+"New-Tech Packaging, Inc.",newtechpackaging.com,True
+M R,mrpcorp.com,False
+Norplex Micarta,norplex-micarta.com,False
+"Central Carolina Products, Inc.",centralcarolinaproducts.com,False
+Wise Hamlin Plastics,wiseplastics.com,True
+Chemical Guys,chemicalguys.com,False
+Wisconic Inc.,wisconic.com,False
+"Jaeger-Unitek Sealing Solutions, Inc.",jaeger-unitek.com,False
+Atlantis Industries Corporation,atlantisusa.com,False
+"Plitek, L.L.C.",plitek.com,True
+Ferriot Inc.,ferriot.com,False
+"Kimoto Tech, Inc.",kimototech.com,False
+Kalwall Corporation,kalwall.com,False
+ALUDEC,douglascorp.com,True
+Tank Depot,plastic-mart.com,False
+Bestway Foam,foamcraftinc.com,False
+"Phillips Diversified Manufacturing, Inc.",phillipsdminc.com,False
+Central Container,centralpackage.com,False
+"RKW North America, Inc.",rkw-group.com,True
+MAX-R,prestwickgolfgroup.com,False
+Lindar Corporation,lindarcorp.com,True
+American Standard Window Film,aswf.com,False
+Better Way Products,betterwayproducts.com,False
+"CTS AUTOMOTIVE, L.L.C.",ctscorp.com,False
+"Woodvine Group, L.L.C.",woodvinegroup.com,False
+Artube,artube.net,False
+Profile Films,profilefilms.com,True
+"MOCAP, Cleartec Packaging, Beckett Packaging",mocap.com,False
+"Digger Specialties, Inc.",diggerspecialties.com,False
+Portco Packaging,portco.com,True
+Compax,compax.net,False
+New Process Fibre Company,newprocess.com,False
+Midwest Canvas Corp.,midwestcanvas.com,False
+Ammex Corporation,ammex.com,True
+GKN AEROSPACE TRANSPARENCY SYSTEMS INC.,gknaerospace.com,False
+Polymer Liquid Resin Casting,polymercorporation.com,False
+"Green Rubber-Kennedy AG, L.P.",greenrubber.com,True
+"PTR Tool & Plastics, LLC",ptrgroup-mfg.com,False
+I2tech,i2-tech.com,False
+"Davalor Mold Company, LLC",davalor.com,False
+United Plastics,unitedsolutions.net,False
+Fictiv Inc.,fictiv.com,False
+"Tema Isenmann, Inc.",temaisenmann.com,False
+"Mutsutech, Ltd.",mutsutech.com.mx,False
+STONE CANYON INDUSTRIES LLC,scihinc.com,False

@@ -1,0 +1,878 @@
+name,domain,isRelated
+Parker,parker.com,False
+Emerson,emerson.com,False
+Northrop Grumman Innovation Systems LLC,northropgrumman.com,False
+Avery Dennison,averydennison.com,True
+Masco,masco.com,False
+Core & Main,coreandmain.com,False
+TYCO,tyco.com,False
+Timken,timken.com,False
+Flowserve,flowserve.com,False
+M K S,mks.com,True
+MOOG,moog.com,False
+AptarGroup,aptar.com,True
+Mueller,muellerindustries.com,False
+Woodward,woodward.com,False
+General Atomics,ga.com,False
+"ZBS GLOBAL, INC.",rbsbizsolutions.com,False
+Curtiss-Wright Corporation,curtisswright.com,False
+Vista Outdoor,vistaoutdoor.com,False
+Watts Water,watts.com,False
+Plycem USA,certainteed.com,False
+Tyco Fire Suppression & Building Products,tyco-fire.com,False
+Michels Corporation,michels.us,False
+Dana Limited,dana.com,False
+Steel Partners Holdings L.P.,steelpartners.com,False
+American Standard,americanstandard-us.com,False
+Schaeffler Group USA Inc.,schaeffler.us,False
+Oberthur Technologies,idemia.com,False
+Diebold Nixdorf,dieboldnixdorf.com,False
+Axon,axon.com,False
+RBC,rbcbearings.com,False
+Zurn Elkay,zurnelkay.com,False
+Chemsearch Division,nch.com,False
+Kohler Co,kohlercompany.com,False
+"Crane NXT, Co.",cranenxt.com,False
+Gibraltar Industries,gibraltar1.com,False
+Spears Manufacturing Co.,spearsmanufacturing.com,False
+SPX Flow,spxflow.com,True
+Mueller Water Products,muellerwaterproducts.com,False
+PCC SPS Fastener Division,pccfasteners.com,False
+"TI Group Automotive Systems, L.L.C.",tifluidsystems.com,False
+Clow Company,mcwane.com,False
+"Pentair, Inc.",pentair.com,True
+"Otsuka America, Inc.",otsuka-america.com,True
+Swagelok Company,aldvalve.com,False
+Carlstar Group,carlstargroup.com,False
+Anvil International,asc-es.com,True
+Helios Technologies,heliostechnologies.com,False
+CIRCOR,circor.com,True
+"Oil States International, Inc.",oilstatesintl.com,False
+NTN USA Corporation,ntnamericas.com,False
+Haywood Pool Products,hayward.com,False
+"Badger Meter, Inc.",badgermeter.com,False
+Eriks North America,lggindustrial.com,True
+"CELEROS FLOW TECHNOLOGY, LLC",celerosft.com,False
+BETA SYSTEMS OF VIRGINIA (CHESAPEAKE CI),vscfire.com,False
+"American Bath Group, LLC",americanbathgroup.com,False
+Enerpac Tool Group Corp.,enerpactoolgroup.com,False
+Victaulic Company of America,victaulic.com,False
+RK,rkindustries.com,False
+HBM Holdings Company,hbmholdings.com,True
+Victorville Industrial Minerals,jameshardie.com,False
+Koyo Bearings,jtekt-na.com,False
+S W Controls,fcxperformance.com,True
+Ruger,ruger.com,False
+Superior,superiorgroupofcompanies.com,False
+"Smith & Wesson Brands, Inc.",aob.com,False
+"General Dynamics Ordnance and Tactical Systems, Inc.",gd-ots.com,True
+Senior Operations LLC,seniorflexonics.com,True
+Pecue Contractors,performance-contractors.com,False
+ProDriven Global Brands,wernerco.com,False
+Nibco,nibco.com,False
+Honeywell Analytics Inc.,honeywellanalytics.com,False
+Robertshaw,robertshaw.com,True
+"Crestron Electronics, Inc.",crestron.com,False
+SMC,smcusa.com,False
+"Remington Arms Company, LLC",remington.com,False
+NN,nninc.com,False
+IPSCO Tubulars Inc.,tenaris.com,False
+Flexographic Printing & Laminating Center Of Excellence,americanpackaging.com,True
+OPW Fluid Transfer Group,opwglobal.com,True
+Bay Limited,bayltd.com,False
+Alfa Laval Inc.,alfalaval.com,True
+Weatherford Artificial Lifts Systems,weatherford.com,False
+"Armstrong International, Inc.",armstronginternational.com,True
+A.C.I.P.C.O.,american-usa.com,False
+Kaydon Corporation,kaydonbearings.com,True
+Communications Integrators,atkore.com,False
+Autojet Technologies,spray.com,True
+Rain Bird,rainbird.com,False
+Emerson Automation Solutions,morinact.com,False
+Sig Sauer Inc.,sigsauer.com,False
+"Asco, L.P.",ascopower.com,False
+"SRG Global Coatings, LLC",srgglobal.com,True
+Electromark Company,bradyid.com,False
+"Mubea, Inc.",mubea-discsprings.com,False
+Bray Controls USA,bray.com,False
+BIC Graphic Usa,corporate.bic.com,False
+National Presto,gopresto.com,True
+"Stanadyne Intermediate Holdings, LLC",stanadyne.com,False
+Federal Premium Ammunition,federalpremium.com,False
+Cash Acme,rwc.com,False
+Husco,husco.com,False
+KPS Global LLC,kpsglobal.com,True
+"Camaco, LLC",camacollc.com,False
+Samuel Associated Tube Group,samuel.com,False
+NTN-Bower Corporation,ntnbower.com,False
+"Ideal Tridon Holdings, Inc.",idealtridon.com,False
+Marmon Industrial LLC,marmon.com,True
+"Yarde Metals, Inc.",yarde.com,False
+Bowling Green Metalforming,visitbgky.com,True
+Honeywell Authorized Dealer,waldinger.com,True
+Rehau Incorporated,rehau.com,False
+JW Aluminum Company,jwaluminum.com,True
+Esco Technologies Holding LLC,escotechnologies.com,False
+Brass Craft Mfg Co,brasscraft.com,False
+KSB America Corporation,ksb.com,False
+IMI Precision Engineering,norgren.com,False
+Cerro Flow Products LLC,cerro.com,False
+"Setpoint Integrated Solutions, Inc.",setpointis.com,False
+Festo Corporation,festo.com,True
+AY McDonald Mfg Co,aymcdonald.com,False
+R F H,rf-holdings.com,False
+Albecca Inc,albeccainc.us,False
+Pacific Scientific,psemc.com,False
+Cross Precision Measurement,crossco.com,False
+IDEX Health & Science LLC,idex-hs.com,False
+Sloan Valve Co FKP,sloan.com,False
+"AMMO, Inc.",ammoinc.com,False
+Flotek,flotekind.com,False
+Nott,nottco.com,False
+National Hot Water,nationalwholesalesupply.com,False
+"Dunes Point Capital, L.P.",dunespointcapital.com,False
+Federal Resources,noble.com,False
+TOTO,totousa.com,False
+DE-STA-CO,destaco.com,False
+ValvTechnologies LLC,valv.com,False
+"McAbee Construction, Inc.",mcabeeconstruction.com,False
+"Bradley Company, LLC",bradleycorp.com,False
+Viega LLC,viega.us,False
+PMC Service Company,polkmechanical.com,False
+Zippo,zippo.com,False
+"Sigma International Group, Inc.",cname.sigmaco.com,False
+Morris Group International,morrisgroupint.com,True
+Control Southern Inc.,controlsouthern.com,False
+Medico Industries,medicoind.com,False
+HYDAC,hydac-na.com,False
+Zurn,zurn.com,False
+"Welspun Pipes, Inc.",welspunpipes.us.com,False
+BraunAbility,braunability.com,False
+Custom Pipe & Fabrication Inc.,custompipe.com,False
+Crane,craneco.com,False
+Sparkles,sparklingparty.com,True
+Star Pipe Products,starpipeproducts.com,False
+Johnson Screens,aqseptence.com,False
+Omega Flex,omegaflex.com,False
+Nammo Mesa,nammo.com,False
+CEI PLASTICS,kimray.com,False
+C P I,chatsworth.com,False
+"ITR Industries, Inc",americanspecialties.com,False
+Sooner Pipe,soonerinc.com,False
+Armtec Defense Technologies,armtecdefense.com,False
+Felker Fabrication,felkerbrothers.com,False
+BIC USA Inc.,uslogolighter.bic.com,False
+VFP Fire Systems,vikingsprinkler.com,False
+"Dezurik, Inc.",dezurik.com,False
+ANBM,ntn-snr.com,False
+Morris Group International,acorneng.com,True
+Womack,womackmachine.com,True
+Hays Div,romac.com,False
+Bonney Forge,bonneyforge.com,False
+Jonathan Engineered Solutions Corp.,jonathanengr.com,False
+HEARTLAND VALVE & CONTROLS,schimberg.com,False
+"Waxman Industries, Inc.",waxman.com,True
+YH America,yokohamaia.com,False
+Gortite,dynatect.com,False
+CARRIS COMMUNITY OF COMPANIES,carris.com,False
+"American BOA, Incorporated",americanboa.com,False
+PAS Technologies Inc.,standardaerocomponents.com,False
+Dixon Powhatan,dixonvalve.com,True
+Vacco Industries,vacco.com,False
+SPS,summitpackagingsystems.com,True
+Thetford LLC,thetford.com,False
+Chet Morrison Contractors,morrisonenergy.com,False
+Alaskan Copper Works,alcoinvestment.com,False
+Titeflex,titeflex.com,True
+M A C,macvalves.com,False
+Larson-Juhl US L L C,larsonjuhl.com,True
+"Engineered Controls International, LLC",regoproducts.com,False
+"Marotta Controls, Inc.",marotta.com,False
+TruGreen Limited Partnership,trugreen.com,False
+Vinson,vinsonprocess.com,False
+"Lindsay Irrigation Solutions, LLC",lindsay.com,False
+FNH USA,fnamerica.com,False
+"Kurz Transfer Products, LP",kurzusa.com,False
+Terra Cotta Holdings LLC,amtecomuseum.com,False
+trend TECHNOLOGIES,trendtechnologies.com,False
+Interstate Mfg & Supply (Div),spscompanies.com,False
+"Piping Technology & Products, Inc.",pipingtech.com,False
+"L3Harris Fuzing and Ordnance Systems, Inc.",l3harris.com,False
+"FRESNO VALVES & CASTINGS, INC.",fresnovalves.com,False
+Kadant Johnson LLC,kadant.com,True
+Waterpik Technologies,waterpik.com,False
+"Williams Bros. Health Care Pharmacy, Inc.",williamsbrospharmacy.com,False
+Handi-Foil Corp.,handi-foil.com,True
+Suncast Corporation,suncast.com,False
+Eagle Manufacturing Group,customer.usffab.com,False
+"Hutchinson Fluid Management Systems, Inc.",hutchinson.com,False
+"Kurt Manufacturing Company, Inc.",kurt.com,False
+Savage Arms,caliber.com,False
+Newport Brass,brasstech.com,False
+"Spirax Sarco, Inc.",spiraxsarco.com,True
+NMG Aerospace,nmgaerospace.com,False
+"Ansgar Industrial, LLC",ansgarindustrial.com,True
+US Synthetic Corporation,championx.com,False
+Crane Energy Flow Solutions,cranecpe.com,True
+First Alert,firstalert.com,False
+API,aeroprecisionusa.com,False
+Melling Automotive Products,melling.com,False
+Amtec Corporation,nationaldefensecorp.com,False
+"Icon Mechanical, L.L.C.",iconmech.com,False
+"Hydraforce, Inc.",hydraforce.com,False
+Tejas Tubular E.B.P.T.,tejastubular.com,False
+Rotor Clamp,rotorclip.com,False
+S.F.E. Group,fit-up-pro.com,False
+HILO INDUSTRIES,zoeller.com,False
+The Freeman Manufacturing & Supply Company,freemansupply.com,False
+Pennsylvania Steel Company Lucas Metals Division,pasteel.com,False
+"Forged Components, LLC",forgedcomponents.com,False
+"Circor Aerospace, Inc.",circoraerospace.com,False
+Day & Zimmermann Services,dayzim.com,False
+Beretta U.S.A. Corp.,beretta.com,False
+"Team Industries, Inc.",teamind.com,False
+"Globe Union Group, Inc.",en.globeunion.com,False
+"Barksdale, Inc.",barksdale.com,False
+Gulf Copper & Manufacturing Corporation,gulfcopper.com,False
+"CHAPIN MANUFACTURING, INC.",chapinmfg.com,False
+United Weld Holdings LP,oneepic.com,False
+Cannon Security Products,cannonsecurityproducts.com,False
+"Fire Safety and Protection, LLC",fire-sp.com,False
+"Voss Industries, LLC",vossindustries.com,False
+Lar Lu,wincraft.com,False
+IMI CCI,retrofit3d.com,False
+"Ward Manufacturing, LLC",wardmfg.com,False
+Mott Corporation,mottcorp.com,True
+Denso Air Systems Michigan Inc.,densocorp-na-asmi.com,False
+JPM,jmpco.com,False
+Spc Heating & Cooling,spcmechanical.com,False
+Petersen Medical,petersenmedical.com,False
+Timken Super Precision,tspcu.org,False
+"Globe Mechanical, Inc.",globefab.com,False
+Valcor Engineering Corporation,valcor.com,False
+Emerson Process Management,emersonprocess.com,False
+American Ordnance LLC,aollc.biz,False
+VIRGINA CAROLINA BELTING,rwconnection.com,True
+GUARDIAN STRAPPING,dubosestrapping.com,False
+HB JAEGER,iconixww.com,True
+Mill Products Division,tcindustries.com,False
+"Virginia Industries, Inc.",hartfordtechnologies.com,True
+Textron Defense Systems,textronsystems.com,False
+"Lawton Standard Co, The",calawton.com,False
+"Lake Air Products, LLC",lakeairmetals.com,False
+"Totten Tubes, Inc.",tottentubes.com,False
+CB&I Group Inc.,mcdermott.com,True
+Magnetic Technology,arnoldmagnetics.com,False
+"Bucher Hydraulics, Inc.",bucherhydraulics.com,False
+Dougherty Manufacturing,dmade.com,False
+Picut Industries Inc.,picutindustries.com,True
+"Sargent Aerospace & Defense, LLC",sargentaerospace.com,False
+"Hansgrohe, Inc.",hansgrohe-usa.com,False
+"Steward Machine Co., Inc.",stewardmachine.com,False
+Elringklinger USA Inc.,elringklinger-kunststoff.de,True
+"Kongsberg Defense & Aerospace, Inc.",kongsberg.com,False
+The Oilgear Company,oilgear.com,False
+"Betts Industries, Inc.",bettsind.com,False
+Flender Corporation,new.siemens.com,False
+"Curtis-Maruyasu America, Inc.",curtismaruyasu.com,False
+Precision Metal Works,pmw.bartellglobal.com,True
+INCOE,incoe.com,False
+Savage Sports Corporation,savagearms.com,False
+"Fire King International, LLC",fireking.com,False
+Norma Americas,normaamericasds.com,False
+"Acme Cryogenics, Inc.",opwces.com,False
+ENGINEERED PRODUCTS GROUP,dakotafluidpower.com,False
+"Continental Disc Corporation, LLC",contdisc.com,False
+"Polymer Industries, LLC",polymerindustries.com,False
+Precision Valve Holdings Corporation,precisionglobal.com,True
+Elkhart Products Corporation,elkhartproducts.com,False
+"Atlas Tubular, LLC",atlastubular.com,False
+Expressions Home Gallery,reece.com,False
+Velan Valve Corp.,velan.com,False
+"Promus Equity Partners, LLC",promusequity.com,True
+Townley Engineering & Mfg Co,townley.net,True
+"Kaman Precision Products, Inc.",kamansensors.com,False
+KAMATICS,kaman.com,False
+Duracraft Plastics,condocooplawyer.com,False
+Ebara America Corporation,ebaratech.com,True
+Pacific Sun Casual Furniture,forbesindustries.com,True
+"Valco Instruments Company, Inc",vici.com,False
+"PONTIAC COIL, INC.",pontiaccoil.com,False
+I P S,ipscontractor.com,False
+"Buyers Barricades, Inc.",buyersbarricades.com,False
+Balon,balon.com,False
+Penn Forged,pennusa.com,False
+CSFCo,csfco.com,True
+Neff Engineering,neffautomation.com,False
+"National Metalwares, L.P.",nationalmetalwares.com,False
+Custom-Flex,tru-flex.com,False
+Mossberg Corporation,mossberg.com,False
+Alloy Piping Products,alloypipingproducts.com,False
+"Cust-O-Fab, LLC",custofab.com,False
+Charter Mechanical,chartermechanical.com,True
+"BS&B Safety Systems, L.L.C.",bsbsystems.com,True
+Bearing Service Company,bearing-service.com,False
+Rhoads Marine Industries,rhoadsinc.com,True
+Medeco Security Locks,medeco.com,False
+Anchor Coupling Inc.,anchorcoupling.com,False
+"Integrated Technologies Group, Inc.",intetechgroup.com,False
+"Crissair, Inc.",crissair.com,False
+Flex-Tek Group LLC,flextekgroup.com,False
+Plews & Edelmann,plews-edelmann.com,False
+"Huber Technology, Inc.",huber-technology.com,False
+Cambridge Resources,codaresources.com,False
+Waterous Company,waterousco.com,False
+MCS Design,mcsframes.com,False
+American Roller Bearing Company,amroll.com,True
+Schrader Pacific Advanced Valves (Campbell Co),schrader-pacific.com,False
+"Deublin Company, LLC",deublin.com,True
+"Glock, Inc.",glocktraining.com,False
+Sherwood Valve,sherwoodvalve.com,False
+"Reelcraft Industries, Inc.",reelcraft.com,False
+Spirol International Holding Corporation,spirol.com,False
+Morton Industries LLC,mortonind.com,False
+STCI,superiortank.com,False
+"Cennox Security Products, LLC",cennoxsafes.com,False
+MTM Recognition,mtmrecognition.com,False
+Amsec,americansecuritysafes.com,False
+Central Machine & Tools,ptcoupling.com,False
+K L X,thehopegroup.com,False
+Aerofab,tubeproc.com,False
+"Price Engineering Company, LLC",priceeng.com,False
+Creform Corporation,creform.com,False
+Atlas Industrial Contractors,atlascos.com,True
+"Servotronics, Inc.",servotronics.com,False
+Apollo Retail Specialist,apolloretail.com,False
+Specialty Bar Products Company,stanleyengineeredfastening.com,False
+TITEFLEX AEROSPACE,stsaero.com,False
+RDT Intermediate Holdco LLC,tubosreunidosgroup.com,False
+J.L. Clark LLC,jlclark.com,True
+Royal Manufacturing,royal-mfg.com,False
+"FUTURE PIPE INDUSTRIES, INC.",futurepipe.com,True
+"Constantia Blythewood, LLC",cflex.com,True
+"ATW Companies, Inc.",atwcompanies.com,False
+Montebello,montebellopkg.com,False
+CSI,csiheat.com,False
+"Energy Absorption Systems, LLC",valtir.com,True
+Everflow,everflowsupplies.com,False
+ROCA TILE,rocatileusa.com,False
+Colder Products,cpcworldwide.com,True
+Mercer,mercervalve.net,False
+Delafield Fluid Technology,dftcorp.com,False
+RAPA,rapa.com,False
+T&S,tsbrass.com,True
+Salina Vortex Corp.,vortexvalves.com,False
+Schafer Gear Works-South Bend,schaferindustries.com,False
+SPSI,scottprocess.com,False
+"Fulfillment Center, The",imaginejet.net,False
+TECAN,tecan.com,False
+C P S,completeprototype.com,False
+"Echo Maintenance, L.L.C.",echomaintenance.com,True
+Hammond,milwaukeevalve.com,False
+Burkert Fluid Control Systems,burkert.com,True
+E F I,efi-solutions.com,False
+"World Wide Metric, Inc.",worldwidemetric.com,False
+Satellite,satelliteindustries.com,False
+DECKER MANUFACTURING COMPANY,deckernut.com,False
+"Hogan Mfg., Inc.",hoganmfg.com,False
+Arcmed,arcmedgroup.com,False
+"Spaeder, WM. T. Co., Inc.",spaeder.com,True
+Prince Manufacturing Corporation,princehyd.com,False
+"Bete Fog Nozzle, Inc.",bete.com,True
+CustomVault Convergint,convergint.com,False
+ARC Group Worldwide,arcw.com,False
+The Entwistle Company LLC,entwistleco.com,False
+"Timber Automation, LLC",timberna.com,False
+Hornady,hornady.com,False
+Honeywell Authorized Dealer,wasocal.com,False
+"Swan Surfaces, LLC",swanstone.com,False
+Hoerbiger Compression Technology America Holding,hoerbiger.com,False
+Valveworks USA,valveworksusa.com,False
+"CARPENTER & PATERSON, INC.",pipehangers.com,False
+PVA,pva.net,False
+FAPS Inc.,fapsinc.com,True
+Clampco,clampco.com,True
+Firetrace Aerospace,firetrace.com,True
+"STOKE SPACE TECHNOLOGIES, INC.",stokespace.com,False
+The Shaw Group LLC,theshawgrp.com,False
+"Kelco Industries, Inc.",kelcoind.com,False
+Jay R Smith Mfg Co,jrsmith.com,True
+"Industrial Magnetics, Inc.",magnetics.com,True
+ULTRA PURE SYSTEMS,upsipr.com,True
+MATCHLESS VALVE COMPANY,marshallexcelsior.com,True
+PBC Linear,pbclinear.com,False
+American Avk Co.,americanavk.com,False
+Jayco Manufacturing,tridentcomponents.com,False
+Dupont,dupont.com,False
+"Integris Composites, Inc.",integriscomposites.com,False
+"Symmons Industries, Inc.",symmons.com,False
+Bay-San Company,baysanco.com,False
+H.E. Newmann Co.,heneumann.com,False
+"Appellation Construction Services, LLC",appellationconstruction.com,False
+CITCO Water,citcowater.com,False
+Signature Hardware,signaturehardware.com,False
+TSCO,tubespecialties.com,False
+Sekisui Aerospac,sekisuiaerospace.com,False
+Perkins Power,deere.com,False
+"Franke Home Solutions North America, LLC",franke.com,True
+C4ATS,c4ats.com,True
+Tobul Accumulator,fst.com,False
+"Burt Process Equipment, Inc.",burtprocess.com,False
+"Custom Processing Services, Inc.",customprocessingservices.com,True
+"Aerofit, LLC",aerofit.com,True
+Huron Inc.,huroninc.com,False
+"Magnet Group, The",themagnetgroup.com,False
+"Henry Technologies,Inc. International Sales Co.",henry-group.net,True
+MFC,mfchose.com,True
+"KRISS Systems, SA",kriss-usa.com,False
+Browning Arms Company,browning.com,False
+Knds Usa Inc.,wegmannusa.com,False
+J D Rush Corporation,jdrushcorp.com,False
+"Kice Industries, Inc.",kice.com,True
+Fulflo Specialties Company,ruthmancompanies.com,True
+Robeck,robeckfluidpower.com,True
+Kidde Fire Fighting,nationalfoam.com,False
+"Asahi/America, Inc.",asahi-america.com,False
+Hawe Hydraulics,hawe.com,False
+Samson Project Engineering,usa.samsongroup.com,False
+Convenience Products,claytoncorp.com,True
+Woodford Manufacturing Co,woodfordmfg.com,False
+"Micro Matic USA, Inc.",micromatic.com,True
+AST Bearings LLC,astbearings.com,True
+"Thomson Industries, Inc.",thomsonlinear.com,True
+Alkon Corporation,alkoncorp.com,False
+Task Force Tips LLC,tft.com,False
+AO Precision Manufacturing LLC,aopmfg.com,False
+Boccard USA,boccard.com,True
+Scully Data Systems,scully.com,False
+"Tente Casters, Inc.",tente.com,False
+Pioneer Group,pioneergroup.us,False
+JWM COENEN,coenenmechanical.com,True
+"Gemu Valves, Inc.",gemu-group.com,True
+JOHN DEERE AUTHORIZED DEALER,tradewindspower.com,False
+Talaris Inc.,talaristx.com,True
+MPV Morganton Pressure Vessels North Carolina L.L.C.,morgantonpv.com,False
+Vallourec Industries Inc,vallourec.com,False
+Idex Band IT,band-it-idex.com,True
+Micro Air - Division of Metal-Fab,metal-fabcommercial.com,False
+"Corrosion Products, Inc.",corrosion-products.com,False
+"John M. Ellsworth Co., Inc.",jmesales.com,False
+Fluid Transfer,leeind.com,True
+"Alfred Conhagen, Inc.",conhagen.com,False
+A G M,agmcontainer.com,False
+Kilian Manufacturing,kilianbearings.com,True
+University Swaging Corporation,pccaero.com,False
+Westlock Controls Corporation,westlockcontrols.com,True
+Harco,harcofittings.com,False
+Durable Packaging International,durablepackaging.com,True
+"Keller Fire & Safety, Inc.",kellerfire.com,True
+"Custom Fab, Inc.",uspipe.com,True
+4 Guy's Firetrucks,4guysfire.com,False
+"S-P COMPANY, INC.",spplus.com,False
+Federal Hose Manufacturing,federalhose.com,False
+Pts Vam Co,vam-usa.com,False
+MonroeOne,monroeengineering.com,True
+Contractor Access,ez-flo.net,False
+"Dyna Group International, Inc",gap1.com,False
+"Cashco, Inc.",cashco.com,True
+Top Line Process Equipment,alleghenybradford.com,True
+"ZSI-Foster, Inc.",zsi-foster.com,False
+Coxreels,coxreels.com,True
+Crosman Corporation,crosman.com,False
+"Fernco Joint Sealer Company, The",fernco.com,False
+"Acme Barricades, L.C.",acmebarricades.com,False
+Civacon,knappco.com,True
+Nachi,nachitech.com,False
+"Formall, Inc.",formall.com,False
+"Green Leaf, Inc.",green-leaf.us,False
+L & J Technologies,ljtechnologies.com,True
+TAPCOENPRO,tapcoenpro.com,False
+Amazon Hose & Rubber Co.,amazonhose.com,False
+"Reich, LLC",reich-llc.com,True
+Industrial Fabricators of Corpus Christi,indfabcc.com,False
+"Hampshire Fire Protection Co., LLC",hampshirefire.com,False
+APD,airpowerdynamics.com,False
+Panoramic Doors LLC,panoramicdoors.com,False
+Lisega Inc.,lisega.de,False
+"ALLOY PRECISION TECHNOLOGIES, INC.",alloyprecisiontech.com,False
+"Harris Pacific Northwest, LLC",harriscompany.com,False
+Williams Machine and Tool,energymfg.com,False
+Rogerson Aircraft Corporation,rogerson.com,False
+"Brewer & Company Of West Virginia, Inc.",brewerfire.com,False
+Fab-Lite,metalworks1.com,False
+Bootz Industries,bootz.com,False
+Versteel,dittosales.com,False
+"Hall Industries, Incorporated",hallindustries.com,False
+Alacriant Inc.,alacriant.com,False
+"Tube Forgings of America, Inc.",tubeforgings.com,False
+Vat Incorporated,vatvalve.com,False
+"CDI Industrial And Mechanical Contractors, Inc.",cdikc.com,False
+"JCM Industries, Inc.",jcmindustries.com,False
+Great Lakes Data Racks & Cabinets,greatcabinets.com,False
+Watson Mcdaniel Company,watsonmcdaniel.com,False
+Alaskan Copper & Brass Co,alascop.com,False
+Weaver Manufacturing,weavermanufacturing.com,False
+"Texas Pipe Works, Inc.",texaspipeworks.com,True
+National Manufacturing,tmcoinc.com,False
+Crane Movats,cranenuclear.com,False
+Onesubsea LLC,onesubsea.slb.com,False
+HOSE CONNECTIONS & HYDRAULICS,geibind.com,False
+"Primitives By Kathy, Inc.",primitivesbykathy.com,False
+Rotek,thyssenkrupp-rotheerde.com,False
+SSP,myssp.com,False
+"Alliance Industries, Inc.",alliance-industries.com,False
+EXEL Industries group,sames.com,False
+Divine Bros,divinebrothers.com,False
+IGS Industries Inc.,igsind.com,False
+Shelby Welded Tube Div,phillipstube.com,False
+"High Pressure Equipment Company, Inc.",highpressure.com,False
+Water Saver Faucet Co.,wsflab.com,False
+Carlson Tool & Manufacturing Corp.,carlsontool.com,False
+"Nor-Ral, Inc.",norral.com,False
+"Therm-Omega-Tech, Inc",thermomegatech.com,False
+Elliott Manufacturing,elliottmfg.com,False
+Hadady Corporation,hadadycorp.com,False
+Tigre USA Inc.,tigreusa.com,False
+Ore Fab,oregoncascade.com,False
+"Ameri-Fab, LLC",amerifabllc.com,False
+"Darling Industries, Inc.",redarling.com,False
+GNB Vacuum Excellence Defined,vacuumchamber.com,False
+Tidel,tidel.com,False
+C & C FABRICATION AND PIPING,candcindustrial.com,False
+Energy Transfer,durafintube.com,False
+MASS Systems,ameronglobal.com,True
+Waterstone Faucets,waterstoneco.com,True
+"Elringklinger North America, Inc.",elringklinger.de,False
+E D C O,edcoinc.com,False
+Carter Manufacturing,carterbearings.com,True
+Ballymore Company,ballymore.com,False
+Americh Corporation,americh.com,False
+"HY-PRODUCTION, LLC",hy-production.com,True
+"Wagner Companies, The",wagnercompanies.com,False
+"Anamet Electrical, Inc.",anacondasealtite.com,True
+PFEIFFER VACUUM VALVES & ENGINEERING,n-c.com,True
+"Fiocchi of America, Inc.",fiocchiusa.com,False
+"Rural Electric, Inc.",ruralelectric.com,False
+Springfield Armory,springfield-armory.com,False
+Kenney Manufacturing Company,kenney.com,False
+"Catalina Cylinders, Inc.",catalinacylinders.com,True
+WB,plumbmaster.com,False
+SCP Limited,scplimited.com,False
+JEM Technical,jemtechnical.com,True
+"Jaco Direct, Inc.",jacoinc.com,False
+"K & S Wire Products, Inc.",kandswire.com,False
+Honeywell Smart Energy,automation.honeywell.com,False
+"Valterra Products, LLC",valterra.com,False
+"J/B Industries, Inc.",jbind.com,False
+Tubular Dispatch,pittsburghpipe.com,False
+Kerotest Manufacturing Corp.,kerotest.com,False
+PVD COATINGS,calfaucets.com,False
+Pursuit Aerospace,uticausa.com,False
+Bennett Company,fabco-air.com,False
+Unisource,unisource-mfg.com,True
+IDEX Energy AFS,idexenergy.com,False
+C M Products,dwfinepack.com,True
+"Advance Tabco, Inc.",advancetabco.com,True
+"Alfagomma America, Inc.",alfagomma.com,False
+Schatz Bearing Corporation,schatzbearing.com,False
+Highland Supply Corporation,highlandsupply.com,False
+"Shells, Inc.",shellsinc.com,False
+GHN,nopak.com,False
+VNE Corporation,vnestainless.com,True
+"Metglas, Inc.",metglas.com,False
+I H P,ihpindustrial.com,False
+"MEJ 1933, Inc.",justmfg.com,False
+Thomas & Skinner Inc,thomas-skinner.com,False
+Rural King Distributing,rkguns.com,False
+L M I,larrymethvin.com,True
+"Quackenbush Co., Inc.",qcoinc.com,False
+"Thermacor Process, Inc.",thermacor.com,False
+"Maruichi Oregon Steel Tube, LLC",most.us.com,False
+Eder Metal Letter Co Div,ederflag.com,False
+"Hofmann Industries, Inc.",hofmann.com,True
+SIP Industries,sipindustries.com,False
+SCCY Firearms,sccy.com,False
+"Schwab Industries, Inc.",schwabind.com,False
+"Dakota Tube, Inc.",dakotatube.com,False
+Kerkau Manufacturing Company,kerkau.com,True
+ELECTRI-FLEX COMPANY,electriflex.com,True
+"United Group Services, Inc.",united-gs.com,True
+Swagelok Northern California,northerncal.swagelok.com,False
+C.I. Actuation,ciactuation.com,False
+"Hydro Tube Enterprises, Inc.",hydrotube.com,False
+Curtis Products Inc,curtisproducts.com,False
+Lab Design,fencolabs.com,True
+Phoenix Hotform,phoenixforge.com,False
+Young & Franklin Inc.,yf.com,False
+Concoa America,concoa.com,False
+"Lynn Ladder And Scaffolding Co., Inc.",lynnladderandscaffolding.com,True
+L & W Engineering Inc,lw-eng.com,False
+O C Mcdonald Co Inc,ocmcdonald.com,False
+General Plug And Manufacturing Co.,generalplug.com,False
+Ricon Corporation,riconcorp.com,False
+Powell Valve,powellvalves.com,False
+PBM Valve Solutions,pbmvalve.com,True
+"DANIEL DEFENSE, LLC",danieldefense.com,False
+Utility Equipment Company,utilityequipmentco.com,False
+Seachrome,seachrome.com,False
+VERSA VALVES,versa-valves.com,False
+"V.H. Blackinton & Co., Inc.",blackinton.com,False
+WM. Steinen Mfg. Co.,steinen.com,False
+Fujikoki America Inc.,fujikoki.us,False
+Cobey Inc.,cobey.com,False
+Cortec Fluid Control,uscortec.com,False
+ANCorp,ancorp.com,False
+Dapco Industries,dapcoind.com,False
+Magnum Inks & Coatings,magnummagnetics.com,True
+Gleason Reel,hubbell.com,False
+Dust Control & Loading Systems,dclinc.com,True
+"HVAC Mechanical Contracto, Plumbing, Pipefitting and 24 Hour Service",jfeldkampdesignbuild.com,False
+MobilityWorks,mobilityworks.com,False
+Action Manufacturing Company,action-mfg.com,False
+"Lourdes Industries, Inc.",lourdesinc.com,False
+Advantage Fire Security Integration,advantagefireprotection.com,False
+Aerocontrolex,aerocontrolex.com,False
+"MIFAB, Inc.",mifab.com,False
+United Brass Works,ubw.com,False
+Infinity Drain Ltd.,infinitydrain.com,False
+"Sanborn Tube Sales of Wisconsin, Inc.",sanborntube.com,True
+Leading Edge Hydraulics,leadingedgegroupinc.com,False
+Chemetal Division,treefrogveneer.com,False
+INTERFUZE Corporation,interfuze.com,False
+OFS International LLC,ofsint.com,False
+T M B,tmb.com,False
+"Crown Roll Leaf, Inc.",crownrollleaf.com,True
+"ECK Industries, Inc.",eckindustries.com,False
+Val-Matic Valve and Manufacturing Corporation,valmatic.com,False
+OGS Industries,ogsindustries.com,False
+Jerguson,clarkreliance.com,True
+Western Flat Rolled Steel & Processing,sisteel.com,False
+GRISWOLD CONTROLS,griswoldcontrols.com,False
+"American Hose & Hydraulic Co., Inc.",americanhose.net,False
+ITW ShineMark,itwshinemark.com,True
+"Sauer Compressors USA, Inc.",sauerusa.com,True
+"Ladish Valve Company, LLC",ladishvalves.com,False
+Armstrong Mold Corporation,armstrongrm.com,False
+Homewerks Worldwide,homewerks.com,False
+"IKO International, Inc.",ikont.com,True
+Tennessee Tubebending Division,morriscoupling.com,False
+"APEX Piping Systems, Inc.",apexpiping.com,False
+Scott Rotary Seals,dsti.com,True
+Sissco Division,permadur.com,False
+"Builder's Best, Inc.",buildersbest.com,False
+PHS/MWA Aviation Services,wencor.com,False
+G M T,gmt-inc.com,True
+Tactair,tactair.com,True
+PLIDCO Pipeline Repair & Pipeline Maintenance Company,plidco.com,False
+Midland Industries,midlandindustries.com,False
+"Pipeline Construction & Maintenance, Inc.",pcminc.com,False
+Clarion Bathware,clarionbathware.com,False
+"The E.A. Patten Co., LLC",parked.sbdinc.com,False
+Propulse,powermovingforward.com,False
+"Midwest Ironworks, LLC",midwestironworksllc.com,True
+W INTERNATIONAL,vividllc.com,True
+OsecoElfab,osecoelfab.com,True
+Thogus Products Company,thogus.com,False
+"Wieland-Kessler, LLC",ksdusa.com,False
+Perma-View,millsproducts.com,False
+FS Solutions,waterblast.com,True
+CITY GLASS AND MIRROR,arrowglassindustries.com,False
+"Universal Tube, Inc.",universaltube.com,False
+"Conval, Inc.",conval.com,False
+"Standard Locknut, L.L.C.",miether.com,False
+Pittsfield Of Indiana,pittsfieldproducts.com,True
+Lanzen Fabricating,lanzen.com,False
+Chicago Metal Rolled Products,cmrp.com,False
+NFT,nucfil-llc-in-golden-co.cityfos.com,False
+Weir Seaboard International,seaboardinternationalenergy.com,False
+The Spencer Turbine Company,chartindustries.com,False
+Airmax Ecosystem,thepondguy.com,False
+Sono-Tek,sono-tek.com,False
+Badaro Group,pelicansinks.com,False
+"Patriot Machine, Inc.",patriotmachine.com,False
+"Metal Culverts, Inc.",metalculverts.com,False
+"Hannay Reels, Inc.",hannay.com,False
+"Nog, Inc.",fabmet.com,False
+Barrett,barrett.net,False
+"Cal-Weld, Inc.",cal-weld.com,False
+"Ross Valve Manufacturing Company, Inc.",rossvalve.us,False
+EbnerFab,ebnerfab.com,False
+Fox Run Craftmen,foxrunbrands.com,False
+Instrutech,instrutechinc.com,False
+Combined Tactical Systems,combinedsystems.com,True
+Metpar Corp.,metpar.com,False
+Ram Company,ramasd.com,False
+Husky,husky.com,False
+AMERICAN REELS,uea-inc.com,True
+Lakos,lakos.com,False
+CIRCOR,lesliecontrols.com,False
+Remarms LLC,remarms.com,False
+"Hydro Systems, Inc.",hydrosystem.com,False
+"Bohn And Dawson, Incorporated",bdiweldedtubing.com,False
+Dimar Manufacturing Corporation,dimarmfg.com,False
+Precision Tube Bending,precision-tube-bending.com,False
+Mill Tek Metals,milleniapg.com,False
+Power Components,dadco.net,False
+Frantz Bearing Division,frantz-mfg.com,False
+"Lechler, Inc.",lechlerusa.com,True
+"Peter Paul Electronics Co., Inc.",peterpaul.com,False
+Nelson Irrigation,nelsonirrigation.com,False
+CMS,frostinc.com,True
+PictureFrames.com,pictureframes.com,False
+"Fort Recovery Industries, Inc.",fortrecoveryindustries.com,False
+"Pedal Valves, Inc.",pedalvalve.com,False
+Shickel,shickel.com,False
+"Mueller Streamline II, LLC",muellerstreamline.com,False
+Henry Repeating Arms Billing,henrywisconsin.com,True
+PEERLESS,peerless-inc.com,True
+American Darling Valve,avhmc.com,False
+McGill Hose,mcgillhose.com,True
+Manufacturing,nkc-j.co.jp,False
+Valve Research & Manufacturing Co,valveresearch.com,False
+"Generant Company, Inc.",generant.com,False
+"Power Process Piping, Inc.",ppphq.com,True
+"Industrial Valco, Inc.",ivalco.com,False
+Alaska Roteq Corporation,akroteq.com,True
+"Flo-tite, Inc. Valves And Controls",flotite.com,False
+Wm Lyles Co,lylesgroup.com,False
+"Neoperl, Inc.",neoperl.com,False
+KEY WEST MECHANICAL,keywestmetal.com,True
+E E C,electronenergy.com,False
+"Flexitech, Inc.",flexitech.com,False
+All Tube Div,microgroup.com,False
+Dakota Barrel Threading,silencercentral.com,False
+"Flow-Tek, Inc.",flow-tek.com,True
+Wendell August Forge,wendellaugust.com,False
+Graepel,graepel.de,False
+Troy Tube & Manufacturing Co.,troytube.com,True
+"The Dixon Group, Inc",europe.dixonvalve.com,True
+Sierra Alloys Company,sierraalloys.com,False
+Stauff Corporation,stauffusa.com,False
+ENERTROLS,acecontrols.com,False
+Fluid Sealing Products,fluidsealingproducts.com,False
+"Precision Fluid Controls, Inc.",precisionfluidcontrols.com,False
+Pelsue Co,pelsue.com,False
+"Metal Trades, LLC",metaltrades.com,False
+"Van Dyken Mechanical, Inc.",vdminc.com,False
+"C & B Piping, Inc.",cbpiping.com,True
+Exhaust Tech,dynaflexproducts.com,False
+"KI Industries, Inc.",kiindustries.com,False
+"Strahman Valves, Inc.",strahmangroup.com,True
+"Advantech Industries, Inc.",advantechindustries.com,False
+Velocity Outdoor Inc.,velocity-outdoor.com,False
+STI International,staccato2011.com,False
+BRIGADE QM (PRINCE GEORGE CO),iragreen.com,False
+Nikon AM Synergy Inc.,morf3d.com,False
+Flodar Fluid Power Fittings Div,ldi-industries.com,False
+Croscill,croscill.com,False
+"Evans Components, Inc.",evanscomponents.com,False
+Virginia Pipe & Supply,vscfirearchive.mhpteamsi.com,False
+"Diversified Metal Fabricators, Inc.",dmfatlanta.com,False
+PLAE Vertical Incorporated,plae.us,False
+"Nosler, Inc.",nosler.com,False
+"Paumac Tubing, L.L.C.",paumactubing.com,False
+Metraflex,metraflex.com,False
+AMERICAN FAUCET & COATINGS CORPORATION,afccorp.net,True
+Valor Tactical Innovation,valortactical.us,False
+Maxton Manufacturing,maxtonvalve.com,False
+"MCNEAL ENTERPRISES, INC.",mcneal.com,False
+D & D Investments Equipment,burgaflexna.com,False
+"D. L. George & Sons Manufacturing, Inc.",dl-george.com,True
+"Traffic Control Products of Florida, Inc.",trafficcontrolproducts.org,False
+COLT DEFENSE HOLDING,colt.com,False
+"The Meramec Group, Inc.",meramec.com,False
+Tacticon Armament,tacticon.com,False
+C M E,custom-mfg-eng.com,False
+"Aerospace Systems And Components, Inc.",asc-aero.com,False
+Brand Hydraulics Co.,brand-hyd.com,False
+Shepherds Flat,caithnessenergy.com,False
+"Bonomi North America, Inc.",bonominorthamerica.com,False
+"BWXT Y - 12, LLC",bwxt.com,True
+"Big Elk Energy Systems, LLC",bigelk.com,False
+"Bailey International, L.L.C.",baileyhydraulics.com,False
+"Jabil Silver Creek, Inc.",oakmontseniorliving.com,False
+Allied International,alliedtools.com,False
+Calbond,calpipe.com,False
+Sea-Fire,sea-fire.com,False
+Pipe Fabricating & Supply Co.,pipefab.com,False
+Spancrete Great Lakes,kerkstra.com,False
+Brief Relief,americaninnotek.com,False
+"CULLEN CONSTRUCTION, INC.",sharlen.com,False
+TenPoint Crossbow Technologies,tenpointcrossbows.com,False
+UPBEAT,anovafurnishings.com,False
+"Tube Specialties, Inc.",tubespecialtiesinc.com,False
+FMI,flexiblemetal.com,False
+Merrill Manufacturing Company,merrillmfg.com,False
+"FAXON MACHINING, LLC",faxon-machining.com,False
+Threat Tec,threattec.com,False
+"Titan Flow Control, Inc.",titanfci.com,False
+"Canfield Industries, Inc.",canfieldindustries.net,False
+Screw Machine Products,nrpjones.com,True
+WP Manufacturing,happy-perch.com,True
+The Netherland Rubber Company,netherlandrubber.com,False
+"MACHINE CENTER, THE",casterconcepts.com,False
+Berkley Risk,berkleyrisk.com,False
+T M S,tmsinc.net,False
+Hy-tech Engineered Solutions,hy-techinc.com,False
+CUI Distribution,cuiheat.com,False
+"Southeastern Hose, Inc.",sehose.com,False
+Mc Coy Sales,mccoysaleskc.com,False
+"Lapeyre Stair, Inc.",lapeyrestair.com,True
+"Carley Foundry, Inc.",carleyfoundry.com,False
+Permalert E S P,permapipe.com,False
+Schutte & Koerting,s-k.com,True
+Magnet Source,magnetsource.com,False
+"LGS Plumbing, Inc.",lgsplumbing.com,False
+"Rosedale Products, Inc.",rosedaleproducts.com,True
+Edmund A. Gray Co.,eagray.com,False
+"Weatherby, Inc.",weatherby.com,False
+"NJS SYSTEMS & CONTROLS,LLC",njsco.com,True
+Botach Tactical,botach.com,False
+"Production Basics, Inc.",pbasics.com,False
+"Spokane House of Hose, Inc.",spokanehose.com,False
+M C E,mceproducts.com,False
+"Faxon Engineering Company, Incorporated The",faxonengineering.com,False
+"EOS Defense Systems USA, Inc.",eosdsusa.com,False
+K C P,kirtlandcapital.com,False
+"Chicago Metal Fabricators, Inc.",chicagometal.com,False
+Petal Lane,petallane.com,False
+Taprite,taprite.com,True
+Flow-Rite,flow-rite.com,False
+Legend Fitness,legendfitness.com,False
+PowerBelt Bullet Company,bpioutdoors.com,False
+"Millennium Power Services, Inc.",millenniumpower.net,False
+"Gwynedd Manufacturing, Inc.",gwyneddmfg.com,False
+Technifab,technifab.com,True
+"Knox Company, The",knoxbox.com,False
+Acorn Vac,acornvac.com,False
+John Thomas Company,jtitraffic.com,False
+"Met Weld International, LLC",metweldintl.com,False
+Thomas Regout Inc.,heightadjustablemounts.com,False
+Cavagna North America Inc,cavagnana.com,False
+"METAL KRAFT INDUSTRIES, INC.",metalkraftpm.com,False
+"Sunspring America, Inc.",ssa.sunspring.com,True
+"Winkle Industries, Inc.",winkleindustries.com,False
+Dexmet Corporation,dexmet.com,False
+HF CONTROLS CORPORATION,hfcontrols.com,False
+"R. S. Harritan & Company, Inc.",rsharritan.com,False
+"NRD, LLC",nrdllc.com,False
+"The R. M. Wright Company, Inc.",rmwrightco.com,False
+"Bravo Company USA, Inc.",bravocompanyusa.com,False
+RWM Casters,rwmcasters.com,False
+"Metal Works Of High Point, Inc.",metalworkshp.com,False
+"Key Gas Components, Inc.",keygas.com,False
+KZvalve,kzvalve.com,False
+VersaTube Building Systems,versatube.com,False
+GERLINGER STEEL & SUPPLY CO.,gerlinger.com,False
+Napoleon Engineering Services,nesbearings.com,False
+"CAMOZZI AUTOMATION, INC.",us.automation.camozzi.com,False
+"Superior Products, LLC",superiorprod.com,False
+"Industrial Resources, Inc.",indres.com,False
+Global Metal Works,globalaffinityinc.com,False
+BOV Solutions,bovsolutions.com,True
+Continental Fabricators Incorporated,confabinc.com,False
+North American Engineering Center,tri-sen.com,False
+United Division,midcityfoundry.com,False
+"IRONSMITH FIRE, LLC",ironsmithfire.com,False
+Elliott,elliott-tool.com,False
+"Systems 3, Inc.",systems3.net,False
