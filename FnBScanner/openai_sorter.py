@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 client = AsyncOpenAI(api_key=os.getenv('OPENAI_KEY'))
-DATA_FILE = "./FnBScanner/DATA_267_ai.json" # OUTPUT FILE
+DATA_FILE = "./FnBScanner/DATA_319_ensun_ai.json" # OUTPUT FILE
 
-with open("./FnBScanner/DATA_267.json", "r", encoding="utf-8") as file:
+with open("./FnBScanner/DATA_319_ensun.json", "r", encoding="utf-8") as file:
     jsonData = json.load(file)
 
 def read_data_file():
