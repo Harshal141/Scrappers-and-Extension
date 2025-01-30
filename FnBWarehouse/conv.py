@@ -28,8 +28,8 @@ import json
 import os
 from utility import cleanDomain
 
-input_file = "./FnBWarehouse/DATA_319_ensun.json"
-output_file ="./FnBWarehouse/DATA_319_ensun_i.json"
+input_file = "FnBWarehouse/DATA_330_thomas.json"
+output_file ="FnBWarehouse/DATA_330_thomas_i.json"
 
 with open(input_file, 'r') as file:
     data = json.load(file)

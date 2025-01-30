@@ -40,8 +40,8 @@ def process_json_to_csv(input_file, output_file):
         print(f"An error occurred: {e}")
 
 # Specify input and output file paths
-input_json_file = "./FnBScanner/DATA_319_ensun_ai.json"  # Replace with the path to your JSON file
-output_csv_file = "./FnBScanner/DATA_319_ensun_result.csv"  # Replace with the desired CSV output path
+input_json_file = "FnBScanner/DATA_330_thomas3_ai.json"  # Replace with the path to your JSON file
+output_csv_file = "FnBScanner/DATA_330_thomas3_result.json"  # Replace with the desired CSV output path
 
 # Call the function
 process_json_to_csv(input_json_file, output_csv_file)
