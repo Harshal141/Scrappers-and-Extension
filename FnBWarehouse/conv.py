@@ -28,8 +28,8 @@ import json
 import os
 from utility import cleanDomain
 
-input_file = "FnBWarehouse/DATA_330_thomas.json"
-output_file ="FnBWarehouse/DATA_330_thomas_i.json"
+input_file = "output.json"
+output_file ="source.json"
 
 with open(input_file, 'r') as file:
     data = json.load(file)
@@ -42,13 +42,17 @@ for entry in data:
 
 # Replace 'id' with 'index' and create a list of unique entries
 processed_data = []
+unique_domain = set()
 for index, (name, entry) in enumerate(unique_data.items(), start=1):
     domain = cleanDomain(entry['url'])
+    if domain in unique_domain:
+        continue
     processed_data.append({
         'index': index,
         'name': entry['name'],
         'url': domain
     })
+    unique_domain.add(domain)
 
 # Write the processed data to the output file
 with open(output_file, 'w') as file:
