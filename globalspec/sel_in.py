@@ -62,7 +62,7 @@ try:
                 print(f"❌ Could not extract URL for {company_name}: {e}")
 
             # Slow down requests to prevent detection
-            time.sleep(3)
+            time.sleep(5)
 
             # Save in batches of 500
             if len(data_out) % batch_size == 0:

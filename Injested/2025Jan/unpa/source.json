@@ -1,0 +1,577 @@
+[
+    {
+        "index": 1,
+        "name": "ACG North America",
+        "url": "acg-world.com"
+    },
+    {
+        "index": 2,
+        "name": "Advanced Powder Dynamics",
+        "url": "apdynamics.com"
+    },
+    {
+        "index": 3,
+        "name": "AdvoCare Intl, LLC",
+        "url": "advocare.com"
+    },
+    {
+        "index": 4,
+        "name": "Agilent Technologies",
+        "url": "agilent.com"
+    },
+    {
+        "index": 5,
+        "name": "Alkemist Labs",
+        "url": "alkemist.com"
+    },
+    {
+        "index": 6,
+        "name": "American Association of Naturopathic Physicians",
+        "url": "naturopathic.org"
+    },
+    {
+        "index": 7,
+        "name": "American Botanical Council",
+        "url": "herbalgram.org"
+    },
+    {
+        "index": 8,
+        "name": "American Herbal Pharmacopoeia",
+        "url": "herbal-ahp.org"
+    },
+    {
+        "index": 9,
+        "name": "Amin Wasserman Gurnani",
+        "url": "awglaw.com"
+    },
+    {
+        "index": 10,
+        "name": "Applied Food Sciences, Inc",
+        "url": "appliedfoods.com"
+    },
+    {
+        "index": 11,
+        "name": "Arizona Nutritional Supplements",
+        "url": "aznutritional.com"
+    },
+    {
+        "index": 12,
+        "name": "Ataqua Regulatory Services",
+        "url": "ataquars.com"
+    },
+    {
+        "index": 13,
+        "name": "Banned Substances Control Group",
+        "url": "bscg.org"
+    },
+    {
+        "index": 14,
+        "name": "Bastyr University",
+        "url": "bastyr.edu"
+    },
+    {
+        "index": 15,
+        "name": "Bayne & Associates",
+        "url": "bayne-associates.com"
+    },
+    {
+        "index": 16,
+        "name": "Bend, LLC",
+        "url": "linkedin.com"
+    },
+    {
+        "index": 17,
+        "name": "BioNap USA, Inc",
+        "url": "bionap.com"
+    },
+    {
+        "index": 18,
+        "name": "BioResponse",
+        "url": "bioresponse.com"
+    },
+    {
+        "index": 19,
+        "name": "Botanical Liaisons",
+        "url": "botanicalliaisons.com"
+    },
+    {
+        "index": 21,
+        "name": "British Columbia Institute of Technology",
+        "url": "bcit.ca"
+    },
+    {
+        "index": 23,
+        "name": "Calroy Health Sciences",
+        "url": "calroy.com"
+    },
+    {
+        "index": 24,
+        "name": "CAMAG Scientific",
+        "url": "camag.com"
+    },
+    {
+        "index": 25,
+        "name": "Canomiks",
+        "url": "canomiks.com"
+    },
+    {
+        "index": 26,
+        "name": "China Nutrition and Health Food Association",
+        "url": "cnhfa.org.cn"
+    },
+    {
+        "index": 27,
+        "name": "CoQ10 Association",
+        "url": "coq10association.org"
+    },
+    {
+        "index": 28,
+        "name": "Cultivate Biologics",
+        "url": "cultivatebiologics.com"
+    },
+    {
+        "index": 29,
+        "name": "Doctor\u2019s Best",
+        "url": "drbvitamins.com"
+    },
+    {
+        "index": 30,
+        "name": "Ethical Naturals",
+        "url": "ethicalnaturals.com"
+    },
+    {
+        "index": 31,
+        "name": "Eurofins Scientific",
+        "url": "eurofins.com"
+    },
+    {
+        "index": 32,
+        "name": "Facilities Consulting NW, LLC",
+        "url": "facilitiesconsultingnw.com"
+    },
+    {
+        "index": 33,
+        "name": "FDA Compliance Group",
+        "url": "fdacg.com"
+    },
+    {
+        "index": 34,
+        "name": "FDA Compliance Simplified",
+        "url": "fdasimplified.com"
+    },
+    {
+        "index": 35,
+        "name": "Flora Research Laboratories",
+        "url": "floraresearch.com"
+    },
+    {
+        "index": 36,
+        "name": "FoodChain ID",
+        "url": "foodchainid.com"
+    },
+    {
+        "index": 37,
+        "name": "Future Nutra Foundation",
+        "url": "futurenutra.org"
+    },
+    {
+        "index": 38,
+        "name": "Global Nutrition Group",
+        "url": "global-nutrition.co.jp"
+    },
+    {
+        "index": 39,
+        "name": "Global Organization for EPA & DHA Omega-3s",
+        "url": "goedomega3.com"
+    },
+    {
+        "index": 40,
+        "name": "Greenberg Traurig, LLP",
+        "url": "gtlaw.com"
+    },
+    {
+        "index": 42,
+        "name": "Holistic Primary Care",
+        "url": "holisticprimarycare.net"
+    },
+    {
+        "index": 43,
+        "name": "HPTLC Association",
+        "url": "hptlc-association.org"
+    },
+    {
+        "index": 44,
+        "name": "Indena USA",
+        "url": "indena.com"
+    },
+    {
+        "index": 45,
+        "name": "Industry Transparency Center",
+        "url": "itcstrategy.com"
+    },
+    {
+        "index": 46,
+        "name": "Informa Health & Nutrition",
+        "url": "informa.com"
+    },
+    {
+        "index": 47,
+        "name": "INSUR-WEST",
+        "url": "insur-west.com"
+    },
+    {
+        "index": 48,
+        "name": "International Alliance of Dietary /Food Supplement Associations",
+        "url": "iadsa.org"
+    },
+    {
+        "index": 49,
+        "name": "International Marketing Co.",
+        "url": "imc22.com"
+    },
+    {
+        "index": 50,
+        "name": "International Probiotics Association",
+        "url": "internationalprobiotics.org"
+    },
+    {
+        "index": 51,
+        "name": "INW | Capstone Nutrition, LLC",
+        "url": "inw-group.com"
+    },
+    {
+        "index": 52,
+        "name": "ISURA",
+        "url": "isura.ca"
+    },
+    {
+        "index": 53,
+        "name": "Jigsaw Health",
+        "url": "jigsawhealth.com"
+    },
+    {
+        "index": 54,
+        "name": "Joy\u2019s Quality Management Systems",
+        "url": "joysqms.com"
+    },
+    {
+        "index": 55,
+        "name": "Just One Label, LLC",
+        "url": "just1label.com"
+    },
+    {
+        "index": 56,
+        "name": "LifeScienceRisk",
+        "url": "lsrisk.com"
+    },
+    {
+        "index": 57,
+        "name": "LifeVantage Corporation",
+        "url": "lifevantage.com"
+    },
+    {
+        "index": 58,
+        "name": "Lonza Consumer Health & Ingredients",
+        "url": "lonza.com"
+    },
+    {
+        "index": 59,
+        "name": "Marian Boardley Consulting",
+        "url": "marianboardley.com"
+    },
+    {
+        "index": 60,
+        "name": "Mary Kay Inc.",
+        "url": "marykay.com"
+    },
+    {
+        "index": 61,
+        "name": "MegaFood",
+        "url": "megafood.com"
+    },
+    {
+        "index": 62,
+        "name": "Merieux NutriSciences Company",
+        "url": "merieuxnutrisciences.com"
+    },
+    {
+        "index": 63,
+        "name": "Metagenics, LLC",
+        "url": "metagenics.com"
+    },
+    {
+        "index": 64,
+        "name": "Nammex",
+        "url": "nammex.com"
+    },
+    {
+        "index": 65,
+        "name": "National Animal Supplement Council",
+        "url": "nasc.cc"
+    },
+    {
+        "index": 66,
+        "name": "National Center for Natural Products Research",
+        "url": "pharmacy.olemiss.edu"
+    },
+    {
+        "index": 67,
+        "name": "Natural Factors",
+        "url": "naturalfactors.com"
+    },
+    {
+        "index": 68,
+        "name": "Nature\u2019s Sunshine Products",
+        "url": "naturessunshine.com"
+    },
+    {
+        "index": 70,
+        "name": "Non-GMO Project",
+        "url": "nongmoproject.org"
+    },
+    {
+        "index": 71,
+        "name": "NOSCO",
+        "url": "nosco.com"
+    },
+    {
+        "index": 72,
+        "name": "NOW Health Group",
+        "url": "nowfoods.com"
+    },
+    {
+        "index": 73,
+        "name": "NSF International",
+        "url": "nsf.org"
+    },
+    {
+        "index": 74,
+        "name": "Nu Skin International",
+        "url": "nuskin.com"
+    },
+    {
+        "index": 75,
+        "name": "Nutrabolt",
+        "url": "nutrabolt.com"
+    },
+    {
+        "index": 76,
+        "name": "Nutraceuticals World",
+        "url": "nutraceuticalsworld.com"
+    },
+    {
+        "index": 77,
+        "name": "Nutraland USA",
+        "url": "nutralandusa.com"
+    },
+    {
+        "index": 78,
+        "name": "Ooyen Research",
+        "url": "ooyenresearch.com"
+    },
+    {
+        "index": 79,
+        "name": "Ortho Molecular",
+        "url": "orthomolecularproducts.com"
+    },
+    {
+        "index": 80,
+        "name": "Pattern",
+        "url": "pattern.com"
+    },
+    {
+        "index": 81,
+        "name": "Personalized Lifestyle Medicine Institute",
+        "url": "plminstitute.org"
+    },
+    {
+        "index": 82,
+        "name": "Pharmavite, LLC",
+        "url": "pharmavite.com"
+    },
+    {
+        "index": 83,
+        "name": "Pharmore Ingredients",
+        "url": "pharmore.com"
+    },
+    {
+        "index": 84,
+        "name": "PlantaPhile",
+        "url": "plantaphile.com"
+    },
+    {
+        "index": 85,
+        "name": "PLT Health Solutions",
+        "url": "plthealth.com"
+    },
+    {
+        "index": 86,
+        "name": "Premier Research Labs",
+        "url": "prlabs.com"
+    },
+    {
+        "index": 87,
+        "name": "Pure Branding",
+        "url": "purebranding.com"
+    },
+    {
+        "index": 88,
+        "name": "Quicksilver Scientific",
+        "url": "quicksilverscientific.com"
+    },
+    {
+        "index": 89,
+        "name": "Radicle Science",
+        "url": "radiclescience.com"
+    },
+    {
+        "index": 90,
+        "name": "RT Specialty",
+        "url": "rtspecialty.com"
+    },
+    {
+        "index": 91,
+        "name": "Rubicon Bridge",
+        "url": "rubicon-bridge.com"
+    },
+    {
+        "index": 92,
+        "name": "Sabater USA",
+        "url": "sabaterglobal.com"
+    },
+    {
+        "index": 93,
+        "name": "SafetyCall International",
+        "url": "safetycall.com"
+    },
+    {
+        "index": 94,
+        "name": "Sensapure Flavors",
+        "url": "sensapure.com"
+    },
+    {
+        "index": 95,
+        "name": "SGS Nutrasource",
+        "url": "nutrasource.ca"
+    },
+    {
+        "index": 96,
+        "name": "Shaklee Corporation",
+        "url": "us.shaklee.com"
+    },
+    {
+        "index": 97,
+        "name": "SIRIO Pharma",
+        "url": "siriopharma.com"
+    },
+    {
+        "index": 98,
+        "name": "Sonoran University of Health Sciences",
+        "url": "sonoran.edu"
+    },
+    {
+        "index": 99,
+        "name": "SPINS",
+        "url": "spins.com"
+    },
+    {
+        "index": 100,
+        "name": "Standard Process",
+        "url": "standardprocess.com"
+    },
+    {
+        "index": 101,
+        "name": "Stratum Nutrition",
+        "url": "stratumnutrition.com"
+    },
+    {
+        "index": 102,
+        "name": "Supplement Advisory Group",
+        "url": "supplementadvisorygroup.com"
+    },
+    {
+        "index": 103,
+        "name": "System Biosciences",
+        "url": "systembio.com"
+    },
+    {
+        "index": 104,
+        "name": "TCI-Biotech",
+        "url": "tci-bio.com"
+    },
+    {
+        "index": 105,
+        "name": "Tesseract",
+        "url": "tessmed.com"
+    },
+    {
+        "index": 106,
+        "name": "The Shelton Group",
+        "url": "sheltongrp.com"
+    },
+    {
+        "index": 107,
+        "name": "Thorne Research",
+        "url": "thorne.com"
+    },
+    {
+        "index": 108,
+        "name": "Tishcon Corporation",
+        "url": "tishcon.com"
+    },
+    {
+        "index": 109,
+        "name": "Trust Transparency Center",
+        "url": "trusttransparency.com"
+    },
+    {
+        "index": 110,
+        "name": "TSI USA, LLC",
+        "url": "tsigroupltd.com"
+    },
+    {
+        "index": 111,
+        "name": "United States Pharmacopeia",
+        "url": "usp.org"
+    },
+    {
+        "index": 112,
+        "name": "USANA Health Sciences",
+        "url": "usana.com"
+    },
+    {
+        "index": 113,
+        "name": "Vorys eControl",
+        "url": "vorysecontrol.com"
+    },
+    {
+        "index": 114,
+        "name": "Waters Corporation",
+        "url": "waters.com"
+    },
+    {
+        "index": 115,
+        "name": "WBX Commerce",
+        "url": "wbxcommerce.com"
+    },
+    {
+        "index": 116,
+        "name": "Whole Foods Market",
+        "url": "wholefoodsmarket.com"
+    },
+    {
+        "index": 117,
+        "name": "WholeFoods Magazine",
+        "url": "wholefoodsmagazine.com"
+    },
+    {
+        "index": 118,
+        "name": "William Reed",
+        "url": "william-reed.com"
+    },
+    {
+        "index": 119,
+        "name": "Windrose Partners",
+        "url": "windrosepartners.com"
+    }
+]

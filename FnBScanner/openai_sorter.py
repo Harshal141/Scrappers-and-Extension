@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 client = AsyncOpenAI(api_key=os.getenv('OPENAI_KEY'))
-DATA_FILE = "packworld/pack_ai.json" # OUTPUT FILE
+DATA_FILE = "expowest/DATA_335_expowest_ai.json" # OUTPUT FILE
 
-with open("packworld/pack.json", "r", encoding="utf-8") as file:
+with open("expowest/DATA_335_expowest_fnb.json", "r", encoding="utf-8") as file:
     jsonData = json.load(file)
 
 def read_data_file():
