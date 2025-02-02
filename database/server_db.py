@@ -7,7 +7,7 @@ import psycopg2
 load_dotenv()
 
 # Load the CSV file containing company names and domains
-csv_file = './WFF/extracted_data.csv'
+csv_file = 'expowest/DATA_335_expowest_result_cleaned.csv'
 df = pd.read_csv(csv_file)
 
 # Ensure the CSV has the required columns
@@ -28,7 +28,7 @@ conn = psycopg2.connect(
 cur = conn.cursor()
 
 # Open a file to save the output
-output_file = './WFF/merged_query_results.csv'
+output_file = 'expowest/DATA_335_expowest_existing_contacts.csv'
 results_data = []
 
 for company in company_data:
@@ -41,7 +41,7 @@ for company in company_data:
     contacts_query = f"""
     SELECT name, email, type 
     FROM users 
-    WHERE email LIKE '%{domain}';
+    WHERE email LIKE '%@{domain}';
     """
     cur.execute(contacts_query)
     contacts_results = cur.fetchall()
@@ -49,7 +49,7 @@ for company in company_data:
     # Extract the company type
     if contacts_results:
         company_type = contacts_results[0][2]  # Assuming 'type' is the third column in the SELECT
-        merged_contacts = "\n ".join(
+        merged_contacts = ",\n ".join(
             [f"{Name} <{Email}>" for Name, Email, type in contacts_results]
         )
     else:
