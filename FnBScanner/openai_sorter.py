@@ -1,17 +1,27 @@
 import os
 import json
-import asyncio
-from openai import AsyncOpenAI, OpenAIError
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
+import subprocess
+
+# Load environment variables
 load_dotenv()
 
-client = AsyncOpenAI(api_key=os.getenv('OPENAI_KEY'))
-DATA_FILE = "expowest/DATA_335_expowest_ai.json" # OUTPUT FILE
+# OpenAI Client
+client = OpenAI(api_key=os.getenv('OPENAI_KEY'))
 
-with open("expowest/DATA_335_expowest_fnb.json", "r", encoding="utf-8") as file:
+# File Paths
+INPUT_FILE = "serper/DATA_332/41_80/fnb_41_80.json"  # Input JSON File
+DATA_FILE = "serper/DATA_332/41_80/fnb_41_80_ai.json"  # Output JSON File
+
+# Read input JSON data
+with open(INPUT_FILE, "r", encoding="utf-8") as file:
     jsonData = json.load(file)
 
 def read_data_file():
+    """Reads the output file if it exists; otherwise, returns an empty list."""
     try:
         if os.path.exists(DATA_FILE) and os.path.getsize(DATA_FILE) > 0:
             with open(DATA_FILE, "r", encoding="utf-8") as file:
@@ -21,23 +31,28 @@ def read_data_file():
     except (FileNotFoundError, json.JSONDecodeError):
         return []
 
+
 def store_data(new_data):
+    """Stores updated data in the output JSON file."""
     try:
-        # Read current data from the file
         current_data = read_data_file()
-
-        # Merge new data into current data
         updated_data = current_data + new_data
-
-        # Write updated data back to the file
         with open(DATA_FILE, "w", encoding="utf-8") as file:
             json.dump(updated_data, file, indent=2)
-
         print("Data stored successfully.")
     except Exception as err:
         print(f"Failed to store data: {err}")
 
-async def check_food_and_beverage_manufacturing(domain, textual_content):
+
+def check_food_and_beverage_manufacturing(coman):
+    """Checks if a domain is related to food and beverage manufacturing."""
+    if "error" in coman or "error" in coman.get("extractedData", {}):
+        return {**coman, "isRelated": True}
+
+    domain = coman["url"]
+    textual_content = coman["extractedData"]["textData"]
+    print(f"Processing {domain}")
+
     prompt = (
         f"I have the textual content of this website {domain}. I want you to tell me "
         "whether this is related to food and beverage manufacturing or not. Just reply with 'true' or 'false' without any extra detail. "
@@ -45,65 +60,47 @@ async def check_food_and_beverage_manufacturing(domain, textual_content):
         f"co-packers, ingredients supplier, food service, supplement manufacturers, or other types of manufacturers, consider it as related. "
         f"Here is the textual content: {textual_content}"
     )
-    
+
     try:
-        response = await client.chat.completions.create(
-            model="gpt-4o-mini",  # Use the correct GPT-4 model
-            messages=[
-                {
-                    "role": "user",
-                    "content": prompt,
-                }
-            ],
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
         )
 
-        ai_result = response.choices[0].message.content
-
-        if(ai_result == "true"):
-            return True
-        return False
+        ai_result = response.choices[0].message.content.lower()
+        return {**coman, "isRelated": ai_result == "true"}
 
     except OpenAIError as e:
-        print(f"Error: {e}")
-        return None
+        print(f"Error processing {domain}: {e}")
+        return {**coman, "isRelated": None}  # Mark as None if error occurs
 
 
-
-
-async def main():
-
+def main():
+    """Main function to process all items in parallel using ThreadPoolExecutor."""
     final_data = []
+    batch_size = 1000  # Store data in batches
+    max_workers = 20  # Number of parallel threads
 
-    # counter = 0
-    for index, coman in enumerate(jsonData):
-        # counter +=1
-        # if(counter == 13):
-        #     break
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_data = {executor.submit(check_food_and_beverage_manufacturing, coman): coman for coman in jsonData}
 
-        if "error" in coman:
-            final_data.append({**coman, "isRelated" : True})
-            continue
-        if "error" in coman["extractedData"]:
-            final_data.append({**coman, "isRelated" : True})
-            continue
+        for index, future in enumerate(as_completed(future_to_data)):
+            result = future.result()
+            final_data.append(result)
 
-        domain = coman["url"]
-        print("Processing "+ domain )
-        textualContent = coman["extractedData"]["textData"]
+            # Store data every batch_size records
+            if (index + 1) % batch_size == 0:
+                store_data(final_data)
+                final_data.clear()
 
-        isRelated = await check_food_and_beverage_manufacturing(domain, textualContent)
+    # Store any remaining data
+    if final_data:
+        store_data(final_data)
 
-        if isRelated:
-            final_data.append({**coman, "isRelated" : True})
-        else:
-            final_data.append({**coman, "isRelated" : False})
-        
-        if (index + 1) % 1000 == 0:
-            store_data(final_data)
-            final_data.clear()
+    print("All tasks completed.")
 
-    store_data(final_data)
 
-# Run the asyncio event loop
 if __name__ == "__main__":
-    asyncio.run(main())
+    start_time = time.time()
+    main()
+    print(f"Execution completed in {time.time() - start_time:.2f} seconds")
