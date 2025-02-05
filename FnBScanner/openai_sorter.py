@@ -13,8 +13,8 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv('OPENAI_KEY'))
 
 # File Paths
-INPUT_FILE = "serper/DATA_332/41_80/fnb_41_80.json"  # Input JSON File
-DATA_FILE = "serper/DATA_332/41_80/fnb_41_80_ai.json"  # Output JSON File
+INPUT_FILE = "serper/DATA_332/81_120/fnb_81_120.json"  # Input JSON File
+DATA_FILE = "serper/DATA_332/81_120/fnb_81_120_ai.json"  # Output JSON File
 
 # Read input JSON data
 with open(INPUT_FILE, "r", encoding="utf-8") as file:
@@ -47,7 +47,7 @@ def store_data(new_data):
 def check_food_and_beverage_manufacturing(coman):
     """Checks if a domain is related to food and beverage manufacturing."""
     if "error" in coman or "error" in coman.get("extractedData", {}):
-        return {**coman, "isRelated": True}
+        return {**coman, "isRelated": False} # If there is an error, mark as False
 
     domain = coman["url"]
     textual_content = coman["extractedData"]["textData"]
@@ -55,9 +55,11 @@ def check_food_and_beverage_manufacturing(coman):
 
     prompt = (
         f"I have the textual content of this website {domain}. I want you to tell me "
-        "whether this is related to food and beverage manufacturing or not. Just reply with 'true' or 'false' without any extra detail. "
-        f"If there are chances that it may be food and beverages related, such as involving packaging, packaging suppliers, "
-        f"co-packers, ingredients supplier, food service, supplement manufacturers, or other types of manufacturers, consider it as related. "
+        "whether this website belongs to or is directly associated with food and beverage manufacturing. "
+        "Only reply with 'true' or 'false' without any extra detail. "
+        "If the website is a manufacturer, co-packer, packaging supplier, ingredient supplier, food service provider, or supplement manufacturer, "
+        "consider it as related and return 'true'. "
+        "However, if the website only lists manufacturers without itself being a manufacturer or supplier, return 'false'. "
         f"Here is the textual content: {textual_content}"
     )
 

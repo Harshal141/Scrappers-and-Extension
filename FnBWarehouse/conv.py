@@ -29,8 +29,8 @@ import os
 from utility import cleanDomain
 
 # File Paths
-input_file = "serper/DATA_332/41_80/serper_41_80_unique.json"
-output_file = "serper/DATA_332/41_80/serper_41_80_source.json"
+input_file = "serper/DATA_332/120_/serper_final_filtered.json"
+output_file = "serper/DATA_332/120_/serper_final_indexed.json"
 
 # Load JSON Data
 with open(input_file, 'r', encoding='utf-8') as file:

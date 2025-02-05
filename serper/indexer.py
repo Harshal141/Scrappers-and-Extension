@@ -49,9 +49,15 @@
 
 # print("Unique CSV file created successfully.")
 
+
+
+
+
+
+
 import json 
 
-with open("serper/DATA_332/41_80/serper_41_80.json", mode='r', encoding='utf-8') as json_file:
+with open("serper/DATA_332/120_/serper_final.json", mode='r', encoding='utf-8') as json_file:
     data = json.load(json_file)
     print(data[0])
 
@@ -64,6 +70,41 @@ for row in data:
         unique_domain_names.add(row['domain'])
         new_data.append(row)
 
-with open("serper/DATA_332/41_80/serper_41_80_unique.json", mode='w', encoding='utf-8') as json_file:
+with open("serper/DATA_332/120_/serper_final_unique.json", mode='w', encoding='utf-8') as json_file:
     json.dump(new_data, json_file, indent=2)
 
+
+
+
+
+
+
+
+# import json
+
+# def remove_common_entries(small_file, big_file, output_file):
+#     # Load small JSON file
+#     with open(small_file, 'r', encoding='utf-8') as f:
+#         small_data = json.load(f)
+    
+#     # Load big JSON file
+#     with open(big_file, 'r', encoding='utf-8') as f:
+#         big_data = json.load(f)
+    
+#     # Extract domains from small file
+#     small_domains = {entry['domain'] for entry in small_data}
+    
+#     # Filter big data to remove entries with matching domains
+#     filtered_big_data = [entry for entry in big_data if entry['domain'] not in small_domains]
+    
+#     # Save the filtered data to a new JSON file
+#     with open(output_file, 'w', encoding='utf-8') as f:
+#         json.dump(filtered_big_data, f, indent=2)
+    
+#     print(f"Filtered JSON saved to {output_file}")
+
+# # Example usage
+# small_json_file = "serper/DATA_332/41_80/serper_41_80_unique.json"
+# big_json_file = "serper/DATA_332/120_/serper_final_filtered.json"
+# output_json_file = "serper/DATA_332/120_/serper_final_filtered_temp.json"
+# remove_common_entries(small_json_file, big_json_file, output_json_file)
