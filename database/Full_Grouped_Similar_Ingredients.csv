@@ -1,0 +1,65 @@
+id,name,image,level,parent_id,group_id
+362,Cherry Flavor,,2,357.0,1
+1947,Cherry Flavors,,2,1910.0,1
+379,Chicken Flavor,,2,357.0,2
+2202,Chicken Flavors,,2,1910.0,2
+2164,Mesquite Smoke Flavors,,2,1910.0,3
+363,Mesquite Smoke Flavor,https://images.keychain.com/ingredient/mesquite-smoke-flavor.png,2,357.0,3
+2,Amaranth,https://images.keychain.com/ingredient/amaranth.png,2,1574.0,4
+1651,Amaranth ,https://images.keychain.com/ingredient/amaranth-.png,2,1650.0,4
+360,Lemon Flavor,https://images.keychain.com/ingredient/lemon-flavor.png,2,357.0,5
+1918,Lemon Flavors,,2,1910.0,5
+189,Honey Flavors,,2,1910.0,6
+381,Honey Flavor,https://images.keychain.com/ingredient/honey-flavor.png,2,357.0,6
+359,Hickory Smoke Flavor,https://images.keychain.com/ingredient/hickory-smoke-flavor.png,2,357.0,7
+2160,Hickory Smoke Flavors,https://images.keychain.com/ingredient/hickory-smoke-flavors.png,2,1910.0,7
+370,Pomegranate Flavor,https://images.keychain.com/ingredient/pomegranate-flavor.png,2,357.0,8
+1965,Pomegranate Flavors,,2,1910.0,8
+374,Citrus Flavor,https://images.keychain.com/ingredient/citrus-flavor.png,2,357.0,9
+302,Citrus Flavors,https://images.keychain.com/ingredient/citrus-flavors.png,2,1910.0,9
+376,Peach Flavor,https://images.keychain.com/ingredient/peach-flavor.png,2,357.0,10
+1953,Peach Flavors,,2,1910.0,10
+380,Almond Flavor,https://images.keychain.com/ingredient/almond-flavor.png,2,357.0,11
+2006,Almond Flavors,https://images.keychain.com/ingredient/almond-flavors.png,2,1910.0,11
+388,Mango Flavor,https://images.keychain.com/ingredient/mango-flavor.png,2,357.0,12
+1963,Mango Flavors,,2,1910.0,12
+391,Raspberry Flavor,https://images.keychain.com/ingredient/raspberry-flavor.png,2,357.0,13
+1940,Raspberry Flavors,,2,1910.0,13
+393,Beef Flavor,https://images.keychain.com/ingredient/beef-flavor.png,2,357.0,14
+2201,Beef Flavors,,2,1910.0,14
+394,Chocolate Flavor,https://images.keychain.com/ingredient/chocolate-flavor.png,2,357.0,15
+308,Chocolate Flavors,https://images.keychain.com/ingredient/chocolate-flavors.png,2,1910.0,15
+399,Blueberry Flavor,https://images.keychain.com/ingredient/blueberry-flavor.png,2,357.0,16
+1930,Blueberry Flavors,,2,1910.0,16
+364,Maple Flavor,https://images.keychain.com/ingredient/maple-flavor.png,2,357.0,17
+2025,Maple Flavors,https://images.keychain.com/ingredient/maple-flavors.png,2,1910.0,17
+366,Lime Flavor,https://images.keychain.com/ingredient/lime-flavor.png,2,357.0,18
+1919,Lime Flavors,,2,1910.0,18
+36,Wheat berries,https://images.keychain.com/ingredient/wheat-berries.png,2,1574.0,19
+1584,Wheat Berries,https://images.keychain.com/ingredient/wheat-berries.png,2,1574.0,19
+505,Sodium Tripolyphosphates,https://images.keychain.com/ingredient/sodium-tripolyphosphates.png,2,410.0,20
+1238,Sodium Tripolyphosphate,https://images.keychain.com/ingredient/sodium-tripolyphosphate.png,2,1233.0,20
+889,Grapefruit Juice Concentrate,https://images.keychain.com/ingredient/grapefruit-juice-concentrate.png,2,662.0,21
+846,Grape Juice Concentrate,https://images.keychain.com/ingredient/grape-juice-concentrate.png,2,662.0,21
+913,Caramel Powder,https://images.keychain.com/ingredient/caramel-powder.png,2,903.0,22
+296,Caramel Powders,https://images.keychain.com/ingredient/caramel-powder.png,2,903.0,22
+945,Cucumbers,https://images.keychain.com/ingredient/cucumbers.png,2,924.0,23
+1971,Cucumber,,2,1910.0,23
+1072,Semi Sweet Chocolate Chips,https://images.keychain.com/ingredient/semi-sweet-chocolate-chips.png,2,1065.0,24
+1078,Semi Sweet Chocolate Chunks,https://images.keychain.com/ingredient/semi-sweet-chocolate-chunks.png,2,1065.0,24
+1277,Vanilla Flavor,https://images.keychain.com/ingredient/vanilla-flavor.png,2,1270.0,25
+306,Vanilla Flavors,https://images.keychain.com/ingredient/vanilla-flavors.png,2,1910.0,25
+1976,Sweet Potato,,2,1910.0,26
+934,Sweet Potatoes,https://images.keychain.com/ingredient/sweet-potatoes.png,2,924.0,26
+389,Coffee Flavor,https://images.keychain.com/ingredient/coffee-flavor.png,2,357.0,27
+572,Coffee Flavors,,1,,27
+1918,Lemon Flavors,,2,1910.0,28
+2087,Lemonade Flavors,,2,1910.0,28
+2168,Onion Flavors,,2,1910.0,29
+392,Onion Flavor,https://images.keychain.com/ingredient/onion-flavor.png,2,357.0,29
+2183,Rose Flavors,,2,1910.0,30
+2132,Rosé Flavors,https://images.keychain.com/ingredient/rosé-flavors.png,2,1910.0,30
+1922,Orange Flavors,,2,1910.0,31
+387,Orange Flavor,https://images.keychain.com/ingredient/orange-flavor.png,2,357.0,31
+1942,Strawberry Flavors,,2,1910.0,32
+398,Strawberry Flavor,https://images.keychain.com/ingredient/strawberry-flavor.png,2,357.0,32

@@ -1,0 +1,514 @@
+[
+    [
+        {
+            "id": 362,
+            "name": "Cherry Flavor",
+            "image": null,
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 1947,
+            "name": "Cherry Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 379,
+            "name": "Chicken Flavor",
+            "image": null,
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 2202,
+            "name": "Chicken Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 2164,
+            "name": "Mesquite Smoke Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        },
+        {
+            "id": 363,
+            "name": "Mesquite Smoke Flavor",
+            "image": "https://images.keychain.com/ingredient/mesquite-smoke-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        }
+    ],
+    [
+        {
+            "id": 2,
+            "name": "Amaranth",
+            "image": "https://images.keychain.com/ingredient/amaranth.png",
+            "level": 2,
+            "parent_id": 1574
+        },
+        {
+            "id": 1651,
+            "name": "Amaranth ",
+            "image": "https://images.keychain.com/ingredient/amaranth-.png",
+            "level": 2,
+            "parent_id": 1650
+        }
+    ],
+    [
+        {
+            "id": 360,
+            "name": "Lemon Flavor",
+            "image": "https://images.keychain.com/ingredient/lemon-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 1918,
+            "name": "Lemon Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 189,
+            "name": "Honey Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        },
+        {
+            "id": 381,
+            "name": "Honey Flavor",
+            "image": "https://images.keychain.com/ingredient/honey-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        }
+    ],
+    [
+        {
+            "id": 359,
+            "name": "Hickory Smoke Flavor",
+            "image": "https://images.keychain.com/ingredient/hickory-smoke-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 2160,
+            "name": "Hickory Smoke Flavors",
+            "image": "https://images.keychain.com/ingredient/hickory-smoke-flavors.png",
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 370,
+            "name": "Pomegranate Flavor",
+            "image": "https://images.keychain.com/ingredient/pomegranate-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 1965,
+            "name": "Pomegranate Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 374,
+            "name": "Citrus Flavor",
+            "image": "https://images.keychain.com/ingredient/citrus-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 302,
+            "name": "Citrus Flavors",
+            "image": "https://images.keychain.com/ingredient/citrus-flavors.png",
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 376,
+            "name": "Peach Flavor",
+            "image": "https://images.keychain.com/ingredient/peach-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 1953,
+            "name": "Peach Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 380,
+            "name": "Almond Flavor",
+            "image": "https://images.keychain.com/ingredient/almond-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 2006,
+            "name": "Almond Flavors",
+            "image": "https://images.keychain.com/ingredient/almond-flavors.png",
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 388,
+            "name": "Mango Flavor",
+            "image": "https://images.keychain.com/ingredient/mango-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 1963,
+            "name": "Mango Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 391,
+            "name": "Raspberry Flavor",
+            "image": "https://images.keychain.com/ingredient/raspberry-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 1940,
+            "name": "Raspberry Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 393,
+            "name": "Beef Flavor",
+            "image": "https://images.keychain.com/ingredient/beef-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 2201,
+            "name": "Beef Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 394,
+            "name": "Chocolate Flavor",
+            "image": "https://images.keychain.com/ingredient/chocolate-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 308,
+            "name": "Chocolate Flavors",
+            "image": "https://images.keychain.com/ingredient/chocolate-flavors.png",
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 399,
+            "name": "Blueberry Flavor",
+            "image": "https://images.keychain.com/ingredient/blueberry-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 1930,
+            "name": "Blueberry Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 364,
+            "name": "Maple Flavor",
+            "image": "https://images.keychain.com/ingredient/maple-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 2025,
+            "name": "Maple Flavors",
+            "image": "https://images.keychain.com/ingredient/maple-flavors.png",
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 366,
+            "name": "Lime Flavor",
+            "image": "https://images.keychain.com/ingredient/lime-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 1919,
+            "name": "Lime Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 36,
+            "name": "Wheat berries",
+            "image": "https://images.keychain.com/ingredient/wheat-berries.png",
+            "level": 2,
+            "parent_id": 1574
+        },
+        {
+            "id": 1584,
+            "name": "Wheat Berries",
+            "image": "https://images.keychain.com/ingredient/wheat-berries.png",
+            "level": 2,
+            "parent_id": 1574
+        }
+    ],
+    [
+        {
+            "id": 505,
+            "name": "Sodium Tripolyphosphates",
+            "image": "https://images.keychain.com/ingredient/sodium-tripolyphosphates.png",
+            "level": 2,
+            "parent_id": 410
+        },
+        {
+            "id": 1238,
+            "name": "Sodium Tripolyphosphate",
+            "image": "https://images.keychain.com/ingredient/sodium-tripolyphosphate.png",
+            "level": 2,
+            "parent_id": 1233
+        }
+    ],
+    [
+        {
+            "id": 889,
+            "name": "Grapefruit Juice Concentrate",
+            "image": "https://images.keychain.com/ingredient/grapefruit-juice-concentrate.png",
+            "level": 2,
+            "parent_id": 662
+        },
+        {
+            "id": 846,
+            "name": "Grape Juice Concentrate",
+            "image": "https://images.keychain.com/ingredient/grape-juice-concentrate.png",
+            "level": 2,
+            "parent_id": 662
+        }
+    ],
+    [
+        {
+            "id": 913,
+            "name": "Caramel Powder",
+            "image": "https://images.keychain.com/ingredient/caramel-powder.png",
+            "level": 2,
+            "parent_id": 903
+        },
+        {
+            "id": 296,
+            "name": "Caramel Powders",
+            "image": "https://images.keychain.com/ingredient/caramel-powder.png",
+            "level": 2,
+            "parent_id": 903
+        }
+    ],
+    [
+        {
+            "id": 945,
+            "name": "Cucumbers",
+            "image": "https://images.keychain.com/ingredient/cucumbers.png",
+            "level": 2,
+            "parent_id": 924
+        },
+        {
+            "id": 1971,
+            "name": "Cucumber",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 1072,
+            "name": "Semi Sweet Chocolate Chips",
+            "image": "https://images.keychain.com/ingredient/semi-sweet-chocolate-chips.png",
+            "level": 2,
+            "parent_id": 1065
+        },
+        {
+            "id": 1078,
+            "name": "Semi Sweet Chocolate Chunks",
+            "image": "https://images.keychain.com/ingredient/semi-sweet-chocolate-chunks.png",
+            "level": 2,
+            "parent_id": 1065
+        }
+    ],
+    [
+        {
+            "id": 1277,
+            "name": "Vanilla Flavor",
+            "image": "https://images.keychain.com/ingredient/vanilla-flavor.png",
+            "level": 2,
+            "parent_id": 1270
+        },
+        {
+            "id": 306,
+            "name": "Vanilla Flavors",
+            "image": "https://images.keychain.com/ingredient/vanilla-flavors.png",
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 1976,
+            "name": "Sweet Potato",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        },
+        {
+            "id": 934,
+            "name": "Sweet Potatoes",
+            "image": "https://images.keychain.com/ingredient/sweet-potatoes.png",
+            "level": 2,
+            "parent_id": 924
+        }
+    ],
+    [
+        {
+            "id": 389,
+            "name": "Coffee Flavor",
+            "image": "https://images.keychain.com/ingredient/coffee-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        },
+        {
+            "id": 572,
+            "name": "Coffee Flavors",
+            "image": null,
+            "level": 1,
+            "parent_id": null
+        }
+    ],
+    [
+        {
+            "id": 1918,
+            "name": "Lemon Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        },
+        {
+            "id": 2087,
+            "name": "Lemonade Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 2168,
+            "name": "Onion Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        },
+        {
+            "id": 392,
+            "name": "Onion Flavor",
+            "image": "https://images.keychain.com/ingredient/onion-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        }
+    ],
+    [
+        {
+            "id": 2183,
+            "name": "Rose Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        },
+        {
+            "id": 2132,
+            "name": "Rosé Flavors",
+            "image": "https://images.keychain.com/ingredient/rosé-flavors.png",
+            "level": 2,
+            "parent_id": 1910
+        }
+    ],
+    [
+        {
+            "id": 1922,
+            "name": "Orange Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        },
+        {
+            "id": 387,
+            "name": "Orange Flavor",
+            "image": "https://images.keychain.com/ingredient/orange-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        }
+    ],
+    [
+        {
+            "id": 1942,
+            "name": "Strawberry Flavors",
+            "image": null,
+            "level": 2,
+            "parent_id": 1910
+        },
+        {
+            "id": 398,
+            "name": "Strawberry Flavor",
+            "image": "https://images.keychain.com/ingredient/strawberry-flavor.png",
+            "level": 2,
+            "parent_id": 357
+        }
+    ]
+]
