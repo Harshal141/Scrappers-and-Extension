@@ -35,8 +35,8 @@
 import json
 
 # Load the original JSON file
-input_file = "thomas/data.json"  # Update with your actual file path
-output_file = "thomas/data_source.json"
+input_file = "Injested/thomas/DATA_376/source.json"  # Update with your actual file path
+output_file = "Injested/thomas/DATA_376/source_indexed.json"
 
 # Read the raw JSON data
 with open(input_file, "r", encoding="utf-8") as file:
@@ -47,15 +47,15 @@ cleaned_data = []
 index = 1
 
 for item in raw_data:
-    if "domain" in item and isinstance(item["domain"], list):
-        for entry in item["domain"]:
-            if "name" in entry and "relDomain" in entry:
-                cleaned_data.append({
-                    "index": index,
-                    "name": entry["name"],
-                    "relDomain": entry["relDomain"]
-                })
-                index += 1  # Increment index for each entry
+    # Extract the required fields
+    name = item.get("name", "")
+    domain = item.get("relDomain", "")
+    cleaned_data.append({
+        "index": index,
+        "name": name,
+        "url": domain
+    })
+    index += 1
 
 # Save the cleaned data to a new JSON file
 with open(output_file, "w", encoding="utf-8") as file:

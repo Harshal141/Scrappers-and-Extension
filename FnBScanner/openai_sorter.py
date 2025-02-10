@@ -13,8 +13,8 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv('OPENAI_KEY'))
 
 # File Paths
-INPUT_FILE = "serper/DATA_332/81_120/fnb_81_120.json"  # Input JSON File
-DATA_FILE = "serper/DATA_332/81_120/fnb_81_120_ai.json"  # Output JSON File
+INPUT_FILE = "FnBWarehouse/data.json"  # Input JSON File
+DATA_FILE = "FnBWarehouse/data_ai.json"  # Output JSON File
 
 # Read input JSON data
 with open(INPUT_FILE, "r", encoding="utf-8") as file:

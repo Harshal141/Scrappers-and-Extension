@@ -55,7 +55,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                         allResults = []; // Reset results after logging
                     }
                     console.log("Waiting for 5 seconds before processing the next batch...");
-                    await delay(5000);  // TODO: add randomaizer in this
+                    await delay(4000);  // TODO: add randomaizer in this
                 }
             };
 
