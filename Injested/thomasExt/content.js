@@ -11,7 +11,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
           sendResponse("Domain not found!");
         }
       } else {
-        sendResponse("Website section not found!");
+        sendResponse("Domain not found!");
       }
     } catch (error) {
       // Catch any errors and respond
@@ -20,6 +20,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     return true;
   }
 });
+
 
 // function scrapeData() {
 //   try {
