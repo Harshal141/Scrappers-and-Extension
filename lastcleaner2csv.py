@@ -11,8 +11,8 @@ def cleanDomain(domainName):
     return website
 
 # Load data from JSON file
-input_file = "node_server/data_partial.json"
-output_file = "node_server/data_partial.csv"
+input_file = "Injested/2025Feb/lucha/extractedData_parallel.json"
+output_file = "Injested/2025Feb/lucha/extractedData_parallel.csv"
 
 
 with open(input_file, "r", encoding="utf-8") as file:
