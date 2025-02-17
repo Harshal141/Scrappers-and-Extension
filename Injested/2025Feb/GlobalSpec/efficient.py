@@ -4,7 +4,7 @@ import os
 import json
 import math
 from urllib.parse import urlparse, parse_qs, unquote
-from CloudflareBypasser import CloudflareBypasser
+from service.CloudflareBypasser import CloudflareBypasser
 from DrissionPage import ChromiumPage, ChromiumOptions
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait

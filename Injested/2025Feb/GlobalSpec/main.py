@@ -2,7 +2,7 @@ import time
 import logging
 import os
 import json
-from CloudflareBypasser import CloudflareBypasser
+from service.CloudflareBypasser import CloudflareBypasser
 from DrissionPage import ChromiumPage, ChromiumOptions
 
 # Configure logging
