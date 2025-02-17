@@ -1,0 +1,159 @@
+2025-02-18 01:40:15,928 - INFO - Navigating to login page: https://www.globalspec.com/MyGlobalSpec/Login
+2025-02-18 01:40:26,300 - INFO - Email input found: <ChromiumElement input type='email' name='email' size='30' value=''>
+2025-02-18 01:40:30,557 - INFO - Password input found: <ChromiumElement input type='password' name='password' size='30' value=''>
+2025-02-18 01:40:34,609 - INFO - Login button found: <ChromiumElement input type='submit' name='submit' value='Log In'>
+2025-02-18 01:40:44,843 - INFO - Login successful. Current page title: Subscriptions
+2025-02-18 01:40:44,855 - INFO - Loading page 1: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=1
+2025-02-18 01:40:51,373 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:40:51,662 - INFO - Found 15 supplier(s) on page 1.
+2025-02-18 01:40:51,663 - INFO - Backup written to suppliers_output.json (total 15 supplier(s))
+2025-02-18 01:40:51,664 - INFO - Loading page 2: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=2
+2025-02-18 01:40:57,815 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:40:58,161 - INFO - Found 15 supplier(s) on page 2.
+2025-02-18 01:40:58,162 - INFO - Backup written to suppliers_output.json (total 30 supplier(s))
+2025-02-18 01:40:58,163 - INFO - Loading page 3: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=3
+2025-02-18 01:41:05,881 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:41:06,414 - INFO - Found 15 supplier(s) on page 3.
+2025-02-18 01:41:06,415 - INFO - Backup written to suppliers_output.json (total 45 supplier(s))
+2025-02-18 01:41:06,416 - INFO - Loading page 4: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=4
+2025-02-18 01:41:12,669 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:41:12,936 - INFO - Found 15 supplier(s) on page 4.
+2025-02-18 01:41:12,937 - INFO - Backup written to suppliers_output.json (total 60 supplier(s))
+2025-02-18 01:41:12,937 - INFO - Loading page 5: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=5
+2025-02-18 01:41:21,157 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:41:23,226 - INFO - Found 15 supplier(s) on page 5.
+2025-02-18 01:41:23,229 - INFO - Backup written to suppliers_output.json (total 75 supplier(s))
+2025-02-18 01:41:23,230 - INFO - Loading page 6: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=6
+2025-02-18 01:41:29,544 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:41:30,018 - INFO - Found 15 supplier(s) on page 6.
+2025-02-18 01:41:30,021 - INFO - Backup written to suppliers_output.json (total 90 supplier(s))
+2025-02-18 01:41:30,021 - INFO - Loading page 7: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=7
+2025-02-18 01:41:36,438 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:41:36,755 - INFO - Found 15 supplier(s) on page 7.
+2025-02-18 01:41:36,758 - INFO - Backup written to suppliers_output.json (total 105 supplier(s))
+2025-02-18 01:41:36,758 - INFO - Loading page 8: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=8
+2025-02-18 01:41:43,157 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:41:43,453 - INFO - Found 15 supplier(s) on page 8.
+2025-02-18 01:41:43,456 - INFO - Backup written to suppliers_output.json (total 120 supplier(s))
+2025-02-18 01:41:43,456 - INFO - Loading page 9: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=9
+2025-02-18 01:41:49,660 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:41:49,874 - INFO - Found 15 supplier(s) on page 9.
+2025-02-18 01:41:49,876 - INFO - Backup written to suppliers_output.json (total 135 supplier(s))
+2025-02-18 01:41:49,876 - INFO - Loading page 10: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=10
+2025-02-18 01:41:57,720 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:41:59,662 - INFO - Found 15 supplier(s) on page 10.
+2025-02-18 01:41:59,665 - INFO - Backup written to suppliers_output.json (total 150 supplier(s))
+2025-02-18 01:41:59,665 - INFO - Loading page 11: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=11
+2025-02-18 01:42:05,891 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:42:06,267 - INFO - Found 15 supplier(s) on page 11.
+2025-02-18 01:42:06,269 - INFO - Backup written to suppliers_output.json (total 165 supplier(s))
+2025-02-18 01:42:06,269 - INFO - Loading page 12: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=12
+2025-02-18 01:42:12,613 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:42:13,066 - INFO - Found 15 supplier(s) on page 12.
+2025-02-18 01:42:13,068 - INFO - Backup written to suppliers_output.json (total 180 supplier(s))
+2025-02-18 01:42:13,068 - INFO - Loading page 13: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=13
+2025-02-18 01:42:19,566 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:42:19,934 - INFO - Found 15 supplier(s) on page 13.
+2025-02-18 01:42:19,937 - INFO - Backup written to suppliers_output.json (total 195 supplier(s))
+2025-02-18 01:42:19,937 - INFO - Loading page 14: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=14
+2025-02-18 01:42:26,218 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:42:26,562 - INFO - Found 15 supplier(s) on page 14.
+2025-02-18 01:42:26,564 - INFO - Backup written to suppliers_output.json (total 210 supplier(s))
+2025-02-18 01:42:26,565 - INFO - Loading page 15: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=15
+2025-02-18 01:42:34,831 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:42:36,784 - INFO - Found 15 supplier(s) on page 15.
+2025-02-18 01:42:36,789 - INFO - Backup written to suppliers_output.json (total 225 supplier(s))
+2025-02-18 01:42:36,790 - INFO - Loading page 16: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=16
+2025-02-18 01:42:42,953 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:42:43,241 - INFO - Found 15 supplier(s) on page 16.
+2025-02-18 01:42:43,244 - INFO - Backup written to suppliers_output.json (total 240 supplier(s))
+2025-02-18 01:42:43,244 - INFO - Loading page 17: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=17
+2025-02-18 01:42:49,787 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:42:50,174 - INFO - Found 15 supplier(s) on page 17.
+2025-02-18 01:42:50,177 - INFO - Backup written to suppliers_output.json (total 255 supplier(s))
+2025-02-18 01:42:50,178 - INFO - Loading page 18: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=18
+2025-02-18 01:42:56,498 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:42:56,913 - INFO - Found 15 supplier(s) on page 18.
+2025-02-18 01:42:56,918 - INFO - Backup written to suppliers_output.json (total 270 supplier(s))
+2025-02-18 01:42:56,918 - INFO - Loading page 19: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=19
+2025-02-18 01:43:03,350 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:43:03,712 - INFO - Found 15 supplier(s) on page 19.
+2025-02-18 01:43:03,715 - INFO - Backup written to suppliers_output.json (total 285 supplier(s))
+2025-02-18 01:43:03,715 - INFO - Loading page 20: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=20
+2025-02-18 01:43:12,404 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:43:14,391 - INFO - Found 15 supplier(s) on page 20.
+2025-02-18 01:43:14,394 - INFO - Backup written to suppliers_output.json (total 300 supplier(s))
+2025-02-18 01:43:14,395 - INFO - Loading page 21: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=21
+2025-02-18 01:43:21,934 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:43:22,327 - INFO - Found 15 supplier(s) on page 21.
+2025-02-18 01:43:22,330 - INFO - Backup written to suppliers_output.json (total 315 supplier(s))
+2025-02-18 01:43:22,330 - INFO - Loading page 22: https://www.globalspec.com/suppliers/3034/stretch_wrappers?pg=22
+2025-02-18 01:43:27,874 - INFO - Page title: Stretch Wrappers Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:43:27,983 - INFO - Found 6 supplier(s) on page 22.
+2025-02-18 01:43:27,986 - INFO - Backup written to suppliers_output.json (total 321 supplier(s))
+2025-02-18 01:43:27,988 - INFO - Loading page 1: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=1
+2025-02-18 01:43:35,388 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:43:35,810 - INFO - Found 15 supplier(s) on page 1.
+2025-02-18 01:43:35,816 - INFO - Backup written to suppliers_output.json (total 336 supplier(s))
+2025-02-18 01:43:35,816 - INFO - Loading page 2: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=2
+2025-02-18 01:43:42,153 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:43:42,649 - INFO - Found 15 supplier(s) on page 2.
+2025-02-18 01:43:42,652 - INFO - Backup written to suppliers_output.json (total 351 supplier(s))
+2025-02-18 01:43:42,654 - INFO - Loading page 3: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=3
+2025-02-18 01:43:51,900 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:43:53,925 - INFO - Found 15 supplier(s) on page 3.
+2025-02-18 01:43:53,929 - INFO - Backup written to suppliers_output.json (total 366 supplier(s))
+2025-02-18 01:43:53,930 - INFO - Loading page 4: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=4
+2025-02-18 01:44:00,428 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:44:00,786 - INFO - Found 15 supplier(s) on page 4.
+2025-02-18 01:44:00,790 - INFO - Backup written to suppliers_output.json (total 381 supplier(s))
+2025-02-18 01:44:00,790 - INFO - Loading page 5: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=5
+2025-02-18 01:44:07,366 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:44:07,674 - INFO - Found 15 supplier(s) on page 5.
+2025-02-18 01:44:07,678 - INFO - Backup written to suppliers_output.json (total 396 supplier(s))
+2025-02-18 01:44:07,679 - INFO - Loading page 6: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=6
+2025-02-18 01:44:14,088 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:44:14,472 - INFO - Found 15 supplier(s) on page 6.
+2025-02-18 01:44:14,475 - INFO - Backup written to suppliers_output.json (total 411 supplier(s))
+2025-02-18 01:44:14,476 - INFO - Loading page 7: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=7
+2025-02-18 01:44:20,738 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:44:21,040 - INFO - Found 15 supplier(s) on page 7.
+2025-02-18 01:44:21,044 - INFO - Backup written to suppliers_output.json (total 426 supplier(s))
+2025-02-18 01:44:21,044 - INFO - Loading page 8: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=8
+2025-02-18 01:44:29,472 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:44:31,689 - INFO - Found 15 supplier(s) on page 8.
+2025-02-18 01:44:31,693 - INFO - Backup written to suppliers_output.json (total 441 supplier(s))
+2025-02-18 01:44:31,694 - INFO - Loading page 9: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=9
+2025-02-18 01:44:38,039 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:44:38,371 - INFO - Found 15 supplier(s) on page 9.
+2025-02-18 01:44:38,377 - INFO - Backup written to suppliers_output.json (total 456 supplier(s))
+2025-02-18 01:44:38,377 - INFO - Loading page 10: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=10
+2025-02-18 01:44:44,562 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:44:44,879 - INFO - Found 15 supplier(s) on page 10.
+2025-02-18 01:44:44,883 - INFO - Backup written to suppliers_output.json (total 471 supplier(s))
+2025-02-18 01:44:44,883 - INFO - Loading page 11: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=11
+2025-02-18 01:44:51,086 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:44:51,485 - INFO - Found 15 supplier(s) on page 11.
+2025-02-18 01:44:51,492 - INFO - Backup written to suppliers_output.json (total 486 supplier(s))
+2025-02-18 01:44:51,492 - INFO - Loading page 12: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=12
+2025-02-18 01:44:57,854 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:44:58,210 - INFO - Found 15 supplier(s) on page 12.
+2025-02-18 01:44:58,214 - INFO - Backup written to suppliers_output.json (total 501 supplier(s))
+2025-02-18 01:44:58,215 - INFO - Loading page 13: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=13
+2025-02-18 01:45:06,207 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:45:08,096 - INFO - Found 15 supplier(s) on page 13.
+2025-02-18 01:45:08,105 - INFO - Backup written to suppliers_output.json (total 516 supplier(s))
+2025-02-18 01:45:08,106 - INFO - Loading page 14: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=14
+2025-02-18 01:45:14,565 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:45:14,953 - INFO - Found 15 supplier(s) on page 14.
+2025-02-18 01:45:14,957 - INFO - Backup written to suppliers_output.json (total 531 supplier(s))
+2025-02-18 01:45:14,957 - INFO - Loading page 15: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=15
+2025-02-18 01:45:21,287 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:45:21,645 - INFO - Found 15 supplier(s) on page 15.
+2025-02-18 01:45:21,652 - INFO - Backup written to suppliers_output.json (total 546 supplier(s))
+2025-02-18 01:45:21,653 - INFO - Loading page 16: https://www.globalspec.com/suppliers/4187/tape_dispensing_machines?pg=16
+2025-02-18 01:45:26,702 - INFO - Page title: Tape Dispensers and Tape Dispensing Machines Manufacturers and Suppliers | GlobalSpec
+2025-02-18 01:45:26,816 - INFO - Found 2 supplier(s) on page 16.
+2025-02-18 01:45:26,820 - INFO - Backup written to suppliers_output.json (total 548 supplier(s))
+2025-02-18 01:45:26,820 - INFO - Final backup complete. Total supplier(s) extracted: 548
+2025-02-18 01:45:26,821 - INFO - Closing the browser.
