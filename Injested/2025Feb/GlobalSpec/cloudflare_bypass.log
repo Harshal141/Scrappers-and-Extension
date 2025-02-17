@@ -1,0 +1,27 @@
+2025-02-17 17:39:10,959 - INFO - Navigating to the demo page.
+2025-02-17 17:39:11,450 - INFO - Starting Cloudflare bypass.
+2025-02-17 17:39:19,088 - INFO - Enjoy the content!
+2025-02-17 17:39:19,089 - INFO - Title of the page: Login | GlobalSpec
+2025-02-17 17:39:19,103 - INFO - Email input found: <ChromiumElement input type='email' name='email' size='30' value=''>
+2025-02-17 17:39:23,357 - INFO - Password input found: <ChromiumElement input type='password' name='password' size='30' value=''>
+2025-02-17 17:39:38,531 - INFO - Extracted data: Contract Packaging Services - https://www.globalspec.com/suppliers/3782/contract_packaging_services
+2025-02-17 17:39:38,534 - INFO - Number of suppliers: (742 suppliers)
+2025-02-17 17:39:38,537 - INFO - Extracted data: Converting Services - https://www.globalspec.com/suppliers/3059/converting
+2025-02-17 17:39:38,539 - INFO - Number of suppliers: (777 suppliers)
+2025-02-17 17:39:38,543 - INFO - Extracted data: Label and Nameplate Services - https://www.globalspec.com/suppliers/2171/nameplate_label_services
+2025-02-17 17:39:38,546 - INFO - Number of suppliers: (1,067 suppliers)
+2025-02-17 17:39:38,551 - INFO - Extracted data: Material Handling Automation - https://www.globalspec.com/suppliers/3260/material_handling_automation
+2025-02-17 17:39:38,553 - INFO - Number of suppliers: (1,240 suppliers)
+2025-02-17 17:39:38,558 - INFO - Extracted data: Package Testing Services - https://www.globalspec.com/search/products?page=ms#comp=5537&show=products
+2025-02-17 17:39:38,561 - INFO - Number of suppliers: (21 suppliers)
+2025-02-17 17:39:38,566 - INFO - Extracted data: Packaging Design Services - https://www.globalspec.com/suppliers/3786/packaging_design_services
+2025-02-17 17:39:38,569 - INFO - Number of suppliers: (731 suppliers)
+2025-02-17 17:39:38,573 - INFO - Extracted data: Packaging Equipment Design and Fabrication - https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication
+2025-02-17 17:39:38,577 - INFO - Number of suppliers: (196 suppliers)
+2025-02-17 17:39:38,583 - INFO - Extracted data: Pharmaceutical Packaging Services - https://www.globalspec.com/search/products?page=ms#comp=5895&show=products
+2025-02-17 17:39:38,585 - INFO - Number of suppliers: (34 suppliers)
+2025-02-17 17:39:38,591 - INFO - Extracted data: Shipping and Freight Services - https://www.globalspec.com/search/products?page=ms#comp=3777&show=products
+2025-02-17 17:39:38,594 - INFO - Number of suppliers: (1,128 suppliers)
+2025-02-17 17:39:38,600 - INFO - Extracted data: Sorting Services - https://www.globalspec.com/search/products?page=ms#comp=5817&show=products
+2025-02-17 17:39:38,603 - INFO - Number of suppliers: (18 suppliers)
+2025-02-17 17:39:48,612 - INFO - Closing the browser.
