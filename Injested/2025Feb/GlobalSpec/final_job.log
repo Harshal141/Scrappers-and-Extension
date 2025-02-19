@@ -1,0 +1,1436 @@
+2025-02-17 19:03:03,493 - INFO - Navigating to login page: https://www.globalspec.com/MyGlobalSpec/Login
+2025-02-17 19:03:16,045 - INFO - Email input found: <ChromiumElement input type='email' name='email' size='30' value=''>
+2025-02-17 19:03:20,325 - INFO - Password input found: <ChromiumElement input type='password' name='password' size='30' value=''>
+2025-02-17 19:03:24,351 - INFO - Login button found: <ChromiumElement input type='submit' name='submit' value='Log In'>
+2025-02-17 19:03:34,592 - INFO - Login successful. Current page title: Subscriptions
+2025-02-17 19:03:34,601 - INFO - Loading page 1: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=1
+2025-02-17 19:03:40,836 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:03:41,076 - INFO - Found 15 supplier(s) on page 1.
+2025-02-17 19:03:41,076 - INFO - Backup written to suppliers_output.json (total 15 supplier(s))
+2025-02-17 19:03:41,077 - INFO - Loading page 2: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=2
+2025-02-17 19:03:46,083 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:03:46,773 - INFO - Found 15 supplier(s) on page 2.
+2025-02-17 19:03:46,776 - INFO - Backup written to suppliers_output.json (total 30 supplier(s))
+2025-02-17 19:03:46,777 - INFO - Loading page 3: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=3
+2025-02-17 19:03:51,816 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:03:52,282 - INFO - Found 15 supplier(s) on page 3.
+2025-02-17 19:03:52,283 - INFO - Backup written to suppliers_output.json (total 45 supplier(s))
+2025-02-17 19:03:52,283 - INFO - Loading page 4: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=4
+2025-02-17 19:03:57,290 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:03:57,717 - INFO - Found 15 supplier(s) on page 4.
+2025-02-17 19:03:57,720 - INFO - Backup written to suppliers_output.json (total 60 supplier(s))
+2025-02-17 19:03:57,720 - INFO - Loading page 5: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=5
+2025-02-17 19:04:05,407 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:04:07,113 - INFO - Found 15 supplier(s) on page 5.
+2025-02-17 19:04:07,114 - INFO - Backup written to suppliers_output.json (total 75 supplier(s))
+2025-02-17 19:04:07,114 - INFO - Loading page 6: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=6
+2025-02-17 19:04:13,303 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:04:13,864 - INFO - Found 15 supplier(s) on page 6.
+2025-02-17 19:04:13,865 - INFO - Backup written to suppliers_output.json (total 90 supplier(s))
+2025-02-17 19:04:13,865 - INFO - Loading page 7: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=7
+2025-02-17 19:04:24,596 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:04:24,912 - INFO - Found 15 supplier(s) on page 7.
+2025-02-17 19:04:24,914 - INFO - Backup written to suppliers_output.json (total 105 supplier(s))
+2025-02-17 19:04:24,914 - INFO - Loading page 8: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=8
+2025-02-17 19:04:29,957 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:04:30,347 - INFO - Found 15 supplier(s) on page 8.
+2025-02-17 19:04:30,350 - INFO - Backup written to suppliers_output.json (total 120 supplier(s))
+2025-02-17 19:04:30,351 - INFO - Loading page 9: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=9
+2025-02-17 19:04:35,331 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:04:35,753 - INFO - Found 15 supplier(s) on page 9.
+2025-02-17 19:04:35,759 - INFO - Backup written to suppliers_output.json (total 135 supplier(s))
+2025-02-17 19:04:35,760 - INFO - Loading page 10: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=10
+2025-02-17 19:04:42,532 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:04:44,072 - INFO - Found 15 supplier(s) on page 10.
+2025-02-17 19:04:44,074 - INFO - Backup written to suppliers_output.json (total 150 supplier(s))
+2025-02-17 19:04:44,075 - INFO - Loading page 11: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=11
+2025-02-17 19:04:49,004 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:04:49,539 - INFO - Found 15 supplier(s) on page 11.
+2025-02-17 19:04:49,543 - INFO - Backup written to suppliers_output.json (total 165 supplier(s))
+2025-02-17 19:04:49,544 - INFO - Loading page 12: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=12
+2025-02-17 19:04:54,491 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:04:54,736 - INFO - Found 15 supplier(s) on page 12.
+2025-02-17 19:04:54,738 - INFO - Backup written to suppliers_output.json (total 180 supplier(s))
+2025-02-17 19:04:54,738 - INFO - Loading page 13: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=13
+2025-02-17 19:04:59,700 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:04:59,982 - INFO - Found 15 supplier(s) on page 13.
+2025-02-17 19:04:59,984 - INFO - Backup written to suppliers_output.json (total 195 supplier(s))
+2025-02-17 19:04:59,984 - INFO - Loading page 14: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=14
+2025-02-17 19:05:04,997 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:05:05,266 - INFO - Found 15 supplier(s) on page 14.
+2025-02-17 19:05:05,270 - INFO - Backup written to suppliers_output.json (total 210 supplier(s))
+2025-02-17 19:05:05,270 - INFO - Loading page 15: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=15
+2025-02-17 19:05:13,157 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:05:14,898 - INFO - Found 15 supplier(s) on page 15.
+2025-02-17 19:05:14,901 - INFO - Backup written to suppliers_output.json (total 225 supplier(s))
+2025-02-17 19:05:14,902 - INFO - Loading page 16: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=16
+2025-02-17 19:05:19,890 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:05:20,637 - INFO - Found 15 supplier(s) on page 16.
+2025-02-17 19:05:20,643 - INFO - Backup written to suppliers_output.json (total 240 supplier(s))
+2025-02-17 19:05:20,644 - INFO - Loading page 17: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=17
+2025-02-17 19:05:26,686 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:05:26,967 - INFO - Found 15 supplier(s) on page 17.
+2025-02-17 19:05:26,969 - INFO - Backup written to suppliers_output.json (total 255 supplier(s))
+2025-02-17 19:05:26,970 - INFO - Loading page 18: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=18
+2025-02-17 19:05:31,938 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:05:32,190 - INFO - Found 15 supplier(s) on page 18.
+2025-02-17 19:05:32,192 - INFO - Backup written to suppliers_output.json (total 270 supplier(s))
+2025-02-17 19:05:32,193 - INFO - Loading page 19: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=19
+2025-02-17 19:05:37,153 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:05:37,379 - INFO - Found 15 supplier(s) on page 19.
+2025-02-17 19:05:37,382 - INFO - Backup written to suppliers_output.json (total 285 supplier(s))
+2025-02-17 19:05:37,382 - INFO - Loading page 20: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=20
+2025-02-17 19:05:44,040 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:05:45,368 - INFO - Found 15 supplier(s) on page 20.
+2025-02-17 19:05:45,371 - INFO - Backup written to suppliers_output.json (total 300 supplier(s))
+2025-02-17 19:05:45,371 - INFO - Loading page 21: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=21
+2025-02-17 19:05:50,365 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:05:50,871 - INFO - Found 15 supplier(s) on page 21.
+2025-02-17 19:05:50,874 - INFO - Backup written to suppliers_output.json (total 315 supplier(s))
+2025-02-17 19:05:50,874 - INFO - Loading page 22: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=22
+2025-02-17 19:05:55,880 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:05:56,255 - INFO - Found 15 supplier(s) on page 22.
+2025-02-17 19:05:56,258 - INFO - Backup written to suppliers_output.json (total 330 supplier(s))
+2025-02-17 19:05:56,258 - INFO - Loading page 23: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=23
+2025-02-17 19:06:01,229 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:06:01,720 - INFO - Found 15 supplier(s) on page 23.
+2025-02-17 19:06:01,724 - INFO - Backup written to suppliers_output.json (total 345 supplier(s))
+2025-02-17 19:06:01,724 - INFO - Loading page 24: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=24
+2025-02-17 19:06:08,065 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:06:08,499 - INFO - Found 15 supplier(s) on page 24.
+2025-02-17 19:06:08,502 - INFO - Backup written to suppliers_output.json (total 360 supplier(s))
+2025-02-17 19:06:08,502 - INFO - Loading page 25: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=25
+2025-02-17 19:06:18,742 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:06:20,513 - INFO - Found 15 supplier(s) on page 25.
+2025-02-17 19:06:20,520 - INFO - Backup written to suppliers_output.json (total 375 supplier(s))
+2025-02-17 19:06:20,521 - INFO - Loading page 26: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=26
+2025-02-17 19:06:25,606 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:06:26,027 - INFO - Found 15 supplier(s) on page 26.
+2025-02-17 19:06:26,030 - INFO - Backup written to suppliers_output.json (total 390 supplier(s))
+2025-02-17 19:06:26,030 - INFO - Loading page 27: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=27
+2025-02-17 19:06:31,020 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:06:31,475 - INFO - Found 15 supplier(s) on page 27.
+2025-02-17 19:06:31,480 - INFO - Backup written to suppliers_output.json (total 405 supplier(s))
+2025-02-17 19:06:31,480 - INFO - Loading page 28: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=28
+2025-02-17 19:06:36,628 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:06:36,973 - INFO - Found 15 supplier(s) on page 28.
+2025-02-17 19:06:36,977 - INFO - Backup written to suppliers_output.json (total 420 supplier(s))
+2025-02-17 19:06:36,978 - INFO - Loading page 29: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=29
+2025-02-17 19:06:42,232 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:06:42,670 - INFO - Found 15 supplier(s) on page 29.
+2025-02-17 19:06:42,677 - INFO - Backup written to suppliers_output.json (total 435 supplier(s))
+2025-02-17 19:06:42,678 - INFO - Loading page 30: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=30
+2025-02-17 19:06:49,391 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:06:50,821 - INFO - Found 15 supplier(s) on page 30.
+2025-02-17 19:06:50,825 - INFO - Backup written to suppliers_output.json (total 450 supplier(s))
+2025-02-17 19:06:50,826 - INFO - Loading page 31: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=31
+2025-02-17 19:06:55,898 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:06:56,120 - INFO - Found 15 supplier(s) on page 31.
+2025-02-17 19:06:56,124 - INFO - Backup written to suppliers_output.json (total 465 supplier(s))
+2025-02-17 19:06:56,124 - INFO - Loading page 32: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=32
+2025-02-17 19:07:01,088 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:07:01,393 - INFO - Found 15 supplier(s) on page 32.
+2025-02-17 19:07:01,398 - INFO - Backup written to suppliers_output.json (total 480 supplier(s))
+2025-02-17 19:07:01,398 - INFO - Loading page 33: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=33
+2025-02-17 19:07:06,335 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:07:06,890 - INFO - Found 15 supplier(s) on page 33.
+2025-02-17 19:07:06,896 - INFO - Backup written to suppliers_output.json (total 495 supplier(s))
+2025-02-17 19:07:06,896 - INFO - Loading page 34: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=34
+2025-02-17 19:07:12,058 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:07:12,344 - INFO - Found 15 supplier(s) on page 34.
+2025-02-17 19:07:12,349 - INFO - Backup written to suppliers_output.json (total 510 supplier(s))
+2025-02-17 19:07:12,349 - INFO - Loading page 35: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=35
+2025-02-17 19:07:19,050 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:07:20,268 - INFO - Found 15 supplier(s) on page 35.
+2025-02-17 19:07:20,278 - INFO - Backup written to suppliers_output.json (total 525 supplier(s))
+2025-02-17 19:07:20,278 - INFO - Loading page 36: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=36
+2025-02-17 19:07:25,176 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:07:25,735 - INFO - Found 15 supplier(s) on page 36.
+2025-02-17 19:07:25,743 - INFO - Backup written to suppliers_output.json (total 540 supplier(s))
+2025-02-17 19:07:25,744 - INFO - Loading page 37: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=37
+2025-02-17 19:07:30,600 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:07:30,926 - INFO - Found 15 supplier(s) on page 37.
+2025-02-17 19:07:30,930 - INFO - Backup written to suppliers_output.json (total 555 supplier(s))
+2025-02-17 19:07:30,930 - INFO - Loading page 38: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=38
+2025-02-17 19:07:35,932 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:07:36,420 - INFO - Found 15 supplier(s) on page 38.
+2025-02-17 19:07:36,430 - INFO - Backup written to suppliers_output.json (total 570 supplier(s))
+2025-02-17 19:07:36,430 - INFO - Loading page 39: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=39
+2025-02-17 19:07:41,590 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:07:42,066 - INFO - Found 15 supplier(s) on page 39.
+2025-02-17 19:07:42,071 - INFO - Backup written to suppliers_output.json (total 585 supplier(s))
+2025-02-17 19:07:42,071 - INFO - Loading page 40: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=40
+2025-02-17 19:07:48,882 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:07:50,813 - INFO - Found 15 supplier(s) on page 40.
+2025-02-17 19:07:50,818 - INFO - Backup written to suppliers_output.json (total 600 supplier(s))
+2025-02-17 19:07:50,818 - INFO - Loading page 41: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=41
+2025-02-17 19:07:55,786 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:07:56,233 - INFO - Found 15 supplier(s) on page 41.
+2025-02-17 19:07:56,242 - INFO - Backup written to suppliers_output.json (total 615 supplier(s))
+2025-02-17 19:07:56,243 - INFO - Loading page 42: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=42
+2025-02-17 19:08:02,509 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:08:02,908 - INFO - Found 15 supplier(s) on page 42.
+2025-02-17 19:08:02,913 - INFO - Backup written to suppliers_output.json (total 630 supplier(s))
+2025-02-17 19:08:02,914 - INFO - Loading page 43: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=43
+2025-02-17 19:08:09,220 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:08:09,581 - INFO - Found 15 supplier(s) on page 43.
+2025-02-17 19:08:09,590 - INFO - Backup written to suppliers_output.json (total 645 supplier(s))
+2025-02-17 19:08:09,591 - INFO - Loading page 44: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=44
+2025-02-17 19:08:15,930 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:08:16,253 - INFO - Found 15 supplier(s) on page 44.
+2025-02-17 19:08:16,261 - INFO - Backup written to suppliers_output.json (total 660 supplier(s))
+2025-02-17 19:08:16,261 - INFO - Loading page 45: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=45
+2025-02-17 19:08:24,179 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:08:25,996 - INFO - Found 15 supplier(s) on page 45.
+2025-02-17 19:08:26,001 - INFO - Backup written to suppliers_output.json (total 675 supplier(s))
+2025-02-17 19:08:26,001 - INFO - Loading page 46: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=46
+2025-02-17 19:08:32,427 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:08:32,736 - INFO - Found 15 supplier(s) on page 46.
+2025-02-17 19:08:32,741 - INFO - Backup written to suppliers_output.json (total 690 supplier(s))
+2025-02-17 19:08:32,741 - INFO - Loading page 47: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=47
+2025-02-17 19:08:40,772 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:08:41,448 - INFO - Found 15 supplier(s) on page 47.
+2025-02-17 19:08:41,454 - INFO - Backup written to suppliers_output.json (total 705 supplier(s))
+2025-02-17 19:08:41,454 - INFO - Loading page 48: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=48
+2025-02-17 19:08:47,763 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:08:48,129 - INFO - Found 15 supplier(s) on page 48.
+2025-02-17 19:08:48,136 - INFO - Backup written to suppliers_output.json (total 720 supplier(s))
+2025-02-17 19:08:48,136 - INFO - Loading page 49: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=49
+2025-02-17 19:08:53,964 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:08:54,276 - INFO - Found 10 supplier(s) on page 49.
+2025-02-17 19:08:54,286 - INFO - Backup written to suppliers_output.json (total 730 supplier(s))
+2025-02-17 19:08:54,287 - INFO - Loading page 50: https://www.globalspec.com/suppliers/3782/contract_packaging_services?pg=50
+2025-02-17 19:09:00,983 - INFO - Page title: Contract Packaging Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:09:10,988 - INFO - Found 0 supplier(s) on page 50.
+2025-02-17 19:09:10,998 - INFO - Backup written to suppliers_output.json (total 730 supplier(s))
+2025-02-17 19:09:11,010 - INFO - Loading page 1: https://www.globalspec.com/suppliers/3059/converting?pg=1
+2025-02-17 19:09:17,552 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:09:18,002 - INFO - Found 15 supplier(s) on page 1.
+2025-02-17 19:09:18,018 - INFO - Backup written to suppliers_output.json (total 745 supplier(s))
+2025-02-17 19:09:18,021 - INFO - Loading page 2: https://www.globalspec.com/suppliers/3059/converting?pg=2
+2025-02-17 19:09:24,542 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:09:25,101 - INFO - Found 15 supplier(s) on page 2.
+2025-02-17 19:09:25,107 - INFO - Backup written to suppliers_output.json (total 760 supplier(s))
+2025-02-17 19:09:25,108 - INFO - Loading page 3: https://www.globalspec.com/suppliers/3059/converting?pg=3
+2025-02-17 19:09:31,504 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:09:31,949 - INFO - Found 15 supplier(s) on page 3.
+2025-02-17 19:09:31,960 - INFO - Backup written to suppliers_output.json (total 775 supplier(s))
+2025-02-17 19:09:31,960 - INFO - Loading page 4: https://www.globalspec.com/suppliers/3059/converting?pg=4
+2025-02-17 19:09:38,275 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:09:38,499 - INFO - Found 15 supplier(s) on page 4.
+2025-02-17 19:09:38,504 - INFO - Backup written to suppliers_output.json (total 790 supplier(s))
+2025-02-17 19:09:38,505 - INFO - Loading page 5: https://www.globalspec.com/suppliers/3059/converting?pg=5
+2025-02-17 19:09:47,582 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:09:49,106 - INFO - Found 15 supplier(s) on page 5.
+2025-02-17 19:09:49,115 - INFO - Backup written to suppliers_output.json (total 805 supplier(s))
+2025-02-17 19:09:49,116 - INFO - Loading page 6: https://www.globalspec.com/suppliers/3059/converting?pg=6
+2025-02-17 19:09:55,367 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:09:55,694 - INFO - Found 15 supplier(s) on page 6.
+2025-02-17 19:09:55,701 - INFO - Backup written to suppliers_output.json (total 820 supplier(s))
+2025-02-17 19:09:55,701 - INFO - Loading page 7: https://www.globalspec.com/suppliers/3059/converting?pg=7
+2025-02-17 19:10:02,135 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:10:02,352 - INFO - Found 15 supplier(s) on page 7.
+2025-02-17 19:10:02,358 - INFO - Backup written to suppliers_output.json (total 835 supplier(s))
+2025-02-17 19:10:02,358 - INFO - Loading page 8: https://www.globalspec.com/suppliers/3059/converting?pg=8
+2025-02-17 19:10:09,897 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:10:10,177 - INFO - Found 15 supplier(s) on page 8.
+2025-02-17 19:10:10,184 - INFO - Backup written to suppliers_output.json (total 850 supplier(s))
+2025-02-17 19:10:10,184 - INFO - Loading page 9: https://www.globalspec.com/suppliers/3059/converting?pg=9
+2025-02-17 19:10:16,534 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:10:17,204 - INFO - Found 15 supplier(s) on page 9.
+2025-02-17 19:10:17,213 - INFO - Backup written to suppliers_output.json (total 865 supplier(s))
+2025-02-17 19:10:17,214 - INFO - Loading page 10: https://www.globalspec.com/suppliers/3059/converting?pg=10
+2025-02-17 19:10:25,087 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:10:26,661 - INFO - Found 15 supplier(s) on page 10.
+2025-02-17 19:10:26,668 - INFO - Backup written to suppliers_output.json (total 880 supplier(s))
+2025-02-17 19:10:26,668 - INFO - Loading page 11: https://www.globalspec.com/suppliers/3059/converting?pg=11
+2025-02-17 19:10:32,826 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:10:33,149 - INFO - Found 15 supplier(s) on page 11.
+2025-02-17 19:10:33,156 - INFO - Backup written to suppliers_output.json (total 895 supplier(s))
+2025-02-17 19:10:33,156 - INFO - Loading page 12: https://www.globalspec.com/suppliers/3059/converting?pg=12
+2025-02-17 19:10:39,547 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:10:39,770 - INFO - Found 15 supplier(s) on page 12.
+2025-02-17 19:10:39,777 - INFO - Backup written to suppliers_output.json (total 910 supplier(s))
+2025-02-17 19:10:39,777 - INFO - Loading page 13: https://www.globalspec.com/suppliers/3059/converting?pg=13
+2025-02-17 19:10:46,335 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:10:46,560 - INFO - Found 15 supplier(s) on page 13.
+2025-02-17 19:10:46,569 - INFO - Backup written to suppliers_output.json (total 925 supplier(s))
+2025-02-17 19:10:46,570 - INFO - Loading page 14: https://www.globalspec.com/suppliers/3059/converting?pg=14
+2025-02-17 19:10:52,952 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:10:53,293 - INFO - Found 15 supplier(s) on page 14.
+2025-02-17 19:10:53,300 - INFO - Backup written to suppliers_output.json (total 940 supplier(s))
+2025-02-17 19:10:53,300 - INFO - Loading page 15: https://www.globalspec.com/suppliers/3059/converting?pg=15
+2025-02-17 19:11:01,204 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:11:02,798 - INFO - Found 15 supplier(s) on page 15.
+2025-02-17 19:11:02,804 - INFO - Backup written to suppliers_output.json (total 955 supplier(s))
+2025-02-17 19:11:02,805 - INFO - Loading page 16: https://www.globalspec.com/suppliers/3059/converting?pg=16
+2025-02-17 19:11:09,114 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:11:09,518 - INFO - Found 15 supplier(s) on page 16.
+2025-02-17 19:11:09,525 - INFO - Backup written to suppliers_output.json (total 970 supplier(s))
+2025-02-17 19:11:09,525 - INFO - Loading page 17: https://www.globalspec.com/suppliers/3059/converting?pg=17
+2025-02-17 19:11:15,778 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:11:16,204 - INFO - Found 15 supplier(s) on page 17.
+2025-02-17 19:11:16,212 - INFO - Backup written to suppliers_output.json (total 985 supplier(s))
+2025-02-17 19:11:16,212 - INFO - Loading page 18: https://www.globalspec.com/suppliers/3059/converting?pg=18
+2025-02-17 19:11:22,574 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:11:23,135 - INFO - Found 15 supplier(s) on page 18.
+2025-02-17 19:11:23,143 - INFO - Backup written to suppliers_output.json (total 1000 supplier(s))
+2025-02-17 19:11:23,143 - INFO - Loading page 19: https://www.globalspec.com/suppliers/3059/converting?pg=19
+2025-02-17 19:11:31,027 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:11:32,593 - INFO - Found 15 supplier(s) on page 19.
+2025-02-17 19:11:32,602 - INFO - Backup written to suppliers_output.json (total 1015 supplier(s))
+2025-02-17 19:11:32,602 - INFO - Loading page 20: https://www.globalspec.com/suppliers/3059/converting?pg=20
+2025-02-17 19:11:39,122 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:11:39,357 - INFO - Found 15 supplier(s) on page 20.
+2025-02-17 19:11:39,364 - INFO - Backup written to suppliers_output.json (total 1030 supplier(s))
+2025-02-17 19:11:39,364 - INFO - Loading page 21: https://www.globalspec.com/suppliers/3059/converting?pg=21
+2025-02-17 19:11:46,724 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:11:47,158 - INFO - Found 15 supplier(s) on page 21.
+2025-02-17 19:11:47,167 - INFO - Backup written to suppliers_output.json (total 1045 supplier(s))
+2025-02-17 19:11:47,167 - INFO - Loading page 22: https://www.globalspec.com/suppliers/3059/converting?pg=22
+2025-02-17 19:11:53,645 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:11:54,075 - INFO - Found 15 supplier(s) on page 22.
+2025-02-17 19:11:54,083 - INFO - Backup written to suppliers_output.json (total 1060 supplier(s))
+2025-02-17 19:11:54,084 - INFO - Loading page 23: https://www.globalspec.com/suppliers/3059/converting?pg=23
+2025-02-17 19:12:00,393 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:12:00,872 - INFO - Found 15 supplier(s) on page 23.
+2025-02-17 19:12:00,880 - INFO - Backup written to suppliers_output.json (total 1075 supplier(s))
+2025-02-17 19:12:00,880 - INFO - Loading page 24: https://www.globalspec.com/suppliers/3059/converting?pg=24
+2025-02-17 19:12:08,909 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:12:10,376 - INFO - Found 15 supplier(s) on page 24.
+2025-02-17 19:12:10,395 - INFO - Backup written to suppliers_output.json (total 1090 supplier(s))
+2025-02-17 19:12:10,396 - INFO - Loading page 25: https://www.globalspec.com/suppliers/3059/converting?pg=25
+2025-02-17 19:12:17,820 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:12:18,335 - INFO - Found 15 supplier(s) on page 25.
+2025-02-17 19:12:18,345 - INFO - Backup written to suppliers_output.json (total 1105 supplier(s))
+2025-02-17 19:12:18,345 - INFO - Loading page 26: https://www.globalspec.com/suppliers/3059/converting?pg=26
+2025-02-17 19:12:24,680 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:12:25,132 - INFO - Found 15 supplier(s) on page 26.
+2025-02-17 19:12:25,141 - INFO - Backup written to suppliers_output.json (total 1120 supplier(s))
+2025-02-17 19:12:25,142 - INFO - Loading page 27: https://www.globalspec.com/suppliers/3059/converting?pg=27
+2025-02-17 19:12:30,094 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:12:30,601 - INFO - Found 15 supplier(s) on page 27.
+2025-02-17 19:12:30,609 - INFO - Backup written to suppliers_output.json (total 1135 supplier(s))
+2025-02-17 19:12:30,609 - INFO - Loading page 28: https://www.globalspec.com/suppliers/3059/converting?pg=28
+2025-02-17 19:12:35,571 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:12:35,957 - INFO - Found 15 supplier(s) on page 28.
+2025-02-17 19:12:35,965 - INFO - Backup written to suppliers_output.json (total 1150 supplier(s))
+2025-02-17 19:12:35,965 - INFO - Loading page 29: https://www.globalspec.com/suppliers/3059/converting?pg=29
+2025-02-17 19:12:42,634 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:12:43,872 - INFO - Found 15 supplier(s) on page 29.
+2025-02-17 19:12:43,899 - INFO - Backup written to suppliers_output.json (total 1165 supplier(s))
+2025-02-17 19:12:43,901 - INFO - Loading page 30: https://www.globalspec.com/suppliers/3059/converting?pg=30
+2025-02-17 19:12:48,902 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:12:49,531 - INFO - Found 15 supplier(s) on page 30.
+2025-02-17 19:12:49,555 - INFO - Backup written to suppliers_output.json (total 1180 supplier(s))
+2025-02-17 19:12:49,556 - INFO - Loading page 31: https://www.globalspec.com/suppliers/3059/converting?pg=31
+2025-02-17 19:12:55,678 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:12:56,011 - INFO - Found 15 supplier(s) on page 31.
+2025-02-17 19:12:56,022 - INFO - Backup written to suppliers_output.json (total 1195 supplier(s))
+2025-02-17 19:12:56,023 - INFO - Loading page 32: https://www.globalspec.com/suppliers/3059/converting?pg=32
+2025-02-17 19:13:01,093 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:13:01,786 - INFO - Found 15 supplier(s) on page 32.
+2025-02-17 19:13:01,807 - INFO - Backup written to suppliers_output.json (total 1210 supplier(s))
+2025-02-17 19:13:01,809 - INFO - Loading page 33: https://www.globalspec.com/suppliers/3059/converting?pg=33
+2025-02-17 19:13:06,755 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:13:07,146 - INFO - Found 15 supplier(s) on page 33.
+2025-02-17 19:13:07,155 - INFO - Backup written to suppliers_output.json (total 1225 supplier(s))
+2025-02-17 19:13:07,155 - INFO - Loading page 34: https://www.globalspec.com/suppliers/3059/converting?pg=34
+2025-02-17 19:13:13,827 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:13:15,001 - INFO - Found 15 supplier(s) on page 34.
+2025-02-17 19:13:15,037 - INFO - Backup written to suppliers_output.json (total 1240 supplier(s))
+2025-02-17 19:13:15,037 - INFO - Loading page 35: https://www.globalspec.com/suppliers/3059/converting?pg=35
+2025-02-17 19:13:20,088 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:13:20,592 - INFO - Found 15 supplier(s) on page 35.
+2025-02-17 19:13:20,601 - INFO - Backup written to suppliers_output.json (total 1255 supplier(s))
+2025-02-17 19:13:20,602 - INFO - Loading page 36: https://www.globalspec.com/suppliers/3059/converting?pg=36
+2025-02-17 19:13:25,570 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:13:26,273 - INFO - Found 15 supplier(s) on page 36.
+2025-02-17 19:13:26,297 - INFO - Backup written to suppliers_output.json (total 1270 supplier(s))
+2025-02-17 19:13:26,297 - INFO - Loading page 37: https://www.globalspec.com/suppliers/3059/converting?pg=37
+2025-02-17 19:13:32,654 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:13:33,185 - INFO - Found 15 supplier(s) on page 37.
+2025-02-17 19:13:33,214 - INFO - Backup written to suppliers_output.json (total 1285 supplier(s))
+2025-02-17 19:13:33,214 - INFO - Loading page 38: https://www.globalspec.com/suppliers/3059/converting?pg=38
+2025-02-17 19:13:40,670 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:13:41,213 - INFO - Found 15 supplier(s) on page 38.
+2025-02-17 19:13:41,232 - INFO - Backup written to suppliers_output.json (total 1300 supplier(s))
+2025-02-17 19:13:41,234 - INFO - Loading page 39: https://www.globalspec.com/suppliers/3059/converting?pg=39
+2025-02-17 19:13:49,457 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:13:51,565 - INFO - Found 15 supplier(s) on page 39.
+2025-02-17 19:13:51,594 - INFO - Backup written to suppliers_output.json (total 1315 supplier(s))
+2025-02-17 19:13:51,594 - INFO - Loading page 40: https://www.globalspec.com/suppliers/3059/converting?pg=40
+2025-02-17 19:13:58,197 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:13:58,782 - INFO - Found 15 supplier(s) on page 40.
+2025-02-17 19:13:58,802 - INFO - Backup written to suppliers_output.json (total 1330 supplier(s))
+2025-02-17 19:13:58,802 - INFO - Loading page 41: https://www.globalspec.com/suppliers/3059/converting?pg=41
+2025-02-17 19:14:05,140 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:14:05,441 - INFO - Found 15 supplier(s) on page 41.
+2025-02-17 19:14:05,451 - INFO - Backup written to suppliers_output.json (total 1345 supplier(s))
+2025-02-17 19:14:05,451 - INFO - Loading page 42: https://www.globalspec.com/suppliers/3059/converting?pg=42
+2025-02-17 19:14:11,762 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:14:12,480 - INFO - Found 15 supplier(s) on page 42.
+2025-02-17 19:14:12,496 - INFO - Backup written to suppliers_output.json (total 1360 supplier(s))
+2025-02-17 19:14:12,496 - INFO - Loading page 43: https://www.globalspec.com/suppliers/3059/converting?pg=43
+2025-02-17 19:14:21,648 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:14:23,586 - INFO - Found 15 supplier(s) on page 43.
+2025-02-17 19:14:23,603 - INFO - Backup written to suppliers_output.json (total 1375 supplier(s))
+2025-02-17 19:14:23,604 - INFO - Loading page 44: https://www.globalspec.com/suppliers/3059/converting?pg=44
+2025-02-17 19:14:30,072 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:14:30,413 - INFO - Found 15 supplier(s) on page 44.
+2025-02-17 19:14:30,432 - INFO - Backup written to suppliers_output.json (total 1390 supplier(s))
+2025-02-17 19:14:30,433 - INFO - Loading page 45: https://www.globalspec.com/suppliers/3059/converting?pg=45
+2025-02-17 19:14:36,805 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:14:37,451 - INFO - Found 15 supplier(s) on page 45.
+2025-02-17 19:14:37,470 - INFO - Backup written to suppliers_output.json (total 1405 supplier(s))
+2025-02-17 19:14:37,473 - INFO - Loading page 46: https://www.globalspec.com/suppliers/3059/converting?pg=46
+2025-02-17 19:14:43,831 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:14:44,422 - INFO - Found 15 supplier(s) on page 46.
+2025-02-17 19:14:44,444 - INFO - Backup written to suppliers_output.json (total 1420 supplier(s))
+2025-02-17 19:14:44,445 - INFO - Loading page 47: https://www.globalspec.com/suppliers/3059/converting?pg=47
+2025-02-17 19:14:50,764 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:14:51,177 - INFO - Found 15 supplier(s) on page 47.
+2025-02-17 19:14:51,193 - INFO - Backup written to suppliers_output.json (total 1435 supplier(s))
+2025-02-17 19:14:51,194 - INFO - Loading page 48: https://www.globalspec.com/suppliers/3059/converting?pg=48
+2025-02-17 19:14:59,596 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:15:01,399 - INFO - Found 15 supplier(s) on page 48.
+2025-02-17 19:15:01,409 - INFO - Backup written to suppliers_output.json (total 1450 supplier(s))
+2025-02-17 19:15:01,410 - INFO - Loading page 49: https://www.globalspec.com/suppliers/3059/converting?pg=49
+2025-02-17 19:15:07,856 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:15:08,262 - INFO - Found 15 supplier(s) on page 49.
+2025-02-17 19:15:08,271 - INFO - Backup written to suppliers_output.json (total 1465 supplier(s))
+2025-02-17 19:15:08,272 - INFO - Loading page 50: https://www.globalspec.com/suppliers/3059/converting?pg=50
+2025-02-17 19:15:14,810 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:15:15,431 - INFO - Found 14 supplier(s) on page 50.
+2025-02-17 19:15:15,461 - INFO - Backup written to suppliers_output.json (total 1479 supplier(s))
+2025-02-17 19:15:15,462 - INFO - Loading page 51: https://www.globalspec.com/suppliers/3059/converting?pg=51
+2025-02-17 19:15:21,606 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:15:31,618 - INFO - Found 0 supplier(s) on page 51.
+2025-02-17 19:15:31,634 - INFO - Backup written to suppliers_output.json (total 1479 supplier(s))
+2025-02-17 19:15:31,635 - INFO - Loading page 52: https://www.globalspec.com/suppliers/3059/converting?pg=52
+2025-02-17 19:15:37,766 - INFO - Page title: Converting Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:15:47,781 - INFO - Found 0 supplier(s) on page 52.
+2025-02-17 19:15:47,801 - INFO - Backup written to suppliers_output.json (total 1479 supplier(s))
+2025-02-17 19:15:47,806 - INFO - Loading page 1: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=1
+2025-02-17 19:15:54,071 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:15:54,388 - INFO - Found 15 supplier(s) on page 1.
+2025-02-17 19:15:54,402 - INFO - Backup written to suppliers_output.json (total 1494 supplier(s))
+2025-02-17 19:15:54,402 - INFO - Loading page 2: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=2
+2025-02-17 19:16:00,685 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:16:00,945 - INFO - Found 15 supplier(s) on page 2.
+2025-02-17 19:16:00,956 - INFO - Backup written to suppliers_output.json (total 1509 supplier(s))
+2025-02-17 19:16:00,957 - INFO - Loading page 3: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=3
+2025-02-17 19:16:07,252 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:16:07,691 - INFO - Found 15 supplier(s) on page 3.
+2025-02-17 19:16:07,700 - INFO - Backup written to suppliers_output.json (total 1524 supplier(s))
+2025-02-17 19:16:07,701 - INFO - Loading page 4: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=4
+2025-02-17 19:16:13,889 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:16:14,230 - INFO - Found 15 supplier(s) on page 4.
+2025-02-17 19:16:14,241 - INFO - Backup written to suppliers_output.json (total 1539 supplier(s))
+2025-02-17 19:16:14,241 - INFO - Loading page 5: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=5
+2025-02-17 19:16:22,266 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:16:24,017 - INFO - Found 15 supplier(s) on page 5.
+2025-02-17 19:16:24,036 - INFO - Backup written to suppliers_output.json (total 1554 supplier(s))
+2025-02-17 19:16:24,036 - INFO - Loading page 6: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=6
+2025-02-17 19:16:30,299 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:16:30,651 - INFO - Found 15 supplier(s) on page 6.
+2025-02-17 19:16:30,662 - INFO - Backup written to suppliers_output.json (total 1569 supplier(s))
+2025-02-17 19:16:30,662 - INFO - Loading page 7: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=7
+2025-02-17 19:16:36,856 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:16:37,489 - INFO - Found 15 supplier(s) on page 7.
+2025-02-17 19:16:37,521 - INFO - Backup written to suppliers_output.json (total 1584 supplier(s))
+2025-02-17 19:16:37,522 - INFO - Loading page 8: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=8
+2025-02-17 19:16:43,823 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:16:44,310 - INFO - Found 15 supplier(s) on page 8.
+2025-02-17 19:16:44,321 - INFO - Backup written to suppliers_output.json (total 1599 supplier(s))
+2025-02-17 19:16:44,322 - INFO - Loading page 9: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=9
+2025-02-17 19:16:50,654 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:16:50,958 - INFO - Found 15 supplier(s) on page 9.
+2025-02-17 19:16:50,969 - INFO - Backup written to suppliers_output.json (total 1614 supplier(s))
+2025-02-17 19:16:50,969 - INFO - Loading page 10: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=10
+2025-02-17 19:16:58,880 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:17:00,579 - INFO - Found 15 supplier(s) on page 10.
+2025-02-17 19:17:00,593 - INFO - Backup written to suppliers_output.json (total 1629 supplier(s))
+2025-02-17 19:17:00,593 - INFO - Loading page 11: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=11
+2025-02-17 19:17:06,791 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:17:07,282 - INFO - Found 15 supplier(s) on page 11.
+2025-02-17 19:17:07,293 - INFO - Backup written to suppliers_output.json (total 1644 supplier(s))
+2025-02-17 19:17:07,294 - INFO - Loading page 12: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=12
+2025-02-17 19:17:15,054 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:17:15,726 - INFO - Found 15 supplier(s) on page 12.
+2025-02-17 19:17:15,754 - INFO - Backup written to suppliers_output.json (total 1659 supplier(s))
+2025-02-17 19:17:15,754 - INFO - Loading page 13: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=13
+2025-02-17 19:17:22,067 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:17:22,542 - INFO - Found 15 supplier(s) on page 13.
+2025-02-17 19:17:22,556 - INFO - Backup written to suppliers_output.json (total 1674 supplier(s))
+2025-02-17 19:17:22,556 - INFO - Loading page 14: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=14
+2025-02-17 19:17:28,915 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:17:29,352 - INFO - Found 15 supplier(s) on page 14.
+2025-02-17 19:17:29,363 - INFO - Backup written to suppliers_output.json (total 1689 supplier(s))
+2025-02-17 19:17:29,365 - INFO - Loading page 15: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=15
+2025-02-17 19:17:37,314 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:17:39,082 - INFO - Found 15 supplier(s) on page 15.
+2025-02-17 19:17:39,103 - INFO - Backup written to suppliers_output.json (total 1704 supplier(s))
+2025-02-17 19:17:39,104 - INFO - Loading page 16: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=16
+2025-02-17 19:17:45,568 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:17:46,060 - INFO - Found 15 supplier(s) on page 16.
+2025-02-17 19:17:46,087 - INFO - Backup written to suppliers_output.json (total 1719 supplier(s))
+2025-02-17 19:17:46,087 - INFO - Loading page 17: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=17
+2025-02-17 19:17:52,503 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:17:52,932 - INFO - Found 15 supplier(s) on page 17.
+2025-02-17 19:17:52,944 - INFO - Backup written to suppliers_output.json (total 1734 supplier(s))
+2025-02-17 19:17:52,945 - INFO - Loading page 18: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=18
+2025-02-17 19:17:59,171 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:17:59,420 - INFO - Found 15 supplier(s) on page 18.
+2025-02-17 19:17:59,432 - INFO - Backup written to suppliers_output.json (total 1749 supplier(s))
+2025-02-17 19:17:59,432 - INFO - Loading page 19: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=19
+2025-02-17 19:18:05,656 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:18:05,864 - INFO - Found 15 supplier(s) on page 19.
+2025-02-17 19:18:05,876 - INFO - Backup written to suppliers_output.json (total 1764 supplier(s))
+2025-02-17 19:18:05,876 - INFO - Loading page 20: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=20
+2025-02-17 19:18:13,940 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:18:15,179 - INFO - Found 15 supplier(s) on page 20.
+2025-02-17 19:18:15,192 - INFO - Backup written to suppliers_output.json (total 1779 supplier(s))
+2025-02-17 19:18:15,192 - INFO - Loading page 21: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=21
+2025-02-17 19:18:21,425 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:18:21,795 - INFO - Found 15 supplier(s) on page 21.
+2025-02-17 19:18:21,819 - INFO - Backup written to suppliers_output.json (total 1794 supplier(s))
+2025-02-17 19:18:21,820 - INFO - Loading page 22: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=22
+2025-02-17 19:18:28,286 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:18:28,500 - INFO - Found 15 supplier(s) on page 22.
+2025-02-17 19:18:28,512 - INFO - Backup written to suppliers_output.json (total 1809 supplier(s))
+2025-02-17 19:18:28,512 - INFO - Loading page 23: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=23
+2025-02-17 19:18:34,847 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:18:35,168 - INFO - Found 15 supplier(s) on page 23.
+2025-02-17 19:18:35,181 - INFO - Backup written to suppliers_output.json (total 1824 supplier(s))
+2025-02-17 19:18:35,182 - INFO - Loading page 24: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=24
+2025-02-17 19:18:41,378 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:18:41,588 - INFO - Found 15 supplier(s) on page 24.
+2025-02-17 19:18:41,601 - INFO - Backup written to suppliers_output.json (total 1839 supplier(s))
+2025-02-17 19:18:41,601 - INFO - Loading page 25: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=25
+2025-02-17 19:18:49,588 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:18:50,891 - INFO - Found 15 supplier(s) on page 25.
+2025-02-17 19:18:50,903 - INFO - Backup written to suppliers_output.json (total 1854 supplier(s))
+2025-02-17 19:18:50,903 - INFO - Loading page 26: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=26
+2025-02-17 19:18:57,500 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:18:57,714 - INFO - Found 15 supplier(s) on page 26.
+2025-02-17 19:18:57,726 - INFO - Backup written to suppliers_output.json (total 1869 supplier(s))
+2025-02-17 19:18:57,727 - INFO - Loading page 27: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=27
+2025-02-17 19:19:04,346 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:19:04,536 - INFO - Found 15 supplier(s) on page 27.
+2025-02-17 19:19:04,551 - INFO - Backup written to suppliers_output.json (total 1884 supplier(s))
+2025-02-17 19:19:04,551 - INFO - Loading page 28: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=28
+2025-02-17 19:19:11,002 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:19:11,216 - INFO - Found 15 supplier(s) on page 28.
+2025-02-17 19:19:11,228 - INFO - Backup written to suppliers_output.json (total 1899 supplier(s))
+2025-02-17 19:19:11,228 - INFO - Loading page 29: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=29
+2025-02-17 19:19:18,752 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:19:19,102 - INFO - Found 15 supplier(s) on page 29.
+2025-02-17 19:19:19,120 - INFO - Backup written to suppliers_output.json (total 1914 supplier(s))
+2025-02-17 19:19:19,120 - INFO - Loading page 30: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=30
+2025-02-17 19:19:27,193 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:19:28,394 - INFO - Found 15 supplier(s) on page 30.
+2025-02-17 19:19:28,407 - INFO - Backup written to suppliers_output.json (total 1929 supplier(s))
+2025-02-17 19:19:28,407 - INFO - Loading page 31: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=31
+2025-02-17 19:19:34,603 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:19:34,869 - INFO - Found 15 supplier(s) on page 31.
+2025-02-17 19:19:34,881 - INFO - Backup written to suppliers_output.json (total 1944 supplier(s))
+2025-02-17 19:19:34,882 - INFO - Loading page 32: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=32
+2025-02-17 19:19:41,274 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:19:41,715 - INFO - Found 15 supplier(s) on page 32.
+2025-02-17 19:19:41,749 - INFO - Backup written to suppliers_output.json (total 1959 supplier(s))
+2025-02-17 19:19:41,750 - INFO - Loading page 33: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=33
+2025-02-17 19:19:48,102 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:19:48,368 - INFO - Found 15 supplier(s) on page 33.
+2025-02-17 19:19:48,381 - INFO - Backup written to suppliers_output.json (total 1974 supplier(s))
+2025-02-17 19:19:48,381 - INFO - Loading page 34: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=34
+2025-02-17 19:19:54,743 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:19:55,064 - INFO - Found 15 supplier(s) on page 34.
+2025-02-17 19:19:55,078 - INFO - Backup written to suppliers_output.json (total 1989 supplier(s))
+2025-02-17 19:19:55,078 - INFO - Loading page 35: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=35
+2025-02-17 19:20:03,004 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:20:04,216 - INFO - Found 15 supplier(s) on page 35.
+2025-02-17 19:20:04,230 - INFO - Backup written to suppliers_output.json (total 2004 supplier(s))
+2025-02-17 19:20:04,230 - INFO - Loading page 36: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=36
+2025-02-17 19:20:10,390 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:20:10,666 - INFO - Found 15 supplier(s) on page 36.
+2025-02-17 19:20:10,679 - INFO - Backup written to suppliers_output.json (total 2019 supplier(s))
+2025-02-17 19:20:10,680 - INFO - Loading page 37: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=37
+2025-02-17 19:20:17,024 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:20:17,240 - INFO - Found 15 supplier(s) on page 37.
+2025-02-17 19:20:17,253 - INFO - Backup written to suppliers_output.json (total 2034 supplier(s))
+2025-02-17 19:20:17,253 - INFO - Loading page 38: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=38
+2025-02-17 19:20:23,555 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:20:23,798 - INFO - Found 15 supplier(s) on page 38.
+2025-02-17 19:20:23,815 - INFO - Backup written to suppliers_output.json (total 2049 supplier(s))
+2025-02-17 19:20:23,816 - INFO - Loading page 39: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=39
+2025-02-17 19:20:31,317 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:20:31,566 - INFO - Found 15 supplier(s) on page 39.
+2025-02-17 19:20:31,581 - INFO - Backup written to suppliers_output.json (total 2064 supplier(s))
+2025-02-17 19:20:31,581 - INFO - Loading page 40: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=40
+2025-02-17 19:20:39,571 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:20:41,052 - INFO - Found 15 supplier(s) on page 40.
+2025-02-17 19:20:41,068 - INFO - Backup written to suppliers_output.json (total 2079 supplier(s))
+2025-02-17 19:20:41,069 - INFO - Loading page 41: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=41
+2025-02-17 19:20:47,842 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:20:48,049 - INFO - Found 15 supplier(s) on page 41.
+2025-02-17 19:20:48,064 - INFO - Backup written to suppliers_output.json (total 2094 supplier(s))
+2025-02-17 19:20:48,064 - INFO - Loading page 42: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=42
+2025-02-17 19:20:54,631 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:20:54,898 - INFO - Found 15 supplier(s) on page 42.
+2025-02-17 19:20:54,911 - INFO - Backup written to suppliers_output.json (total 2109 supplier(s))
+2025-02-17 19:20:54,912 - INFO - Loading page 43: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=43
+2025-02-17 19:21:01,434 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:21:01,641 - INFO - Found 15 supplier(s) on page 43.
+2025-02-17 19:21:01,655 - INFO - Backup written to suppliers_output.json (total 2124 supplier(s))
+2025-02-17 19:21:01,655 - INFO - Loading page 44: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=44
+2025-02-17 19:21:08,011 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:21:08,213 - INFO - Found 15 supplier(s) on page 44.
+2025-02-17 19:21:08,226 - INFO - Backup written to suppliers_output.json (total 2139 supplier(s))
+2025-02-17 19:21:08,227 - INFO - Loading page 45: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=45
+2025-02-17 19:21:16,044 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:21:17,221 - INFO - Found 15 supplier(s) on page 45.
+2025-02-17 19:21:17,241 - INFO - Backup written to suppliers_output.json (total 2154 supplier(s))
+2025-02-17 19:21:17,242 - INFO - Loading page 46: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=46
+2025-02-17 19:21:23,721 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:21:23,919 - INFO - Found 15 supplier(s) on page 46.
+2025-02-17 19:21:23,932 - INFO - Backup written to suppliers_output.json (total 2169 supplier(s))
+2025-02-17 19:21:23,933 - INFO - Loading page 47: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=47
+2025-02-17 19:21:30,185 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:21:30,406 - INFO - Found 15 supplier(s) on page 47.
+2025-02-17 19:21:30,422 - INFO - Backup written to suppliers_output.json (total 2184 supplier(s))
+2025-02-17 19:21:30,423 - INFO - Loading page 48: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=48
+2025-02-17 19:21:36,803 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:21:37,027 - INFO - Found 15 supplier(s) on page 48.
+2025-02-17 19:21:37,044 - INFO - Backup written to suppliers_output.json (total 2199 supplier(s))
+2025-02-17 19:21:37,044 - INFO - Loading page 49: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=49
+2025-02-17 19:21:44,133 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:21:44,353 - INFO - Found 15 supplier(s) on page 49.
+2025-02-17 19:21:44,370 - INFO - Backup written to suppliers_output.json (total 2214 supplier(s))
+2025-02-17 19:21:44,370 - INFO - Loading page 50: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=50
+2025-02-17 19:21:52,490 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:21:53,721 - INFO - Found 15 supplier(s) on page 50.
+2025-02-17 19:21:53,737 - INFO - Backup written to suppliers_output.json (total 2229 supplier(s))
+2025-02-17 19:21:53,738 - INFO - Loading page 51: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=51
+2025-02-17 19:22:01,480 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:22:01,719 - INFO - Found 15 supplier(s) on page 51.
+2025-02-17 19:22:01,734 - INFO - Backup written to suppliers_output.json (total 2244 supplier(s))
+2025-02-17 19:22:01,734 - INFO - Loading page 52: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=52
+2025-02-17 19:22:08,119 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:22:08,312 - INFO - Found 15 supplier(s) on page 52.
+2025-02-17 19:22:08,326 - INFO - Backup written to suppliers_output.json (total 2259 supplier(s))
+2025-02-17 19:22:08,326 - INFO - Loading page 53: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=53
+2025-02-17 19:22:14,643 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:22:14,886 - INFO - Found 15 supplier(s) on page 53.
+2025-02-17 19:22:14,900 - INFO - Backup written to suppliers_output.json (total 2274 supplier(s))
+2025-02-17 19:22:14,901 - INFO - Loading page 54: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=54
+2025-02-17 19:22:21,260 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:22:21,500 - INFO - Found 15 supplier(s) on page 54.
+2025-02-17 19:22:21,519 - INFO - Backup written to suppliers_output.json (total 2289 supplier(s))
+2025-02-17 19:22:21,519 - INFO - Loading page 55: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=55
+2025-02-17 19:22:29,962 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:22:31,277 - INFO - Found 15 supplier(s) on page 55.
+2025-02-17 19:22:31,293 - INFO - Backup written to suppliers_output.json (total 2304 supplier(s))
+2025-02-17 19:22:31,293 - INFO - Loading page 56: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=56
+2025-02-17 19:22:37,579 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:22:37,799 - INFO - Found 15 supplier(s) on page 56.
+2025-02-17 19:22:37,814 - INFO - Backup written to suppliers_output.json (total 2319 supplier(s))
+2025-02-17 19:22:37,815 - INFO - Loading page 57: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=57
+2025-02-17 19:22:44,108 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:22:44,319 - INFO - Found 15 supplier(s) on page 57.
+2025-02-17 19:22:44,334 - INFO - Backup written to suppliers_output.json (total 2334 supplier(s))
+2025-02-17 19:22:44,335 - INFO - Loading page 58: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=58
+2025-02-17 19:22:50,487 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:22:50,712 - INFO - Found 15 supplier(s) on page 58.
+2025-02-17 19:22:50,728 - INFO - Backup written to suppliers_output.json (total 2349 supplier(s))
+2025-02-17 19:22:50,728 - INFO - Loading page 59: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=59
+2025-02-17 19:22:57,777 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:22:57,990 - INFO - Found 15 supplier(s) on page 59.
+2025-02-17 19:22:58,006 - INFO - Backup written to suppliers_output.json (total 2364 supplier(s))
+2025-02-17 19:22:58,007 - INFO - Loading page 60: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=60
+2025-02-17 19:23:07,365 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:23:08,879 - INFO - Found 15 supplier(s) on page 60.
+2025-02-17 19:23:08,898 - INFO - Backup written to suppliers_output.json (total 2379 supplier(s))
+2025-02-17 19:23:08,898 - INFO - Loading page 61: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=61
+2025-02-17 19:23:15,040 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:23:15,241 - INFO - Found 15 supplier(s) on page 61.
+2025-02-17 19:23:15,263 - INFO - Backup written to suppliers_output.json (total 2394 supplier(s))
+2025-02-17 19:23:15,264 - INFO - Loading page 62: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=62
+2025-02-17 19:23:21,753 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:23:21,953 - INFO - Found 15 supplier(s) on page 62.
+2025-02-17 19:23:21,969 - INFO - Backup written to suppliers_output.json (total 2409 supplier(s))
+2025-02-17 19:23:21,970 - INFO - Loading page 63: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=63
+2025-02-17 19:23:28,254 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:23:28,522 - INFO - Found 15 supplier(s) on page 63.
+2025-02-17 19:23:28,539 - INFO - Backup written to suppliers_output.json (total 2424 supplier(s))
+2025-02-17 19:23:28,539 - INFO - Loading page 64: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=64
+2025-02-17 19:23:35,153 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:23:35,457 - INFO - Found 15 supplier(s) on page 64.
+2025-02-17 19:23:35,493 - INFO - Backup written to suppliers_output.json (total 2439 supplier(s))
+2025-02-17 19:23:35,493 - INFO - Loading page 65: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=65
+2025-02-17 19:23:43,539 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:23:44,662 - INFO - Found 15 supplier(s) on page 65.
+2025-02-17 19:23:44,679 - INFO - Backup written to suppliers_output.json (total 2454 supplier(s))
+2025-02-17 19:23:44,680 - INFO - Loading page 66: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=66
+2025-02-17 19:23:51,143 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:23:51,403 - INFO - Found 15 supplier(s) on page 66.
+2025-02-17 19:23:51,427 - INFO - Backup written to suppliers_output.json (total 2469 supplier(s))
+2025-02-17 19:23:51,427 - INFO - Loading page 67: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=67
+2025-02-17 19:23:57,678 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:23:57,873 - INFO - Found 15 supplier(s) on page 67.
+2025-02-17 19:23:57,891 - INFO - Backup written to suppliers_output.json (total 2484 supplier(s))
+2025-02-17 19:23:57,891 - INFO - Loading page 68: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=68
+2025-02-17 19:24:04,238 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:24:04,465 - INFO - Found 15 supplier(s) on page 68.
+2025-02-17 19:24:04,481 - INFO - Backup written to suppliers_output.json (total 2499 supplier(s))
+2025-02-17 19:24:04,481 - INFO - Loading page 69: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=69
+2025-02-17 19:24:10,685 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:24:10,890 - INFO - Found 15 supplier(s) on page 69.
+2025-02-17 19:24:10,906 - INFO - Backup written to suppliers_output.json (total 2514 supplier(s))
+2025-02-17 19:24:10,906 - INFO - Loading page 70: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=70
+2025-02-17 19:24:18,771 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:24:19,980 - INFO - Found 15 supplier(s) on page 70.
+2025-02-17 19:24:20,003 - INFO - Backup written to suppliers_output.json (total 2529 supplier(s))
+2025-02-17 19:24:20,004 - INFO - Loading page 71: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=71
+2025-02-17 19:24:24,635 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:24:34,643 - INFO - Found 0 supplier(s) on page 71.
+2025-02-17 19:24:34,667 - INFO - Backup written to suppliers_output.json (total 2529 supplier(s))
+2025-02-17 19:24:34,668 - INFO - Loading page 72: https://www.globalspec.com/suppliers/2171/nameplate_label_services?pg=72
+2025-02-17 19:24:39,516 - INFO - Page title: Label and Nameplate Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:24:49,531 - INFO - Found 0 supplier(s) on page 72.
+2025-02-17 19:24:49,565 - INFO - Backup written to suppliers_output.json (total 2529 supplier(s))
+2025-02-17 19:24:49,574 - INFO - Loading page 1: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=1
+2025-02-17 19:24:55,971 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:24:56,190 - INFO - Found 15 supplier(s) on page 1.
+2025-02-17 19:24:56,207 - INFO - Backup written to suppliers_output.json (total 2544 supplier(s))
+2025-02-17 19:24:56,208 - INFO - Loading page 2: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=2
+2025-02-17 19:25:02,610 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:25:02,948 - INFO - Found 15 supplier(s) on page 2.
+2025-02-17 19:25:02,966 - INFO - Backup written to suppliers_output.json (total 2559 supplier(s))
+2025-02-17 19:25:02,966 - INFO - Loading page 3: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=3
+2025-02-17 19:25:09,426 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:25:09,656 - INFO - Found 15 supplier(s) on page 3.
+2025-02-17 19:25:09,676 - INFO - Backup written to suppliers_output.json (total 2574 supplier(s))
+2025-02-17 19:25:09,677 - INFO - Loading page 4: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=4
+2025-02-17 19:25:19,438 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:25:21,040 - INFO - Found 15 supplier(s) on page 4.
+2025-02-17 19:25:21,075 - INFO - Backup written to suppliers_output.json (total 2589 supplier(s))
+2025-02-17 19:25:21,076 - INFO - Loading page 5: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=5
+2025-02-17 19:25:27,347 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:25:27,581 - INFO - Found 15 supplier(s) on page 5.
+2025-02-17 19:25:27,599 - INFO - Backup written to suppliers_output.json (total 2604 supplier(s))
+2025-02-17 19:25:27,600 - INFO - Loading page 6: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=6
+2025-02-17 19:25:34,196 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:25:34,514 - INFO - Found 15 supplier(s) on page 6.
+2025-02-17 19:25:34,547 - INFO - Backup written to suppliers_output.json (total 2619 supplier(s))
+2025-02-17 19:25:34,548 - INFO - Loading page 7: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=7
+2025-02-17 19:25:42,063 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:25:42,287 - INFO - Found 15 supplier(s) on page 7.
+2025-02-17 19:25:42,305 - INFO - Backup written to suppliers_output.json (total 2634 supplier(s))
+2025-02-17 19:25:42,305 - INFO - Loading page 8: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=8
+2025-02-17 19:25:50,287 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:25:50,496 - INFO - Found 15 supplier(s) on page 8.
+2025-02-17 19:25:50,513 - INFO - Backup written to suppliers_output.json (total 2649 supplier(s))
+2025-02-17 19:25:50,514 - INFO - Loading page 9: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=9
+2025-02-17 19:25:58,761 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:26:00,091 - INFO - Found 15 supplier(s) on page 9.
+2025-02-17 19:26:00,108 - INFO - Backup written to suppliers_output.json (total 2664 supplier(s))
+2025-02-17 19:26:00,112 - INFO - Loading page 10: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=10
+2025-02-17 19:26:06,270 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:26:06,500 - INFO - Found 15 supplier(s) on page 10.
+2025-02-17 19:26:06,516 - INFO - Backup written to suppliers_output.json (total 2679 supplier(s))
+2025-02-17 19:26:06,517 - INFO - Loading page 11: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=11
+2025-02-17 19:26:13,073 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:26:13,293 - INFO - Found 15 supplier(s) on page 11.
+2025-02-17 19:26:13,310 - INFO - Backup written to suppliers_output.json (total 2694 supplier(s))
+2025-02-17 19:26:13,310 - INFO - Loading page 12: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=12
+2025-02-17 19:26:19,696 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:26:19,962 - INFO - Found 15 supplier(s) on page 12.
+2025-02-17 19:26:19,986 - INFO - Backup written to suppliers_output.json (total 2709 supplier(s))
+2025-02-17 19:26:19,987 - INFO - Loading page 13: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=13
+2025-02-17 19:26:26,348 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:26:26,663 - INFO - Found 15 supplier(s) on page 13.
+2025-02-17 19:26:26,698 - INFO - Backup written to suppliers_output.json (total 2724 supplier(s))
+2025-02-17 19:26:26,699 - INFO - Loading page 14: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=14
+2025-02-17 19:26:34,964 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:26:36,190 - INFO - Found 15 supplier(s) on page 14.
+2025-02-17 19:26:36,210 - INFO - Backup written to suppliers_output.json (total 2739 supplier(s))
+2025-02-17 19:26:36,211 - INFO - Loading page 15: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=15
+2025-02-17 19:26:43,694 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:26:43,963 - INFO - Found 15 supplier(s) on page 15.
+2025-02-17 19:26:43,988 - INFO - Backup written to suppliers_output.json (total 2754 supplier(s))
+2025-02-17 19:26:43,988 - INFO - Loading page 16: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=16
+2025-02-17 19:26:51,398 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:26:51,609 - INFO - Found 15 supplier(s) on page 16.
+2025-02-17 19:26:51,627 - INFO - Backup written to suppliers_output.json (total 2769 supplier(s))
+2025-02-17 19:26:51,628 - INFO - Loading page 17: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=17
+2025-02-17 19:26:58,115 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:26:58,330 - INFO - Found 15 supplier(s) on page 17.
+2025-02-17 19:26:58,352 - INFO - Backup written to suppliers_output.json (total 2784 supplier(s))
+2025-02-17 19:26:58,352 - INFO - Loading page 18: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=18
+2025-02-17 19:27:04,687 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:27:05,005 - INFO - Found 15 supplier(s) on page 18.
+2025-02-17 19:27:05,025 - INFO - Backup written to suppliers_output.json (total 2799 supplier(s))
+2025-02-17 19:27:05,025 - INFO - Loading page 19: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=19
+2025-02-17 19:27:12,943 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:27:14,271 - INFO - Found 15 supplier(s) on page 19.
+2025-02-17 19:27:14,313 - INFO - Backup written to suppliers_output.json (total 2814 supplier(s))
+2025-02-17 19:27:14,314 - INFO - Loading page 20: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=20
+2025-02-17 19:27:20,694 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:27:20,913 - INFO - Found 15 supplier(s) on page 20.
+2025-02-17 19:27:20,932 - INFO - Backup written to suppliers_output.json (total 2829 supplier(s))
+2025-02-17 19:27:20,932 - INFO - Loading page 21: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=21
+2025-02-17 19:27:27,196 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:27:27,481 - INFO - Found 15 supplier(s) on page 21.
+2025-02-17 19:27:27,506 - INFO - Backup written to suppliers_output.json (total 2844 supplier(s))
+2025-02-17 19:27:27,506 - INFO - Loading page 22: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=22
+2025-02-17 19:27:33,817 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:27:34,169 - INFO - Found 15 supplier(s) on page 22.
+2025-02-17 19:27:34,203 - INFO - Backup written to suppliers_output.json (total 2859 supplier(s))
+2025-02-17 19:27:34,204 - INFO - Loading page 23: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=23
+2025-02-17 19:27:40,754 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:27:40,970 - INFO - Found 15 supplier(s) on page 23.
+2025-02-17 19:27:40,991 - INFO - Backup written to suppliers_output.json (total 2874 supplier(s))
+2025-02-17 19:27:40,992 - INFO - Loading page 24: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=24
+2025-02-17 19:27:47,502 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:27:47,730 - INFO - Found 15 supplier(s) on page 24.
+2025-02-17 19:27:47,748 - INFO - Backup written to suppliers_output.json (total 2889 supplier(s))
+2025-02-17 19:27:47,749 - INFO - Loading page 25: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=25
+2025-02-17 19:27:54,389 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:27:54,857 - INFO - Found 15 supplier(s) on page 25.
+2025-02-17 19:27:54,898 - INFO - Backup written to suppliers_output.json (total 2904 supplier(s))
+2025-02-17 19:27:54,899 - INFO - Loading page 26: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=26
+2025-02-17 19:28:01,720 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:28:02,121 - INFO - Found 15 supplier(s) on page 26.
+2025-02-17 19:28:02,148 - INFO - Backup written to suppliers_output.json (total 2919 supplier(s))
+2025-02-17 19:28:02,148 - INFO - Loading page 27: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=27
+2025-02-17 19:28:10,182 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:28:11,574 - INFO - Found 15 supplier(s) on page 27.
+2025-02-17 19:28:11,592 - INFO - Backup written to suppliers_output.json (total 2934 supplier(s))
+2025-02-17 19:28:11,592 - INFO - Loading page 28: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=28
+2025-02-17 19:28:18,092 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:28:18,385 - INFO - Found 15 supplier(s) on page 28.
+2025-02-17 19:28:18,418 - INFO - Backup written to suppliers_output.json (total 2949 supplier(s))
+2025-02-17 19:28:18,419 - INFO - Loading page 29: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=29
+2025-02-17 19:28:24,629 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:28:24,837 - INFO - Found 15 supplier(s) on page 29.
+2025-02-17 19:28:24,857 - INFO - Backup written to suppliers_output.json (total 2964 supplier(s))
+2025-02-17 19:28:24,857 - INFO - Loading page 30: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=30
+2025-02-17 19:28:31,171 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:28:31,669 - INFO - Found 15 supplier(s) on page 30.
+2025-02-17 19:28:31,691 - INFO - Backup written to suppliers_output.json (total 2979 supplier(s))
+2025-02-17 19:28:31,691 - INFO - Loading page 31: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=31
+2025-02-17 19:28:38,026 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:28:38,297 - INFO - Found 15 supplier(s) on page 31.
+2025-02-17 19:28:38,319 - INFO - Backup written to suppliers_output.json (total 2994 supplier(s))
+2025-02-17 19:28:38,320 - INFO - Loading page 32: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=32
+2025-02-17 19:28:47,119 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:28:48,488 - INFO - Found 15 supplier(s) on page 32.
+2025-02-17 19:28:48,508 - INFO - Backup written to suppliers_output.json (total 3009 supplier(s))
+2025-02-17 19:28:48,508 - INFO - Loading page 33: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=33
+2025-02-17 19:28:54,877 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:28:55,302 - INFO - Found 15 supplier(s) on page 33.
+2025-02-17 19:28:55,331 - INFO - Backup written to suppliers_output.json (total 3024 supplier(s))
+2025-02-17 19:28:55,331 - INFO - Loading page 34: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=34
+2025-02-17 19:29:01,648 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:29:01,876 - INFO - Found 15 supplier(s) on page 34.
+2025-02-17 19:29:01,896 - INFO - Backup written to suppliers_output.json (total 3039 supplier(s))
+2025-02-17 19:29:01,897 - INFO - Loading page 35: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=35
+2025-02-17 19:29:08,268 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:29:08,540 - INFO - Found 15 supplier(s) on page 35.
+2025-02-17 19:29:08,560 - INFO - Backup written to suppliers_output.json (total 3054 supplier(s))
+2025-02-17 19:29:08,560 - INFO - Loading page 36: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=36
+2025-02-17 19:29:16,359 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:29:17,676 - INFO - Found 15 supplier(s) on page 36.
+2025-02-17 19:29:17,698 - INFO - Backup written to suppliers_output.json (total 3069 supplier(s))
+2025-02-17 19:29:17,698 - INFO - Loading page 37: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=37
+2025-02-17 19:29:23,928 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:29:24,154 - INFO - Found 15 supplier(s) on page 37.
+2025-02-17 19:29:24,176 - INFO - Backup written to suppliers_output.json (total 3084 supplier(s))
+2025-02-17 19:29:24,176 - INFO - Loading page 38: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=38
+2025-02-17 19:29:30,721 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:29:30,920 - INFO - Found 15 supplier(s) on page 38.
+2025-02-17 19:29:30,940 - INFO - Backup written to suppliers_output.json (total 3099 supplier(s))
+2025-02-17 19:29:30,941 - INFO - Loading page 39: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=39
+2025-02-17 19:29:37,571 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:29:37,909 - INFO - Found 15 supplier(s) on page 39.
+2025-02-17 19:29:37,931 - INFO - Backup written to suppliers_output.json (total 3114 supplier(s))
+2025-02-17 19:29:37,932 - INFO - Loading page 40: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=40
+2025-02-17 19:29:44,262 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:29:44,476 - INFO - Found 15 supplier(s) on page 40.
+2025-02-17 19:29:44,498 - INFO - Backup written to suppliers_output.json (total 3129 supplier(s))
+2025-02-17 19:29:44,498 - INFO - Loading page 41: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=41
+2025-02-17 19:29:52,564 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:29:53,990 - INFO - Found 15 supplier(s) on page 41.
+2025-02-17 19:29:54,041 - INFO - Backup written to suppliers_output.json (total 3144 supplier(s))
+2025-02-17 19:29:54,041 - INFO - Loading page 42: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=42
+2025-02-17 19:30:00,949 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:30:01,180 - INFO - Found 15 supplier(s) on page 42.
+2025-02-17 19:30:01,213 - INFO - Backup written to suppliers_output.json (total 3159 supplier(s))
+2025-02-17 19:30:01,213 - INFO - Loading page 43: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=43
+2025-02-17 19:30:07,745 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:30:07,962 - INFO - Found 15 supplier(s) on page 43.
+2025-02-17 19:30:07,981 - INFO - Backup written to suppliers_output.json (total 3174 supplier(s))
+2025-02-17 19:30:07,982 - INFO - Loading page 44: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=44
+2025-02-17 19:30:14,369 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:30:14,590 - INFO - Found 15 supplier(s) on page 44.
+2025-02-17 19:30:14,611 - INFO - Backup written to suppliers_output.json (total 3189 supplier(s))
+2025-02-17 19:30:14,611 - INFO - Loading page 45: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=45
+2025-02-17 19:30:21,142 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:30:21,362 - INFO - Found 15 supplier(s) on page 45.
+2025-02-17 19:30:21,384 - INFO - Backup written to suppliers_output.json (total 3204 supplier(s))
+2025-02-17 19:30:21,384 - INFO - Loading page 46: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=46
+2025-02-17 19:30:29,781 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:30:31,005 - INFO - Found 15 supplier(s) on page 46.
+2025-02-17 19:30:31,028 - INFO - Backup written to suppliers_output.json (total 3219 supplier(s))
+2025-02-17 19:30:31,028 - INFO - Loading page 47: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=47
+2025-02-17 19:30:37,548 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:30:37,758 - INFO - Found 15 supplier(s) on page 47.
+2025-02-17 19:30:37,778 - INFO - Backup written to suppliers_output.json (total 3234 supplier(s))
+2025-02-17 19:30:37,778 - INFO - Loading page 48: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=48
+2025-02-17 19:30:44,137 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:30:44,474 - INFO - Found 15 supplier(s) on page 48.
+2025-02-17 19:30:44,498 - INFO - Backup written to suppliers_output.json (total 3249 supplier(s))
+2025-02-17 19:30:44,498 - INFO - Loading page 49: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=49
+2025-02-17 19:30:51,022 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:30:51,409 - INFO - Found 15 supplier(s) on page 49.
+2025-02-17 19:30:51,433 - INFO - Backup written to suppliers_output.json (total 3264 supplier(s))
+2025-02-17 19:30:51,433 - INFO - Loading page 50: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=50
+2025-02-17 19:30:57,939 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:30:58,231 - INFO - Found 15 supplier(s) on page 50.
+2025-02-17 19:30:58,254 - INFO - Backup written to suppliers_output.json (total 3279 supplier(s))
+2025-02-17 19:30:58,254 - INFO - Loading page 51: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=51
+2025-02-17 19:31:06,291 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:31:07,625 - INFO - Found 15 supplier(s) on page 51.
+2025-02-17 19:31:07,659 - INFO - Backup written to suppliers_output.json (total 3294 supplier(s))
+2025-02-17 19:31:07,660 - INFO - Loading page 52: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=52
+2025-02-17 19:31:14,134 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:31:14,397 - INFO - Found 15 supplier(s) on page 52.
+2025-02-17 19:31:14,421 - INFO - Backup written to suppliers_output.json (total 3309 supplier(s))
+2025-02-17 19:31:14,421 - INFO - Loading page 53: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=53
+2025-02-17 19:31:20,887 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:31:21,112 - INFO - Found 15 supplier(s) on page 53.
+2025-02-17 19:31:21,134 - INFO - Backup written to suppliers_output.json (total 3324 supplier(s))
+2025-02-17 19:31:21,134 - INFO - Loading page 54: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=54
+2025-02-17 19:31:27,598 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:31:27,876 - INFO - Found 15 supplier(s) on page 54.
+2025-02-17 19:31:27,902 - INFO - Backup written to suppliers_output.json (total 3339 supplier(s))
+2025-02-17 19:31:27,902 - INFO - Loading page 55: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=55
+2025-02-17 19:31:34,229 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:31:34,460 - INFO - Found 15 supplier(s) on page 55.
+2025-02-17 19:31:34,485 - INFO - Backup written to suppliers_output.json (total 3354 supplier(s))
+2025-02-17 19:31:34,486 - INFO - Loading page 56: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=56
+2025-02-17 19:31:42,542 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:31:43,874 - INFO - Found 15 supplier(s) on page 56.
+2025-02-17 19:31:43,901 - INFO - Backup written to suppliers_output.json (total 3369 supplier(s))
+2025-02-17 19:31:43,901 - INFO - Loading page 57: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=57
+2025-02-17 19:31:51,649 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:31:51,930 - INFO - Found 15 supplier(s) on page 57.
+2025-02-17 19:31:51,955 - INFO - Backup written to suppliers_output.json (total 3384 supplier(s))
+2025-02-17 19:31:51,956 - INFO - Loading page 58: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=58
+2025-02-17 19:31:58,639 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:31:58,898 - INFO - Found 15 supplier(s) on page 58.
+2025-02-17 19:31:58,923 - INFO - Backup written to suppliers_output.json (total 3399 supplier(s))
+2025-02-17 19:31:58,924 - INFO - Loading page 59: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=59
+2025-02-17 19:32:05,576 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:32:05,795 - INFO - Found 15 supplier(s) on page 59.
+2025-02-17 19:32:05,819 - INFO - Backup written to suppliers_output.json (total 3414 supplier(s))
+2025-02-17 19:32:05,819 - INFO - Loading page 60: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=60
+2025-02-17 19:32:12,409 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:32:12,666 - INFO - Found 15 supplier(s) on page 60.
+2025-02-17 19:32:12,691 - INFO - Backup written to suppliers_output.json (total 3429 supplier(s))
+2025-02-17 19:32:12,692 - INFO - Loading page 61: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=61
+2025-02-17 19:32:20,600 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:32:21,949 - INFO - Found 15 supplier(s) on page 61.
+2025-02-17 19:32:21,973 - INFO - Backup written to suppliers_output.json (total 3444 supplier(s))
+2025-02-17 19:32:21,973 - INFO - Loading page 62: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=62
+2025-02-17 19:32:28,935 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:32:29,149 - INFO - Found 15 supplier(s) on page 62.
+2025-02-17 19:32:29,175 - INFO - Backup written to suppliers_output.json (total 3459 supplier(s))
+2025-02-17 19:32:29,175 - INFO - Loading page 63: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=63
+2025-02-17 19:32:35,445 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:32:35,804 - INFO - Found 15 supplier(s) on page 63.
+2025-02-17 19:32:35,829 - INFO - Backup written to suppliers_output.json (total 3474 supplier(s))
+2025-02-17 19:32:35,829 - INFO - Loading page 64: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=64
+2025-02-17 19:32:42,197 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:32:42,398 - INFO - Found 15 supplier(s) on page 64.
+2025-02-17 19:32:42,421 - INFO - Backup written to suppliers_output.json (total 3489 supplier(s))
+2025-02-17 19:32:42,422 - INFO - Loading page 65: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=65
+2025-02-17 19:32:48,899 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:32:49,107 - INFO - Found 15 supplier(s) on page 65.
+2025-02-17 19:32:49,132 - INFO - Backup written to suppliers_output.json (total 3504 supplier(s))
+2025-02-17 19:32:49,132 - INFO - Loading page 66: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=66
+2025-02-17 19:32:56,956 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:32:58,441 - INFO - Found 15 supplier(s) on page 66.
+2025-02-17 19:32:58,465 - INFO - Backup written to suppliers_output.json (total 3519 supplier(s))
+2025-02-17 19:32:58,466 - INFO - Loading page 67: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=67
+2025-02-17 19:33:04,759 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:33:05,046 - INFO - Found 15 supplier(s) on page 67.
+2025-02-17 19:33:05,091 - INFO - Backup written to suppliers_output.json (total 3534 supplier(s))
+2025-02-17 19:33:05,092 - INFO - Loading page 68: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=68
+2025-02-17 19:33:11,950 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:33:12,268 - INFO - Found 15 supplier(s) on page 68.
+2025-02-17 19:33:12,293 - INFO - Backup written to suppliers_output.json (total 3549 supplier(s))
+2025-02-17 19:33:12,295 - INFO - Loading page 69: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=69
+2025-02-17 19:33:18,591 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:33:18,788 - INFO - Found 15 supplier(s) on page 69.
+2025-02-17 19:33:18,812 - INFO - Backup written to suppliers_output.json (total 3564 supplier(s))
+2025-02-17 19:33:18,812 - INFO - Loading page 70: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=70
+2025-02-17 19:33:25,419 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:33:25,648 - INFO - Found 15 supplier(s) on page 70.
+2025-02-17 19:33:25,674 - INFO - Backup written to suppliers_output.json (total 3579 supplier(s))
+2025-02-17 19:33:25,674 - INFO - Loading page 71: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=71
+2025-02-17 19:33:33,762 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:33:35,325 - INFO - Found 15 supplier(s) on page 71.
+2025-02-17 19:33:35,348 - INFO - Backup written to suppliers_output.json (total 3594 supplier(s))
+2025-02-17 19:33:35,349 - INFO - Loading page 72: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=72
+2025-02-17 19:33:42,828 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:33:43,084 - INFO - Found 15 supplier(s) on page 72.
+2025-02-17 19:33:43,106 - INFO - Backup written to suppliers_output.json (total 3609 supplier(s))
+2025-02-17 19:33:43,108 - INFO - Loading page 73: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=73
+2025-02-17 19:33:49,511 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:33:49,713 - INFO - Found 15 supplier(s) on page 73.
+2025-02-17 19:33:49,736 - INFO - Backup written to suppliers_output.json (total 3624 supplier(s))
+2025-02-17 19:33:49,738 - INFO - Loading page 74: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=74
+2025-02-17 19:33:56,234 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:33:56,449 - INFO - Found 15 supplier(s) on page 74.
+2025-02-17 19:33:56,471 - INFO - Backup written to suppliers_output.json (total 3639 supplier(s))
+2025-02-17 19:33:56,471 - INFO - Loading page 75: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=75
+2025-02-17 19:34:06,010 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:34:06,226 - INFO - Found 15 supplier(s) on page 75.
+2025-02-17 19:34:06,251 - INFO - Backup written to suppliers_output.json (total 3654 supplier(s))
+2025-02-17 19:34:06,251 - INFO - Loading page 76: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=76
+2025-02-17 19:34:14,241 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:34:15,644 - INFO - Found 15 supplier(s) on page 76.
+2025-02-17 19:34:15,671 - INFO - Backup written to suppliers_output.json (total 3669 supplier(s))
+2025-02-17 19:34:15,673 - INFO - Loading page 77: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=77
+2025-02-17 19:34:22,038 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:34:22,240 - INFO - Found 15 supplier(s) on page 77.
+2025-02-17 19:34:22,265 - INFO - Backup written to suppliers_output.json (total 3684 supplier(s))
+2025-02-17 19:34:22,265 - INFO - Loading page 78: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=78
+2025-02-17 19:34:28,759 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:34:29,083 - INFO - Found 15 supplier(s) on page 78.
+2025-02-17 19:34:29,106 - INFO - Backup written to suppliers_output.json (total 3699 supplier(s))
+2025-02-17 19:34:29,108 - INFO - Loading page 79: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=79
+2025-02-17 19:34:35,648 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:34:35,881 - INFO - Found 15 supplier(s) on page 79.
+2025-02-17 19:34:35,905 - INFO - Backup written to suppliers_output.json (total 3714 supplier(s))
+2025-02-17 19:34:35,906 - INFO - Loading page 80: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=80
+2025-02-17 19:34:44,045 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:34:45,386 - INFO - Found 15 supplier(s) on page 80.
+2025-02-17 19:34:45,409 - INFO - Backup written to suppliers_output.json (total 3729 supplier(s))
+2025-02-17 19:34:45,410 - INFO - Loading page 81: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=81
+2025-02-17 19:34:50,575 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:34:50,642 - INFO - Found 4 supplier(s) on page 81.
+2025-02-17 19:34:50,666 - INFO - Backup written to suppliers_output.json (total 3733 supplier(s))
+2025-02-17 19:34:50,667 - INFO - Loading page 82: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=82
+2025-02-17 19:34:55,444 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:35:05,455 - INFO - Found 0 supplier(s) on page 82.
+2025-02-17 19:35:05,495 - INFO - Backup written to suppliers_output.json (total 3733 supplier(s))
+2025-02-17 19:35:05,496 - INFO - Loading page 83: https://www.globalspec.com/suppliers/3260/material_handling_automation?pg=83
+2025-02-17 19:35:10,533 - INFO - Page title: Material Handling Automation Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:35:20,540 - INFO - Found 0 supplier(s) on page 83.
+2025-02-17 19:35:20,578 - INFO - Backup written to suppliers_output.json (total 3733 supplier(s))
+2025-02-17 19:35:20,582 - INFO - Loading page 1: https://www.globalspec.com/search/products?page=ms#comp=5537&show=products?pg=1
+2025-02-17 19:35:26,814 - INFO - Page title: | GlobalSpec
+2025-02-17 19:35:36,818 - INFO - Found 0 supplier(s) on page 1.
+2025-02-17 19:35:36,864 - INFO - Backup written to suppliers_output.json (total 3733 supplier(s))
+2025-02-17 19:35:36,864 - INFO - Loading page 2: https://www.globalspec.com/search/products?page=ms#comp=5537&show=products?pg=2
+2025-02-17 19:35:42,576 - INFO - Page title: | GlobalSpec
+2025-02-17 19:35:52,583 - INFO - Found 0 supplier(s) on page 2.
+2025-02-17 19:35:52,633 - INFO - Backup written to suppliers_output.json (total 3733 supplier(s))
+2025-02-17 19:35:52,636 - INFO - Loading page 1: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=1
+2025-02-17 19:36:01,766 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:36:03,293 - INFO - Found 15 supplier(s) on page 1.
+2025-02-17 19:36:03,328 - INFO - Backup written to suppliers_output.json (total 3748 supplier(s))
+2025-02-17 19:36:03,328 - INFO - Loading page 2: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=2
+2025-02-17 19:36:09,644 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:36:09,980 - INFO - Found 15 supplier(s) on page 2.
+2025-02-17 19:36:10,005 - INFO - Backup written to suppliers_output.json (total 3763 supplier(s))
+2025-02-17 19:36:10,007 - INFO - Loading page 3: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=3
+2025-02-17 19:36:16,270 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:36:16,641 - INFO - Found 15 supplier(s) on page 3.
+2025-02-17 19:36:16,678 - INFO - Backup written to suppliers_output.json (total 3778 supplier(s))
+2025-02-17 19:36:16,679 - INFO - Loading page 4: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=4
+2025-02-17 19:36:23,110 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:36:23,390 - INFO - Found 15 supplier(s) on page 4.
+2025-02-17 19:36:23,414 - INFO - Backup written to suppliers_output.json (total 3793 supplier(s))
+2025-02-17 19:36:23,414 - INFO - Loading page 5: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=5
+2025-02-17 19:36:29,905 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:36:30,270 - INFO - Found 15 supplier(s) on page 5.
+2025-02-17 19:36:30,297 - INFO - Backup written to suppliers_output.json (total 3808 supplier(s))
+2025-02-17 19:36:30,297 - INFO - Loading page 6: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=6
+2025-02-17 19:36:39,636 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:36:41,086 - INFO - Found 15 supplier(s) on page 6.
+2025-02-17 19:36:41,118 - INFO - Backup written to suppliers_output.json (total 3823 supplier(s))
+2025-02-17 19:36:41,118 - INFO - Loading page 7: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=7
+2025-02-17 19:36:47,401 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:36:47,628 - INFO - Found 15 supplier(s) on page 7.
+2025-02-17 19:36:47,654 - INFO - Backup written to suppliers_output.json (total 3838 supplier(s))
+2025-02-17 19:36:47,654 - INFO - Loading page 8: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=8
+2025-02-17 19:36:54,073 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:36:54,306 - INFO - Found 15 supplier(s) on page 8.
+2025-02-17 19:36:54,332 - INFO - Backup written to suppliers_output.json (total 3853 supplier(s))
+2025-02-17 19:36:54,332 - INFO - Loading page 9: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=9
+2025-02-17 19:37:00,580 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:37:00,818 - INFO - Found 15 supplier(s) on page 9.
+2025-02-17 19:37:00,844 - INFO - Backup written to suppliers_output.json (total 3868 supplier(s))
+2025-02-17 19:37:00,844 - INFO - Loading page 10: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=10
+2025-02-17 19:37:07,311 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:37:07,631 - INFO - Found 15 supplier(s) on page 10.
+2025-02-17 19:37:07,660 - INFO - Backup written to suppliers_output.json (total 3883 supplier(s))
+2025-02-17 19:37:07,661 - INFO - Loading page 11: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=11
+2025-02-17 19:37:15,712 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:37:17,126 - INFO - Found 15 supplier(s) on page 11.
+2025-02-17 19:37:17,152 - INFO - Backup written to suppliers_output.json (total 3898 supplier(s))
+2025-02-17 19:37:17,152 - INFO - Loading page 12: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=12
+2025-02-17 19:37:23,339 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:37:23,659 - INFO - Found 15 supplier(s) on page 12.
+2025-02-17 19:37:23,683 - INFO - Backup written to suppliers_output.json (total 3913 supplier(s))
+2025-02-17 19:37:23,683 - INFO - Loading page 13: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=13
+2025-02-17 19:37:30,057 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:37:30,380 - INFO - Found 15 supplier(s) on page 13.
+2025-02-17 19:37:30,406 - INFO - Backup written to suppliers_output.json (total 3928 supplier(s))
+2025-02-17 19:37:30,406 - INFO - Loading page 14: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=14
+2025-02-17 19:37:36,842 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:37:37,081 - INFO - Found 15 supplier(s) on page 14.
+2025-02-17 19:37:37,110 - INFO - Backup written to suppliers_output.json (total 3943 supplier(s))
+2025-02-17 19:37:37,111 - INFO - Loading page 15: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=15
+2025-02-17 19:37:43,645 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:37:43,923 - INFO - Found 15 supplier(s) on page 15.
+2025-02-17 19:37:43,954 - INFO - Backup written to suppliers_output.json (total 3958 supplier(s))
+2025-02-17 19:37:43,955 - INFO - Loading page 16: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=16
+2025-02-17 19:37:51,889 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:37:53,310 - INFO - Found 15 supplier(s) on page 16.
+2025-02-17 19:37:53,342 - INFO - Backup written to suppliers_output.json (total 3973 supplier(s))
+2025-02-17 19:37:53,343 - INFO - Loading page 17: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=17
+2025-02-17 19:37:59,936 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:38:00,316 - INFO - Found 15 supplier(s) on page 17.
+2025-02-17 19:38:00,363 - INFO - Backup written to suppliers_output.json (total 3988 supplier(s))
+2025-02-17 19:38:00,364 - INFO - Loading page 18: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=18
+2025-02-17 19:38:06,812 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:38:07,015 - INFO - Found 15 supplier(s) on page 18.
+2025-02-17 19:38:07,043 - INFO - Backup written to suppliers_output.json (total 4003 supplier(s))
+2025-02-17 19:38:07,043 - INFO - Loading page 19: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=19
+2025-02-17 19:38:13,424 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:38:13,686 - INFO - Found 15 supplier(s) on page 19.
+2025-02-17 19:38:13,712 - INFO - Backup written to suppliers_output.json (total 4018 supplier(s))
+2025-02-17 19:38:13,713 - INFO - Loading page 20: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=20
+2025-02-17 19:38:19,983 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:38:20,192 - INFO - Found 15 supplier(s) on page 20.
+2025-02-17 19:38:20,223 - INFO - Backup written to suppliers_output.json (total 4033 supplier(s))
+2025-02-17 19:38:20,223 - INFO - Loading page 21: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=21
+2025-02-17 19:38:28,292 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:38:29,676 - INFO - Found 15 supplier(s) on page 21.
+2025-02-17 19:38:29,702 - INFO - Backup written to suppliers_output.json (total 4048 supplier(s))
+2025-02-17 19:38:29,702 - INFO - Loading page 22: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=22
+2025-02-17 19:38:36,126 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:38:36,365 - INFO - Found 15 supplier(s) on page 22.
+2025-02-17 19:38:36,390 - INFO - Backup written to suppliers_output.json (total 4063 supplier(s))
+2025-02-17 19:38:36,391 - INFO - Loading page 23: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=23
+2025-02-17 19:38:42,771 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:38:43,013 - INFO - Found 15 supplier(s) on page 23.
+2025-02-17 19:38:43,038 - INFO - Backup written to suppliers_output.json (total 4078 supplier(s))
+2025-02-17 19:38:43,039 - INFO - Loading page 24: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=24
+2025-02-17 19:38:49,500 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:38:49,729 - INFO - Found 15 supplier(s) on page 24.
+2025-02-17 19:38:49,756 - INFO - Backup written to suppliers_output.json (total 4093 supplier(s))
+2025-02-17 19:38:49,756 - INFO - Loading page 25: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=25
+2025-02-17 19:38:56,302 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:38:56,556 - INFO - Found 15 supplier(s) on page 25.
+2025-02-17 19:38:56,585 - INFO - Backup written to suppliers_output.json (total 4108 supplier(s))
+2025-02-17 19:38:56,586 - INFO - Loading page 26: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=26
+2025-02-17 19:39:04,458 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:39:05,726 - INFO - Found 15 supplier(s) on page 26.
+2025-02-17 19:39:05,754 - INFO - Backup written to suppliers_output.json (total 4123 supplier(s))
+2025-02-17 19:39:05,755 - INFO - Loading page 27: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=27
+2025-02-17 19:39:12,292 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:39:12,499 - INFO - Found 15 supplier(s) on page 27.
+2025-02-17 19:39:12,528 - INFO - Backup written to suppliers_output.json (total 4138 supplier(s))
+2025-02-17 19:39:12,529 - INFO - Loading page 28: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=28
+2025-02-17 19:39:19,005 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:39:19,209 - INFO - Found 15 supplier(s) on page 28.
+2025-02-17 19:39:19,238 - INFO - Backup written to suppliers_output.json (total 4153 supplier(s))
+2025-02-17 19:39:19,239 - INFO - Loading page 29: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=29
+2025-02-17 19:39:25,736 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:39:25,968 - INFO - Found 15 supplier(s) on page 29.
+2025-02-17 19:39:25,997 - INFO - Backup written to suppliers_output.json (total 4168 supplier(s))
+2025-02-17 19:39:25,997 - INFO - Loading page 30: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=30
+2025-02-17 19:39:32,579 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:39:32,810 - INFO - Found 15 supplier(s) on page 30.
+2025-02-17 19:39:32,840 - INFO - Backup written to suppliers_output.json (total 4183 supplier(s))
+2025-02-17 19:39:32,841 - INFO - Loading page 31: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=31
+2025-02-17 19:39:39,514 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:39:39,740 - INFO - Found 15 supplier(s) on page 31.
+2025-02-17 19:39:39,769 - INFO - Backup written to suppliers_output.json (total 4198 supplier(s))
+2025-02-17 19:39:39,769 - INFO - Loading page 32: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=32
+2025-02-17 19:39:46,462 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:39:46,709 - INFO - Found 15 supplier(s) on page 32.
+2025-02-17 19:39:46,739 - INFO - Backup written to suppliers_output.json (total 4213 supplier(s))
+2025-02-17 19:39:46,740 - INFO - Loading page 33: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=33
+2025-02-17 19:39:53,070 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:39:53,395 - INFO - Found 15 supplier(s) on page 33.
+2025-02-17 19:39:53,432 - INFO - Backup written to suppliers_output.json (total 4228 supplier(s))
+2025-02-17 19:39:53,432 - INFO - Loading page 34: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=34
+2025-02-17 19:39:59,815 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:40:00,208 - INFO - Found 15 supplier(s) on page 34.
+2025-02-17 19:40:00,245 - INFO - Backup written to suppliers_output.json (total 4243 supplier(s))
+2025-02-17 19:40:00,245 - INFO - Loading page 35: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=35
+2025-02-17 19:40:06,564 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:40:06,776 - INFO - Found 15 supplier(s) on page 35.
+2025-02-17 19:40:06,805 - INFO - Backup written to suppliers_output.json (total 4258 supplier(s))
+2025-02-17 19:40:06,806 - INFO - Loading page 36: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=36
+2025-02-17 19:40:15,015 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:40:16,177 - INFO - Found 15 supplier(s) on page 36.
+2025-02-17 19:40:16,209 - INFO - Backup written to suppliers_output.json (total 4273 supplier(s))
+2025-02-17 19:40:16,209 - INFO - Loading page 37: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=37
+2025-02-17 19:40:22,334 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:40:22,605 - INFO - Found 15 supplier(s) on page 37.
+2025-02-17 19:40:22,635 - INFO - Backup written to suppliers_output.json (total 4288 supplier(s))
+2025-02-17 19:40:22,635 - INFO - Loading page 38: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=38
+2025-02-17 19:40:29,302 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:40:29,509 - INFO - Found 15 supplier(s) on page 38.
+2025-02-17 19:40:29,541 - INFO - Backup written to suppliers_output.json (total 4303 supplier(s))
+2025-02-17 19:40:29,541 - INFO - Loading page 39: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=39
+2025-02-17 19:40:35,981 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:40:36,381 - INFO - Found 15 supplier(s) on page 39.
+2025-02-17 19:40:36,411 - INFO - Backup written to suppliers_output.json (total 4318 supplier(s))
+2025-02-17 19:40:36,411 - INFO - Loading page 40: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=40
+2025-02-17 19:40:42,719 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:40:42,944 - INFO - Found 15 supplier(s) on page 40.
+2025-02-17 19:40:42,972 - INFO - Backup written to suppliers_output.json (total 4333 supplier(s))
+2025-02-17 19:40:42,972 - INFO - Loading page 41: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=41
+2025-02-17 19:40:50,854 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:40:51,990 - INFO - Found 15 supplier(s) on page 41.
+2025-02-17 19:40:52,023 - INFO - Backup written to suppliers_output.json (total 4348 supplier(s))
+2025-02-17 19:40:52,024 - INFO - Loading page 42: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=42
+2025-02-17 19:40:58,262 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:40:58,467 - INFO - Found 15 supplier(s) on page 42.
+2025-02-17 19:40:58,495 - INFO - Backup written to suppliers_output.json (total 4363 supplier(s))
+2025-02-17 19:40:58,496 - INFO - Loading page 43: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=43
+2025-02-17 19:41:04,890 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:41:05,126 - INFO - Found 15 supplier(s) on page 43.
+2025-02-17 19:41:05,155 - INFO - Backup written to suppliers_output.json (total 4378 supplier(s))
+2025-02-17 19:41:05,156 - INFO - Loading page 44: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=44
+2025-02-17 19:41:11,474 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:41:11,690 - INFO - Found 15 supplier(s) on page 44.
+2025-02-17 19:41:11,723 - INFO - Backup written to suppliers_output.json (total 4393 supplier(s))
+2025-02-17 19:41:11,724 - INFO - Loading page 45: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=45
+2025-02-17 19:41:18,026 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:41:18,242 - INFO - Found 15 supplier(s) on page 45.
+2025-02-17 19:41:18,273 - INFO - Backup written to suppliers_output.json (total 4408 supplier(s))
+2025-02-17 19:41:18,274 - INFO - Loading page 46: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=46
+2025-02-17 19:41:26,110 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:41:27,255 - INFO - Found 15 supplier(s) on page 46.
+2025-02-17 19:41:27,294 - INFO - Backup written to suppliers_output.json (total 4423 supplier(s))
+2025-02-17 19:41:27,295 - INFO - Loading page 47: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=47
+2025-02-17 19:41:33,690 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:41:33,878 - INFO - Found 15 supplier(s) on page 47.
+2025-02-17 19:41:33,908 - INFO - Backup written to suppliers_output.json (total 4438 supplier(s))
+2025-02-17 19:41:33,908 - INFO - Loading page 48: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=48
+2025-02-17 19:41:40,254 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:41:40,462 - INFO - Found 15 supplier(s) on page 48.
+2025-02-17 19:41:40,490 - INFO - Backup written to suppliers_output.json (total 4453 supplier(s))
+2025-02-17 19:41:40,490 - INFO - Loading page 49: https://www.globalspec.com/suppliers/3786/packaging_design_services?pg=49
+2025-02-17 19:41:45,373 - INFO - Page title: Packaging Design Services Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:41:45,418 - INFO - Found 1 supplier(s) on page 49.
+2025-02-17 19:41:45,447 - INFO - Backup written to suppliers_output.json (total 4454 supplier(s))
+2025-02-17 19:41:45,449 - INFO - Loading page 1: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=1
+2025-02-17 19:41:51,745 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:41:51,936 - INFO - Found 15 supplier(s) on page 1.
+2025-02-17 19:41:51,966 - INFO - Backup written to suppliers_output.json (total 4469 supplier(s))
+2025-02-17 19:41:51,966 - INFO - Loading page 2: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=2
+2025-02-17 19:41:59,763 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:42:00,815 - INFO - Found 15 supplier(s) on page 2.
+2025-02-17 19:42:00,848 - INFO - Backup written to suppliers_output.json (total 4484 supplier(s))
+2025-02-17 19:42:00,849 - INFO - Loading page 3: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=3
+2025-02-17 19:42:07,193 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:42:07,599 - INFO - Found 15 supplier(s) on page 3.
+2025-02-17 19:42:07,636 - INFO - Backup written to suppliers_output.json (total 4499 supplier(s))
+2025-02-17 19:42:07,636 - INFO - Loading page 4: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=4
+2025-02-17 19:42:13,808 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:42:14,000 - INFO - Found 15 supplier(s) on page 4.
+2025-02-17 19:42:14,030 - INFO - Backup written to suppliers_output.json (total 4514 supplier(s))
+2025-02-17 19:42:14,030 - INFO - Loading page 5: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=5
+2025-02-17 19:42:20,439 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:42:20,649 - INFO - Found 15 supplier(s) on page 5.
+2025-02-17 19:42:20,683 - INFO - Backup written to suppliers_output.json (total 4529 supplier(s))
+2025-02-17 19:42:20,684 - INFO - Loading page 6: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=6
+2025-02-17 19:42:26,955 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:42:27,148 - INFO - Found 15 supplier(s) on page 6.
+2025-02-17 19:42:27,178 - INFO - Backup written to suppliers_output.json (total 4544 supplier(s))
+2025-02-17 19:42:27,178 - INFO - Loading page 7: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=7
+2025-02-17 19:42:35,054 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:42:36,251 - INFO - Found 15 supplier(s) on page 7.
+2025-02-17 19:42:36,285 - INFO - Backup written to suppliers_output.json (total 4559 supplier(s))
+2025-02-17 19:42:36,286 - INFO - Loading page 8: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=8
+2025-02-17 19:42:42,491 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:42:42,684 - INFO - Found 15 supplier(s) on page 8.
+2025-02-17 19:42:42,716 - INFO - Backup written to suppliers_output.json (total 4574 supplier(s))
+2025-02-17 19:42:42,717 - INFO - Loading page 9: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=9
+2025-02-17 19:42:49,547 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:42:49,757 - INFO - Found 15 supplier(s) on page 9.
+2025-02-17 19:42:49,788 - INFO - Backup written to suppliers_output.json (total 4589 supplier(s))
+2025-02-17 19:42:49,789 - INFO - Loading page 10: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=10
+2025-02-17 19:42:56,023 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:42:56,232 - INFO - Found 15 supplier(s) on page 10.
+2025-02-17 19:42:56,261 - INFO - Backup written to suppliers_output.json (total 4604 supplier(s))
+2025-02-17 19:42:56,261 - INFO - Loading page 11: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=11
+2025-02-17 19:43:02,476 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:43:02,680 - INFO - Found 15 supplier(s) on page 11.
+2025-02-17 19:43:02,711 - INFO - Backup written to suppliers_output.json (total 4619 supplier(s))
+2025-02-17 19:43:02,711 - INFO - Loading page 12: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=12
+2025-02-17 19:43:10,952 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:43:12,120 - INFO - Found 15 supplier(s) on page 12.
+2025-02-17 19:43:12,160 - INFO - Backup written to suppliers_output.json (total 4634 supplier(s))
+2025-02-17 19:43:12,161 - INFO - Loading page 13: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=13
+2025-02-17 19:43:17,889 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:43:18,040 - INFO - Found 10 supplier(s) on page 13.
+2025-02-17 19:43:18,071 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:43:18,072 - INFO - Loading page 14: https://www.globalspec.com/suppliers/2954/packaging_equipment_design_fabrication?pg=14
+2025-02-17 19:43:22,994 - INFO - Page title: Packaging Equipment Design and Fabrication Manufacturers and Suppliers | GlobalSpec
+2025-02-17 19:43:33,006 - INFO - Found 0 supplier(s) on page 14.
+2025-02-17 19:43:33,045 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:43:33,052 - INFO - Loading page 1: https://www.globalspec.com/search/products?page=ms#comp=5895&show=products?pg=1
+2025-02-17 19:43:38,588 - INFO - Page title: | GlobalSpec
+2025-02-17 19:43:48,599 - INFO - Found 0 supplier(s) on page 1.
+2025-02-17 19:43:48,641 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:43:48,641 - INFO - Loading page 2: https://www.globalspec.com/search/products?page=ms#comp=5895&show=products?pg=2
+2025-02-17 19:43:55,005 - INFO - Page title: | GlobalSpec
+2025-02-17 19:44:05,007 - INFO - Found 0 supplier(s) on page 2.
+2025-02-17 19:44:05,055 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:44:05,055 - INFO - Loading page 3: https://www.globalspec.com/search/products?page=ms#comp=5895&show=products?pg=3
+2025-02-17 19:44:10,878 - INFO - Page title: | GlobalSpec
+2025-02-17 19:44:20,887 - INFO - Found 0 supplier(s) on page 3.
+2025-02-17 19:44:20,925 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:44:20,929 - INFO - Loading page 1: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=1
+2025-02-17 19:44:29,416 - INFO - Page title: globalspec.com/helios/client-redirects/product-search#comp=3777&show=products?pg=1
+2025-02-17 19:44:39,430 - INFO - Found 0 supplier(s) on page 1.
+2025-02-17 19:44:39,472 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:44:39,473 - INFO - Loading page 2: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=2
+2025-02-17 19:44:45,767 - INFO - Page title: | GlobalSpec
+2025-02-17 19:44:55,768 - INFO - Found 0 supplier(s) on page 2.
+2025-02-17 19:44:55,811 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:44:55,811 - INFO - Loading page 3: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=3
+2025-02-17 19:45:01,528 - INFO - Page title: | GlobalSpec
+2025-02-17 19:45:11,538 - INFO - Found 0 supplier(s) on page 3.
+2025-02-17 19:45:11,583 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:45:11,584 - INFO - Loading page 4: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=4
+2025-02-17 19:45:18,044 - INFO - Page title: | GlobalSpec
+2025-02-17 19:45:28,050 - INFO - Found 0 supplier(s) on page 4.
+2025-02-17 19:45:28,107 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:45:28,108 - INFO - Loading page 5: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=5
+2025-02-17 19:45:33,828 - INFO - Page title: | GlobalSpec
+2025-02-17 19:45:43,834 - INFO - Found 0 supplier(s) on page 5.
+2025-02-17 19:45:43,881 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:45:43,882 - INFO - Loading page 6: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=6
+2025-02-17 19:45:49,562 - INFO - Page title: | GlobalSpec
+2025-02-17 19:45:59,565 - INFO - Found 0 supplier(s) on page 6.
+2025-02-17 19:45:59,597 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:45:59,597 - INFO - Loading page 7: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=7
+2025-02-17 19:46:08,916 - INFO - Page title: globalspec.com/helios/client-redirects/product-search#comp=3777&show=products?pg=7
+2025-02-17 19:46:18,975 - INFO - Found 0 supplier(s) on page 7.
+2025-02-17 19:46:19,019 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:46:19,020 - INFO - Loading page 8: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=8
+2025-02-17 19:46:24,805 - INFO - Page title: | GlobalSpec
+2025-02-17 19:46:34,812 - INFO - Found 0 supplier(s) on page 8.
+2025-02-17 19:46:34,852 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:46:34,852 - INFO - Loading page 9: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=9
+2025-02-17 19:46:40,651 - INFO - Page title: | GlobalSpec
+2025-02-17 19:46:50,662 - INFO - Found 0 supplier(s) on page 9.
+2025-02-17 19:46:50,692 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:46:50,692 - INFO - Loading page 10: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=10
+2025-02-17 19:46:56,987 - INFO - Page title: | GlobalSpec
+2025-02-17 19:47:06,999 - INFO - Found 0 supplier(s) on page 10.
+2025-02-17 19:47:07,044 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:47:07,045 - INFO - Loading page 11: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=11
+2025-02-17 19:47:13,401 - INFO - Page title: | GlobalSpec
+2025-02-17 19:47:23,405 - INFO - Found 0 supplier(s) on page 11.
+2025-02-17 19:47:23,457 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:47:23,457 - INFO - Loading page 12: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=12
+2025-02-17 19:47:29,351 - INFO - Page title: | GlobalSpec
+2025-02-17 19:47:39,358 - INFO - Found 0 supplier(s) on page 12.
+2025-02-17 19:47:39,404 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:47:39,404 - INFO - Loading page 13: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=13
+2025-02-17 19:47:47,800 - INFO - Page title: globalspec.com/helios/client-redirects/product-search#comp=3777&show=products?pg=13
+2025-02-17 19:47:57,813 - INFO - Found 0 supplier(s) on page 13.
+2025-02-17 19:47:57,847 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:47:57,848 - INFO - Loading page 14: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=14
+2025-02-17 19:48:04,178 - INFO - Page title: | GlobalSpec
+2025-02-17 19:48:14,180 - INFO - Found 0 supplier(s) on page 14.
+2025-02-17 19:48:14,222 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:48:14,222 - INFO - Loading page 15: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=15
+2025-02-17 19:48:19,902 - INFO - Page title: | GlobalSpec
+2025-02-17 19:48:29,913 - INFO - Found 0 supplier(s) on page 15.
+2025-02-17 19:48:29,954 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:48:29,954 - INFO - Loading page 16: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=16
+2025-02-17 19:48:36,326 - INFO - Page title: | GlobalSpec
+2025-02-17 19:48:46,329 - INFO - Found 0 supplier(s) on page 16.
+2025-02-17 19:48:46,376 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:48:46,376 - INFO - Loading page 17: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=17
+2025-02-17 19:48:52,118 - INFO - Page title: | GlobalSpec
+2025-02-17 19:49:02,130 - INFO - Found 0 supplier(s) on page 17.
+2025-02-17 19:49:02,172 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:49:02,173 - INFO - Loading page 18: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=18
+2025-02-17 19:49:07,951 - INFO - Page title: | GlobalSpec
+2025-02-17 19:49:17,991 - INFO - Found 0 supplier(s) on page 18.
+2025-02-17 19:49:18,026 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:49:18,026 - INFO - Loading page 19: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=19
+2025-02-17 19:49:27,956 - INFO - Page title: globalspec.com/helios/client-redirects/product-search#comp=3777&show=products?pg=19
+2025-02-17 19:49:37,959 - INFO - Found 0 supplier(s) on page 19.
+2025-02-17 19:49:38,000 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:49:38,001 - INFO - Loading page 20: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=20
+2025-02-17 19:49:43,705 - INFO - Page title: | GlobalSpec
+2025-02-17 19:49:53,713 - INFO - Found 0 supplier(s) on page 20.
+2025-02-17 19:49:53,747 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:49:53,748 - INFO - Loading page 21: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=21
+2025-02-17 19:49:59,562 - INFO - Page title: | GlobalSpec
+2025-02-17 19:50:09,565 - INFO - Found 0 supplier(s) on page 21.
+2025-02-17 19:50:09,610 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:50:09,611 - INFO - Loading page 22: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=22
+2025-02-17 19:50:15,284 - INFO - Page title: | GlobalSpec
+2025-02-17 19:50:25,298 - INFO - Found 0 supplier(s) on page 22.
+2025-02-17 19:50:25,348 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:50:25,349 - INFO - Loading page 23: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=23
+2025-02-17 19:50:31,226 - INFO - Page title: | GlobalSpec
+2025-02-17 19:50:41,228 - INFO - Found 0 supplier(s) on page 23.
+2025-02-17 19:50:41,279 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:50:41,279 - INFO - Loading page 24: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=24
+2025-02-17 19:50:47,692 - INFO - Page title: | GlobalSpec
+2025-02-17 19:50:57,694 - INFO - Found 0 supplier(s) on page 24.
+2025-02-17 19:50:57,735 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:50:57,735 - INFO - Loading page 25: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=25
+2025-02-17 19:51:07,067 - INFO - Page title: globalspec.com/helios/client-redirects/product-search#comp=3777&show=products?pg=25
+2025-02-17 19:51:17,069 - INFO - Found 0 supplier(s) on page 25.
+2025-02-17 19:51:17,119 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:51:17,119 - INFO - Loading page 26: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=26
+2025-02-17 19:51:22,903 - INFO - Page title: | GlobalSpec
+2025-02-17 19:51:32,906 - INFO - Found 0 supplier(s) on page 26.
+2025-02-17 19:51:32,947 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:51:32,948 - INFO - Loading page 27: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=27
+2025-02-17 19:51:39,513 - INFO - Page title: | GlobalSpec
+2025-02-17 19:51:49,524 - INFO - Found 0 supplier(s) on page 27.
+2025-02-17 19:51:49,569 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:51:49,570 - INFO - Loading page 28: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=28
+2025-02-17 19:51:55,863 - INFO - Page title: | GlobalSpec
+2025-02-17 19:52:05,867 - INFO - Found 0 supplier(s) on page 28.
+2025-02-17 19:52:05,900 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:52:05,901 - INFO - Loading page 29: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=29
+2025-02-17 19:52:12,215 - INFO - Page title: | GlobalSpec
+2025-02-17 19:52:22,227 - INFO - Found 0 supplier(s) on page 29.
+2025-02-17 19:52:22,307 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:52:22,308 - INFO - Loading page 30: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=30
+2025-02-17 19:52:28,031 - INFO - Page title: | GlobalSpec
+2025-02-17 19:52:38,044 - INFO - Found 0 supplier(s) on page 30.
+2025-02-17 19:52:38,129 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:52:38,131 - INFO - Loading page 31: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=31
+2025-02-17 19:52:44,521 - INFO - Page title: | GlobalSpec
+2025-02-17 19:52:54,521 - INFO - Found 0 supplier(s) on page 31.
+2025-02-17 19:52:54,611 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:52:54,612 - INFO - Loading page 32: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=32
+2025-02-17 19:53:00,476 - INFO - Page title: | GlobalSpec
+2025-02-17 19:53:10,492 - INFO - Found 0 supplier(s) on page 32.
+2025-02-17 19:53:10,533 - INFO - Backup written to suppliers_output.json (total 4644 supplier(s))
+2025-02-17 19:53:10,533 - INFO - Loading page 33: https://www.globalspec.com/search/products?page=ms#comp=3777&show=products?pg=33
+2025-02-17 19:53:19,588 - INFO - Page title: globalspec.com/helios/client-redirects/product-search#comp=3777&show=products?pg=33
+2025-02-17 19:53:21,015 - INFO - Closing the browser.

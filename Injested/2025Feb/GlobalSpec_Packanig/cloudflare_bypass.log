@@ -1,0 +1,53 @@
+2025-02-17 20:09:54,039 - INFO - Navigating to the demo page.
+2025-02-17 20:09:54,615 - INFO - Starting Cloudflare bypass.
+2025-02-17 20:10:03,583 - INFO - Enjoy the content!
+2025-02-17 20:10:03,583 - INFO - Title of the page: Login | GlobalSpec
+2025-02-17 20:10:03,590 - INFO - Email input found: <ChromiumElement input type='email' name='email' size='30' value=''>
+2025-02-17 20:10:07,893 - INFO - Password input found: <ChromiumElement input type='password' name='password' size='30' value=''>
+2025-02-17 20:10:23,436 - INFO - Extracted data: Banding and Strapping - https://www.globalspec.com/suppliers/5001/banding_strapping_supplies
+2025-02-17 20:10:23,438 - INFO - Number of suppliers: (251 suppliers)
+2025-02-17 20:10:23,443 - INFO - Extracted data: Capping Machines - https://www.globalspec.com/suppliers/3041/capping_machines
+2025-02-17 20:10:23,445 - INFO - Number of suppliers: (197 suppliers)
+2025-02-17 20:10:23,449 - INFO - Extracted data: Case Equipment - https://www.globalspec.com/suppliers/3042/case_equipment
+2025-02-17 20:10:23,452 - INFO - Number of suppliers: (291 suppliers)
+2025-02-17 20:10:23,460 - INFO - Extracted data: Closing Machines - https://www.globalspec.com/suppliers/4651/closing_machines
+2025-02-17 20:10:23,463 - INFO - Number of suppliers: (111 suppliers)
+2025-02-17 20:10:23,466 - INFO - Extracted data: Cold Packs - https://www.globalspec.com/search/products?page=ms#comp=5859&show=products
+2025-02-17 20:10:23,469 - INFO - Number of suppliers: (28 suppliers)
+2025-02-17 20:10:23,473 - INFO - Extracted data: Filling Machines - https://www.globalspec.com/suppliers/4640/filling_machines
+2025-02-17 20:10:23,475 - INFO - Number of suppliers: (648 suppliers)
+2025-02-17 20:10:23,479 - INFO - Extracted data: Flexible Packaging - https://www.globalspec.com/suppliers/4528/flexible_packaging
+2025-02-17 20:10:23,482 - INFO - Number of suppliers: (506 suppliers)
+2025-02-17 20:10:23,486 - INFO - Extracted data: Form, Fill, and Seal Machines - https://www.globalspec.com/suppliers/1903/form_fill_seal_machines
+2025-02-17 20:10:23,488 - INFO - Number of suppliers: (442 suppliers)
+2025-02-17 20:10:23,491 - INFO - Extracted data: Industrial Printing Equipment - https://www.globalspec.com/suppliers/3423/industrial_printing_equipment
+2025-02-17 20:10:23,493 - INFO - Number of suppliers: (632 suppliers)
+2025-02-17 20:10:23,497 - INFO - Extracted data: Label Applicators - https://www.globalspec.com/suppliers/3029/label_applicators
+2025-02-17 20:10:23,500 - INFO - Number of suppliers: (511 suppliers)
+2025-02-17 20:10:23,504 - INFO - Extracted data: Marking Materials - https://www.globalspec.com/suppliers/4848/marking_materials
+2025-02-17 20:10:23,506 - INFO - Number of suppliers: (143 suppliers)
+2025-02-17 20:10:23,509 - INFO - Extracted data: Marking Stamps and Type - https://www.globalspec.com/search/products?page=ms#comp=3970&show=products
+2025-02-17 20:10:23,512 - INFO - Number of suppliers: (103 suppliers)
+2025-02-17 20:10:23,515 - INFO - Extracted data: Packaging Containers - https://www.globalspec.com/suppliers/4344/packaging_containers
+2025-02-17 20:10:23,517 - INFO - Number of suppliers: (1,443 suppliers)
+2025-02-17 20:10:23,522 - INFO - Extracted data: Packaging Machines - https://www.globalspec.com/suppliers/3475/packaging_machinery
+2025-02-17 20:10:23,524 - INFO - Number of suppliers: (2,524 suppliers)
+2025-02-17 20:10:23,527 - INFO - Extracted data: Palletizers and Depalletizers - https://www.globalspec.com/suppliers/3017/palletizers_depalletizers
+2025-02-17 20:10:23,529 - INFO - Number of suppliers: (369 suppliers)
+2025-02-17 20:10:23,533 - INFO - Extracted data: Protective Packaging - https://www.globalspec.com/suppliers/4579/protective_packaging
+2025-02-17 20:10:23,536 - INFO - Number of suppliers: (672 suppliers)
+2025-02-17 20:10:23,539 - INFO - Extracted data: Sealing Machines - https://www.globalspec.com/suppliers/4641/sealing_machines
+2025-02-17 20:10:23,541 - INFO - Number of suppliers: (418 suppliers)
+2025-02-17 20:10:23,545 - INFO - Extracted data: Shipping and Handling Labels - https://www.globalspec.com/suppliers/5821/shipping_handling_labels
+2025-02-17 20:10:23,547 - INFO - Number of suppliers: (119 suppliers)
+2025-02-17 20:10:23,550 - INFO - Extracted data: Shrink Wrap and Stretch Films - https://www.globalspec.com/suppliers/4292/shrink_wrap_stretch_films
+2025-02-17 20:10:23,552 - INFO - Number of suppliers: (538 suppliers)
+2025-02-17 20:10:23,556 - INFO - Extracted data: Shrink Wrap Machines - https://www.globalspec.com/suppliers/4642/shrink_machines
+2025-02-17 20:10:23,559 - INFO - Number of suppliers: (266 suppliers)
+2025-02-17 20:10:23,563 - INFO - Extracted data: Sorting Equipment - https://www.globalspec.com/search/products?page=ms#comp=4687&show=products
+2025-02-17 20:10:23,565 - INFO - Number of suppliers: (162 suppliers)
+2025-02-17 20:10:23,568 - INFO - Extracted data: Stretch Wrappers - https://www.globalspec.com/suppliers/3034/stretch_wrappers
+2025-02-17 20:10:23,570 - INFO - Number of suppliers: (329 suppliers)
+2025-02-17 20:10:23,575 - INFO - Extracted data: Tape Dispensers and Tape Dispensing Machines - https://www.globalspec.com/suppliers/4187/tape_dispensing_machines
+2025-02-17 20:10:23,577 - INFO - Number of suppliers: (232 suppliers)
+2025-02-17 20:10:33,582 - INFO - Closing the browser.
