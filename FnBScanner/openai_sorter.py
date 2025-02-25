@@ -13,8 +13,8 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv('OPENAI_KEY'))
 
 # File Paths
-INPUT_FILE = "serper/DATA_332/120_/starting_2000_fnb_result.json"  # Input JSON File
-DATA_FILE = "serper/DATA_332/120_/starting_2000_fnb_result_ai.json"  # Output JSON File
+INPUT_FILE = "FnBWarehouse/fnb_test/fnb_scrapped.json"  # Input JSON File
+DATA_FILE = "FnBWarehouse/fnb_test/fnb_scrapped_ai.json"  # Output JSON File
 
 # Read input JSON data
 with open(INPUT_FILE, "r", encoding="utf-8") as file:
@@ -74,7 +74,7 @@ def check_food_and_beverage_manufacturing(coman):
 
     except OpenAIError as e:
         print(f"Error processing {domain}: {e}")
-        return {**coman, "isRelated": None}  # Mark as None if error occurs
+        return {**coman, "isRelated": False}  # Mark as None if error occurs
 
 
 def main():
