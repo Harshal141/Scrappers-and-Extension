@@ -1,0 +1,72 @@
+{
+    "FoodMaster": {
+      "URL": "https://www.foodmaster.com/directories/72-food-ingredients",
+      "Categories": [
+        {
+          "Name": "Cannabis Ingredients",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41103-cannabis-ingredients"
+        },
+        {
+          "Name": "Coffee, Tea, Cocoa, Chocolate",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41104-coffee-tea-cocoa-chocolate"
+        },
+        {
+          "Name": "Colors",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41105-colors"
+        },
+        {
+          "Name": "Dairy & Plant Proteins, Protein Fractions",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41107-dairy-plant-proteins-protein-fractions"
+        },
+        {
+          "Name": "Dairy Cheese/ Cheese Ingredients, Eggs/ Egg Products, Dairy Analogs",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41106-dairy-cheese-cheese-ingredients-eggs-egg-products-dairy-analogs"
+        },
+        {
+          "Name": "Flours, Starches, Fibers, Gums",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41108-flours-starches-fibers-gums"
+        },
+        {
+          "Name": "Fruits, Vegetables, Nuts, Beans",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41109-fruits-vegetables-nuts-beans"
+        },
+        {
+          "Name": "Grains, Seeds, Malts, Breadings/ Coatings",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41110-grains-seeds-malts-breadings-coatings"
+        },
+        {
+          "Name": "Meat, Poultry, Seafood",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41112-meat-poultry-seafood"
+        },
+        {
+          "Name": "Oils, Fats, Shortenings",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41113-oils-fats-shortenings"
+        },
+        {
+          "Name": "Probiotics & Cultures",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41114-probiotics-cultures"
+        },
+        {
+          "Name": "Processing Agents",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41115-processing-agents"
+        },
+        {
+          "Name": "Sauces, Stocks/Bases, Reductions, Condiments",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41116-sauces-stocks-bases-reductions-condiments"
+        },
+        {
+          "Name": "Seasonings, Spices, Herbs, Salts, Flavorings",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41117-seasonings-spices-herbs-salts-flavorings-extracts"
+        },
+        {
+          "Name": "Sugar, Sweeteners, Confections",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41118-sugar-sweeteners-confections"
+        },
+        {
+          "Name": "Vitamins, Minerals, Botanicals, Nutraceuticals, Lipids",
+          "URL": "https://www.foodmaster.com/directories/72-food-ingredients/topic/41119-vitamins-minerals-botanicals-nutraceuticals-lipids"
+        }
+      ]
+    }
+  }
+  
