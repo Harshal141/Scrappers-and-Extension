@@ -1,0 +1,50 @@
+2025-02-25 13:30:14,446 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:30:14,622 - INFO - Extracted data saved to output.json
+2025-02-25 13:30:14,623 - INFO - Closing the browser.
+2025-02-25 13:30:22,407 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:30:22,532 - INFO - Extracted data saved to output.json
+2025-02-25 13:30:22,532 - INFO - Closing the browser.
+2025-02-25 13:30:28,123 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:30:28,216 - INFO - Extracted data saved to output.json
+2025-02-25 13:30:28,217 - INFO - Closing the browser.
+2025-02-25 13:30:33,660 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:30:33,828 - INFO - Extracted data saved to output.json
+2025-02-25 13:30:33,831 - INFO - Closing the browser.
+2025-02-25 13:30:39,278 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:30:39,385 - INFO - Extracted data saved to output.json
+2025-02-25 13:30:39,385 - INFO - Closing the browser.
+2025-02-25 13:30:45,101 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:30:45,249 - INFO - Extracted data saved to output.json
+2025-02-25 13:30:45,249 - INFO - Closing the browser.
+2025-02-25 13:30:52,430 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:30:52,570 - INFO - Extracted data saved to output.json
+2025-02-25 13:30:52,571 - INFO - Closing the browser.
+2025-02-25 13:31:02,519 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:31:02,612 - INFO - Extracted data saved to output.json
+2025-02-25 13:31:02,613 - INFO - Closing the browser.
+2025-02-25 13:31:16,052 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:31:16,128 - INFO - Extracted data saved to output.json
+2025-02-25 13:31:16,128 - INFO - Closing the browser.
+2025-02-25 13:31:26,403 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:31:26,683 - INFO - Extracted data saved to output.json
+2025-02-25 13:31:26,685 - INFO - Closing the browser.
+2025-02-25 13:31:33,173 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:31:33,313 - INFO - Extracted data saved to output.json
+2025-02-25 13:31:33,314 - INFO - Closing the browser.
+2025-02-25 13:31:41,161 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:31:41,485 - ERROR - Error processing sponsored listing: 'NoneType' object has no attribute 'text'
+2025-02-25 13:31:41,506 - INFO - Extracted data saved to output.json
+2025-02-25 13:31:41,506 - INFO - Closing the browser.
+2025-02-25 13:31:48,577 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:31:48,882 - INFO - Extracted data saved to output.json
+2025-02-25 13:31:48,882 - INFO - Closing the browser.
+2025-02-25 13:31:55,681 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:31:56,205 - INFO - Extracted data saved to output.json
+2025-02-25 13:31:56,206 - INFO - Closing the browser.
+2025-02-25 13:32:02,951 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:32:03,047 - INFO - Extracted data saved to output.json
+2025-02-25 13:32:03,047 - INFO - Closing the browser.
+2025-02-25 13:32:14,173 - INFO - Starting Cloudflare bypass.
+2025-02-25 13:32:14,500 - ERROR - Error processing sponsored listing: 'NoneType' object has no attribute 'text'
+2025-02-25 13:32:14,518 - INFO - Extracted data saved to output.json
+2025-02-25 13:32:14,518 - INFO - Closing the browser.
