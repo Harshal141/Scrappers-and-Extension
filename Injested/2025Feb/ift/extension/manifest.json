@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "Open URLs from JSON",
+    "version": "1.0",
+    "description": "Opens a list of URLs from a JSON file in new tabs.",
+    "permissions": [
+        "tabs",
+        "storage",
+        "activeTab"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "action": {
+        "default_title": "Open URLs",
+        "default_icon": {
+            "16": "icon.png"
+        }
+    },
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
+}

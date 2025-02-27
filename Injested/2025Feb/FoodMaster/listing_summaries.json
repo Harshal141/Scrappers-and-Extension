@@ -1,0 +1,2857 @@
+[
+    {
+        "company_name": "Apura Ingredients",
+        "company_domain": "https://www.apuraingredients.com",
+        "location": "Chino, CA"
+    },
+    {
+        "company_name": "Arista Industries Inc.",
+        "company_domain": "https://www.aristaindustries.com",
+        "location": "Wilton, CT"
+    },
+    {
+        "company_name": "Braver Corp.",
+        "company_domain": "https://braver.com.br/en-US/home",
+        "location": "N/A"
+    },
+    {
+        "company_name": "California Spice Basket Inc.",
+        "company_domain": "https://www.caspicebasket.com",
+        "location": "Burlingame, CA"
+    },
+    {
+        "company_name": "Canton Chem Inc.",
+        "company_domain": "https://www.cantonchem.com",
+        "location": "Clarksville, MD"
+    },
+    {
+        "company_name": "Centerchem LLC",
+        "company_domain": "https://www.centerchem.com",
+        "location": "Norwalk, CT"
+    },
+    {
+        "company_name": "Champion Gelatine Products",
+        "company_domain": "http://www.championgelatine.com",
+        "location": "Sioux City, IA"
+    },
+    {
+        "company_name": "CIO Enterprises",
+        "company_domain": "",
+        "location": "Auburn, NY"
+    },
+    {
+        "company_name": "Epsilon Ingredients",
+        "company_domain": "http://epsiloningredients.in",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Flavorman",
+        "company_domain": "https://www.flavorman.com",
+        "location": "Louisville, KY"
+    },
+    {
+        "company_name": "FloZein Products",
+        "company_domain": "https://www.zeinproducts.com",
+        "location": "Ashburnham, MA"
+    },
+    {
+        "company_name": "Hemp Acres",
+        "company_domain": "http://www.hempacresusa.com",
+        "location": "Waconia, MN"
+    },
+    {
+        "company_name": "IFC Solutions",
+        "company_domain": "https://www.ifc-solutions.com",
+        "location": "Linden, NJ"
+    },
+    {
+        "company_name": "Martin Bauer Group",
+        "company_domain": "https://www.martin-bauer-group.com/en",
+        "location": "Secaucus, NJ"
+    },
+    {
+        "company_name": "Mid America Food Sales Ltd.",
+        "company_domain": "https://www.midamfoodsales.com",
+        "location": "Deerfield, IL"
+    },
+    {
+        "company_name": "Northern Nutraceuticals Inc.",
+        "company_domain": "https://www.northernnutra.ca",
+        "location": "Spalding, SK"
+    },
+    {
+        "company_name": "Pope Scientific Inc.",
+        "company_domain": "https://www.popeinc.com",
+        "location": "Saukville, WI"
+    },
+    {
+        "company_name": "Revela Foods",
+        "company_domain": "https://www.revelafoods.com",
+        "location": "New Berlin, WI"
+    },
+    {
+        "company_name": "RIA International LLC",
+        "company_domain": "https://www.riausa.net",
+        "location": "East Hanover, NJ"
+    },
+    {
+        "company_name": "Sonarome Pvt Ltd.",
+        "company_domain": "http://www.sonarome.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "S\u014dRSE Technology",
+        "company_domain": "https://www.sorsetech.com",
+        "location": "Seattle, WA"
+    },
+    {
+        "company_name": "Sweet Additions",
+        "company_domain": "https://www.sweetadditions.com",
+        "location": "Palm Beach Gardens, FL"
+    },
+    {
+        "company_name": "Vertosa Inc.",
+        "company_domain": "https://www.vertosa.com",
+        "location": "Walnut Creek, CA"
+    },
+    {
+        "company_name": "Batory Foods",
+        "company_domain": "https://www.batoryfoods.com",
+        "location": "Rosemont, IL"
+    },
+    {
+        "company_name": "Berje Inc.",
+        "company_domain": "https://www.berjeinc.com",
+        "location": "Carteret, NJ"
+    },
+    {
+        "company_name": "Braver Corp.",
+        "company_domain": "https://braver.com.br/en-US/home",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Cargill",
+        "company_domain": "https://www.cargill.com",
+        "location": "Wayzata, MN"
+    },
+    {
+        "company_name": "Carmi Flavor & Fragrance Co.",
+        "company_domain": "https://www.carmiflavors.com",
+        "location": "Commerce, CA"
+    },
+    {
+        "company_name": "Carriere & Son LLC F.M.",
+        "company_domain": "https://www.fmcarriereandson.com",
+        "location": "Metairie, LA"
+    },
+    {
+        "company_name": "CIO Enterprises",
+        "company_domain": "",
+        "location": "Auburn, NY"
+    },
+    {
+        "company_name": "CIRANDA",
+        "company_domain": "https://www.ciranda.com",
+        "location": "Hudson, WI"
+    },
+    {
+        "company_name": "Consumers Flavoring Extract Co. Inc.",
+        "company_domain": "https://www.consumersflavoring.com",
+        "location": "Brooklyn, NY"
+    },
+    {
+        "company_name": "Crossroad Ingredients",
+        "company_domain": "http://www.crossroadingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "Davis Chocolate",
+        "company_domain": "https://www.davischocolate.com",
+        "location": "Mishawaka, IN"
+    },
+    {
+        "company_name": "Essential Flavors & Fragrances Inc.",
+        "company_domain": "https://www.essentialflavors.com",
+        "location": "Corona, CA"
+    },
+    {
+        "company_name": "Falcon Trading International",
+        "company_domain": "https://www.falconti.com",
+        "location": "East Fairfield, VT"
+    },
+    {
+        "company_name": "Flavorchem",
+        "company_domain": "https://www.flavorchem.com",
+        "location": "Downers Grove, IL"
+    },
+    {
+        "company_name": "Flavorman",
+        "company_domain": "https://www.flavorman.com",
+        "location": "Louisville, KY"
+    },
+    {
+        "company_name": "Florida Food Products Inc.",
+        "company_domain": "https://www.floridafood.com",
+        "location": "Eustis, FL"
+    },
+    {
+        "company_name": "Food Specialties",
+        "company_domain": "https://www.foodspecialties.ca",
+        "location": "Mississauga, ON"
+    },
+    {
+        "company_name": "FutureCeuticals Inc.",
+        "company_domain": "https://www.futureceuticals.com",
+        "location": "Momence, IL"
+    },
+    {
+        "company_name": "Global Organics Ltd.",
+        "company_domain": "https://www.global-organics.com",
+        "location": "Cambridge, MA"
+    },
+    {
+        "company_name": "IFPC",
+        "company_domain": "https://www.ifpc.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "Incasa Instant Soluble Coffees",
+        "company_domain": "https://www.incasacoffee.com",
+        "location": "Berkeley, CA"
+    },
+    {
+        "company_name": "InterNaturales LLC",
+        "company_domain": "https://www.internaturales.com",
+        "location": "Pompano Beach, FL"
+    },
+    {
+        "company_name": "INTETRA Inc.",
+        "company_domain": "https://www.intetra.org",
+        "location": "Greenville, SC"
+    },
+    {
+        "company_name": "Islamic Food & Nutrition Council of America (IFANCA)",
+        "company_domain": "https://www.ifanca.org",
+        "location": "Des Plaines, IL"
+    },
+    {
+        "company_name": "Le Chocolat LLC",
+        "company_domain": "http://www.lechocolat.ae",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Marky's Caviar/ Optimus Inc.",
+        "company_domain": "https://www.markys.com",
+        "location": "Miami, FL"
+    },
+    {
+        "company_name": "Martin Bauer Group",
+        "company_domain": "https://www.martin-bauer-group.com/en",
+        "location": "Secaucus, NJ"
+    },
+    {
+        "company_name": "Maui Medicinal Herbs Inc.",
+        "company_domain": "https://www.mauimedicinal.com",
+        "location": "Makawao, HI"
+    },
+    {
+        "company_name": "Meridian Trading Co.",
+        "company_domain": "https://www.meridiantrading.com",
+        "location": "Boulder, CO"
+    },
+    {
+        "company_name": "Mid America Food Sales Ltd.",
+        "company_domain": "https://www.midamfoodsales.com",
+        "location": "Deerfield, IL"
+    },
+    {
+        "company_name": "Naturex Inc.",
+        "company_domain": "http://www.naturex.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Nikken Foods USA Inc.",
+        "company_domain": "https://www.nikkenfoods.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "NutriScience Innovations LLC",
+        "company_domain": "https://www.nutriscienceusa.com",
+        "location": "Milford, CT"
+    },
+    {
+        "company_name": "Osage Food Products",
+        "company_domain": "https://www.osagefood.com",
+        "location": "Washington, MO"
+    },
+    {
+        "company_name": "Pecan Deluxe Candy Co.",
+        "company_domain": "https://www.pecandeluxe.com",
+        "location": "Dallas, TX"
+    },
+    {
+        "company_name": "Prime Food Products Inc.",
+        "company_domain": "http://www.bakerswonder.com",
+        "location": "Ridgewood, NY"
+    },
+    {
+        "company_name": "Profile Food Ingredients",
+        "company_domain": "https://www.profilefoodingredients.com",
+        "location": "Elgin, IL"
+    },
+    {
+        "company_name": "PROVA Inc.",
+        "company_domain": "https://www.provaus.com",
+        "location": "Beverly, MA"
+    },
+    {
+        "company_name": "Sethness Roquette",
+        "company_domain": "https://www.sethness-roquette.com",
+        "location": "Skokie, IL"
+    },
+    {
+        "company_name": "Starwest Botanicals",
+        "company_domain": "https://www.starwestherb.com",
+        "location": "Sacramento, CA"
+    },
+    {
+        "company_name": "American Color Research Center Inc.",
+        "company_domain": "https://www.acrccolors.com",
+        "location": "Corina, CA"
+    },
+    {
+        "company_name": "American International Foods Inc.",
+        "company_domain": "https://www.americaninternationalfoods.com",
+        "location": "Ada, MI"
+    },
+    {
+        "company_name": "American Lecithin Co.",
+        "company_domain": "https://www.americanlecithin.us",
+        "location": "Oxford, CT"
+    },
+    {
+        "company_name": "Braver Corp.",
+        "company_domain": "https://braver.com.br/en-US/home",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Brenntag North America",
+        "company_domain": "https://food-nutrition.brenntag.com/en-us/",
+        "location": "Reading, PA"
+    },
+    {
+        "company_name": "Carriere & Son LLC F.M.",
+        "company_domain": "https://www.fmcarriereandson.com",
+        "location": "Metairie, LA"
+    },
+    {
+        "company_name": "Centerchem LLC",
+        "company_domain": "https://www.centerchem.com",
+        "location": "Norwalk, CT"
+    },
+    {
+        "company_name": "colorMaker Inc.",
+        "company_domain": "https://www.colormaker.com",
+        "location": "Anaheim, CA"
+    },
+    {
+        "company_name": "Crossroad Ingredients",
+        "company_domain": "http://www.crossroadingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "Diana Food",
+        "company_domain": "https://www.diana-food.com",
+        "location": "Hasbrouck Heights, NJ"
+    },
+    {
+        "company_name": "Divi's Nutraceuticals",
+        "company_domain": "https://divisnutraceuticals.com",
+        "location": "Florham Park, NJ"
+    },
+    {
+        "company_name": "Dohler North America",
+        "company_domain": "https://www.doehler.com",
+        "location": "Cartersville, GA"
+    },
+    {
+        "company_name": "ExcelVite Sdn. Bhd.",
+        "company_domain": "https://www.excelvite.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "FabriChem - Div. of NutriScience Innovations LLC",
+        "company_domain": "https://www.fabricheminc.com",
+        "location": "Milford, CT"
+    },
+    {
+        "company_name": "Flavorchem",
+        "company_domain": "https://www.flavorchem.com",
+        "location": "Downers Grove, IL"
+    },
+    {
+        "company_name": "FloZein Products",
+        "company_domain": "https://www.zeinproducts.com",
+        "location": "Ashburnham, MA"
+    },
+    {
+        "company_name": "Food Specialties",
+        "company_domain": "https://www.foodspecialties.ca",
+        "location": "Mississauga, ON"
+    },
+    {
+        "company_name": "GCI Nutrients Inc.",
+        "company_domain": "https://www.gcinutrients.com",
+        "location": "Burlingame, CA"
+    },
+    {
+        "company_name": "GNT USA Inc.",
+        "company_domain": "https://www.exberry.com",
+        "location": "Tarrytown, NY"
+    },
+    {
+        "company_name": "Gold Coast Ingredients Inc.",
+        "company_domain": "https://www.goldcoastinc.com",
+        "location": "Commerce, CA"
+    },
+    {
+        "company_name": "Green Source Organics",
+        "company_domain": "https://www.gsoextracts.com",
+        "location": "Henderson, NV"
+    },
+    {
+        "company_name": "Herbstreith & Fox Inc.",
+        "company_domain": "https://www.herbstreith-fox.com",
+        "location": "Elmsford, NY"
+    },
+    {
+        "company_name": "IFC Solutions",
+        "company_domain": "https://www.ifc-solutions.com",
+        "location": "Linden, NJ"
+    },
+    {
+        "company_name": "Independent Ingredients LLC",
+        "company_domain": "https://www.independentingredients.com",
+        "location": "Prosperity, SC"
+    },
+    {
+        "company_name": "INTETRA Inc.",
+        "company_domain": "https://www.intetra.org",
+        "location": "Greenville, SC"
+    },
+    {
+        "company_name": "Islamic Food & Nutrition Council of America (IFANCA)",
+        "company_domain": "https://www.ifanca.org",
+        "location": "Des Plaines, IL"
+    },
+    {
+        "company_name": "Joseph Adams Corp.",
+        "company_domain": "https://www.josephadamscorp.com",
+        "location": "Valley City, OH"
+    },
+    {
+        "company_name": "Kalsec Inc.",
+        "company_domain": "https://www.kalsec.com",
+        "location": "Kalamazoo, MI"
+    },
+    {
+        "company_name": "Lycored Corp.",
+        "company_domain": "https://www.lycored.com",
+        "location": "Branchburg, NJ"
+    },
+    {
+        "company_name": "Mane Kancor Ingredients Private Ltd.",
+        "company_domain": "https://manekancor.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "MORRE-TEC Industries Inc.",
+        "company_domain": "https://www.morretec.com",
+        "location": "Union, NJ"
+    },
+    {
+        "company_name": "Naturex Inc.",
+        "company_domain": "http://www.naturex.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Nelson-Jameson Inc.",
+        "company_domain": "https://www.nelsonjameson.com",
+        "location": "Marshfield, WI"
+    },
+    {
+        "company_name": "Nutralliance",
+        "company_domain": "https://www.nutralliance.com",
+        "location": "Yorba Linda, CA"
+    },
+    {
+        "company_name": "NutriScience Innovations LLC",
+        "company_domain": "https://www.nutriscienceusa.com",
+        "location": "Milford, CT"
+    },
+    {
+        "company_name": "Oterra LLC",
+        "company_domain": "https://oterra.com",
+        "location": "Mount Pleasant, WI"
+    },
+    {
+        "company_name": "Palmer Holland Inc.",
+        "company_domain": "https://www.palmerholland.com",
+        "location": "Westlake, OH"
+    },
+    {
+        "company_name": "PLT Health Solutions Inc.",
+        "company_domain": "https://www.plthealth.com",
+        "location": "Morristown, NJ"
+    },
+    {
+        "company_name": "RIA International LLC",
+        "company_domain": "https://www.riausa.net",
+        "location": "East Hanover, NJ"
+    },
+    {
+        "company_name": "ROHA USA LLC",
+        "company_domain": "https://roha.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "A.S.I. International Inc.",
+        "company_domain": "https://www.info-asi.net",
+        "location": "Watchung, NJ"
+    },
+    {
+        "company_name": "A&B Ingredients Inc.",
+        "company_domain": "https://www.abingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "ABC Infant Formula",
+        "company_domain": "https://www.abcinfantformula.com",
+        "location": "Spring, TX"
+    },
+    {
+        "company_name": "Agricoze (Pvt).Ltd",
+        "company_domain": "https://agricoze.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Agropur",
+        "company_domain": "https://www.agropur.com/us",
+        "location": "Appleton, WI"
+    },
+    {
+        "company_name": "AIDP Inc.",
+        "company_domain": "https://www.aidp.com",
+        "location": "City of Industry, CA"
+    },
+    {
+        "company_name": "AMCO Proteins",
+        "company_domain": "https://www.amcoproteins.com",
+        "location": "Burlington, NJ"
+    },
+    {
+        "company_name": "American Dairy Products Institute",
+        "company_domain": "https://adpi.org",
+        "location": "Elmhurst, IL"
+    },
+    {
+        "company_name": "American International Foods Inc.",
+        "company_domain": "https://www.americaninternationalfoods.com",
+        "location": "Ada, MI"
+    },
+    {
+        "company_name": "Arkema Inc.",
+        "company_domain": "https://www.arkema-americas.com",
+        "location": "King of Prussia, PA"
+    },
+    {
+        "company_name": "Arnhem Group",
+        "company_domain": "https://www.arnhemgroup.com",
+        "location": "Westfield, NJ"
+    },
+    {
+        "company_name": "Avi Agri Business Ltd.",
+        "company_domain": "http://www.aviagri.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Balchem Corp.",
+        "company_domain": "https://www.balchem.com",
+        "location": "Montvale, NJ"
+    },
+    {
+        "company_name": "Bariatrix Europe",
+        "company_domain": "https://www.bariatrixeurope.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Biocatalysts Ltd.",
+        "company_domain": "https://www.biocatalysts.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Bioriginal Food & Science Corp.",
+        "company_domain": "https://www.bioriginal.com",
+        "location": "Saskatoon, SK"
+    },
+    {
+        "company_name": "Brenntag North America",
+        "company_domain": "https://food-nutrition.brenntag.com/en-us/",
+        "location": "Reading, PA"
+    },
+    {
+        "company_name": "Cargill",
+        "company_domain": "https://www.cargill.com",
+        "location": "Wayzata, MN"
+    },
+    {
+        "company_name": "Certified Nutritionals",
+        "company_domain": "https://www.certifiednutritionals.com",
+        "location": "Glendale, CA"
+    },
+    {
+        "company_name": "Champion Gelatine Products",
+        "company_domain": "http://www.championgelatine.com",
+        "location": "Sioux City, IA"
+    },
+    {
+        "company_name": "Charles Bowman & Co.",
+        "company_domain": "https://www.charlesbowman.com",
+        "location": "Holland, MI"
+    },
+    {
+        "company_name": "Chemvera specility - Food & Nutraceutical",
+        "company_domain": "https://www.chemvera.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "CJ Bio",
+        "company_domain": "https://www.cjbio.net",
+        "location": "Downers Grove, IL"
+    },
+    {
+        "company_name": "CP Kelco",
+        "company_domain": "https://www.cpkelco.com",
+        "location": "Atlanta, GA"
+    },
+    {
+        "company_name": "Crossroad Ingredients",
+        "company_domain": "http://www.crossroadingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "Dairy Ingredients Inc.",
+        "company_domain": "https://www.dairyingredientsinc.com",
+        "location": "Davisburg, MI"
+    },
+    {
+        "company_name": "Dairy Specialties Inc.",
+        "company_domain": "",
+        "location": "Dublin, OH"
+    },
+    {
+        "company_name": "Devansoy",
+        "company_domain": "https://www.devansoy.com",
+        "location": "Rock City, IL"
+    },
+    {
+        "company_name": "Epsilon Ingredients",
+        "company_domain": "http://epsiloningredients.in",
+        "location": "N/A"
+    },
+    {
+        "company_name": "FabriChem - Div. of NutriScience Innovations LLC",
+        "company_domain": "https://www.fabricheminc.com",
+        "location": "Milford, CT"
+    },
+    {
+        "company_name": "Falcon Trading International",
+        "company_domain": "https://www.falconti.com",
+        "location": "East Fairfield, VT"
+    },
+    {
+        "company_name": "Franklin Farms East Inc.",
+        "company_domain": "https://www.franklinfarmseast.com",
+        "location": "Bethlehem, PA"
+    },
+    {
+        "company_name": "GELITA AG",
+        "company_domain": "https://www.gelita.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "GENU-IN by JBS",
+        "company_domain": "https://www.genu-in.com",
+        "location": "Greeley, CO"
+    },
+    {
+        "company_name": "Glanbia Nutritionals",
+        "company_domain": "https://www.glanbianutritionals.com",
+        "location": "Chicago, IL"
+    },
+    {
+        "company_name": "Green Source Organics",
+        "company_domain": "https://www.gsoextracts.com",
+        "location": "Henderson, NV"
+    },
+    {
+        "company_name": "Hemp Acres",
+        "company_domain": "http://www.hempacresusa.com",
+        "location": "Waconia, MN"
+    },
+    {
+        "company_name": "Hilmar Ingredients & Hilmar Cheese Co.",
+        "company_domain": "https://www.hilmaringredients.com",
+        "location": "Hilmar, CA"
+    },
+    {
+        "company_name": "Idaho Milk Products",
+        "company_domain": "https://idahomilkproducts.com",
+        "location": "Jerome, ID"
+    },
+    {
+        "company_name": "Land O'Lakes Ingredients",
+        "company_domain": "https://www.landolakes-ingredients.com",
+        "location": "Arden Hills, MN"
+    },
+    {
+        "company_name": "Advanced Food Systems Inc.",
+        "company_domain": "https://www.afsnj.com",
+        "location": "Somerset, NJ"
+    },
+    {
+        "company_name": "Agropur",
+        "company_domain": "https://www.agropur.com/us",
+        "location": "Appleton, WI"
+    },
+    {
+        "company_name": "All American Foods Inc.",
+        "company_domain": "https://www.aafoods.com",
+        "location": "Mankato, MN"
+    },
+    {
+        "company_name": "Allied Blending LP",
+        "company_domain": "https://www.alliedblending.com",
+        "location": "Keokuk, IA"
+    },
+    {
+        "company_name": "Alpen Food Group BV",
+        "company_domain": "https://www.alpenfoodgroup.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "American Dairy Products Institute",
+        "company_domain": "https://adpi.org",
+        "location": "Elmhurst, IL"
+    },
+    {
+        "company_name": "American Egg Board",
+        "company_domain": "https://www.incredibleegg.org",
+        "location": "Chicago, IL"
+    },
+    {
+        "company_name": "American International Foods Inc.",
+        "company_domain": "https://www.americaninternationalfoods.com",
+        "location": "Ada, MI"
+    },
+    {
+        "company_name": "Ameriqual Group LLC",
+        "company_domain": "https://www.ameriqual.com",
+        "location": "Evansville, IN"
+    },
+    {
+        "company_name": "Batory Foods",
+        "company_domain": "https://www.batoryfoods.com",
+        "location": "Rosemont, IL"
+    },
+    {
+        "company_name": "Biocatalysts Ltd.",
+        "company_domain": "https://www.biocatalysts.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Carmi Flavor & Fragrance Co.",
+        "company_domain": "https://www.carmiflavors.com",
+        "location": "Commerce, CA"
+    },
+    {
+        "company_name": "Carriere & Son LLC F.M.",
+        "company_domain": "https://www.fmcarriereandson.com",
+        "location": "Metairie, LA"
+    },
+    {
+        "company_name": "Commercial Creamery Co.",
+        "company_domain": "https://www.cheesepowder.com",
+        "location": "Spokane, WA"
+    },
+    {
+        "company_name": "CoreFX Ingredients",
+        "company_domain": "https://www.corefxingredients.com",
+        "location": "Evanston, IL"
+    },
+    {
+        "company_name": "Dairy Ingredients Inc.",
+        "company_domain": "https://www.dairyingredientsinc.com",
+        "location": "Davisburg, MI"
+    },
+    {
+        "company_name": "Dairy Specialties Inc.",
+        "company_domain": "",
+        "location": "Dublin, OH"
+    },
+    {
+        "company_name": "DairyChem",
+        "company_domain": "https://www.dairychem.com",
+        "location": "Fishers, IN"
+    },
+    {
+        "company_name": "Devansoy",
+        "company_domain": "https://www.devansoy.com",
+        "location": "Rock City, IL"
+    },
+    {
+        "company_name": "eSense",
+        "company_domain": "https://www.e-sense.com",
+        "location": "Bay Shore, NY"
+    },
+    {
+        "company_name": "Fiberstar Inc.",
+        "company_domain": "https://www.fiberstaringredients.com",
+        "location": "River Falls, WI"
+    },
+    {
+        "company_name": "Franklin Farms East Inc.",
+        "company_domain": "https://www.franklinfarmseast.com",
+        "location": "Bethlehem, PA"
+    },
+    {
+        "company_name": "FrieslandCampina Ingredients",
+        "company_domain": "https://www.frieslandcampinaingredients.com",
+        "location": "Paramus, NJ"
+    },
+    {
+        "company_name": "Grain Processing Corp. (GPC)",
+        "company_domain": "https://www.grainprocessing.com",
+        "location": "Muscatine, IA"
+    },
+    {
+        "company_name": "Hilmar Ingredients & Hilmar Cheese Co.",
+        "company_domain": "https://www.hilmaringredients.com",
+        "location": "Hilmar, CA"
+    },
+    {
+        "company_name": "Hunter Walton & Co. Inc.",
+        "company_domain": "http://www.hunterwalton.com",
+        "location": "Piscataway, NJ"
+    },
+    {
+        "company_name": "Idaho Milk Products",
+        "company_domain": "https://idahomilkproducts.com",
+        "location": "Jerome, ID"
+    },
+    {
+        "company_name": "IFPC",
+        "company_domain": "https://www.ifpc.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "Independent Ingredients LLC",
+        "company_domain": "https://www.independentingredients.com",
+        "location": "Prosperity, SC"
+    },
+    {
+        "company_name": "Ingredion",
+        "company_domain": "https://www.ingredion.us",
+        "location": "Westchester, IL"
+    },
+    {
+        "company_name": "Islamic Food & Nutrition Council of America (IFANCA)",
+        "company_domain": "https://www.ifanca.org",
+        "location": "Des Plaines, IL"
+    },
+    {
+        "company_name": "Kerry Taste and Nutrition",
+        "company_domain": "https://kerry.com",
+        "location": "Beloit, WI"
+    },
+    {
+        "company_name": "Land O'Lakes Ingredients",
+        "company_domain": "https://www.landolakes-ingredients.com",
+        "location": "Arden Hills, MN"
+    },
+    {
+        "company_name": "MANE Inc.",
+        "company_domain": "https://www.mane.com",
+        "location": "Lebanon, OH"
+    },
+    {
+        "company_name": "Manildra Group USA",
+        "company_domain": "https://www.manildrausa.com",
+        "location": "Leawood, KS"
+    },
+    {
+        "company_name": "Marky's Caviar/ Optimus Inc.",
+        "company_domain": "https://www.markys.com",
+        "location": "Miami, FL"
+    },
+    {
+        "company_name": "Marron Foods Inc.",
+        "company_domain": "https://www.marronfoods.com",
+        "location": "Harrison, NY"
+    },
+    {
+        "company_name": "MGP Ingredients Inc.",
+        "company_domain": "https://www.mgpingredients.com",
+        "location": "Atchison, KS"
+    },
+    {
+        "company_name": "Mid America Food Sales Ltd.",
+        "company_domain": "https://www.midamfoodsales.com",
+        "location": "Deerfield, IL"
+    },
+    {
+        "company_name": "Mikana Foods Inc.",
+        "company_domain": "https://www.mikanafoods.com",
+        "location": "Eau Claire, WI"
+    },
+    {
+        "company_name": "A&B Ingredients Inc.",
+        "company_domain": "https://www.abingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "ABF Ingredients",
+        "company_domain": "https://www.abfingredients.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "ADM/Matsutani LLC",
+        "company_domain": "https://www.fibersol.com",
+        "location": "Decatur, IL"
+    },
+    {
+        "company_name": "Advanced Food Systems Inc.",
+        "company_domain": "https://www.afsnj.com",
+        "location": "Somerset, NJ"
+    },
+    {
+        "company_name": "AEP Colloids",
+        "company_domain": "https://www.aepcolloids.com",
+        "location": "Hadley, NY"
+    },
+    {
+        "company_name": "Agricoze (Pvt).Ltd",
+        "company_domain": "https://agricoze.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Agrigum Americas Inc.",
+        "company_domain": "https://www.agrigum.com",
+        "location": "Lake Worth, FL"
+    },
+    {
+        "company_name": "AIDP Inc.",
+        "company_domain": "https://www.aidp.com",
+        "location": "City of Industry, CA"
+    },
+    {
+        "company_name": "Allied Blending LP",
+        "company_domain": "https://www.alliedblending.com",
+        "location": "Keokuk, IA"
+    },
+    {
+        "company_name": "American International Foods Inc.",
+        "company_domain": "https://www.americaninternationalfoods.com",
+        "location": "Ada, MI"
+    },
+    {
+        "company_name": "Ardent Mills",
+        "company_domain": "https://www.ardentmills.com",
+        "location": "Denver, CO"
+    },
+    {
+        "company_name": "ASR Group - Domino Foods Inc. Specialty Ingredients",
+        "company_domain": "https://www.dominospecialtyingredients.com",
+        "location": "West Palm Beach, FL"
+    },
+    {
+        "company_name": "Avi Agri Business Ltd.",
+        "company_domain": "http://www.aviagri.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Baolingbao Bio",
+        "company_domain": "",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Batory Foods",
+        "company_domain": "https://www.batoryfoods.com",
+        "location": "Rosemont, IL"
+    },
+    {
+        "company_name": "Bay State Milling",
+        "company_domain": "https://www.baystatemilling.com",
+        "location": "Quincy, MA"
+    },
+    {
+        "company_name": "BENEO Inc.",
+        "company_domain": "https://www.beneo.com",
+        "location": "Parsipanny, NJ"
+    },
+    {
+        "company_name": "Bianca International Organic Inc",
+        "company_domain": "https://www.biorganicinc.com",
+        "location": "MONTREAL, QC"
+    },
+    {
+        "company_name": "Brenntag North America",
+        "company_domain": "https://food-nutrition.brenntag.com/en-us/",
+        "location": "Reading, PA"
+    },
+    {
+        "company_name": "Brightseed",
+        "company_domain": "https://www.brightseedbio.com",
+        "location": "South San Francisco, CA"
+    },
+    {
+        "company_name": "Cargill",
+        "company_domain": "https://www.cargill.com",
+        "location": "Wayzata, MN"
+    },
+    {
+        "company_name": "Carriere & Son LLC F.M.",
+        "company_domain": "https://www.fmcarriereandson.com",
+        "location": "Metairie, LA"
+    },
+    {
+        "company_name": "Certified Nutritionals",
+        "company_domain": "https://www.certifiednutritionals.com",
+        "location": "Glendale, CA"
+    },
+    {
+        "company_name": "CIO Enterprises",
+        "company_domain": "",
+        "location": "Auburn, NY"
+    },
+    {
+        "company_name": "CIRANDA",
+        "company_domain": "https://www.ciranda.com",
+        "location": "Hudson, WI"
+    },
+    {
+        "company_name": "Clabber Girl Corp.",
+        "company_domain": "https://www.clabbergirl.com",
+        "location": "Terre Haute, IN"
+    },
+    {
+        "company_name": "CP Kelco",
+        "company_domain": "https://www.cpkelco.com",
+        "location": "Atlanta, GA"
+    },
+    {
+        "company_name": "Dairy Ingredients Inc.",
+        "company_domain": "https://www.dairyingredientsinc.com",
+        "location": "Davisburg, MI"
+    },
+    {
+        "company_name": "Dyna-Tabs LLC",
+        "company_domain": "https://www.dynatabs.com",
+        "location": "Brooklyn, NY"
+    },
+    {
+        "company_name": "Ecuadorian Rainforest LLC",
+        "company_domain": "https://www.intotherainforest.com",
+        "location": "Clifton, NJ"
+    },
+    {
+        "company_name": "Emerling Foods",
+        "company_domain": "",
+        "location": "Depew, NY"
+    },
+    {
+        "company_name": "Epsilon Ingredients",
+        "company_domain": "http://epsiloningredients.in",
+        "location": "N/A"
+    },
+    {
+        "company_name": "FabriChem - Div. of NutriScience Innovations LLC",
+        "company_domain": "https://www.fabricheminc.com",
+        "location": "Milford, CT"
+    },
+    {
+        "company_name": "Falcon Trading International",
+        "company_domain": "https://www.falconti.com",
+        "location": "East Fairfield, VT"
+    },
+    {
+        "company_name": "Fiberich MN Inc.",
+        "company_domain": "http://www.fiberichtech.com",
+        "location": "Eden Prairie, MN"
+    },
+    {
+        "company_name": "Fiberstar Inc.",
+        "company_domain": "https://www.fiberstaringredients.com",
+        "location": "River Falls, WI"
+    },
+    {
+        "company_name": "Franklin Baker Inc.",
+        "company_domain": "https://www.franklinbaker.com",
+        "location": "Memphis, TN"
+    },
+    {
+        "company_name": "FutureCeuticals Inc.",
+        "company_domain": "https://www.futureceuticals.com",
+        "location": "Momence, IL"
+    },
+    {
+        "company_name": "Golden Peanut Co. LLC",
+        "company_domain": "https://www.goldenpeanut.com",
+        "location": "Alpharetta, GA"
+    },
+    {
+        "company_name": "Grain Millers",
+        "company_domain": "https://www.grainmillers.com",
+        "location": "Eden Prairie, MN"
+    },
+    {
+        "company_name": "Abbott Blackstone Co.",
+        "company_domain": "https://www.abbottblackstone.com",
+        "location": "Clearwater, FL"
+    },
+    {
+        "company_name": "Accord Foods Inc./Tso Hin Kee Asian Sauces",
+        "company_domain": "https://www.accordfoods.com",
+        "location": "Rochester, NY"
+    },
+    {
+        "company_name": "All Seasonings Ingredients Inc.",
+        "company_domain": "https://www.allseasonings.com",
+        "location": "Oneida, NY"
+    },
+    {
+        "company_name": "American International Foods Inc.",
+        "company_domain": "https://www.americaninternationalfoods.com",
+        "location": "Ada, MI"
+    },
+    {
+        "company_name": "Ameriqual Group LLC",
+        "company_domain": "https://www.ameriqual.com",
+        "location": "Evansville, IN"
+    },
+    {
+        "company_name": "Arji Frozen Food",
+        "company_domain": "https://arjifrozone.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Astral Extracts Ltd.",
+        "company_domain": "https://www.astralextracts.com",
+        "location": "Syosset, NY"
+    },
+    {
+        "company_name": "Australian Functional Ingredients Pty Ltd.",
+        "company_domain": "https://cherikoff.net/shop/product-category/ingredients-for-chefs-and-manufacturers",
+        "location": "N/A"
+    },
+    {
+        "company_name": "BCFoods",
+        "company_domain": "https://www.bcfoods.com",
+        "location": "Santa Rosa, CA"
+    },
+    {
+        "company_name": "Bianca International Organic Inc",
+        "company_domain": "https://www.biorganicinc.com",
+        "location": "MONTREAL, QC"
+    },
+    {
+        "company_name": "Brasil Sugar International",
+        "company_domain": "https://www.brasil-sugar.com",
+        "location": "Bingham Farms, MI"
+    },
+    {
+        "company_name": "Braver Corp.",
+        "company_domain": "https://braver.com.br/en-US/home",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Carmi Flavor & Fragrance Co.",
+        "company_domain": "https://www.carmiflavors.com",
+        "location": "Commerce, CA"
+    },
+    {
+        "company_name": "Carriere & Son LLC F.M.",
+        "company_domain": "https://www.fmcarriereandson.com",
+        "location": "Metairie, LA"
+    },
+    {
+        "company_name": "Cherry Marketing Institute",
+        "company_domain": "https://www.choosecherries.com",
+        "location": "DeWitt, MI"
+    },
+    {
+        "company_name": "CHO America",
+        "company_domain": "https://www.bulkbycho.com",
+        "location": "Houston, TX"
+    },
+    {
+        "company_name": "Christopher Ranch LLC",
+        "company_domain": "https://www.christopherranch.com",
+        "location": "Gilroy, CA"
+    },
+    {
+        "company_name": "Citromax Group",
+        "company_domain": "https://www.citromaxflavors.com",
+        "location": "Carlstadt, NJ"
+    },
+    {
+        "company_name": "CocoNifty\u00ae Co.",
+        "company_domain": "https://www.coconifty.com",
+        "location": "Miami Shores, FL"
+    },
+    {
+        "company_name": "Culinary Farms",
+        "company_domain": "https://www.culinaryfarms.com",
+        "location": "Woodland, CA"
+    },
+    {
+        "company_name": "Dehydrates Inc.",
+        "company_domain": "https://www.dehydratesinc.com",
+        "location": "Hewlett, NY"
+    },
+    {
+        "company_name": "Diana Food",
+        "company_domain": "https://www.diana-food.com",
+        "location": "Hasbrouck Heights, NJ"
+    },
+    {
+        "company_name": "DMS Food Imports",
+        "company_domain": "http://www.dmsfoodimports.com",
+        "location": "Edgewater, MD"
+    },
+    {
+        "company_name": "Dohler North America",
+        "company_domain": "https://www.doehler.com",
+        "location": "Cartersville, GA"
+    },
+    {
+        "company_name": "Ecuadorian Rainforest LLC",
+        "company_domain": "https://www.intotherainforest.com",
+        "location": "Clifton, NJ"
+    },
+    {
+        "company_name": "Emerling Foods",
+        "company_domain": "",
+        "location": "Depew, NY"
+    },
+    {
+        "company_name": "Falcon Trading International",
+        "company_domain": "https://www.falconti.com",
+        "location": "East Fairfield, VT"
+    },
+    {
+        "company_name": "Fiberich MN Inc.",
+        "company_domain": "http://www.fiberichtech.com",
+        "location": "Eden Prairie, MN"
+    },
+    {
+        "company_name": "Fiberstar Inc.",
+        "company_domain": "https://www.fiberstaringredients.com",
+        "location": "River Falls, WI"
+    },
+    {
+        "company_name": "Florida Food Products Inc.",
+        "company_domain": "https://www.floridafood.com",
+        "location": "Eustis, FL"
+    },
+    {
+        "company_name": "Franklin Baker Inc.",
+        "company_domain": "https://www.franklinbaker.com",
+        "location": "Memphis, TN"
+    },
+    {
+        "company_name": "Furmano Foods",
+        "company_domain": "https://www.furmanos.com",
+        "location": "Northumberland, PA"
+    },
+    {
+        "company_name": "FutureCeuticals Inc.",
+        "company_domain": "https://www.futureceuticals.com",
+        "location": "Momence, IL"
+    },
+    {
+        "company_name": "Garon Foods Inc.",
+        "company_domain": "https://www.garonfoods.com",
+        "location": "Herrin, IL"
+    },
+    {
+        "company_name": "Global Organics Ltd.",
+        "company_domain": "https://www.global-organics.com",
+        "location": "Cambridge, MA"
+    },
+    {
+        "company_name": "GNT USA Inc.",
+        "company_domain": "https://www.exberry.com",
+        "location": "Tarrytown, NY"
+    },
+    {
+        "company_name": "Golden Peanut Co. LLC",
+        "company_domain": "https://www.goldenpeanut.com",
+        "location": "Alpharetta, GA"
+    },
+    {
+        "company_name": "Graceland Fruit Inc.",
+        "company_domain": "https://www.gracelandfruit.com",
+        "location": "Frankfort, MI"
+    },
+    {
+        "company_name": "Grain Processing Corp. (GPC)",
+        "company_domain": "https://www.grainprocessing.com",
+        "location": "Muscatine, IA"
+    },
+    {
+        "company_name": "Great Lakes International Trading Inc.",
+        "company_domain": "https://www.glit.com",
+        "location": "Traverse City, MI"
+    },
+    {
+        "company_name": "A&B Ingredients Inc.",
+        "company_domain": "https://www.abingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "AB Mauri North America",
+        "company_domain": "https://www.abmna.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "ABF Ingredients",
+        "company_domain": "https://www.abfingredients.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Allied Blending LP",
+        "company_domain": "https://www.alliedblending.com",
+        "location": "Keokuk, IA"
+    },
+    {
+        "company_name": "American International Foods Inc.",
+        "company_domain": "https://www.americaninternationalfoods.com",
+        "location": "Ada, MI"
+    },
+    {
+        "company_name": "American Lecithin Co.",
+        "company_domain": "https://www.americanlecithin.us",
+        "location": "Oxford, CT"
+    },
+    {
+        "company_name": "Ardent Mills",
+        "company_domain": "https://www.ardentmills.com",
+        "location": "Denver, CO"
+    },
+    {
+        "company_name": "Arkema Inc.",
+        "company_domain": "https://www.arkema-americas.com",
+        "location": "King of Prussia, PA"
+    },
+    {
+        "company_name": "Arnhem Group",
+        "company_domain": "https://www.arnhemgroup.com",
+        "location": "Westfield, NJ"
+    },
+    {
+        "company_name": "ASR Group - Domino Foods Inc. Specialty Ingredients",
+        "company_domain": "https://www.dominospecialtyingredients.com",
+        "location": "West Palm Beach, FL"
+    },
+    {
+        "company_name": "Balchem Corp.",
+        "company_domain": "https://www.balchem.com",
+        "location": "Montvale, NJ"
+    },
+    {
+        "company_name": "Batory Foods",
+        "company_domain": "https://www.batoryfoods.com",
+        "location": "Rosemont, IL"
+    },
+    {
+        "company_name": "Bay State Milling",
+        "company_domain": "https://www.baystatemilling.com",
+        "location": "Quincy, MA"
+    },
+    {
+        "company_name": "BENEO Inc.",
+        "company_domain": "https://www.beneo.com",
+        "location": "Parsipanny, NJ"
+    },
+    {
+        "company_name": "Bianca International Organic Inc",
+        "company_domain": "https://www.biorganicinc.com",
+        "location": "MONTREAL, QC"
+    },
+    {
+        "company_name": "Bioriginal Food & Science Corp.",
+        "company_domain": "https://www.bioriginal.com",
+        "location": "Saskatoon, SK"
+    },
+    {
+        "company_name": "Brasil Sugar International",
+        "company_domain": "https://www.brasil-sugar.com",
+        "location": "Bingham Farms, MI"
+    },
+    {
+        "company_name": "Cargill",
+        "company_domain": "https://www.cargill.com",
+        "location": "Wayzata, MN"
+    },
+    {
+        "company_name": "Church & Dwight Co. Inc.",
+        "company_domain": "https://www.churchdwight.com",
+        "location": "Princeton, NJ"
+    },
+    {
+        "company_name": "CIO Enterprises",
+        "company_domain": "",
+        "location": "Auburn, NY"
+    },
+    {
+        "company_name": "Clabber Girl Corp.",
+        "company_domain": "https://www.clabbergirl.com",
+        "location": "Terre Haute, IN"
+    },
+    {
+        "company_name": "Corbion",
+        "company_domain": "https://www.corbion.com/en/markets/food",
+        "location": "Lenexa, KS"
+    },
+    {
+        "company_name": "Dairy Ingredients Inc.",
+        "company_domain": "https://www.dairyingredientsinc.com",
+        "location": "Davisburg, MI"
+    },
+    {
+        "company_name": "Dairy Specialties Inc.",
+        "company_domain": "",
+        "location": "Dublin, OH"
+    },
+    {
+        "company_name": "Devansoy",
+        "company_domain": "https://www.devansoy.com",
+        "location": "Rock City, IL"
+    },
+    {
+        "company_name": "DMS Food Imports",
+        "company_domain": "http://www.dmsfoodimports.com",
+        "location": "Edgewater, MD"
+    },
+    {
+        "company_name": "Equichem International Inc.",
+        "company_domain": "https://www.equichem.com",
+        "location": "Carol Stream, IL"
+    },
+    {
+        "company_name": "Falcon Trading International",
+        "company_domain": "https://www.falconti.com",
+        "location": "East Fairfield, VT"
+    },
+    {
+        "company_name": "Fiberich MN Inc.",
+        "company_domain": "http://www.fiberichtech.com",
+        "location": "Eden Prairie, MN"
+    },
+    {
+        "company_name": "Fiberstar Inc.",
+        "company_domain": "https://www.fiberstaringredients.com",
+        "location": "River Falls, WI"
+    },
+    {
+        "company_name": "FloZein Products",
+        "company_domain": "https://www.zeinproducts.com",
+        "location": "Ashburnham, MA"
+    },
+    {
+        "company_name": "Food Specialties",
+        "company_domain": "https://www.foodspecialties.ca",
+        "location": "Mississauga, ON"
+    },
+    {
+        "company_name": "FrieslandCampina Ingredients",
+        "company_domain": "https://www.frieslandcampinaingredients.com",
+        "location": "Paramus, NJ"
+    },
+    {
+        "company_name": "Glanbia Nutritionals",
+        "company_domain": "https://www.glanbianutritionals.com",
+        "location": "Chicago, IL"
+    },
+    {
+        "company_name": "Global River Inc.",
+        "company_domain": "https://www.globalriverinc.com",
+        "location": "Winona, MN"
+    },
+    {
+        "company_name": "GloryBee",
+        "company_domain": "https://glorybee.com",
+        "location": "Eugene, OR"
+    },
+    {
+        "company_name": "Golden Barrel Products",
+        "company_domain": "https://www.goldenbarrel.com",
+        "location": "Honey Brook, PA"
+    },
+    {
+        "company_name": "Golden Select Foods Co.",
+        "company_domain": "",
+        "location": "Commerce, CA"
+    },
+    {
+        "company_name": "Grain Millers",
+        "company_domain": "https://www.grainmillers.com",
+        "location": "Eden Prairie, MN"
+    },
+    {
+        "company_name": "Healthy Food Ingredients",
+        "company_domain": "https://www.hfifamily.com",
+        "location": "Fargo, ND"
+    },
+    {
+        "company_name": "Ameriqual Group LLC",
+        "company_domain": "https://www.ameriqual.com",
+        "location": "Evansville, IN"
+    },
+    {
+        "company_name": "Arji Frozen Food",
+        "company_domain": "https://arjifrozone.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Brasil Sugar International",
+        "company_domain": "https://www.brasil-sugar.com",
+        "location": "Bingham Farms, MI"
+    },
+    {
+        "company_name": "Diana Food",
+        "company_domain": "https://www.diana-food.com",
+        "location": "Hasbrouck Heights, NJ"
+    },
+    {
+        "company_name": "DMS Food Imports",
+        "company_domain": "http://www.dmsfoodimports.com",
+        "location": "Edgewater, MD"
+    },
+    {
+        "company_name": "Fair Oaks Farms LLC",
+        "company_domain": "https://fofarms.com",
+        "location": "Fair Oaks, IN"
+    },
+    {
+        "company_name": "Hormel Ingredient Solutions",
+        "company_domain": "https://www.hormelingredientsolutions.com",
+        "location": "Austin, MN"
+    },
+    {
+        "company_name": "Integrative Flavors",
+        "company_domain": "https://www.integrativeflavors.com",
+        "location": "Beverly Shores, IN"
+    },
+    {
+        "company_name": "Invico Worldwide",
+        "company_domain": "https://www.invicoworldwide.com",
+        "location": "Fort Lauderdale, FL"
+    },
+    {
+        "company_name": "Islamic Food & Nutrition Council of America (IFANCA)",
+        "company_domain": "https://www.ifanca.org",
+        "location": "Des Plaines, IL"
+    },
+    {
+        "company_name": "Long Food Industries",
+        "company_domain": "https://www.longfoodindustries.com",
+        "location": "Fripp Island, SC"
+    },
+    {
+        "company_name": "Marky's Caviar/ Optimus Inc.",
+        "company_domain": "https://www.markys.com",
+        "location": "Miami, FL"
+    },
+    {
+        "company_name": "MGP Ingredients Inc.",
+        "company_domain": "https://www.mgpingredients.com",
+        "location": "Atchison, KS"
+    },
+    {
+        "company_name": "Nikken Foods USA Inc.",
+        "company_domain": "https://www.nikkenfoods.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "OSI Group LLC",
+        "company_domain": "https://www.osigroup.com",
+        "location": "Aurora, IL"
+    },
+    {
+        "company_name": "Rosina Food Products Inc.",
+        "company_domain": "https://www.rosinaingredients.com",
+        "location": "Buffalo, NY"
+    },
+    {
+        "company_name": "S.J. Distributors LLC",
+        "company_domain": "",
+        "location": "Riverside, CA"
+    },
+    {
+        "company_name": "Takosa Food Co. Ltd.",
+        "company_domain": "https://www.takosafood.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Thai Trade Center - Chicago",
+        "company_domain": "https://www.thaitradeusa.com",
+        "location": "Chicago, IL"
+    },
+    {
+        "company_name": "Thomas Foods USA",
+        "company_domain": "https://www.thomasfoodsusa.com",
+        "location": "Swedesboro, NJ"
+    },
+    {
+        "company_name": "Welfare Food Co. Ltd.",
+        "company_domain": "https://blackhut.e-welfare.com.tw",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Advanced Food Systems Inc.",
+        "company_domain": "https://www.afsnj.com",
+        "location": "Somerset, NJ"
+    },
+    {
+        "company_name": "Alpen Food Group BV",
+        "company_domain": "https://www.alpenfoodgroup.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "American International Foods Inc.",
+        "company_domain": "https://www.americaninternationalfoods.com",
+        "location": "Ada, MI"
+    },
+    {
+        "company_name": "American Lecithin Co.",
+        "company_domain": "https://www.americanlecithin.us",
+        "location": "Oxford, CT"
+    },
+    {
+        "company_name": "Arista Industries Inc.",
+        "company_domain": "https://www.aristaindustries.com",
+        "location": "Wilton, CT"
+    },
+    {
+        "company_name": "Arnhem Group",
+        "company_domain": "https://www.arnhemgroup.com",
+        "location": "Westfield, NJ"
+    },
+    {
+        "company_name": "Astral Extracts Ltd.",
+        "company_domain": "https://www.astralextracts.com",
+        "location": "Syosset, NY"
+    },
+    {
+        "company_name": "ATAGO U.S.A. Inc.",
+        "company_domain": "",
+        "location": "Bellevue, WA"
+    },
+    {
+        "company_name": "Avatar Corp.",
+        "company_domain": "https://www.avatarcorp.com",
+        "location": "University Park, IL"
+    },
+    {
+        "company_name": "Avi Agri Business Ltd.",
+        "company_domain": "http://www.aviagri.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Batory Foods",
+        "company_domain": "https://www.batoryfoods.com",
+        "location": "Rosemont, IL"
+    },
+    {
+        "company_name": "BENEO Inc.",
+        "company_domain": "https://www.beneo.com",
+        "location": "Parsipanny, NJ"
+    },
+    {
+        "company_name": "Berje Inc.",
+        "company_domain": "https://www.berjeinc.com",
+        "location": "Carteret, NJ"
+    },
+    {
+        "company_name": "Bianca International Organic Inc",
+        "company_domain": "https://www.biorganicinc.com",
+        "location": "MONTREAL, QC"
+    },
+    {
+        "company_name": "Bioriginal Food & Science Corp.",
+        "company_domain": "https://www.bioriginal.com",
+        "location": "Saskatoon, SK"
+    },
+    {
+        "company_name": "Brasil Sugar International",
+        "company_domain": "https://www.brasil-sugar.com",
+        "location": "Bingham Farms, MI"
+    },
+    {
+        "company_name": "Cargill",
+        "company_domain": "https://www.cargill.com",
+        "location": "Wayzata, MN"
+    },
+    {
+        "company_name": "Chemi Nutra",
+        "company_domain": "https://www.cheminutra.com",
+        "location": "Austin, TX"
+    },
+    {
+        "company_name": "CHO America",
+        "company_domain": "https://www.bulkbycho.com",
+        "location": "Houston, TX"
+    },
+    {
+        "company_name": "CIRANDA",
+        "company_domain": "https://www.ciranda.com",
+        "location": "Hudson, WI"
+    },
+    {
+        "company_name": "Colony Products",
+        "company_domain": "http://www.colonyproducts.net",
+        "location": "Redlands, CA"
+    },
+    {
+        "company_name": "Columbus Vegetable Oils",
+        "company_domain": "https://www.cvoils.com",
+        "location": "Des Plaines, IL"
+    },
+    {
+        "company_name": "CoreFX Ingredients",
+        "company_domain": "https://www.corefxingredients.com",
+        "location": "Evanston, IL"
+    },
+    {
+        "company_name": "Dignity Made",
+        "company_domain": "https://www.dignitycoconuts.com",
+        "location": "St. Paul, MN"
+    },
+    {
+        "company_name": "ExcelVite Sdn. Bhd.",
+        "company_domain": "https://www.excelvite.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Falcon Trading International",
+        "company_domain": "https://www.falconti.com",
+        "location": "East Fairfield, VT"
+    },
+    {
+        "company_name": "Fiberstar Inc.",
+        "company_domain": "https://www.fiberstaringredients.com",
+        "location": "River Falls, WI"
+    },
+    {
+        "company_name": "Franklin Baker Inc.",
+        "company_domain": "https://www.franklinbaker.com",
+        "location": "Memphis, TN"
+    },
+    {
+        "company_name": "FrieslandCampina Ingredients",
+        "company_domain": "https://www.frieslandcampinaingredients.com",
+        "location": "Paramus, NJ"
+    },
+    {
+        "company_name": "Global River Inc.",
+        "company_domain": "https://www.globalriverinc.com",
+        "location": "Winona, MN"
+    },
+    {
+        "company_name": "Global Savors",
+        "company_domain": "https://www.globalsavors.com",
+        "location": "Los Angeles, CA"
+    },
+    {
+        "company_name": "GloryBee",
+        "company_domain": "https://glorybee.com",
+        "location": "Eugene, OR"
+    },
+    {
+        "company_name": "Golden Barrel Products",
+        "company_domain": "https://www.goldenbarrel.com",
+        "location": "Honey Brook, PA"
+    },
+    {
+        "company_name": "Golden Peanut Co. LLC",
+        "company_domain": "https://www.goldenpeanut.com",
+        "location": "Alpharetta, GA"
+    },
+    {
+        "company_name": "Great Lakes International Trading Inc.",
+        "company_domain": "https://www.glit.com",
+        "location": "Traverse City, MI"
+    },
+    {
+        "company_name": "Green Source Organics",
+        "company_domain": "https://www.gsoextracts.com",
+        "location": "Henderson, NV"
+    },
+    {
+        "company_name": "Healthy Food Ingredients",
+        "company_domain": "https://www.hfifamily.com",
+        "location": "Fargo, ND"
+    },
+    {
+        "company_name": "Hemp Acres",
+        "company_domain": "http://www.hempacresusa.com",
+        "location": "Waconia, MN"
+    },
+    {
+        "company_name": "IFC Solutions",
+        "company_domain": "https://www.ifc-solutions.com",
+        "location": "Linden, NJ"
+    },
+    {
+        "company_name": "IFPC",
+        "company_domain": "https://www.ifpc.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "A&B Ingredients Inc.",
+        "company_domain": "https://www.abingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "Certified Nutritionals",
+        "company_domain": "https://www.certifiednutritionals.com",
+        "location": "Glendale, CA"
+    },
+    {
+        "company_name": "Epsilon Ingredients",
+        "company_domain": "http://epsiloningredients.in",
+        "location": "N/A"
+    },
+    {
+        "company_name": "FrieslandCampina Ingredients",
+        "company_domain": "https://www.frieslandcampinaingredients.com",
+        "location": "Paramus, NJ"
+    },
+    {
+        "company_name": "Islamic Food & Nutrition Council of America (IFANCA)",
+        "company_domain": "https://www.ifanca.org",
+        "location": "Des Plaines, IL"
+    },
+    {
+        "company_name": "Jiangsu Haifengda Biotechnology Co., Ltd.",
+        "company_domain": "https://www.hfdbio.com/index.php/indexen/index",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Kerry Taste and Nutrition",
+        "company_domain": "https://kerry.com",
+        "location": "Beloit, WI"
+    },
+    {
+        "company_name": "Nutralliance",
+        "company_domain": "https://www.nutralliance.com",
+        "location": "Yorba Linda, CA"
+    },
+    {
+        "company_name": "Stratum Nutrition",
+        "company_domain": "https://www.stratumnutrition.com",
+        "location": "Carthage, MO"
+    },
+    {
+        "company_name": "The Ingredient House",
+        "company_domain": "https://www.theingredienthouse.com",
+        "location": "Pinehurst, NC"
+    },
+    {
+        "company_name": "A.C. Legg Inc.",
+        "company_domain": "https://www.aclegg.com",
+        "location": "Calera, AL"
+    },
+    {
+        "company_name": "A&B Ingredients Inc.",
+        "company_domain": "https://www.abingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "AB Mauri North America",
+        "company_domain": "https://www.abmna.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "ABF Ingredients",
+        "company_domain": "https://www.abfingredients.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Advanced Food Systems Inc.",
+        "company_domain": "https://www.afsnj.com",
+        "location": "Somerset, NJ"
+    },
+    {
+        "company_name": "Allied Blending LP",
+        "company_domain": "https://www.alliedblending.com",
+        "location": "Keokuk, IA"
+    },
+    {
+        "company_name": "Amano Enzyme USA Co. Ltd.",
+        "company_domain": "https://amano-enzyme.com",
+        "location": "Elgin, IL"
+    },
+    {
+        "company_name": "American Color Research Center Inc.",
+        "company_domain": "https://www.acrccolors.com",
+        "location": "Corina, CA"
+    },
+    {
+        "company_name": "American International Foods Inc.",
+        "company_domain": "https://www.americaninternationalfoods.com",
+        "location": "Ada, MI"
+    },
+    {
+        "company_name": "American Lecithin Co.",
+        "company_domain": "https://www.americanlecithin.us",
+        "location": "Oxford, CT"
+    },
+    {
+        "company_name": "Arkema Inc.",
+        "company_domain": "https://www.arkema-americas.com",
+        "location": "King of Prussia, PA"
+    },
+    {
+        "company_name": "Arnhem Group",
+        "company_domain": "https://www.arnhemgroup.com",
+        "location": "Westfield, NJ"
+    },
+    {
+        "company_name": "ASR Group - Domino Foods Inc. Specialty Ingredients",
+        "company_domain": "https://www.dominospecialtyingredients.com",
+        "location": "West Palm Beach, FL"
+    },
+    {
+        "company_name": "Australian Functional Ingredients Pty Ltd.",
+        "company_domain": "https://cherikoff.net/shop/product-category/ingredients-for-chefs-and-manufacturers",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Avatar Corp.",
+        "company_domain": "https://www.avatarcorp.com",
+        "location": "University Park, IL"
+    },
+    {
+        "company_name": "Avi Agri Business Ltd.",
+        "company_domain": "http://www.aviagri.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Bakelite Synthetics",
+        "company_domain": "https://www.bakelite.com",
+        "location": "Atlanta, GA"
+    },
+    {
+        "company_name": "Balchem Corp.",
+        "company_domain": "https://www.balchem.com",
+        "location": "Montvale, NJ"
+    },
+    {
+        "company_name": "Bartek Ingredients",
+        "company_domain": "https://www.bartek.ca",
+        "location": "Stony Creek, ON"
+    },
+    {
+        "company_name": "Batory Foods",
+        "company_domain": "https://www.batoryfoods.com",
+        "location": "Rosemont, IL"
+    },
+    {
+        "company_name": "Berje Inc.",
+        "company_domain": "https://www.berjeinc.com",
+        "location": "Carteret, NJ"
+    },
+    {
+        "company_name": "Biocatalysts Ltd.",
+        "company_domain": "https://www.biocatalysts.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Brenntag North America",
+        "company_domain": "https://food-nutrition.brenntag.com/en-us/",
+        "location": "Reading, PA"
+    },
+    {
+        "company_name": "Budenheim",
+        "company_domain": "https://www.budenheim.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Cargill",
+        "company_domain": "https://www.cargill.com",
+        "location": "Wayzata, MN"
+    },
+    {
+        "company_name": "Carmi Flavor & Fragrance Co.",
+        "company_domain": "https://www.carmiflavors.com",
+        "location": "Commerce, CA"
+    },
+    {
+        "company_name": "Champion Gelatine Products",
+        "company_domain": "http://www.championgelatine.com",
+        "location": "Sioux City, IA"
+    },
+    {
+        "company_name": "Charles Bowman & Co.",
+        "company_domain": "https://www.charlesbowman.com",
+        "location": "Holland, MI"
+    },
+    {
+        "company_name": "Chinova Bioworks",
+        "company_domain": "https://www.chinovabioworks.com",
+        "location": "Fredericton, NB"
+    },
+    {
+        "company_name": "CIRANDA",
+        "company_domain": "https://www.ciranda.com",
+        "location": "Hudson, WI"
+    },
+    {
+        "company_name": "Clabber Girl Corp.",
+        "company_domain": "https://www.clabbergirl.com",
+        "location": "Terre Haute, IN"
+    },
+    {
+        "company_name": "Colony Products",
+        "company_domain": "http://www.colonyproducts.net",
+        "location": "Redlands, CA"
+    },
+    {
+        "company_name": "Command Chemical Corp.",
+        "company_domain": "http://www.commandchemical.com",
+        "location": "Fairfield, CT"
+    },
+    {
+        "company_name": "Corbion",
+        "company_domain": "https://www.corbion.com/en/markets/food",
+        "location": "Lenexa, KS"
+    },
+    {
+        "company_name": "Dairy Ingredients Inc.",
+        "company_domain": "https://www.dairyingredientsinc.com",
+        "location": "Davisburg, MI"
+    },
+    {
+        "company_name": "Dairy Specialties Inc.",
+        "company_domain": "",
+        "location": "Dublin, OH"
+    },
+    {
+        "company_name": "Dyna-Tabs LLC",
+        "company_domain": "https://www.dynatabs.com",
+        "location": "Brooklyn, NY"
+    },
+    {
+        "company_name": "Enzyme Development Corp.",
+        "company_domain": "https://www.enzymedevelopment.com",
+        "location": "New York, NY"
+    },
+    {
+        "company_name": "Epsilon Ingredients",
+        "company_domain": "http://epsiloningredients.in",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Equichem International Inc.",
+        "company_domain": "https://www.equichem.com",
+        "location": "Carol Stream, IL"
+    },
+    {
+        "company_name": "Accord Foods Inc./Tso Hin Kee Asian Sauces",
+        "company_domain": "https://www.accordfoods.com",
+        "location": "Rochester, NY"
+    },
+    {
+        "company_name": "Advanced Food Systems Inc.",
+        "company_domain": "https://www.afsnj.com",
+        "location": "Somerset, NJ"
+    },
+    {
+        "company_name": "All Seasonings Ingredients Inc.",
+        "company_domain": "https://www.allseasonings.com",
+        "location": "Oneida, NY"
+    },
+    {
+        "company_name": "Ameriqual Group LLC",
+        "company_domain": "https://www.ameriqual.com",
+        "location": "Evansville, IN"
+    },
+    {
+        "company_name": "California Spice Basket Inc.",
+        "company_domain": "https://www.caspicebasket.com",
+        "location": "Burlingame, CA"
+    },
+    {
+        "company_name": "Colombina USA",
+        "company_domain": "",
+        "location": "Miami, FL"
+    },
+    {
+        "company_name": "Commercial Creamery Co.",
+        "company_domain": "https://www.cheesepowder.com",
+        "location": "Spokane, WA"
+    },
+    {
+        "company_name": "DMS Food Imports",
+        "company_domain": "http://www.dmsfoodimports.com",
+        "location": "Edgewater, MD"
+    },
+    {
+        "company_name": "Dohler North America",
+        "company_domain": "https://www.doehler.com",
+        "location": "Cartersville, GA"
+    },
+    {
+        "company_name": "Flavor House Inc.",
+        "company_domain": "http://www.flavorhouseinc.com",
+        "location": "Adelanto, CA"
+    },
+    {
+        "company_name": "Food Specialties",
+        "company_domain": "https://www.foodspecialties.ca",
+        "location": "Mississauga, ON"
+    },
+    {
+        "company_name": "Fuchs North America Inc.",
+        "company_domain": "https://www.fuchsna.com",
+        "location": "Hampstead, MD"
+    },
+    {
+        "company_name": "Furmano Foods",
+        "company_domain": "https://www.furmanos.com",
+        "location": "Northumberland, PA"
+    },
+    {
+        "company_name": "Hainan Nicepal Industry Co. Ltd.",
+        "company_domain": "",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Hormel Ingredient Solutions",
+        "company_domain": "https://www.hormelingredientsolutions.com",
+        "location": "Austin, MN"
+    },
+    {
+        "company_name": "Independent Ingredients LLC",
+        "company_domain": "https://www.independentingredients.com",
+        "location": "Prosperity, SC"
+    },
+    {
+        "company_name": "Integrative Flavors",
+        "company_domain": "https://www.integrativeflavors.com",
+        "location": "Beverly Shores, IN"
+    },
+    {
+        "company_name": "Kagome USA",
+        "company_domain": "https://www.kagomeusa.com",
+        "location": "Los Banos, CA"
+    },
+    {
+        "company_name": "Kikkoman Sales USA Inc.",
+        "company_domain": "https://www.kikkomanusa.com/foodmanufacturers",
+        "location": "San Francisco, CA"
+    },
+    {
+        "company_name": "La Patrona Salsas/Mexquisite",
+        "company_domain": "http://www.lapatronasalsas.com",
+        "location": "Edinburg, TX"
+    },
+    {
+        "company_name": "MANE Inc.",
+        "company_domain": "https://www.mane.com",
+        "location": "Lebanon, OH"
+    },
+    {
+        "company_name": "Mane Kancor Ingredients Private Ltd.",
+        "company_domain": "https://manekancor.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "McClancy Foods & Flavors",
+        "company_domain": "http://www.mcclancy.com",
+        "location": "Fort Mill, SC"
+    },
+    {
+        "company_name": "McIlhenny Co., TABASCO* brand",
+        "company_domain": "https://www.tabascoingredients.com",
+        "location": "Avery Island, LA"
+    },
+    {
+        "company_name": "Nikken Foods USA Inc.",
+        "company_domain": "https://www.nikkenfoods.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "Northwest Naturals",
+        "company_domain": "https://www.nwnaturals.com",
+        "location": "Bothell, WA"
+    },
+    {
+        "company_name": "Ohly Americas",
+        "company_domain": "https://www.ohly.com",
+        "location": "Boyceville, WI"
+    },
+    {
+        "company_name": "Paradise",
+        "company_domain": "https://www.paradisetomato.com",
+        "location": "Louisville, KY"
+    },
+    {
+        "company_name": "Prime Food Products Inc.",
+        "company_domain": "http://www.bakerswonder.com",
+        "location": "Ridgewood, NY"
+    },
+    {
+        "company_name": "Revela Foods",
+        "company_domain": "https://www.revelafoods.com",
+        "location": "New Berlin, WI"
+    },
+    {
+        "company_name": "RLJ Global",
+        "company_domain": "https://www.rljglobalfoods.com",
+        "location": "Fayetteville, AR"
+    },
+    {
+        "company_name": "SupHerb Farms",
+        "company_domain": "https://www.supherbfarms.com",
+        "location": "Turlock, CA"
+    },
+    {
+        "company_name": "Swagger Foods Corp.",
+        "company_domain": "https://www.swaggerfoods.com",
+        "location": "Vernon Hills, IL"
+    },
+    {
+        "company_name": "Tampico Spice Co. Inc.",
+        "company_domain": "https://www.tampicospice.com",
+        "location": "Los Angeles, CA"
+    },
+    {
+        "company_name": "Thermo Pac LLC",
+        "company_domain": "https://www.thermopacllc.com",
+        "location": "Stone Mountain, GA"
+    },
+    {
+        "company_name": "Tova Industries LLC",
+        "company_domain": "https://www.tovaindustries.com",
+        "location": "Louisville, KY"
+    },
+    {
+        "company_name": "Vita-Pakt Citrus Products Co.",
+        "company_domain": "https://www.vita-pakt.com",
+        "location": "Lindsay, CA"
+    },
+    {
+        "company_name": "A.C. Legg Inc.",
+        "company_domain": "https://www.aclegg.com",
+        "location": "Calera, AL"
+    },
+    {
+        "company_name": "A&B Ingredients Inc.",
+        "company_domain": "https://www.abingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "AB Mauri North America",
+        "company_domain": "https://www.abmna.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "Abelei Inc.",
+        "company_domain": "https://www.abelei.com",
+        "location": "North Aurora, IL"
+    },
+    {
+        "company_name": "ABF Ingredients",
+        "company_domain": "https://www.abfingredients.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "ABS FOODS Ltd.",
+        "company_domain": "https://www.absfoodsltd.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Accord Foods Inc./Tso Hin Kee Asian Sauces",
+        "company_domain": "https://www.accordfoods.com",
+        "location": "Rochester, NY"
+    },
+    {
+        "company_name": "Advanced Food Systems Inc.",
+        "company_domain": "https://www.afsnj.com",
+        "location": "Somerset, NJ"
+    },
+    {
+        "company_name": "Al Reza Foods",
+        "company_domain": "https://www.alrezafoods.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "All Seasonings Ingredients Inc.",
+        "company_domain": "https://www.allseasonings.com",
+        "location": "Oneida, NY"
+    },
+    {
+        "company_name": "Almendra Americas LLC",
+        "company_domain": "https://www.almendra.com",
+        "location": "Decatur, GA"
+    },
+    {
+        "company_name": "American International Foods Inc.",
+        "company_domain": "https://www.americaninternationalfoods.com",
+        "location": "Ada, MI"
+    },
+    {
+        "company_name": "Arnhem Group",
+        "company_domain": "https://www.arnhemgroup.com",
+        "location": "Westfield, NJ"
+    },
+    {
+        "company_name": "ASR Group - Domino Foods Inc. Specialty Ingredients",
+        "company_domain": "https://www.dominospecialtyingredients.com",
+        "location": "West Palm Beach, FL"
+    },
+    {
+        "company_name": "Astral Extracts Ltd.",
+        "company_domain": "https://www.astralextracts.com",
+        "location": "Syosset, NY"
+    },
+    {
+        "company_name": "Australian Functional Ingredients Pty Ltd.",
+        "company_domain": "https://cherikoff.net/shop/product-category/ingredients-for-chefs-and-manufacturers",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Avri Companies Inc.",
+        "company_domain": "",
+        "location": "Richmond, CA"
+    },
+    {
+        "company_name": "Balchem Corp.",
+        "company_domain": "https://www.balchem.com",
+        "location": "Montvale, NJ"
+    },
+    {
+        "company_name": "Bay State Milling",
+        "company_domain": "https://www.baystatemilling.com",
+        "location": "Quincy, MA"
+    },
+    {
+        "company_name": "BCFoods",
+        "company_domain": "https://www.bcfoods.com",
+        "location": "Santa Rosa, CA"
+    },
+    {
+        "company_name": "Berje Inc.",
+        "company_domain": "https://www.berjeinc.com",
+        "location": "Carteret, NJ"
+    },
+    {
+        "company_name": "Bianca International Organic Inc",
+        "company_domain": "https://www.biorganicinc.com",
+        "location": "MONTREAL, QC"
+    },
+    {
+        "company_name": "Biorigin - Zilor",
+        "company_domain": "https://www.biorigin.net",
+        "location": "Louisville, KY"
+    },
+    {
+        "company_name": "Borregaard",
+        "company_domain": "https://www.vanillin.com",
+        "location": "Rothschild, WI"
+    },
+    {
+        "company_name": "Brenntag North America",
+        "company_domain": "https://food-nutrition.brenntag.com/en-us/",
+        "location": "Reading, PA"
+    },
+    {
+        "company_name": "BRM Essential Oils",
+        "company_domain": "https://www.brmessentialoils.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Brookside Flavors and Ingredients",
+        "company_domain": "https://www.brooksideflavors.com",
+        "location": "Branchburg, NJ"
+    },
+    {
+        "company_name": "California Spice Basket Inc.",
+        "company_domain": "https://www.caspicebasket.com",
+        "location": "Burlingame, CA"
+    },
+    {
+        "company_name": "Cargill",
+        "company_domain": "https://www.cargill.com",
+        "location": "Wayzata, MN"
+    },
+    {
+        "company_name": "Carmi Flavor & Fragrance Co.",
+        "company_domain": "https://www.carmiflavors.com",
+        "location": "Commerce, CA"
+    },
+    {
+        "company_name": "Carolina Ingredients",
+        "company_domain": "https://www.carolinaingredients.com",
+        "location": "Rock Hill, SC"
+    },
+    {
+        "company_name": "Carriere & Son LLC F.M.",
+        "company_domain": "https://www.fmcarriereandson.com",
+        "location": "Metairie, LA"
+    },
+    {
+        "company_name": "Christopher Ranch LLC",
+        "company_domain": "https://www.christopherranch.com",
+        "location": "Gilroy, CA"
+    },
+    {
+        "company_name": "Citromax Group",
+        "company_domain": "https://www.citromaxflavors.com",
+        "location": "Carlstadt, NJ"
+    },
+    {
+        "company_name": "CJ Bio",
+        "company_domain": "https://www.cjbio.net",
+        "location": "Downers Grove, IL"
+    },
+    {
+        "company_name": "Colombina USA",
+        "company_domain": "",
+        "location": "Miami, FL"
+    },
+    {
+        "company_name": "Commercial Creamery Co.",
+        "company_domain": "https://www.cheesepowder.com",
+        "location": "Spokane, WA"
+    },
+    {
+        "company_name": "Consumers Flavoring Extract Co. Inc.",
+        "company_domain": "https://www.consumersflavoring.com",
+        "location": "Brooklyn, NY"
+    },
+    {
+        "company_name": "Crest Foods Co. Inc.",
+        "company_domain": "https://www.crestfoods.com",
+        "location": "Ashton, IL"
+    },
+    {
+        "company_name": "Crossroad Ingredients",
+        "company_domain": "http://www.crossroadingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "A.S.I. International Inc.",
+        "company_domain": "https://www.info-asi.net",
+        "location": "Watchung, NJ"
+    },
+    {
+        "company_name": "Agricoze (Pvt).Ltd",
+        "company_domain": "https://agricoze.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "AIDP Inc.",
+        "company_domain": "https://www.aidp.com",
+        "location": "City of Industry, CA"
+    },
+    {
+        "company_name": "Almendra Americas LLC",
+        "company_domain": "https://www.almendra.com",
+        "location": "Decatur, GA"
+    },
+    {
+        "company_name": "American Dairy Products Institute",
+        "company_domain": "https://adpi.org",
+        "location": "Elmhurst, IL"
+    },
+    {
+        "company_name": "American International Foods Inc.",
+        "company_domain": "https://www.americaninternationalfoods.com",
+        "location": "Ada, MI"
+    },
+    {
+        "company_name": "Apura Ingredients",
+        "company_domain": "https://www.apuraingredients.com",
+        "location": "Chino, CA"
+    },
+    {
+        "company_name": "Arnhem Group",
+        "company_domain": "https://www.arnhemgroup.com",
+        "location": "Westfield, NJ"
+    },
+    {
+        "company_name": "ASR Group - Domino Foods Inc. Specialty Ingredients",
+        "company_domain": "https://www.dominospecialtyingredients.com",
+        "location": "West Palm Beach, FL"
+    },
+    {
+        "company_name": "Astral Extracts Ltd.",
+        "company_domain": "https://www.astralextracts.com",
+        "location": "Syosset, NY"
+    },
+    {
+        "company_name": "Baolingbao Bio",
+        "company_domain": "",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Bariatrix Europe",
+        "company_domain": "https://www.bariatrixeurope.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Bascom Maple Farms",
+        "company_domain": "https://www.maplesource.com",
+        "location": "Brattleboro, VT"
+    },
+    {
+        "company_name": "Bianca International Organic Inc",
+        "company_domain": "https://www.biorganicinc.com",
+        "location": "MONTREAL, QC"
+    },
+    {
+        "company_name": "Brasil Sugar International",
+        "company_domain": "https://www.brasil-sugar.com",
+        "location": "Bingham Farms, MI"
+    },
+    {
+        "company_name": "Brenntag North America",
+        "company_domain": "https://food-nutrition.brenntag.com/en-us/",
+        "location": "Reading, PA"
+    },
+    {
+        "company_name": "Butternut Mountain Farm",
+        "company_domain": "https://www.butternutmountainfarm.com",
+        "location": "Morrisville, VT"
+    },
+    {
+        "company_name": "Cargill",
+        "company_domain": "https://www.cargill.com",
+        "location": "Wayzata, MN"
+    },
+    {
+        "company_name": "Carriere & Son LLC F.M.",
+        "company_domain": "https://www.fmcarriereandson.com",
+        "location": "Metairie, LA"
+    },
+    {
+        "company_name": "Certified Nutritionals",
+        "company_domain": "https://www.certifiednutritionals.com",
+        "location": "Glendale, CA"
+    },
+    {
+        "company_name": "Champion Gelatine Products",
+        "company_domain": "http://www.championgelatine.com",
+        "location": "Sioux City, IA"
+    },
+    {
+        "company_name": "CIRANDA",
+        "company_domain": "https://www.ciranda.com",
+        "location": "Hudson, WI"
+    },
+    {
+        "company_name": "Crossroad Ingredients",
+        "company_domain": "http://www.crossroadingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "Dairy Ingredients Inc.",
+        "company_domain": "https://www.dairyingredientsinc.com",
+        "location": "Davisburg, MI"
+    },
+    {
+        "company_name": "DMS Food Imports",
+        "company_domain": "http://www.dmsfoodimports.com",
+        "location": "Edgewater, MD"
+    },
+    {
+        "company_name": "Ecuadorian Rainforest LLC",
+        "company_domain": "https://www.intotherainforest.com",
+        "location": "Clifton, NJ"
+    },
+    {
+        "company_name": "Emerling Foods",
+        "company_domain": "",
+        "location": "Depew, NY"
+    },
+    {
+        "company_name": "Epsilon Ingredients",
+        "company_domain": "http://epsiloningredients.in",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Falcon Trading International",
+        "company_domain": "https://www.falconti.com",
+        "location": "East Fairfield, VT"
+    },
+    {
+        "company_name": "Flavorman",
+        "company_domain": "https://www.flavorman.com",
+        "location": "Louisville, KY"
+    },
+    {
+        "company_name": "FloZein Products",
+        "company_domain": "https://www.zeinproducts.com",
+        "location": "Ashburnham, MA"
+    },
+    {
+        "company_name": "Global Organics Ltd.",
+        "company_domain": "https://www.global-organics.com",
+        "location": "Cambridge, MA"
+    },
+    {
+        "company_name": "GloryBee",
+        "company_domain": "https://glorybee.com",
+        "location": "Eugene, OR"
+    },
+    {
+        "company_name": "GluCorp Pvt. Ltd.",
+        "company_domain": "https://www.glucorp.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Golden Barrel Products",
+        "company_domain": "https://www.goldenbarrel.com",
+        "location": "Honey Brook, PA"
+    },
+    {
+        "company_name": "Golden Select Foods Co.",
+        "company_domain": "",
+        "location": "Commerce, CA"
+    },
+    {
+        "company_name": "Grain Millers",
+        "company_domain": "https://www.grainmillers.com",
+        "location": "Eden Prairie, MN"
+    },
+    {
+        "company_name": "Grain Processing Corp. (GPC)",
+        "company_domain": "https://www.grainprocessing.com",
+        "location": "Muscatine, IA"
+    },
+    {
+        "company_name": "Hilmar Ingredients & Hilmar Cheese Co.",
+        "company_domain": "https://www.hilmaringredients.com",
+        "location": "Hilmar, CA"
+    },
+    {
+        "company_name": "Honey Solutions",
+        "company_domain": "https://www.honeysolutions.com",
+        "location": "Baytown, TX"
+    },
+    {
+        "company_name": "A.S.I. International Inc.",
+        "company_domain": "https://www.info-asi.net",
+        "location": "Watchung, NJ"
+    },
+    {
+        "company_name": "A&B Ingredients Inc.",
+        "company_domain": "https://www.abingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "AB Mauri North America",
+        "company_domain": "https://www.abmna.com",
+        "location": "St. Louis, MO"
+    },
+    {
+        "company_name": "ABF Ingredients",
+        "company_domain": "https://www.abfingredients.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "AIDP Inc.",
+        "company_domain": "https://www.aidp.com",
+        "location": "City of Industry, CA"
+    },
+    {
+        "company_name": "Arista Industries Inc.",
+        "company_domain": "https://www.aristaindustries.com",
+        "location": "Wilton, CT"
+    },
+    {
+        "company_name": "Arkema Inc.",
+        "company_domain": "https://www.arkema-americas.com",
+        "location": "King of Prussia, PA"
+    },
+    {
+        "company_name": "Australian Functional Ingredients Pty Ltd.",
+        "company_domain": "https://cherikoff.net/shop/product-category/ingredients-for-chefs-and-manufacturers",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Baja Yucca Co.",
+        "company_domain": "https://www.bajayuccacompany.com",
+        "location": "Scottsdale, AZ"
+    },
+    {
+        "company_name": "Balchem Corp.",
+        "company_domain": "https://www.balchem.com",
+        "location": "Montvale, NJ"
+    },
+    {
+        "company_name": "Bariatrix Europe",
+        "company_domain": "https://www.bariatrixeurope.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Bioenergy Life Science Inc. (BLS)",
+        "company_domain": "https://www.bioenergylifescience.com",
+        "location": "Ham Lake, MN"
+    },
+    {
+        "company_name": "Biorigin - Zilor",
+        "company_domain": "https://www.biorigin.net",
+        "location": "Louisville, KY"
+    },
+    {
+        "company_name": "Bioriginal Food & Science Corp.",
+        "company_domain": "https://www.bioriginal.com",
+        "location": "Saskatoon, SK"
+    },
+    {
+        "company_name": "Brenntag North America",
+        "company_domain": "https://food-nutrition.brenntag.com/en-us/",
+        "location": "Reading, PA"
+    },
+    {
+        "company_name": "BTSA US Inc.",
+        "company_domain": "https://www.btsa.com/en",
+        "location": "Lake Geneva, WI"
+    },
+    {
+        "company_name": "Budenheim",
+        "company_domain": "https://www.budenheim.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Canton Chem Inc.",
+        "company_domain": "https://www.cantonchem.com",
+        "location": "Clarksville, MD"
+    },
+    {
+        "company_name": "Cargill Health Technologies (EpiCor)",
+        "company_domain": "https://www.cargill.com/supplements/epicor-pets-postbiotic-ingredient",
+        "location": "Hennepin, MN"
+    },
+    {
+        "company_name": "Certified Nutritionals",
+        "company_domain": "https://www.certifiednutritionals.com",
+        "location": "Glendale, CA"
+    },
+    {
+        "company_name": "Charles Bowman & Co.",
+        "company_domain": "https://www.charlesbowman.com",
+        "location": "Holland, MI"
+    },
+    {
+        "company_name": "Chemi Nutra",
+        "company_domain": "https://www.cheminutra.com",
+        "location": "Austin, TX"
+    },
+    {
+        "company_name": "Chemvera specility - Food & Nutraceutical",
+        "company_domain": "https://www.chemvera.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Cherry Marketing Institute",
+        "company_domain": "https://www.choosecherries.com",
+        "location": "DeWitt, MI"
+    },
+    {
+        "company_name": "Church & Dwight Co. Inc.",
+        "company_domain": "https://www.churchdwight.com",
+        "location": "Princeton, NJ"
+    },
+    {
+        "company_name": "Clabber Girl Corp.",
+        "company_domain": "https://www.clabbergirl.com",
+        "location": "Terre Haute, IN"
+    },
+    {
+        "company_name": "CoreFX Ingredients",
+        "company_domain": "https://www.corefxingredients.com",
+        "location": "Evanston, IL"
+    },
+    {
+        "company_name": "Crossroad Ingredients",
+        "company_domain": "http://www.crossroadingredients.com",
+        "location": "Fairfield, NJ"
+    },
+    {
+        "company_name": "Divi's Nutraceuticals",
+        "company_domain": "https://divisnutraceuticals.com",
+        "location": "Florham Park, NJ"
+    },
+    {
+        "company_name": "Dyna-Tabs LLC",
+        "company_domain": "https://www.dynatabs.com",
+        "location": "Brooklyn, NY"
+    },
+    {
+        "company_name": "Ecuadorian Rainforest LLC",
+        "company_domain": "https://www.intotherainforest.com",
+        "location": "Clifton, NJ"
+    },
+    {
+        "company_name": "Epsilon Ingredients",
+        "company_domain": "http://epsiloningredients.in",
+        "location": "N/A"
+    },
+    {
+        "company_name": "Equichem International Inc.",
+        "company_domain": "https://www.equichem.com",
+        "location": "Carol Stream, IL"
+    },
+    {
+        "company_name": "ExcelVite Sdn. Bhd.",
+        "company_domain": "https://www.excelvite.com",
+        "location": "N/A"
+    },
+    {
+        "company_name": "FabriChem - Div. of NutriScience Innovations LLC",
+        "company_domain": "https://www.fabricheminc.com",
+        "location": "Milford, CT"
+    },
+    {
+        "company_name": "Falcon Trading International",
+        "company_domain": "https://www.falconti.com",
+        "location": "East Fairfield, VT"
+    },
+    {
+        "company_name": "FBC Industries Inc.",
+        "company_domain": "https://www.fbcindustries.com",
+        "location": "Schaumburg, IL"
+    },
+    {
+        "company_name": "Flavorman",
+        "company_domain": "https://www.flavorman.com",
+        "location": "Louisville, KY"
+    },
+    {
+        "company_name": "Florida Food Products Inc.",
+        "company_domain": "https://www.floridafood.com",
+        "location": "Eustis, FL"
+    },
+    {
+        "company_name": "FutureCeuticals Inc.",
+        "company_domain": "https://www.futureceuticals.com",
+        "location": "Momence, IL"
+    }
+]
