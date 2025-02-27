@@ -1,33 +1,31 @@
-# import csv
-# import json
+import csv
+import json
 
-# def csv_to_json(csv_path, json_path):
-#     data = []
+def csv_to_json(csv_path, json_path):
+    data = []
     
-#     with open(csv_path, mode='r', encoding='utf-8') as csv_file:
-#         csv_reader = csv.reader(csv_file)
-#         headers = next(csv_reader)  # Read the first row as headers
+    with open(csv_path, mode='r', encoding='utf-8') as csv_file:
+        csv_reader = csv.reader(csv_file)
+        headers = next(csv_reader)  # Read the first row as headers
         
-#         for index, row in enumerate(csv_reader, start=1):
-#             entry = {
-#                 "index": index,
-#                 "packaging_name": row[0],
-#                 "material_name": row[1],
-#                 "products_tagged": int(row[2])
-#             }
-#             data.append(entry)
+        for index, row in enumerate(csv_reader, start=1):
+            entry = {
+                "index": index,
+                "name": row[0],
+            }
+            data.append(entry)
     
-#     json_output = {"packaging_data": data}
+    json_output = {"packaging_data": data}
     
-#     with open(json_path, mode='w', encoding='utf-8') as json_file:
-#         json.dump(json_output, json_file, indent=2)
+    with open(json_path, mode='w', encoding='utf-8') as json_file:
+        json.dump(json_output, json_file, indent=2)
     
-#     print(f"JSON file saved at: {json_path}")
+    print(f"JSON file saved at: {json_path}")
 
-# # Example usage:
-# csv_path = "serper/serper_packaging_inputs.csv"  # Change this to your CSV file path
-# json_path = "serper/serper_packaging_inputs.json"  # Change this to desired JSON output path
-# csv_to_json(csv_path, json_path)
+# Example usage:
+csv_path = "workshop/newtopisnow/_serperated.csv"  # Change this to your CSV file path
+json_path = "workshop/newtopisnow/_serperated.json"  # Change this to desired JSON output path
+csv_to_json(csv_path, json_path)
 
 # make csv have unique domain names
 # import csv
@@ -55,23 +53,23 @@
 
 
 
-import json 
+# import json 
 
-with open("serper/DATA_332/120_/serper_final.json", mode='r', encoding='utf-8') as json_file:
-    data = json.load(json_file)
-    print(data[0])
+# with open("serper/DATA_332/120_/serper_final.json", mode='r', encoding='utf-8') as json_file:
+#     data = json.load(json_file)
+#     print(data[0])
 
-# unique domain names
+# # unique domain names
 
-new_data = []
-unique_domain_names = set()
-for row in data:
-    if row['domain'] not in unique_domain_names:
-        unique_domain_names.add(row['domain'])
-        new_data.append(row)
+# new_data = []
+# unique_domain_names = set()
+# for row in data:
+#     if row['domain'] not in unique_domain_names:
+#         unique_domain_names.add(row['domain'])
+#         new_data.append(row)
 
-with open("serper/DATA_332/120_/serper_final_unique.json", mode='w', encoding='utf-8') as json_file:
-    json.dump(new_data, json_file, indent=2)
+# with open("serper/DATA_332/120_/serper_final_unique.json", mode='w', encoding='utf-8') as json_file:
+#     json.dump(new_data, json_file, indent=2)
 
 
 

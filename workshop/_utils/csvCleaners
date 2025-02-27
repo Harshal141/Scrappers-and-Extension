@@ -1,0 +1,30 @@
+import pandas as pd
+
+def cleanDomain(domainName):
+    website = domainName.strip()
+    if website.endswith("/"):
+        website = website[:-1]
+    website = website.replace("http://", "").replace("https://", "").replace("www.", "")
+    website = website.split("/")[0]
+    website = website.lower()
+    return website
+
+INPUT_FILE = 'sourcescrub/DATA_423/Sourcescrub_423.csv'
+OUTPUT_FILE = 'filtered_output.csv'
+
+# Read the CSV file
+df = pd.read_csv(INPUT_FILE)
+
+# Clean the 'Website' column first
+df['domain'] = df['domain'].apply(cleanDomain)
+
+# Select the desired columns (adjust the column names if needed)
+selected_columns = df[['name', 'domain']]
+
+# Remove duplicate rows based on the cleaned 'Website' column
+filtered_df = selected_columns.drop_duplicates(subset=['Website'])
+
+# Save the filtered data to a new CSV file
+filtered_df.to_csv(OUTPUT_FILE, index=False)
+
+print("Filtered CSV saved as {}".format(OUTPUT_FILE))

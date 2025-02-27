@@ -57,7 +57,7 @@ def cleanDomain(domainName):
     return website
 
 # Read the CSV file
-df = pd.read_csv('sourcescrub/DATA_423/Sourcescrub_423.csv')
+df = pd.read_csv('sourcescrub/DATA_479/datasource.csv')
 
 # Clean the 'Website' column first
 df['Website'] = df['Website'].apply(cleanDomain)
@@ -69,6 +69,6 @@ selected_columns = df[['Company Name', 'Website']]
 filtered_df = selected_columns.drop_duplicates(subset=['Website'])
 
 # Save the filtered data to a new CSV file
-filtered_df.to_csv('filtered_output.csv', index=False)
+filtered_df.to_csv('sourcescrub/DATA_479/filtered.csv', index=False)
 
 print("Filtered CSV saved as 'filtered_output.csv'")

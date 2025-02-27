@@ -122,7 +122,7 @@ def search_company_domain_using_serper(company_name: str):
     return domain
 
 if __name__ == "__main__":
-    with open("expowest/unique_data.json", "r") as file:
+    with open("workshop/newtopisnow/seperated.json", "r") as file:
         data = json.load(file)
 
     names = [row["name"] for row in data]
@@ -131,7 +131,7 @@ if __name__ == "__main__":
     # with open("scraping/scripts/output/sqf_canada_nov_2024.csv", "r") as file:
     #     names = [row[0] for row in csv.reader(file)]
 
-    with open("expowest/serper_domains.csv", "w") as file:
+    with open("workshop/newtopisnow/seperated.csv", "w") as file:
         writer = csv.writer(file)
         writer.writerow(["Facility Name", "Domain"])
         for name in names:
