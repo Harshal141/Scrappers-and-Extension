@@ -1,0 +1,457 @@
+[
+    {
+        "company_name": "COMET",
+        "company_domain": "https://comet-bio.com",
+        "location": "Schaumburg, IL"
+    },
+    {
+        "company_name": "Farbest Brands",
+        "company_domain": "https://www.farbest.com",
+        "location": "Park Ridge, NJ"
+    },
+    {
+        "company_name": "Flavor Dynamics Inc.",
+        "company_domain": "https://www.flavordynamics.com",
+        "location": "South Plainfield, NJ"
+    },
+    {
+        "company_name": "Savorx Flavors",
+        "company_domain": "https://www.savorxflavors.com",
+        "location": "Middlesex, NJ"
+    },
+    {
+        "company_name": "Acme-Hardesty",
+        "company_domain": "https://www.acme-hardesty.com",
+        "location": "Blue Bell, PA"
+    },
+    {
+        "company_name": "Flavor Dynamics Inc.",
+        "company_domain": "https://www.flavordynamics.com",
+        "location": "South Plainfield, NJ"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "Acme-Hardesty",
+        "company_domain": "https://www.acme-hardesty.com",
+        "location": "Blue Bell, PA"
+    },
+    {
+        "company_name": "Farbest Brands",
+        "company_domain": "https://www.farbest.com",
+        "location": "Park Ridge, NJ"
+    },
+    {
+        "company_name": "Malt Products Corp.",
+        "company_domain": "https://www.maltproducts.com",
+        "location": "Saddle Brook, NJ"
+    },
+    {
+        "company_name": "Pocantico Resources Inc.",
+        "company_domain": "https://www.pocanticoresources.com",
+        "location": "Tarrytown, NY"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "Tilley Distibution Inc.",
+        "company_domain": "https://www.tilleydistribution.com/ingredients",
+        "location": "Middle River, MD"
+    },
+    {
+        "company_name": "TWG Health & Nutrition",
+        "company_domain": "https://www.twghealthandnutrition.com",
+        "location": "Lafayette, LA"
+    },
+    {
+        "company_name": "Acme-Hardesty",
+        "company_domain": "https://www.acme-hardesty.com",
+        "location": "Blue Bell, PA"
+    },
+    {
+        "company_name": "American Key Food Products",
+        "company_domain": "https://www.akfponline.com",
+        "location": "Closter, NJ"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "Farbest Brands",
+        "company_domain": "https://www.farbest.com",
+        "location": "Park Ridge, NJ"
+    },
+    {
+        "company_name": "Flavor Dynamics Inc.",
+        "company_domain": "https://www.flavordynamics.com",
+        "location": "South Plainfield, NJ"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "TWG Health & Nutrition",
+        "company_domain": "https://www.twghealthandnutrition.com",
+        "location": "Lafayette, LA"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "Farbest Brands",
+        "company_domain": "https://www.farbest.com",
+        "location": "Park Ridge, NJ"
+    },
+    {
+        "company_name": "Flavor Dynamics Inc.",
+        "company_domain": "https://www.flavordynamics.com",
+        "location": "South Plainfield, NJ"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "Acme-Hardesty",
+        "company_domain": "https://www.acme-hardesty.com",
+        "location": "Blue Bell, PA"
+    },
+    {
+        "company_name": "American Key Food Products",
+        "company_domain": "https://www.akfponline.com",
+        "location": "Closter, NJ"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "COMET",
+        "company_domain": "https://comet-bio.com",
+        "location": "Schaumburg, IL"
+    },
+    {
+        "company_name": "Farbest Brands",
+        "company_domain": "https://www.farbest.com",
+        "location": "Park Ridge, NJ"
+    },
+    {
+        "company_name": "Malt Products Corp.",
+        "company_domain": "https://www.maltproducts.com",
+        "location": "Saddle Brook, NJ"
+    },
+    {
+        "company_name": "Pocantico Resources Inc.",
+        "company_domain": "https://www.pocanticoresources.com",
+        "location": "Tarrytown, NY"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "Suzanne's Specialties",
+        "company_domain": "https://www.suzannes-specialties.com",
+        "location": "New Brunswick, NJ"
+    },
+    {
+        "company_name": "Tilley Distibution Inc.",
+        "company_domain": "https://www.tilleydistribution.com/ingredients",
+        "location": "Middle River, MD"
+    },
+    {
+        "company_name": "TWG Health & Nutrition",
+        "company_domain": "https://www.twghealthandnutrition.com",
+        "location": "Lafayette, LA"
+    },
+    {
+        "company_name": "American Key Food Products",
+        "company_domain": "https://www.akfponline.com",
+        "location": "Closter, NJ"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "Pocantico Resources Inc.",
+        "company_domain": "https://www.pocanticoresources.com",
+        "location": "Tarrytown, NY"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "Acme-Hardesty",
+        "company_domain": "https://www.acme-hardesty.com",
+        "location": "Blue Bell, PA"
+    },
+    {
+        "company_name": "American Key Food Products",
+        "company_domain": "https://www.akfponline.com",
+        "location": "Closter, NJ"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "Malt Products Corp.",
+        "company_domain": "https://www.maltproducts.com",
+        "location": "Saddle Brook, NJ"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "TWG Health & Nutrition",
+        "company_domain": "https://www.twghealthandnutrition.com",
+        "location": "Lafayette, LA"
+    },
+    {
+        "company_name": "Flavor Dynamics Inc.",
+        "company_domain": "https://www.flavordynamics.com",
+        "location": "South Plainfield, NJ"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "Acme-Hardesty",
+        "company_domain": "https://www.acme-hardesty.com",
+        "location": "Blue Bell, PA"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "TWG Health & Nutrition",
+        "company_domain": "https://www.twghealthandnutrition.com",
+        "location": "Lafayette, LA"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "Acme-Hardesty",
+        "company_domain": "https://www.acme-hardesty.com",
+        "location": "Blue Bell, PA"
+    },
+    {
+        "company_name": "American Key Food Products",
+        "company_domain": "https://www.akfponline.com",
+        "location": "Closter, NJ"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "Farbest Brands",
+        "company_domain": "https://www.farbest.com",
+        "location": "Park Ridge, NJ"
+    },
+    {
+        "company_name": "Flavor Dynamics Inc.",
+        "company_domain": "https://www.flavordynamics.com",
+        "location": "South Plainfield, NJ"
+    },
+    {
+        "company_name": "Pocantico Resources Inc.",
+        "company_domain": "https://www.pocanticoresources.com",
+        "location": "Tarrytown, NY"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "Tilley Distibution Inc.",
+        "company_domain": "https://www.tilleydistribution.com/ingredients",
+        "location": "Middle River, MD"
+    },
+    {
+        "company_name": "TWG Health & Nutrition",
+        "company_domain": "https://www.twghealthandnutrition.com",
+        "location": "Lafayette, LA"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "Flavor Dynamics Inc.",
+        "company_domain": "https://www.flavordynamics.com",
+        "location": "South Plainfield, NJ"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "Acme-Hardesty",
+        "company_domain": "https://www.acme-hardesty.com",
+        "location": "Blue Bell, PA"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "Flavor Dynamics Inc.",
+        "company_domain": "https://www.flavordynamics.com",
+        "location": "South Plainfield, NJ"
+    },
+    {
+        "company_name": "Savorx Flavors",
+        "company_domain": "https://www.savorxflavors.com",
+        "location": "Middlesex, NJ"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "Tilley Distibution Inc.",
+        "company_domain": "https://www.tilleydistribution.com/ingredients",
+        "location": "Middle River, MD"
+    },
+    {
+        "company_name": "Acme-Hardesty",
+        "company_domain": "https://www.acme-hardesty.com",
+        "location": "Blue Bell, PA"
+    },
+    {
+        "company_name": "Clofine Dairy & Food Products Inc.",
+        "company_domain": "https://www.clofinedairy.com",
+        "location": "Linwood, NJ"
+    },
+    {
+        "company_name": "Farbest Brands",
+        "company_domain": "https://www.farbest.com",
+        "location": "Park Ridge, NJ"
+    },
+    {
+        "company_name": "Malt Products Corp.",
+        "company_domain": "https://www.maltproducts.com",
+        "location": "Saddle Brook, NJ"
+    },
+    {
+        "company_name": "Pocantico Resources Inc.",
+        "company_domain": "https://www.pocanticoresources.com",
+        "location": "Tarrytown, NY"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "Suzanne's Specialties",
+        "company_domain": "https://www.suzannes-specialties.com",
+        "location": "New Brunswick, NJ"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "Tilley Distibution Inc.",
+        "company_domain": "https://www.tilleydistribution.com/ingredients",
+        "location": "Middle River, MD"
+    },
+    {
+        "company_name": "Acme-Hardesty",
+        "company_domain": "https://www.acme-hardesty.com",
+        "location": "Blue Bell, PA"
+    },
+    {
+        "company_name": "Farbest Brands",
+        "company_domain": "https://www.farbest.com",
+        "location": "Park Ridge, NJ"
+    },
+    {
+        "company_name": "STAUBER",
+        "company_domain": "https://www.stauberusa.com",
+        "location": "Fullerton, CA"
+    },
+    {
+        "company_name": "The Food Source International Inc.",
+        "company_domain": "https://www.foodsourceinc.com",
+        "location": "Exton, PA"
+    },
+    {
+        "company_name": "TWG Health & Nutrition",
+        "company_domain": "https://www.twghealthandnutrition.com",
+        "location": "Lafayette, LA"
+    }
+]
