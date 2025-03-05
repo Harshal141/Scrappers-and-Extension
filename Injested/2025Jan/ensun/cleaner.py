@@ -1,20 +1,50 @@
 import json
-from utility import cleanDomain
+import csv
+from urllib.parse import urlparse
 
-data = []
-with open("./ensun/company_data.json", "r") as json_file:
-    data = json.load(json_file)
+# Input and Output Files
+input_file = 'company_data.json'
+output_file = 'company_data_ensum.json'
 
-print(f"Total companies scraped: {len(data)}")
+def clean_domain(url):
+    """
+    Cleans the URL to extract the domain without protocol, www, or trailing slash.
+    """
+    if not url:
+        return ''
+    
+    # Parse the URL
+    parsed_url = urlparse(url.strip())
+    domain = parsed_url.netloc.lower()  # Convert to lowercase
+    
+    # Remove 'www.' if present
+    if domain.startswith('www.'):
+        domain = domain[4:]
+    
+    return domain
 
-newJson = []
+def json_to_csv(file_path):
+    """
+    Converts JSON data to a CSV file with Name and Cleaned Domain columns.
+    """
+    with open(file_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-unique_urls = set()
-for company in data:
-    cleanedUrl = cleanDomain(company["url"])
-    if cleanedUrl not in unique_urls:
-        unique_urls.add(cleanedUrl)
-        newJson.append(company)
+    # Open CSV for writing
+    with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        
+        # Write header
+        writer.writerow(['Name', 'Domain'])
+        
+        # Write rows
+        for entry in data:
+            name = entry.get('name', 'N/A').strip()
+            url = entry.get('url', '').strip()
+            cleaned_domain = clean_domain(url)
+            writer.writerow([name, cleaned_domain])
 
-with open("./ensun/DATA_319_cleaned_data.json", "w") as json_file:
-    json.dump(newJson, json_file, indent=4)
+    print(f"CSV file '{output_file}' created successfully.")
+
+if __name__ == '__main__':
+    json_to_csv(input_file)
