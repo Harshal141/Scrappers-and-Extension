@@ -1,4 +1,5 @@
 import requests
+import logging
 from dotenv import load_dotenv
 import csv
 import json
@@ -7,13 +8,101 @@ from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
+
 load_dotenv()
 
 SERPER_API_KEY = os.getenv('SERPER_API_KEY_V2')
 SERPER_API_URL = 'https://google.serper.dev/search'
 
-output_file = 'workshop/newtopisnow/cleanedBatch2.json'
+INPUT_JSON_FILE = "DATA_511/ingridients_source.json"
+OUTPUT_JSON_FILE = "DATA_511/top_200_per_name1.json"
+OUTPUT_CSV_FILE = "DATA_511/top_200_per_name1.csv"
+LOG_FILE = "fetch_log.log"
+COMPLETED_PACKAGING_FILE = "DATA_511/completed_packaging.json"
+BATCH_SIZE = 10 
 
+
+logging.basicConfig(
+    filename=LOG_FILE,
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+def log_message(message, level="info"):
+    if level == "error":
+        logging.error(message)
+    else:
+        logging.info(message)
+    print(message)
+
+def load_input_data(file_path):
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception as e:
+        log_message(f"Error loading JSON file: {e}", "error")
+        return []
+    
+def append_to_csv(results, filename=OUTPUT_CSV_FILE):
+    file_exists = os.path.isfile(filename)
+    with open(filename, 'a', newline='', encoding='utf-8') as csvfile:
+        fieldnames = ['packaging_name', 'domain']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        if not file_exists:
+            writer.writeheader()
+        for row in results:
+            writer.writerow(row)
+    log_message(f"Appended {len(results)} entries to CSV file.")
+
+def append_to_json(results, filename=OUTPUT_JSON_FILE):
+    if os.path.exists(filename):
+        with open(filename, 'r', encoding="utf-8") as jsonfile:
+            try:
+                existing_data = json.load(jsonfile)
+            except json.JSONDecodeError:
+                existing_data = {}
+    else:
+        existing_data = {}
+
+    for row in results:
+        name = row['packaging_name']
+        domain = row['domain']
+        if name not in existing_data:
+            existing_data[name] = []
+        existing_data[name].append(domain)
+
+    with open(filename, 'w', encoding="utf-8") as jsonfile:
+        json.dump(existing_data, jsonfile, indent=4)
+    log_message(f"Appended {len(results)} entries to JSON file.")
+
+def load_completed_packaging():
+    if os.path.exists(COMPLETED_PACKAGING_FILE):
+        with open(COMPLETED_PACKAGING_FILE, "r", encoding="utf-8") as f:
+            try:
+                return set(json.load(f))
+            except json.JSONDecodeError:
+                return set()
+    return set()
+
+def save_completed_packaging(completed):
+    with open(COMPLETED_PACKAGING_FILE, "w", encoding="utf-8") as f:
+        json.dump(list(completed), f, indent=4)
+
+def get_domain_from_url(url):
+    try:
+        if not url.startswith("http://") and not url.startswith("https://"):
+            url = "http://" + url
+        parsed_url = urlparse(url)
+        domain = parsed_url.netloc
+        common_subdomains = ["www.", "ww.", "wwww.", "m.", "web."]
+        for subdomain in common_subdomains:
+            if domain.startswith(subdomain):
+                domain = domain[len(subdomain):]
+                break
+        return domain
+    except Exception as e:
+        log_message(f"Error extracting domain from URL {url}: {e}", "error")
+        return None
 
 def restricted_domain(domain: str) -> bool:
     restricted_words = [
@@ -78,1498 +167,93 @@ def restricted_domain(domain: str) -> bool:
         return True
     return False
 
-
-input_data = [
-    {
-      "index": 1,
-      "name": "Ancient Nutrition"
-    },
-    {
-      "index": 2,
-      "name": "Zipline Logistics"
-    },
-    {
-      "index": 3,
-      "name": "Nature's Eats, Inc."
-    },
-    {
-      "index": 4,
-      "name": "Carbe Diem Foods"
-    },
-    {
-      "index": 5,
-      "name": "ChicoBag & To-Go Ware"
-    },
-    {
-      "index": 6,
-      "name": "Global Widget LLC"
-    },
-    {
-      "index": 7,
-      "name": "Liquid I.V."
-    },
-    {
-      "index": 8,
-      "name": "NielsenIQ"
-    },
-    {
-      "index": 9,
-      "name": "Spins, LLC"
-    },
-    {
-      "index": 10,
-      "name": "Spins, LLC"
-    },
-    {
-      "index": 11,
-      "name": "TikTok Food/Beverage"
-    },
-    {
-      "index": 12,
-      "name": "UNFI"
-    },
-    {
-      "index": 13,
-      "name": "Blue Zones Kitchen"
-    },
-    {
-      "index": 14,
-      "name": "Comvita Manuka Honey"
-    },
-    {
-      "index": 15,
-      "name": "Dr. Bronner's"
-    },
-    {
-      "index": 16,
-      "name": "Enzymedica, Inc."
-    },
-    {
-      "index": 17,
-      "name": "Lily of the Desert"
-    },
-    {
-      "index": 18,
-      "name": "BONO USA, Inc."
-    },
-    {
-      "index": 19,
-      "name": "Carlson Laboratories, Inc."
-    },
-    {
-      "index": 20,
-      "name": "Keen Decision Systems"
-    },
-    {
-      "index": 21,
-      "name": "Savannah Bee Company"
-    },
-    {
-      "index": 22,
-      "name": "Aceites Especiales TH"
-    },
-    {
-      "index": 23,
-      "name": "Beliv Company"
-    },
-    {
-      "index": 24,
-      "name": "Dragon Herbs"
-    },
-    {
-      "index": 25,
-      "name": "Good Idea Inc"
-    },
-    {
-      "index": 26,
-      "name": "Harmless Harvest, Inc."
-    },
-    {
-      "index": 27,
-      "name": "MALK Organics"
-    },
-    {
-      "index": 28,
-      "name": "Mane, Inc."
-    },
-    {
-      "index": 29,
-      "name": "TRUFF"
-    },
-    {
-      "index": 30,
-      "name": "WithumSmith+Brown, PC"
-    },
-    {
-      "index": 31,
-      "name": "American HuaYi Co."
-    },
-    {
-      "index": 32,
-      "name": "CEP Health"
-    },
-    {
-      "index": 33,
-      "name": "Diya"
-    },
-    {
-      "index": 34,
-      "name": "Drink Recess, Inc."
-    },
-    {
-      "index": 35,
-      "name": "Great River Organic Milling"
-    },
-    {
-      "index": 36,
-      "name": "Health Thru Nutrition"
-    },
-    {
-      "index": 37,
-      "name": "Intertribal Agriculture Council"
-    },
-    {
-      "index": 38,
-      "name": "Intertribal Agriculture Council"
-    },
-    {
-      "index": 39,
-      "name": "Intertribal Agriculture Council"
-    },
-    {
-      "index": 40,
-      "name": "Kabrita"
-    },
-    {
-      "index": 41,
-      "name": "Pranarom"
-    },
-    {
-      "index": 42,
-      "name": "Ra Foods LLC"
-    },
-    {
-      "index": 43,
-      "name": "Smart Group Traders, Inc."
-    },
-    {
-      "index": 44,
-      "name": "Sunberry Farms"
-    },
-    {
-      "index": 45,
-      "name": "The Republic of Tea"
-    },
-    {
-      "index": 46,
-      "name": "Trace Minerals"
-    },
-    {
-      "index": 47,
-      "name": "Veetee Food Inc."
-    },
-    {
-      "index": 48,
-      "name": "Where Food Comes From, Inc."
-    },
-    {
-      "index": 49,
-      "name": "Wholistic Pet Organics"
-    },
-    {
-      "index": 50,
-      "name": "YUMI"
-    },
-    {
-      "index": 51,
-      "name": "24Vegan"
-    },
-    {
-      "index": 52,
-      "name": "Aker BioMarine Human Ingredients AS"
-    },
-    {
-      "index": 53,
-      "name": "Alya Foods"
-    },
-    {
-      "index": 54,
-      "name": "Ancient Organics, Inc."
-    },
-    {
-      "index": 55,
-      "name": "Arthur Andrew Medical"
-    },
-    {
-      "index": 56,
-      "name": "Arya International LLC"
-    },
-    {
-      "index": 57,
-      "name": "B Lab"
-    },
-    {
-      "index": 58,
-      "name": "Bambo Nature"
-    },
-    {
-      "index": 59,
-      "name": "BAR-U-EAT"
-    },
-    {
-      "index": 60,
-      "name": "Barlean's"
-    },
-    {
-      "index": 61,
-      "name": "BFree Foods USA, Inc."
-    },
-    {
-      "index": 62,
-      "name": "Bia Diagnostics, LLC"
-    },
-    {
-      "index": 63,
-      "name": "Big Tree Farms"
-    },
-    {
-      "index": 64,
-      "name": "BIO-CAT"
-    },
-    {
-      "index": 65,
-      "name": "BioNatureHealth Inc."
-    },
-    {
-      "index": 66,
-      "name": "Black Lotus Shilajit LLC"
-    },
-    {
-      "index": 67,
-      "name": "Bone Suckin' Foods"
-    },
-    {
-      "index": 68,
-      "name": "Built Brands, LLC"
-    },
-    {
-      "index": 69,
-      "name": "CARI-MED Group Limited"
-    },
-    {
-      "index": 70,
-      "name": "Caribbean Food Delights, Inc."
-    },
-    {
-      "index": 71,
-      "name": "Carmel Berry Company"
-    },
-    {
-      "index": 72,
-      "name": "CCOF"
-    },
-    {
-      "index": 73,
-      "name": "Century Systems"
-    },
-    {
-      "index": 74,
-      "name": "CG Roxane, LLC"
-    },
-    {
-      "index": 75,
-      "name": "Charlotte\u2019s Web, Inc."
-    },
-    {
-      "index": 76,
-      "name": "Cherry Central"
-    },
-    {
-      "index": 77,
-      "name": "Cherry Central"
-    },
-    {
-      "index": 78,
-      "name": "Cleanery"
-    },
-    {
-      "index": 79,
-      "name": "CoAqua, NA Inc."
-    },
-    {
-      "index": 80,
-      "name": "CuraLife"
-    },
-    {
-      "index": 81,
-      "name": "Dandies Marshmallows"
-    },
-    {
-      "index": 82,
-      "name": "Daytrip"
-    },
-    {
-      "index": 83,
-      "name": "Dongkee Balune Co Ltd"
-    },
-    {
-      "index": 84,
-      "name": "Dropps"
-    },
-    {
-      "index": 85,
-      "name": "Dynamic3PL"
-    },
-    {
-      "index": 86,
-      "name": "eightbillion.com"
-    },
-    {
-      "index": 87,
-      "name": "Enoki Cafe"
-    },
-    {
-      "index": 88,
-      "name": "ESW Beauty"
-    },
-    {
-      "index": 89,
-      "name": "Flavorganics, LLC"
-    },
-    {
-      "index": 90,
-      "name": "Flourish"
-    },
-    {
-      "index": 91,
-      "name": "Frankie's Organic Food Inc"
-    },
-    {
-      "index": 92,
-      "name": "Friendly Organic Foods S.a."
-    },
-    {
-      "index": 93,
-      "name": "Futamura"
-    },
-    {
-      "index": 94,
-      "name": "Genova Pharma"
-    },
-    {
-      "index": 95,
-      "name": "Giannuzzi Lewendon"
-    },
-    {
-      "index": 96,
-      "name": "Global Marketing Select LLC"
-    },
-    {
-      "index": 97,
-      "name": "Green CHP"
-    },
-    {
-      "index": 98,
-      "name": "Growee Foods"
-    },
-    {
-      "index": 99,
-      "name": "Hampton Farms"
-    },
-    {
-      "index": 100,
-      "name": "Herbal Revolution Farm and Apothecary"
-    },
-    {
-      "index": 101,
-      "name": "Herbion USA, Inc."
-    },
-    {
-      "index": 102,
-      "name": "Host Defense Mushrooms"
-    },
-    {
-      "index": 103,
-      "name": "Houston Enzymes, Inc"
-    },
-    {
-      "index": 104,
-      "name": "Huzzy Smart Sips"
-    },
-    {
-      "index": 105,
-      "name": "Impact Products, LLC"
-    },
-    {
-      "index": 106,
-      "name": "Jindilli Farms"
-    },
-    {
-      "index": 107,
-      "name": "JonnyPops"
-    },
-    {
-      "index": 108,
-      "name": "JTM Products Inc"
-    },
-    {
-      "index": 109,
-      "name": "Legally Addictive Foods"
-    },
-    {
-      "index": 110,
-      "name": "LifeSeasons, Inc."
-    },
-    {
-      "index": 111,
-      "name": "Lil Bucks, LLC"
-    },
-    {
-      "index": 112,
-      "name": "Little Moon Essentials"
-    },
-    {
-      "index": 113,
-      "name": "Loacker, USA"
-    },
-    {
-      "index": 114,
-      "name": "Maazah"
-    },
-    {
-      "index": 115,
-      "name": "Magiktea LLC"
-    },
-    {
-      "index": 116,
-      "name": "Milkadamia"
-    },
-    {
-      "index": 117,
-      "name": "MOSH"
-    },
-    {
-      "index": 118,
-      "name": "Nancy\u2019s Fancy Gelato"
-    },
-    {
-      "index": 119,
-      "name": "Native Vanilla"
-    },
-    {
-      "index": 120,
-      "name": "Natural Foods Ingredients"
-    },
-    {
-      "index": 121,
-      "name": "Nordic Tree Water"
-    },
-    {
-      "index": 122,
-      "name": "North Spore LLC"
-    },
-    {
-      "index": 123,
-      "name": "nutpods"
-    },
-    {
-      "index": 124,
-      "name": "NutraStar"
-    },
-    {
-      "index": 125,
-      "name": "Nuts For Cheese"
-    },
-    {
-      "index": 126,
-      "name": "OCIA International"
-    },
-    {
-      "index": 127,
-      "name": "oHy"
-    },
-    {
-      "index": 128,
-      "name": "Oodaalolly"
-    },
-    {
-      "index": 129,
-      "name": "Organic Side"
-    },
-    {
-      "index": 130,
-      "name": "Papa Mountain"
-    },
-    {
-      "index": 131,
-      "name": "Pastore Organics Americas Inc"
-    },
-    {
-      "index": 132,
-      "name": "PB Leiner USA"
-    },
-    {
-      "index": 133,
-      "name": "Peak Protein"
-    },
-    {
-      "index": 134,
-      "name": "Pecana"
-    },
-    {
-      "index": 135,
-      "name": "Philosopher Foods"
-    },
-    {
-      "index": 136,
-      "name": "PPO Lab"
-    },
-    {
-      "index": 137,
-      "name": "PrestoLabels & Packaging"
-    },
-    {
-      "index": 138,
-      "name": "Pulpafruit"
-    },
-    {
-      "index": 139,
-      "name": "Pure Green Juice Co."
-    },
-    {
-      "index": 140,
-      "name": "Pure Indian Foods"
-    },
-    {
-      "index": 141,
-      "name": "Q-Full USA, Inc."
-    },
-    {
-      "index": 142,
-      "name": "Quality Assurance International (QAI)"
-    },
-    {
-      "index": 143,
-      "name": "RADIUS"
-    },
-    {
-      "index": 144,
-      "name": "Remedy Organics"
-    },
-    {
-      "index": 145,
-      "name": "RJW Logistics Group"
-    },
-    {
-      "index": 146,
-      "name": "Ronda's Fine Foods"
-    },
-    {
-      "index": 147,
-      "name": "Roots Farm Fresh"
-    },
-    {
-      "index": 148,
-      "name": "Season Brand"
-    },
-    {
-      "index": 149,
-      "name": "Seely Mint"
-    },
-    {
-      "index": 150,
-      "name": "Shea Radiance"
-    },
-    {
-      "index": 151,
-      "name": "Silva International, FruitSmart, Universal Ingredients \u2013 Shank\u2019s"
-    },
-    {
-      "index": 152,
-      "name": "Soapstones Natural Skincare"
-    },
-    {
-      "index": 153,
-      "name": "Solely, Inc."
-    },
-    {
-      "index": 154,
-      "name": "Sore No More USA"
-    },
-    {
-      "index": 155,
-      "name": "Sparkle Innovations Inc"
-    },
-    {
-      "index": 156,
-      "name": "Sprouted POS"
-    },
-    {
-      "index": 157,
-      "name": "Sun Ghee"
-    },
-    {
-      "index": 158,
-      "name": "SunRidge Farms"
-    },
-    {
-      "index": 159,
-      "name": "Terra Diapers and Wipes"
-    },
-    {
-      "index": 160,
-      "name": "The American Boxer Inc."
-    },
-    {
-      "index": 161,
-      "name": "Tia Lupita Hot Sauce, llc"
-    },
-    {
-      "index": 162,
-      "name": "Upstate Elevator Supply Co."
-    },
-    {
-      "index": 163,
-      "name": "Vermont Smoke and Cure"
-    },
-    {
-      "index": 164,
-      "name": "WholeFoods Magazine"
-    },
-    {
-      "index": 165,
-      "name": "Wolf & Associates, Inc."
-    },
-    {
-      "index": 166,
-      "name": "Zing Bars"
-    },
-    {
-      "index": 167,
-      "name": "ACURE"
-    },
-    {
-      "index": 168,
-      "name": "AGRO POWER Jerky"
-    },
-    {
-      "index": 169,
-      "name": "ALLMAX Naturals"
-    },
-    {
-      "index": 170,
-      "name": "Amari, Inc"
-    },
-    {
-      "index": 171,
-      "name": "Animal K., LLC"
-    },
-    {
-      "index": 172,
-      "name": "Better Sour"
-    },
-    {
-      "index": 173,
-      "name": "Biotic Ferments"
-    },
-    {
-      "index": 174,
-      "name": "Bon AppeSweet"
-    },
-    {
-      "index": 175,
-      "name": "Butter & Me"
-    },
-    {
-      "index": 176,
-      "name": "Caboo Paper Products, Inc."
-    },
-    {
-      "index": 177,
-      "name": "Candid"
-    },
-    {
-      "index": 178,
-      "name": "Center For Food Safety, The"
-    },
-    {
-      "index": 179,
-      "name": "Chad & Barney's Sturdy Sauce"
-    },
-    {
-      "index": 180,
-      "name": "Chosen Foods, LLC"
-    },
-    {
-      "index": 181,
-      "name": "CHUTNI PUNCH"
-    },
-    {
-      "index": 182,
-      "name": "Coco Polo"
-    },
-    {
-      "index": 183,
-      "name": "CPCneutek"
-    },
-    {
-      "index": 184,
-      "name": "daio"
-    },
-    {
-      "index": 185,
-      "name": "Darigold"
-    },
-    {
-      "index": 186,
-      "name": "Doguet's Rice Milling Company"
-    },
-    {
-      "index": 187,
-      "name": "Dr. In The Kitchen, LLC"
-    },
-    {
-      "index": 188,
-      "name": "EO Products"
-    },
-    {
-      "index": 189,
-      "name": "Essenergy, Inc."
-    },
-    {
-      "index": 190,
-      "name": "Evo Hemp"
-    },
-    {
-      "index": 191,
-      "name": "FigBrew"
-    },
-    {
-      "index": 192,
-      "name": "Figure Ate"
-    },
-    {
-      "index": 193,
-      "name": "Fine USA Trading"
-    },
-    {
-      "index": 194,
-      "name": "Freshwater Farm Australia"
-    },
-    {
-      "index": 195,
-      "name": "Gnosis by Lesaffre"
-    },
-    {
-      "index": 196,
-      "name": "Greatfill"
-    },
-    {
-      "index": 197,
-      "name": "Gumption Coffee"
-    },
-    {
-      "index": 198,
-      "name": "Heavenly Organics"
-    },
-    {
-      "index": 199,
-      "name": "Heritage Kulfi"
-    },
-    {
-      "index": 200,
-      "name": "Hero Bread"
-    },
-    {
-      "index": 201,
-      "name": "High Level Science"
-    },
-    {
-      "index": 202,
-      "name": "Hiker Coffee"
-    },
-    {
-      "index": 203,
-      "name": "Karit\u00e9 LLC"
-    },
-    {
-      "index": 204,
-      "name": "KeJoy"
-    },
-    {
-      "index": 205,
-      "name": "Kokomio LLC"
-    },
-    {
-      "index": 206,
-      "name": "Levelle Inc."
-    },
-    {
-      "index": 207,
-      "name": "Libby Wines"
-    },
-    {
-      "index": 208,
-      "name": "LITT Kombucha DBA Satya Health Foods LLC"
-    },
-    {
-      "index": 209,
-      "name": "Local Culture Ferments"
-    },
-    {
-      "index": 210,
-      "name": "Lottie's Meats"
-    },
-    {
-      "index": 211,
-      "name": "Macadamias Australia"
-    },
-    {
-      "index": 212,
-      "name": "MisoHeat LLC"
-    },
-    {
-      "index": 213,
-      "name": "Mor Kombucha"
-    },
-    {
-      "index": 214,
-      "name": "Morenita Foods"
-    },
-    {
-      "index": 215,
-      "name": "Nancy's Probiotic Foods/Springfield Creamery"
-    },
-    {
-      "index": 216,
-      "name": "Narra"
-    },
-    {
-      "index": 217,
-      "name": "NNABI"
-    },
-    {
-      "index": 218,
-      "name": "Nopalera"
-    },
-    {
-      "index": 219,
-      "name": "Oaks Culinary"
-    },
-    {
-      "index": 220,
-      "name": "OLYRA"
-    },
-    {
-      "index": 221,
-      "name": "OmneDiem"
-    },
-    {
-      "index": 222,
-      "name": "Once Upon A Farm, LLC"
-    },
-    {
-      "index": 223,
-      "name": "Otto's Naturals"
-    },
-    {
-      "index": 224,
-      "name": "Oxters"
-    },
-    {
-      "index": 225,
-      "name": "Paktli Foods LLC"
-    },
-    {
-      "index": 226,
-      "name": "Panco Foods"
-    },
-    {
-      "index": 227,
-      "name": "PARCH SPIRITS CO."
-    },
-    {
-      "index": 228,
-      "name": "Peak State"
-    },
-    {
-      "index": 229,
-      "name": "PIRQ"
-    },
-    {
-      "index": 230,
-      "name": "Popped"
-    },
-    {
-      "index": 231,
-      "name": "Prime Roots"
-    },
-    {
-      "index": 232,
-      "name": "Pure Mitti"
-    },
-    {
-      "index": 233,
-      "name": "Pyure Organic"
-    },
-    {
-      "index": 234,
-      "name": "Red Boat"
-    },
-    {
-      "index": 235,
-      "name": "Reliable Products Inc"
-    },
-    {
-      "index": 236,
-      "name": "RINGA"
-    },
-    {
-      "index": 237,
-      "name": "Sati Soda"
-    },
-    {
-      "index": 238,
-      "name": "SeaBar Inc"
-    },
-    {
-      "index": 239,
-      "name": "SilverCeuticals LLC"
-    },
-    {
-      "index": 240,
-      "name": "SmartSweets"
-    },
-    {
-      "index": 241,
-      "name": "Spinster Sisters Co."
-    },
-    {
-      "index": 242,
-      "name": "Startup CPG, Inc."
-    },
-    {
-      "index": 243,
-      "name": "Sun Chlorella USA"
-    },
-    {
-      "index": 244,
-      "name": "Sunnygem LLC"
-    },
-    {
-      "index": 245,
-      "name": "SuperWow"
-    },
-    {
-      "index": 246,
-      "name": "The Bubble Factory"
-    },
-    {
-      "index": 247,
-      "name": "The Free Spirits Company Inc."
-    },
-    {
-      "index": 248,
-      "name": "The Good Crisp Company"
-    },
-    {
-      "index": 249,
-      "name": "The Tea Spot"
-    },
-    {
-      "index": 250,
-      "name": "The Well Network"
-    },
-    {
-      "index": 251,
-      "name": "TIARA Bliss Inc."
-    },
-    {
-      "index": 252,
-      "name": "Totally Bananas, LLC"
-    },
-    {
-      "index": 253,
-      "name": "Verb Biotics"
-    },
-    {
-      "index": 254,
-      "name": "Vimergy"
-    },
-    {
-      "index": 255,
-      "name": "Vitaminis LLC"
-    },
-    {
-      "index": 256,
-      "name": "Vivici"
-    },
-    {
-      "index": 257,
-      "name": "VM Food Group"
-    },
-    {
-      "index": 258,
-      "name": "VRM Media/Vitamin Retailer Magazine"
-    },
-    {
-      "index": 259,
-      "name": "We Don't Waste"
-    },
-    {
-      "index": 260,
-      "name": "YAY NOVELTY"
-    },
-    {
-      "index": 261,
-      "name": "Bottle Barons, LLC"
-    },
-    {
-      "index": 262,
-      "name": "Certified Laboratories"
-    },
-    {
-      "index": 263,
-      "name": ""
-    },
-    {
-      "index": 264,
-      "name": "Non-GMO Project"
-    },
-    {
-      "index": 265,
-      "name": "PakTech"
-    },
-    {
-      "index": 266,
-      "name": "Supplement Manufacturing Partner, Inc."
-    },
-    {
-      "index": 267,
-      "name": "Western Packaging & Distribution"
-    },
-    {
-      "index": 268,
-      "name": "Albanese Confectionery Group, Inc."
-    },
-    {
-      "index": 269,
-      "name": "Anchor Ingredients Co."
-    },
-    {
-      "index": 270,
-      "name": "Anchor Trading"
-    },
-    {
-      "index": 271,
-      "name": "BeanVIVO\u00ae by VivoTribe"
-    },
-    {
-      "index": 272,
-      "name": "Belgravia Imports, Inc."
-    },
-    {
-      "index": 273,
-      "name": "Bikurim Food and Pastry ltd."
-    },
-    {
-      "index": 274,
-      "name": "Birdhill Studio"
-    },
-    {
-      "index": 275,
-      "name": "Blue Label Packaging Company"
-    },
-    {
-      "index": 276,
-      "name": "Cercis"
-    },
-    {
-      "index": 277,
-      "name": "China Chamber of Commerce for Import & Export of Medicines & Health Products"
-    },
-    {
-      "index": 278,
-      "name": "Chocolove"
-    },
-    {
-      "index": 279,
-      "name": "Clean Brands"
-    },
-    {
-      "index": 280,
-      "name": "Cocrystal Technology (Jiaxing) Co. LTD"
-    },
-    {
-      "index": 281,
-      "name": "Country Archer Provisions"
-    },
-    {
-      "index": 282,
-      "name": "Crux ingredients"
-    },
-    {
-      "index": 283,
-      "name": "CT Organics LLC"
-    },
-    {
-      "index": 284,
-      "name": "Earth Harbor Naturals"
-    },
-    {
-      "index": 285,
-      "name": "East Wind Nut Butters"
-    },
-    {
-      "index": 286,
-      "name": "Else Nutrition"
-    },
-    {
-      "index": 287,
-      "name": "Evergreen"
-    },
-    {
-      "index": 288,
-      "name": "Faber Chemical and Medicine"
-    },
-    {
-      "index": 289,
-      "name": "Fast Track Packaging Inc."
-    },
-    {
-      "index": 290,
-      "name": "Forces of Nature"
-    },
-    {
-      "index": 291,
-      "name": "Gelato Boy"
-    },
-    {
-      "index": 292,
-      "name": "GMP Laboratories of America, Inc."
-    },
-    {
-      "index": 293,
-      "name": "Gold Medal Inc"
-    },
-    {
-      "index": 294,
-      "name": "Good Now Foods"
-    },
-    {
-      "index": 295,
-      "name": "Green Things LLC dba Kishu Charcoal"
-    },
-    {
-      "index": 296,
-      "name": "GuruNanda, LLC"
-    },
-    {
-      "index": 297,
-      "name": "Health Essentials"
-    },
-    {
-      "index": 298,
-      "name": "Heavenly Foods"
-    },
-    {
-      "index": 299,
-      "name": "Holy! Water"
-    },
-    {
-      "index": 300,
-      "name": "HowGood"
-    },
-    {
-      "index": 301,
-      "name": "Jack & Friends"
-    },
-    {
-      "index": 302,
-      "name": "Jesse's WakeUP! LLC"
-    },
-    {
-      "index": 303,
-      "name": "Jilin City Huoban Food Co,.Ltd"
-    },
-    {
-      "index": 304,
-      "name": "John Masters Organics"
-    },
-    {
-      "index": 305,
-      "name": "JUST SPREAD LLC"
-    },
-    {
-      "index": 306,
-      "name": "Kanbar Digital, LLC"
-    },
-    {
-      "index": 307,
-      "name": "Kibo Foods"
-    },
-    {
-      "index": 308,
-      "name": "Lanxess Corporation"
-    },
-    {
-      "index": 309,
-      "name": "Layn Natural Ingredients"
-    },
-    {
-      "index": 310,
-      "name": "Lewis Road Creamery Limited"
-    },
-    {
-      "index": 311,
-      "name": "Lively Up Your Breath, LLC"
-    },
-    {
-      "index": 312,
-      "name": "Longevity by Nature, Inc."
-    },
-    {
-      "index": 313,
-      "name": "Manukora"
-    },
-    {
-      "index": 314,
-      "name": "Marukan Vinegar U.S.A., Inc."
-    },
-    {
-      "index": 315,
-      "name": "Mosher Products, Inc."
-    },
-    {
-      "index": 316,
-      "name": "MUD\\WTR"
-    },
-    {
-      "index": 317,
-      "name": "Naturally Network"
-    },
-    {
-      "index": 318,
-      "name": "Nature's Fusions"
-    },
-    {
-      "index": 319,
-      "name": "Nielsen-Massey Vanillas"
-    },
-    {
-      "index": 320,
-      "name": "Novi Connect"
-    },
-    {
-      "index": 321,
-      "name": "Nowhere Bakery"
-    },
-    {
-      "index": 322,
-      "name": "Nucolato USA LLC"
-    },
-    {
-      "index": 323,
-      "name": "NUTRAMELTZ LLC"
-    },
-    {
-      "index": 324,
-      "name": "Ohanafy"
-    },
-    {
-      "index": 325,
-      "name": "Organic Trade Association"
-    },
-    {
-      "index": 326,
-      "name": "Outer Aisle Gourmet"
-    },
-    {
-      "index": 327,
-      "name": "Papyrus-Recycled Greetings"
-    },
-    {
-      "index": 328,
-      "name": "PASTIFICIO DI BARI TARALL'ORO SRL"
-    },
-    {
-      "index": 329,
-      "name": "Peace Coffee"
-    },
-    {
-      "index": 330,
-      "name": "Perla Foods USA Corp"
-    },
-    {
-      "index": 331,
-      "name": "pi00a"
-    },
-    {
-      "index": 332,
-      "name": "Placer.ai"
-    },
-    {
-      "index": 333,
-      "name": "Pop Art Snacks"
-    },
-    {
-      "index": 334,
-      "name": "Premier Nut Pty Ltd"
-    },
-    {
-      "index": 335,
-      "name": "Recover 180"
-    },
-    {
-      "index": 336,
-      "name": "Repose Health"
-    },
-    {
-      "index": 337,
-      "name": "Rodelle, Inc."
-    },
-    {
-      "index": 338,
-      "name": "Rudi's Rocky Mountain Bakery"
-    },
-    {
-      "index": 339,
-      "name": "San-J International, Inc."
-    },
-    {
-      "index": 340,
-      "name": "SohGood"
-    },
-    {
-      "index": 341,
-      "name": "Spicely Organics"
-    },
-    {
-      "index": 342,
-      "name": "Sunday Night Foods"
-    },
-    {
-      "index": 343,
-      "name": "Sunniemade"
-    },
-    {
-      "index": 344,
-      "name": "Sunshine (Tianjin) Produce, Ltd."
-    },
-    {
-      "index": 345,
-      "name": "Super Coffee"
-    },
-    {
-      "index": 346,
-      "name": "TCHO Chocolate"
-    },
-    {
-      "index": 347,
-      "name": "Trey Cattle dba Ribbonwire Ranch"
-    },
-    {
-      "index": 348,
-      "name": "VidaFul"
-    },
-    {
-      "index": 349,
-      "name": "Visstun"
-    },
-    {
-      "index": 350,
-      "name": "Vitamin Angel Alliance, Inc."
-    },
-    {
-      "index": 351,
-      "name": "Wildway"
-    },
-    {
-      "index": 352,
-      "name": "Winnie Lou The Canine Co"
-    },
-    {
-      "index": 353,
-      "name": "Zego"
-    }
-  ]
-
-
 def get_top_manufacturers_for_packaging(packaging_name):
     headers = {'Content-Type': 'application/json', 'X-API-Key': SERPER_API_KEY}
-    payload = {
-        'q': f"{packaging_name} official site",
-        'gl': 'us',
-        'num': 1
-    }
-    response = requests.post(SERPER_API_URL, json=payload, headers=headers)
-    top_manufacturers = []
-    if response.status_code == 200:
-        response_data = response.json()
-        if 'organic' in response_data:
-            for organic_result in response_data['organic']:
-                domain = get_domain_from_url(organic_result.get('link', ''))
+    all_manufacturers = []
+    page = 1
+
+    log_message(f"Fetching results for: {packaging_name}")
+
+    while len(all_manufacturers) < 200:
+        payload = {
+            'q': f"Top {packaging_name} Suppliers in the United States",
+            'gl': 'us',
+            'num': 10,
+            'page': page  
+        }
+        response = requests.post(SERPER_API_URL, json=payload, headers=headers)
+
+        if response.status_code == 200:
+            response_data = response.json()
+            if 'organic' in response_data:
+                for organic_result in response_data['organic']:
+                    domain = get_domain_from_url(organic_result.get('link', ''))
+                    if domain and not restricted_domain(domain):
+                        all_manufacturers.append(domain)
+            elif 'knowledge_graph' in response_data:
+                domain = get_domain_from_url(response_data['knowledge_graph'].get('website', ''))
                 if domain and not restricted_domain(domain):
-                    top_manufacturers.append(domain)
-        elif 'knowledge_graph' in response_data:
-            domain = get_domain_from_url(response_data['knowledge_graph'].get('website', ''))
-            if domain and not restricted_domain(domain):
-                top_manufacturers.append(domain)
+                    all_manufacturers.append(domain)
         else:
-            print(f"Warning: Unexpected response structure for '{packaging_name}' in the USA.")
-    else:
-        print(f"Error: Failed to fetch results for '{packaging_name}' in the USA. Status code: {response.status_code}")
-    return packaging_name, top_manufacturers
+            log_message(f"Error: Failed to fetch results for '{packaging_name}'. Status code: {response.status_code}", "error")
+            print(response.text)
+            break  
 
-def get_domain_from_url(url):
-    try:
-        if not url.startswith("http://") and not url.startswith("https://"):
-            url = "http://" + url
-        parsed_url = urlparse(url)
-        domain = parsed_url.netloc
-        common_subdomains = ["www.", "ww.", "wwww.", "m.", "web."]
-        for subdomain in common_subdomains:
-            if domain.startswith(subdomain):
-                domain = domain[len(subdomain):]
-                break
-        return domain
-    except Exception as e:
-        print(f"Error extracting domain from URL {url}: {e}")
-        return None
+        page += 1  
 
-def save_to_csv(results, filename=output_file):
-    with open(filename, 'w', newline='') as csvfile:
-        fieldnames = ['packaging_name', 'domain']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        for row in results:
-            writer.writerow(row)
+    log_message(f"Found {len(all_manufacturers)} manufacturers for: {packaging_name}")
+    return packaging_name, all_manufacturers[:200]
 
-def save_to_json(results, filename=output_file):
-    with open(filename, 'w') as jsonfile:
-        json.dump(results, jsonfile)
-
-def get_top_manufacturers(max_threads=10):
+def get_top_manufacturers(input_data, max_threads=5):
+    completed_packaging = load_completed_packaging()
     results = []
+    batch_results = []
+
     with ThreadPoolExecutor(max_threads) as executor:
         futures = {
-            executor.submit(get_top_manufacturers_for_packaging, row['name'] ): row['name'] 
-            for row in input_data
+            executor.submit(get_top_manufacturers_for_packaging, row['name']): row['name']
+            for row in input_data if row['name'] not in completed_packaging
         }
-        for future in tqdm(as_completed(futures), total=len(futures), desc="Processing Categories"):
+        for future in tqdm(as_completed(futures), total=len(futures), desc="Fetching Websites"):
             try:
                 packaging_name, top_manufacturers = future.result()
                 for manufacturer in top_manufacturers:
-                    results.append({
+                    batch_results.append({
                         "packaging_name": packaging_name,
                         "domain": manufacturer
                     })
+                completed_packaging.add(packaging_name)
+                save_completed_packaging(completed_packaging)
+
+                if len(batch_results) >= BATCH_SIZE:
+                    append_to_csv(batch_results)
+                    append_to_json(batch_results)
+                    results.extend(batch_results)
+                    batch_results = []
+
+                    log_message(f"Saved a batch of {BATCH_SIZE} results to files.")
+
             except Exception as e:
                 packaging_name = futures[future]
-                print(f"Error processing '{packaging_name}' in the USA: {e}")
+                log_message(f"Error processing '{packaging_name}': {e}", "error")
+
+    if batch_results:
+        append_to_csv(batch_results)
+        append_to_json(batch_results)
+        results.extend(batch_results)
+        log_message("Final batch saved.")
+
     return results
 
 if __name__ == "__main__":
-    top_manufacturers = get_top_manufacturers()
-    save_to_csv(top_manufacturers)
-    # save_to_json(top_manufacturers)
+    log_message("Starting script execution.")
+    input_data = load_input_data(INPUT_JSON_FILE)
+    
+    if not input_data:
+        log_message("No input data found. Exiting.", "error")
+        exit()
+
+    top_manufacturers = get_top_manufacturers(input_data)
+
+    log_message(f"Top 200 websites per name saved to {OUTPUT_JSON_FILE} and {OUTPUT_CSV_FILE}")
+    log_message("Script execution completed.")
