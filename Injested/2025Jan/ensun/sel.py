@@ -7,18 +7,31 @@ from selenium.webdriver.support import expected_conditions as EC
 
 chrome = webdriver.Chrome()
 
+# paths = [
+#     {"name": "FNB_US_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20and%20Beverage&page=&locations=United%20States%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
+#     {"name": "FNB_US_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20and%20Beverage&page=&locations=United%20States%2Cnull%2Cnull&categories=MANUFACTURER"},
+#     {"name": "FNB_US_D", "pageSize": 2, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20and%20Beverage&page=&locations=United%20States%2Cnull%2Cnull&categories=DISTRIBUTOR"},
+#     {"name": "FNB_CA_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20and%20Beverage&page=&locations=Canada%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
+#     {"name": "FNB_CA_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20and%20Beverage&page=&locations=Canada%2Cnull%2Cnull&categories=MANUFACTURER"},
+#     {"name": "PAC_US_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&page=&locations=United%20States%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
+#     {"name": "PAC_US_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&page=&locations=United%20States%2Cnull%2Cnull&categories=MANUFACTURER"},
+#     {"name": "PAC_US_D", "pageSize": 2, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&page=&locations=United%20States%2Cnull%2Cnull&categories=DISTRIBUTOR"},
+#     {"name": "PAC_CA_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&page=&locations=Canada%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
+#     {"name": "PAC_CA_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&page=&locations=Canada%2Cnull%2Cnull&categories=MANUFACTURER"},
+#     {"name": "PAC_CA_D", "pageSize": 1, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&locations=Canada%2Cnull%2Cnull&categories=DISTRIBUTOR"},
+# ]
 paths = [
-    {"name": "FNB_US_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20and%20Beverage&page=&locations=United%20States%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
-    {"name": "FNB_US_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20and%20Beverage&page=&locations=United%20States%2Cnull%2Cnull&categories=MANUFACTURER"},
-    {"name": "FNB_US_D", "pageSize": 2, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20and%20Beverage&page=&locations=United%20States%2Cnull%2Cnull&categories=DISTRIBUTOR"},
-    {"name": "FNB_CA_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20and%20Beverage&page=&locations=Canada%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
-    {"name": "FNB_CA_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20and%20Beverage&page=&locations=Canada%2Cnull%2Cnull&categories=MANUFACTURER"},
-    {"name": "PAC_US_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&page=&locations=United%20States%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
-    {"name": "PAC_US_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&page=&locations=United%20States%2Cnull%2Cnull&categories=MANUFACTURER"},
-    {"name": "PAC_US_D", "pageSize": 2, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&page=&locations=United%20States%2Cnull%2Cnull&categories=DISTRIBUTOR"},
-    {"name": "PAC_CA_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&page=&locations=Canada%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
-    {"name": "PAC_CA_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&page=&locations=Canada%2Cnull%2Cnull&categories=MANUFACTURER"},
-    {"name": "PAC_CA_D", "pageSize": 1, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Packaging&locations=Canada%2Cnull%2Cnull&categories=DISTRIBUTOR"},
+    {"name": "FNB_US_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Private%20Label%20Food&page=&locations=United%20States%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
+    {"name": "FNB_US_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Private%20Label%20Food&page=&locations=United%20States%2Cnull%2Cnull&categories=MANUFACTURER"},
+    {"name": "FNB_US_D", "pageSize": 3, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Private%20Label%20Food&page=&locations=United%20States%2Cnull%2Cnull&categories=DISTRIBUTOR"},
+    {"name": "FNB_CA_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Private%20Label%20Food&page=&locations=Canada%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
+    {"name": "FNB_CA_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Private%20Label%20Food&page=&locations=Canada%2Cnull%2Cnull&categories=MANUFACTURER"},
+    {"name": "PAC_US_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20Ingredient&page=&locations=United%20States%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
+    {"name": "PAC_US_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20Ingredient&page=&locations=United%20States%2Cnull%2Cnull&categories=MANUFACTURER"},
+    {"name": "PAC_US_D", "pageSize": 3, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20Ingredient&page=&locations=United%20States%2Cnull%2Cnull&categories=DISTRIBUTOR"},
+    {"name": "PAC_CA_SP", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20Ingredient&page=&locations=Canada%2Cnull%2Cnull&categories=SERVICE_PROVIDER"},
+    {"name": "PAC_CA_MF", "pageSize": 6, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20Ingredient&page=&locations=Canada%2Cnull%2Cnull&categories=MANUFACTURER"},
+    {"name": "PAC_CA_D", "pageSize": 1, "url": "https://ensun.io/search?threshold=VERY_LOW&q=Food%20Ingredient&locations=Canada%2Cnull%2Cnull&categories=DISTRIBUTOR"},
 ]
 
 def generate_url(name, page_number):
