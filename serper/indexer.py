@@ -23,8 +23,8 @@ def csv_to_json(csv_path, json_path):
     print(f"JSON file saved at: {json_path}")
 
 # Example usage:
-csv_path = "workshop/newtopisnow/_serperated.csv"  # Change this to your CSV file path
-json_path = "workshop/newtopisnow/_serperated.json"  # Change this to desired JSON output path
+csv_path = "workshop/fssc/usa.csv"  # Change this to your CSV file path
+json_path = "workshop/fssc/usa.csv"  # Change this to desired JSON output path
 csv_to_json(csv_path, json_path)
 
 # make csv have unique domain names
