@@ -12,7 +12,7 @@ def check_domains_in_json(file_path, output_file):
     names_with_200_domains = []
     
     for name, domains in data.items():
-        if len(domains) < 50:
+        if len(domains) < 100:
             names_missing_domains.append(name)
             print(f"{name} has only {len(domains)} domains.")
         else:

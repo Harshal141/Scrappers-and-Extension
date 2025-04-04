@@ -23965,3 +23965,2388 @@
 2025-03-07 15:12:19,692 - INFO - Starting script execution.
 2025-03-07 15:12:19,713 - INFO - Top 200 websites per name saved to DATA_511/top_200_per_name1.json and DATA_511/top_200_per_name1.csv
 2025-03-07 15:12:19,713 - INFO - Script execution completed.
+2025-03-25 14:47:22,313 - INFO - Starting script execution.
+2025-03-25 14:47:24,067 - ERROR - Error processing 'Dried Molasses': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:24,128 - ERROR - Error processing 'Pamesan Cheese Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:24,158 - ERROR - Error processing 'Buckwheat': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:24,175 - ERROR - Error processing 'Cane Syrup': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:24,182 - ERROR - Error processing 'Invert Syrup': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:25,126 - ERROR - Error processing 'Tapioca Dextrose': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:25,189 - ERROR - Error processing 'Malted Rice': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:25,206 - ERROR - Error processing 'Amaranth Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:25,228 - ERROR - Error processing 'Oat Malt Extract': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:25,322 - ERROR - Error processing 'Tapioca Maltitol': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:25,887 - ERROR - Error processing 'Bran': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:25,891 - ERROR - Error processing 'Buckwheat Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:26,025 - ERROR - Error processing 'Apples': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:26,250 - ERROR - Error processing 'Caramel Syrup': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:26,383 - ERROR - Error processing 'Dextrose': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:26,674 - ERROR - Error processing 'Smoke Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:26,756 - ERROR - Error processing 'Berry Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:27,357 - ERROR - Error processing 'Crème de Café Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:27,375 - ERROR - Error processing 'Maple Flakes': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:27,413 - ERROR - Error processing 'Golden Trim Molasses': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:27,576 - ERROR - Error processing 'Amaranth': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:27,823 - ERROR - Error processing 'Caramel': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:27,993 - ERROR - Error processing 'Malted Barley Extract': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:28,150 - ERROR - Error processing 'Hickory Smoke Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:28,692 - ERROR - Error processing 'Quinine': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:28,710 - ERROR - Error processing 'Mesquite Smoke Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:28,741 - ERROR - Error processing 'Grill Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:28,870 - ERROR - Error processing 'Lemon Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:29,456 - ERROR - Error processing 'Mint Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:29,564 - ERROR - Error processing 'Citrus Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:29,907 - ERROR - Error processing 'Hardwood Smoke': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:30,306 - ERROR - Error processing 'Caramel Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:30,432 - ERROR - Error processing 'Peach Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:30,579 - ERROR - Error processing 'Cinnamon Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:30,580 - ERROR - Error processing 'Pomegranate Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:31,045 - ERROR - Error processing 'Almond Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:31,302 - ERROR - Error processing 'Mango Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:31,347 - ERROR - Error processing 'Cream Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:31,586 - ERROR - Error processing 'Pineapple Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:31,843 - ERROR - Error processing 'Raspberry Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:32,069 - ERROR - Error processing 'Beef Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:32,095 - ERROR - Error processing 'Cheddar Cheese Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:32,179 - ERROR - Error processing 'Sweet Rice': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:47:32,334 - ERROR - Error processing 'Porter Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:33,884 - INFO - Starting script execution.
+2025-03-25 14:50:35,008 - ERROR - Error processing 'Buckwheat': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:35,042 - ERROR - Error processing 'Dried Molasses': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:35,063 - ERROR - Error processing 'Cane Syrup': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:35,120 - ERROR - Error processing 'Invert Syrup': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:35,391 - ERROR - Error processing 'Pamesan Cheese Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:36,124 - ERROR - Error processing 'Tapioca Dextrose': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:36,139 - ERROR - Error processing 'Malted Rice': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:36,151 - ERROR - Error processing 'Oat Malt Extract': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:36,184 - ERROR - Error processing 'Tapioca Maltitol': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:36,827 - ERROR - Error processing 'Amaranth Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:36,849 - ERROR - Error processing 'Buckwheat Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:36,888 - ERROR - Error processing 'Apples': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:36,991 - ERROR - Error processing 'Caramel Syrup': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:37,413 - ERROR - Error processing 'Bran': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:37,564 - ERROR - Error processing 'Dextrose': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:37,717 - ERROR - Error processing 'Smoke Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:37,730 - ERROR - Error processing 'Amaranth': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:37,777 - ERROR - Error processing 'Berry Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:38,573 - ERROR - Error processing 'Caramel': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:38,642 - ERROR - Error processing 'Lemon Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:38,839 - ERROR - Error processing 'Maple Flakes': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:38,846 - ERROR - Error processing 'Golden Trim Molasses': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:39,160 - ERROR - Error processing 'Crème de Café Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:39,319 - ERROR - Error processing 'Malted Barley Extract': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:39,637 - ERROR - Error processing 'Hickory Smoke Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:39,690 - ERROR - Error processing 'Grill Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:39,769 - ERROR - Error processing 'Mesquite Smoke Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:39,907 - ERROR - Error processing 'Quinine': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:40,059 - ERROR - Error processing 'Hardwood Smoke': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:40,382 - ERROR - Error processing 'Pomegranate Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:40,467 - ERROR - Error processing 'Mint Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:40,487 - ERROR - Error processing 'Cinnamon Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:40,707 - ERROR - Error processing 'Citrus Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:41,139 - ERROR - Error processing 'Caramel Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:41,297 - ERROR - Error processing 'Almond Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:41,299 - ERROR - Error processing 'Cheddar Cheese Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:41,412 - ERROR - Error processing 'Pineapple Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:41,858 - ERROR - Error processing 'Cream Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:42,082 - ERROR - Error processing 'Raspberry Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:42,130 - ERROR - Error processing 'Mango Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:42,301 - ERROR - Error processing 'Beef Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:42,410 - ERROR - Error processing 'Peach Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:42,968 - ERROR - Error processing 'Porter Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:43,177 - ERROR - Error processing 'Sour Cream Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:43,234 - ERROR - Error processing 'Sweet Rice': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:43,282 - ERROR - Error processing 'Watermelon Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:43,740 - ERROR - Error processing 'Blueberry Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:43,981 - ERROR - Error processing 'Chocolate Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:44,001 - ERROR - Error processing 'Tapioca Syrup': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:44,014 - ERROR - Error processing 'Brie Cheese Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:44,127 - ERROR - Error processing 'Goat Cheese Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:44,809 - ERROR - Error processing 'Kimchi Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:44,814 - ERROR - Error processing 'Gochujang Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:44,987 - ERROR - Error processing 'Sri-Racha Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:45,147 - ERROR - Error processing 'Orchard Fruit Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:45,375 - ERROR - Error processing 'Wasabi Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:45,490 - ERROR - Error processing 'Chipotle Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:45,785 - ERROR - Error processing 'Egg Replacement': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:45,893 - ERROR - Error processing 'Sonora': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:45,990 - ERROR - Error processing 'Flour Blend': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:46,305 - ERROR - Error processing 'Spice Blend': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:46,307 - ERROR - Error processing 'Nut Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:46,659 - ERROR - Error processing 'Indian Curry Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:46,838 - ERROR - Error processing 'Hemp Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:47,040 - ERROR - Error processing 'Cereal Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:47,207 - ERROR - Error processing 'Candy Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:47,272 - ERROR - Error processing 'Spirit Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:47,431 - ERROR - Error processing 'Rye': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:47,689 - ERROR - Error processing 'Hemp Seeds': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:47,881 - ERROR - Error processing 'Banana': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:47,937 - ERROR - Error processing 'Maple Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:48,183 - ERROR - Error processing 'Malted Barley Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:48,309 - ERROR - Error processing 'Farina': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:48,385 - ERROR - Error processing 'Quinoa Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:48,611 - ERROR - Error processing 'Teff Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:48,615 - ERROR - Error processing 'Chickpea Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:48,912 - ERROR - Error processing 'Oat Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:49,001 - ERROR - Error processing 'Spelt Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:49,088 - ERROR - Error processing 'Millet Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:49,324 - ERROR - Error processing 'Potato Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:49,543 - ERROR - Error processing 'Chickpeas': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:49,800 - ERROR - Error processing 'Quinoa': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:49,803 - ERROR - Error processing 'Red Lentils': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:49,922 - ERROR - Error processing 'Lime Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:50,022 - ERROR - Error processing 'Pearl Barley': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:50,452 - ERROR - Error processing 'Millet': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:50,606 - ERROR - Error processing 'Lentil Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:50,677 - ERROR - Error processing 'Spelt': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:50,701 - ERROR - Error processing 'Coconut Oil': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:50,833 - ERROR - Error processing 'Rice Flour': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:51,202 - ERROR - Error processing 'Meat Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:51,440 - ERROR - Error processing 'International Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:51,470 - ERROR - Error processing 'Dill Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:51,713 - ERROR - Error processing 'Monterey Jack Cheese Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:51,770 - ERROR - Error processing 'Floral Flavors': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:51,967 - ERROR - Error processing 'Jasmine Rice': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:52,318 - ERROR - Error processing 'Brown Rice': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:52,321 - ERROR - Error processing 'Salmon': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:52,534 - ERROR - Error processing 'Pepper Jack Cheese Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:52,594 - ERROR - Error processing 'Swiss Cheese Flavor': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:52,766 - ERROR - Error processing 'Soy Lecithin': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:53,032 - ERROR - Error processing 'Propylene Glycol': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:53,103 - ERROR - Error processing 'Microcrystalline Cellulose': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:53,377 - ERROR - Error processing 'Pectin': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:53,419 - ERROR - Error processing 'Vital Wheat Gluten': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:53,532 - ERROR - Error processing 'Sucrose Acetate Isobutyrate': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:53,727 - ERROR - Error processing 'Lactylate': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:53,899 - ERROR - Error processing 'Acacia Fiber': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:54,080 - ERROR - Error processing 'Wheat Germ': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:54,508 - ERROR - Error processing 'Vanilla Seeds': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:54,512 - ERROR - Error processing 'Vanilla Extract': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:54,728 - ERROR - Error processing 'Black Pepper': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:54,867 - ERROR - Error processing 'Dill': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:55,263 - ERROR - Error processing 'Sushi Rice': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:55,293 - ERROR - Error processing 'Wheat berries': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:55,328 - ERROR - Error processing 'Ginger': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:55,479 - ERROR - Error processing 'Silica': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:55,598 - ERROR - Error processing 'Sodium Alginate': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:56,043 - ERROR - Error processing 'Cellulose Gel': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:56,050 - ERROR - Error processing 'Modified Tapioca Starch': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:56,146 - ERROR - Error processing 'Sodium Hexametaphosphate': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:56,364 - ERROR - Error processing 'Modified Potato Starch': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:56,974 - ERROR - Error processing 'Polyethylene Glycol': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:56,997 - ERROR - Error processing 'Distilled Monoglycerides': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:57,079 - ERROR - Error processing 'Tetrasodium Pyrophosphate': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:57,222 - ERROR - Error processing 'Talc': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:57,669 - ERROR - Error processing 'Xanthan Gum': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:57,715 - ERROR - Error processing 'Potassium Iodate': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:57,758 - ERROR - Error processing 'Tapioca Starch': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:57,992 - ERROR - Error processing 'Gelatin': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:58,568 - ERROR - Error processing 'Ethoxylated Mono and Diglycerides': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:58,572 - ERROR - Error processing 'Citrus Fiber': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:58,600 - ERROR - Error processing 'Propylene Glycol Monoesters': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:58,848 - ERROR - Error processing 'Azodicarbonamide': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:50:58,934 - ERROR - Error processing 'Guar Gum': cannot access local variable 'page' where it is not associated with a value
+2025-03-25 14:52:48,748 - INFO - Starting script execution.
+2025-03-25 14:52:49,535 - INFO - Found 1 manufacturers for: Buckwheat
+2025-03-25 14:52:49,560 - INFO - Found 1 manufacturers for: Cane Syrup
+2025-03-25 14:52:49,626 - INFO - Found 1 manufacturers for: Dried Molasses
+2025-03-25 14:52:49,636 - INFO - Found 1 manufacturers for: Pamesan Cheese Flavor
+2025-03-25 14:52:49,824 - INFO - Found 1 manufacturers for: Invert Syrup
+2025-03-25 14:52:50,307 - INFO - Found 1 manufacturers for: Tapioca Dextrose
+2025-03-25 14:52:50,395 - INFO - Found 1 manufacturers for: Tapioca Maltitol
+2025-03-25 14:52:50,401 - INFO - Found 1 manufacturers for: Malted Rice
+2025-03-25 14:52:50,791 - INFO - Found 1 manufacturers for: Oat Malt Extract
+2025-03-25 14:52:50,971 - INFO - Found 1 manufacturers for: Buckwheat Flour
+2025-03-25 14:52:50,974 - INFO - Appended 10 entries to CSV file.
+2025-03-25 14:52:50,975 - INFO - Appended 10 entries to JSON file.
+2025-03-25 14:52:50,976 - INFO - Saved a batch of 10 results to files.
+2025-03-25 14:52:51,107 - INFO - Found 1 manufacturers for: Caramel Syrup
+2025-03-25 14:52:51,131 - INFO - Found 0 manufacturers for: Apples
+2025-03-25 14:52:51,499 - INFO - Found 1 manufacturers for: Bran
+2025-03-25 14:52:51,713 - INFO - Found 1 manufacturers for: Dextrose
+2025-03-25 14:52:51,716 - INFO - Found 1 manufacturers for: Amaranth Flour
+2025-03-25 14:52:51,981 - INFO - Found 1 manufacturers for: Amaranth
+2025-03-25 14:52:51,981 - INFO - Found 1 manufacturers for: Smoke Flavor
+2025-03-25 14:52:52,338 - INFO - Found 0 manufacturers for: Berry Flavors
+2025-03-25 14:52:52,687 - INFO - Found 0 manufacturers for: Caramel
+2025-03-25 14:52:52,727 - INFO - Found 1 manufacturers for: Golden Trim Molasses
+2025-03-25 14:52:52,736 - INFO - Found 1 manufacturers for: Maple Flakes
+2025-03-25 14:52:52,742 - INFO - Found 1 manufacturers for: Crème de Café Flavors
+2025-03-25 14:52:53,492 - INFO - Found 1 manufacturers for: Grill Flavor
+2025-03-25 14:52:53,495 - INFO - Found 0 manufacturers for: Malted Barley Extract
+2025-03-25 14:52:53,499 - INFO - Appended 10 entries to CSV file.
+2025-03-25 14:52:53,501 - INFO - Appended 10 entries to JSON file.
+2025-03-25 14:52:53,502 - INFO - Saved a batch of 10 results to files.
+2025-03-25 14:52:53,532 - INFO - Found 1 manufacturers for: Hickory Smoke Flavor
+2025-03-25 14:52:54,031 - INFO - Found 1 manufacturers for: Lemon Flavor
+2025-03-25 14:52:54,163 - INFO - Found 1 manufacturers for: Quinine
+2025-03-25 14:52:54,164 - INFO - Found 1 manufacturers for: Mesquite Smoke Flavor
+2025-03-25 14:52:54,267 - INFO - Found 1 manufacturers for: Mint Flavor
+2025-03-25 14:52:54,417 - INFO - Found 1 manufacturers for: Hardwood Smoke
+2025-03-25 14:52:54,804 - INFO - Found 1 manufacturers for: Pomegranate Flavor
+2025-03-25 14:52:54,877 - INFO - Found 1 manufacturers for: Citrus Flavor
+2025-03-25 14:52:55,008 - INFO - Found 0 manufacturers for: Cinnamon Flavor
+2025-03-25 14:52:55,093 - INFO - Found 1 manufacturers for: Caramel Flavor
+2025-03-25 14:52:55,578 - INFO - Found 1 manufacturers for: Cheddar Cheese Flavor
+2025-03-25 14:52:55,581 - INFO - Found 1 manufacturers for: Almond Flavor
+2025-03-25 14:52:55,586 - INFO - Appended 10 entries to CSV file.
+2025-03-25 14:52:55,588 - INFO - Appended 10 entries to JSON file.
+2025-03-25 14:52:55,589 - INFO - Saved a batch of 10 results to files.
+2025-03-25 14:52:55,614 - INFO - Found 1 manufacturers for: Peach Flavor
+2025-03-25 14:52:55,788 - INFO - Found 1 manufacturers for: Pineapple Flavor
+2025-03-25 14:52:55,908 - INFO - Found 0 manufacturers for: Cream Flavor
+2025-03-25 14:52:56,387 - INFO - Found 1 manufacturers for: Raspberry Flavor
+2025-03-25 14:52:56,393 - INFO - Found 1 manufacturers for: Mango Flavor
+2025-03-25 14:52:56,412 - INFO - Found 1 manufacturers for: Beef Flavor
+2025-03-25 14:52:56,611 - INFO - Found 1 manufacturers for: Porter Flavors
+2025-03-25 14:52:56,842 - INFO - Found 1 manufacturers for: Sweet Rice
+2025-03-25 14:52:57,300 - INFO - Found 1 manufacturers for: Sour Cream Flavor
+2025-03-25 14:52:57,409 - INFO - Found 1 manufacturers for: Watermelon Flavor
+2025-03-25 14:52:57,413 - INFO - Appended 10 entries to CSV file.
+2025-03-25 14:52:57,415 - INFO - Appended 10 entries to JSON file.
+2025-03-25 14:52:57,415 - INFO - Saved a batch of 10 results to files.
+2025-03-25 14:52:57,570 - INFO - Found 1 manufacturers for: Brie Cheese Flavor
+2025-03-25 14:52:57,618 - INFO - Found 1 manufacturers for: Chocolate Flavor
+2025-03-25 14:52:57,666 - INFO - Found 1 manufacturers for: Blueberry Flavor
+2025-03-25 14:52:58,270 - INFO - Found 1 manufacturers for: Wasabi Flavors
+2025-03-25 14:52:58,377 - INFO - Found 1 manufacturers for: Kimchi Flavors
+2025-03-25 14:52:58,389 - INFO - Found 0 manufacturers for: Goat Cheese Flavor
+2025-03-25 14:52:58,439 - INFO - Found 1 manufacturers for: Tapioca Syrup
+2025-03-25 14:52:58,476 - INFO - Found 0 manufacturers for: Gochujang Flavors
+2025-03-25 14:52:59,107 - INFO - Found 1 manufacturers for: Sri-Racha Flavors
+2025-03-25 14:52:59,138 - INFO - Found 0 manufacturers for: Chipotle Flavors
+2025-03-25 14:52:59,199 - INFO - Found 1 manufacturers for: Flour Blend
+2025-03-25 14:52:59,259 - INFO - Found 1 manufacturers for: Egg Replacement
+2025-03-25 14:52:59,301 - INFO - Found 1 manufacturers for: Orchard Fruit Flavors
+2025-03-25 14:52:59,952 - INFO - Found 1 manufacturers for: Sonora
+2025-03-25 14:53:00,005 - INFO - Found 1 manufacturers for: Nut Flavors
+2025-03-25 14:53:00,187 - INFO - Found 1 manufacturers for: Spice Blend
+2025-03-25 14:53:00,636 - INFO - Found 1 manufacturers for: Hemp Flour
+2025-03-25 14:53:00,654 - INFO - Found 1 manufacturers for: Cereal Flavors
+2025-03-25 14:53:00,862 - INFO - Found 1 manufacturers for: Candy Flavors
+2025-03-25 14:53:01,035 - INFO - Found 1 manufacturers for: Indian Curry Flavors
+2025-03-25 14:53:01,125 - INFO - Found 1 manufacturers for: Spirit Flavors
+2025-03-25 14:53:01,435 - INFO - Found 0 manufacturers for: Hemp Seeds
+2025-03-25 14:53:01,633 - INFO - Found 1 manufacturers for: Rye
+2025-03-25 14:53:01,725 - INFO - Found 0 manufacturers for: Malted Barley Flour
+2025-03-25 14:53:01,860 - INFO - Found 1 manufacturers for: Maple Flavor
+2025-03-25 14:53:02,042 - INFO - Found 1 manufacturers for: Banana
+2025-03-25 14:53:02,103 - INFO - Found 1 manufacturers for: Farina
+2025-03-25 14:53:02,385 - INFO - Found 1 manufacturers for: Teff Flour
+2025-03-25 14:53:02,430 - INFO - Found 1 manufacturers for: Quinoa Flour
+2025-03-25 14:53:02,637 - INFO - Found 0 manufacturers for: Chickpea Flour
+2025-03-25 14:53:02,822 - INFO - Found 0 manufacturers for: Oat Flour
+2025-03-25 14:53:03,001 - INFO - Found 1 manufacturers for: Spelt Flour
+2025-03-25 14:53:03,089 - INFO - Found 1 manufacturers for: Millet Flour
+2025-03-25 14:53:03,161 - INFO - Found 1 manufacturers for: Potato Flour
+2025-03-25 14:53:03,364 - INFO - Found 0 manufacturers for: Chickpeas
+2025-03-25 14:53:03,532 - INFO - Found 0 manufacturers for: Red Lentils
+2025-03-25 14:53:03,646 - INFO - Found 0 manufacturers for: Quinoa
+2025-03-25 14:53:03,904 - INFO - Found 1 manufacturers for: Pearl Barley
+2025-03-25 15:02:29,379 - INFO - Starting script execution.
+2025-03-25 15:03:06,254 - INFO - Found 200 domains for: Buckwheat
+2025-03-25 15:03:06,260 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:03:06,264 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:03:10,450 - INFO - Found 200 domains for: Cane Syrup
+2025-03-25 15:03:10,454 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:03:10,456 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:03:12,144 - INFO - Found 200 domains for: Invert Syrup
+2025-03-25 15:03:12,148 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:03:12,151 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:03:15,839 - INFO - Found 200 domains for: Dried Molasses
+2025-03-25 15:03:15,842 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:03:15,844 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:03:17,498 - INFO - Found 200 domains for: Pamesan Cheese Flavor
+2025-03-25 15:03:17,500 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:03:17,501 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:03:46,015 - INFO - Found 200 domains for: Tapioca Dextrose
+2025-03-25 15:03:46,022 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:03:46,026 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:03:51,059 - INFO - Found 200 domains for: Malted Rice
+2025-03-25 15:03:51,063 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:03:51,066 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:03:54,348 - INFO - Found 200 domains for: Oat Malt Extract
+2025-03-25 15:03:54,352 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:03:54,357 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:03:55,650 - INFO - Found 200 domains for: Amaranth Flour
+2025-03-25 15:03:55,653 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:03:55,657 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:03:56,708 - INFO - Found 200 domains for: Tapioca Maltitol
+2025-03-25 15:03:56,712 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:03:56,714 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:13:08,504 - INFO - Starting script execution.
+2025-03-25 15:13:49,801 - INFO - Found 200 domains for: Citrus Flavor
+2025-03-25 15:13:49,808 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:13:49,811 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:13:53,086 - INFO - Found 200 domains for: Floral Flavors
+2025-03-25 15:13:53,089 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:13:53,091 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:13:57,954 - INFO - Found 200 domains for: Tapioca Maltitol
+2025-03-25 15:13:57,957 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:13:57,959 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:14:01,576 - INFO - Found 200 domains for: Golden Trim Molasses
+2025-03-25 15:14:01,582 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:14:01,585 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:14:16,972 - INFO - Found 200 domains for: Quinine
+2025-03-25 15:14:16,978 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:14:16,982 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:14:40,333 - INFO - Found 200 domains for: Monterey Jack Cheese Flavor
+2025-03-25 15:14:40,340 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:14:40,344 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:14:53,520 - INFO - Found 200 domains for: Dill Flavor
+2025-03-25 15:14:53,526 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:14:53,530 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:14:56,297 - INFO - Found 200 domains for: Brown Rice
+2025-03-25 15:14:56,306 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:14:56,308 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:14:56,539 - INFO - Found 200 domains for: Jasmine Rice
+2025-03-25 15:14:56,546 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:14:56,551 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:15:20,898 - INFO - Found 200 domains for: Salmon
+2025-03-25 15:15:20,902 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:15:20,906 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:15:24,012 - INFO - Found 200 domains for: Pepper Jack Cheese Flavor
+2025-03-25 15:15:24,019 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:15:24,025 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:15:31,099 - INFO - Found 200 domains for: Swiss Cheese Flavor
+2025-03-25 15:15:31,107 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:15:31,109 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:15:46,522 - INFO - Found 200 domains for: Microcrystalline Cellulose
+2025-03-25 15:15:46,529 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:15:46,535 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:15:56,722 - INFO - Found 200 domains for: Soy Lecithin
+2025-03-25 15:15:56,728 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:15:56,733 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:16:06,109 - INFO - Found 200 domains for: Sucrose Acetate Isobutyrate
+2025-03-25 15:16:06,117 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:16:06,123 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:16:09,492 - INFO - Found 200 domains for: Ethoxylated Mono and Diglycerides
+2025-03-25 15:16:09,498 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:16:09,504 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:16:18,396 - INFO - Found 200 domains for: Distilled Monoglycerides
+2025-03-25 15:16:18,407 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:16:18,420 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:16:34,698 - INFO - Found 200 domains for: Propylene Glycol Monoesters
+2025-03-25 15:16:34,705 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:16:34,711 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:16:39,585 - INFO - Found 200 domains for: Dimethylpolysiloxane
+2025-03-25 15:16:39,598 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:16:39,604 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:16:49,076 - INFO - Found 200 domains for: Tapioca Maltodextrin
+2025-03-25 15:16:49,085 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:16:49,096 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:17:01,812 - INFO - Found 200 domains for: Molasses
+2025-03-25 15:17:01,819 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:17:01,825 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:17:04,211 - INFO - Found 200 domains for: Maltose Syrup
+2025-03-25 15:17:04,218 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:17:04,230 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:17:11,885 - INFO - Found 200 domains for: Liquid Brown Sugar
+2025-03-25 15:17:11,892 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:17:11,902 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:17:25,264 - INFO - Found 200 domains for: Crystalline Fructose
+2025-03-25 15:17:25,273 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:17:25,286 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:17:46,094 - INFO - Found 200 domains for: Oat Syrup Solids
+2025-03-25 15:17:46,101 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:17:46,113 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:17:47,648 - INFO - Found 200 domains for: Tapioca Malt Syrup
+2025-03-25 15:17:47,655 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:17:47,675 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:17:59,579 - INFO - Found 200 domains for: Maltose
+2025-03-25 15:17:59,587 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:17:59,614 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:18:01,565 - INFO - Found 200 domains for: High-Maltose Corn Syrup
+2025-03-25 15:18:01,573 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:18:01,584 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:18:01,926 - INFO - Found 200 domains for: Pea Hull Fiber
+2025-03-25 15:18:01,933 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:18:01,951 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:18:25,571 - INFO - Found 200 domains for: Rice Dextrin
+2025-03-25 15:18:25,583 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:18:25,613 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:18:33,480 - INFO - Found 200 domains for: Nigari
+2025-03-25 15:18:33,485 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:18:33,490 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:18:35,583 - INFO - Found 200 domains for: Tamarind Seed Gum
+2025-03-25 15:18:35,586 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:18:35,595 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:18:36,829 - INFO - Found 200 domains for: Lactitiol
+2025-03-25 15:18:36,833 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:18:36,838 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:18:37,847 - INFO - Found 200 domains for: Sorbitan Monostearate
+2025-03-25 15:18:37,849 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:18:37,857 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:19:11,549 - INFO - Found 200 domains for: Malitol Syrup
+2025-03-25 15:19:11,557 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:19:11,567 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:19:13,936 - INFO - Found 200 domains for: Isomalt
+2025-03-25 15:19:13,943 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:19:13,954 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:19:21,433 - INFO - Found 200 domains for: Unbromated Wheat Flour
+2025-03-25 15:19:21,437 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:19:21,446 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:19:22,231 - INFO - Found 200 domains for: Isomaltulose
+2025-03-25 15:19:22,235 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:19:22,243 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:19:27,328 - INFO - Found 200 domains for: Navy Bean Flour
+2025-03-25 15:19:27,333 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:19:27,342 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:20:04,388 - INFO - Found 200 domains for: Sprouted Whole Wheat Flour
+2025-03-25 15:20:04,394 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:20:04,401 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:20:05,772 - INFO - Found 200 domains for: Blackberry Juice
+2025-03-25 15:20:05,778 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:20:05,784 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:20:07,046 - INFO - Found 200 domains for: Roasted Poblano Peppers
+2025-03-25 15:20:07,052 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:20:07,068 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:20:10,461 - INFO - Found 200 domains for: Yam Flour
+2025-03-25 15:20:10,467 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:20:10,481 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:20:10,905 - INFO - Found 200 domains for: Tigernut Flour
+2025-03-25 15:20:10,913 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:20:10,925 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:20:43,312 - INFO - Found 200 domains for: Lemon Peel
+2025-03-25 15:20:43,321 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:20:43,356 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:20:46,603 - INFO - Found 200 domains for: Kiwi Juice
+2025-03-25 15:20:46,612 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:20:46,662 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:20:52,080 - INFO - Found 200 domains for: Crushed Pineapples
+2025-03-25 15:20:52,086 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:20:52,103 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:20:52,737 - INFO - Found 200 domains for: Diced Apples
+2025-03-25 15:20:52,742 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:20:52,756 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:20:54,196 - INFO - Found 200 domains for: Tangerine Juice
+2025-03-25 15:20:54,204 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:20:54,226 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:21:26,868 - INFO - Found 200 domains for: Thompson Raisins
+2025-03-25 15:21:26,875 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:21:26,891 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:21:30,691 - INFO - Found 200 domains for: Grape Must Concentrate
+2025-03-25 15:21:30,707 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:21:30,728 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:21:33,588 - INFO - Found 200 domains for: Raisin Paste
+2025-03-25 15:21:33,596 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:21:33,608 - INFO - Found 200 domains for: Jalapeno Puree
+2025-03-25 15:21:33,626 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:21:33,634 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:21:33,651 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:21:35,350 - INFO - Found 200 domains for: Monk Fruit Juice Concentrate
+2025-03-25 15:21:35,366 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:21:35,393 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:22:09,785 - INFO - Found 200 domains for: Kiwi Juice Concentrate
+2025-03-25 15:22:09,794 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:22:09,811 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:22:12,058 - INFO - Found 200 domains for: Cococonut Milk Powder
+2025-03-25 15:22:12,066 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:22:12,082 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:22:12,313 - INFO - Found 200 domains for: Tatsoi
+2025-03-25 15:22:12,326 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:22:12,367 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:22:18,317 - INFO - Found 200 domains for: Raisin Concentrate
+2025-03-25 15:22:18,326 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:22:18,364 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:22:26,374 - INFO - Found 200 domains for: White Cabbage
+2025-03-25 15:22:26,385 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:22:26,416 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:22:50,002 - INFO - Found 200 domains for: Ginger Puree
+2025-03-25 15:22:50,017 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:22:50,046 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:22:58,718 - INFO - Found 200 domains for: Rose Water
+2025-03-25 15:22:58,728 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:22:58,746 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:23:04,994 - INFO - Found 200 domains for: Pitted Green Olives
+2025-03-25 15:23:05,007 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:23:05,041 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:23:17,479 - INFO - Found 200 domains for: Celery Powder
+2025-03-25 15:23:17,490 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:23:17,516 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:23:23,703 - INFO - Found 200 domains for: Jackfruit
+2025-03-25 15:23:23,712 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:23:23,740 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:23:35,993 - INFO - Found 200 domains for: Coriander Powder
+2025-03-25 15:23:36,007 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:23:36,045 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:23:48,475 - INFO - Found 200 domains for: Smoked Paprika
+2025-03-25 15:23:48,481 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:23:48,505 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:23:57,990 - INFO - Found 200 domains for: Paprika 
+2025-03-25 15:23:57,997 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:23:58,016 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:24:05,407 - INFO - Found 200 domains for: Chives
+2025-03-25 15:24:05,414 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:24:05,432 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:24:07,872 - INFO - Found 200 domains for: Cloves
+2025-03-25 15:24:07,879 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:24:07,903 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:24:23,052 - INFO - Found 200 domains for: Chipotle Chili Pepper
+2025-03-25 15:24:23,058 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:24:23,078 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:24:36,774 - INFO - Found 200 domains for: Lemongrass
+2025-03-25 15:24:36,777 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:24:36,796 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:24:47,452 - INFO - Found 200 domains for: Star Anise
+2025-03-25 15:24:47,458 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:24:47,491 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:24:49,284 - INFO - Found 200 domains for: Jalapeno Powder
+2025-03-25 15:24:49,295 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:24:49,330 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:26:06,066 - INFO - Found 200 domains for: Potato Extract
+2025-03-25 15:26:06,073 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:26:06,097 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:26:12,241 - INFO - Found 200 domains for: Cardamom
+2025-03-25 15:26:12,249 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:26:12,287 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:26:22,144 - INFO - Found 200 domains for: Curry Powder
+2025-03-25 15:26:22,158 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:26:22,195 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:26:27,424 - INFO - Found 200 domains for: Celery Extract
+2025-03-25 15:26:27,431 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:26:27,458 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:26:43,179 - ERROR - [Olive Extract] Attempt 1 failed: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2025-03-25 15:26:43,179 - ERROR - [Dried Spinach] Attempt 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-25 15:26:43,180 - ERROR - [Carrot Extract] Attempt 1 failed: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2025-03-25 15:26:43,180 - ERROR - [Dehydrated Spinach] Attempt 1 failed: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2025-03-25 15:26:43,182 - ERROR - [Purple Carrot Juice] Attempt 1 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BB9E59EF00>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network'))
+2025-03-25 15:27:04,192 - INFO - Found 200 domains for: Dehydrated Spinach
+2025-03-25 15:27:04,200 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:27:04,215 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:27:12,588 - INFO - Found 200 domains for: Dried Spinach
+2025-03-25 15:27:12,592 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:27:12,608 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:27:23,426 - INFO - Found 200 domains for: Olive Extract
+2025-03-25 15:27:23,438 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:27:23,479 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:27:24,157 - INFO - Found 200 domains for: Purple Carrot Juice
+2025-03-25 15:27:24,165 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:27:24,202 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:27:30,017 - INFO - Found 200 domains for: Carrot Extract
+2025-03-25 15:27:30,028 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:27:30,052 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:27:48,560 - INFO - Found 200 domains for: Kale Puree
+2025-03-25 15:27:48,570 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:27:48,612 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:27:53,467 - INFO - Found 200 domains for: Onion Juice Concentrate
+2025-03-25 15:27:53,473 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:27:53,502 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:28:04,156 - INFO - Found 200 domains for: Red Cabbage Extract
+2025-03-25 15:28:04,163 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:28:04,188 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:28:07,159 - INFO - Found 200 domains for: Cocoa Paste
+2025-03-25 15:28:07,166 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:28:07,198 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:28:23,145 - INFO - Found 200 domains for: Baby Carrots
+2025-03-25 15:28:23,153 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:28:23,183 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:28:33,208 - INFO - Found 200 domains for: Fat Reduce Cocoa Powder
+2025-03-25 15:28:33,217 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:28:33,255 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:28:45,707 - INFO - Found 200 domains for: Cocoa
+2025-03-25 15:28:45,714 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:28:45,749 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:28:46,092 - INFO - Found 200 domains for: Milk Chocolate Coating
+2025-03-25 15:28:46,100 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:28:46,133 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:28:51,303 - INFO - Found 200 domains for: Semi Sweet Chocolate Chips
+2025-03-25 15:28:51,312 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:28:51,354 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:28:59,139 - INFO - Found 200 domains for: Cocoa Liquor
+2025-03-25 15:28:59,145 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:28:59,186 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:29:21,326 - INFO - Found 200 domains for: Cocoa Extract
+2025-03-25 15:29:21,335 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:29:21,370 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:29:29,967 - INFO - Found 200 domains for: Milk Confectionary Coating
+2025-03-25 15:29:29,978 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:29:30,012 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:29:30,568 - INFO - Found 200 domains for: Dark Chocolate Chunks
+2025-03-25 15:29:30,578 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:29:30,601 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:29:36,937 - ERROR - [Semi Sweet Chocolate Drops] Attempt 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-25 15:29:36,937 - ERROR - [Milk Chocolate Chips] Attempt 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-25 15:29:36,937 - ERROR - [White Confectionary Coating] Attempt 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-25 15:29:36,938 - ERROR - [Breakfast Cocoa Powder] Attempt 1 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BB9EB7C830>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network'))
+2025-03-25 15:29:36,939 - ERROR - [White Chocolate Chips] Attempt 1 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BB9EB7D310>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network'))
+2025-03-25 15:29:50,988 - ERROR - [White Confectionary Coating] Attempt 2 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BB9EA54260>: Failed to resolve 'google.serper.dev' ([Errno 11001] getaddrinfo failed)"))
+2025-03-25 15:29:50,988 - ERROR - [Milk Chocolate Chips] Attempt 2 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BB9E6A7500>: Failed to resolve 'google.serper.dev' ([Errno 11001] getaddrinfo failed)"))
+2025-03-25 15:29:50,988 - ERROR - [Breakfast Cocoa Powder] Attempt 2 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BB9EB7E690>: Failed to resolve 'google.serper.dev' ([Errno 11001] getaddrinfo failed)"))
+2025-03-25 15:29:50,989 - ERROR - [Semi Sweet Chocolate Drops] Attempt 2 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BB9EB7E000>: Failed to resolve 'google.serper.dev' ([Errno 11001] getaddrinfo failed)"))
+2025-03-25 15:29:50,989 - ERROR - [White Chocolate Chips] Attempt 2 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BB9E6D7AD0>: Failed to resolve 'google.serper.dev' ([Errno 11001] getaddrinfo failed)"))
+2025-03-25 15:30:22,659 - INFO - Found 200 domains for: White Confectionary Coating
+2025-03-25 15:30:22,666 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:30:22,694 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:30:24,512 - INFO - Found 200 domains for: Breakfast Cocoa Powder
+2025-03-25 15:30:24,534 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:30:24,568 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:30:52,552 - INFO - Found 200 domains for: Milk Chocolate Chips
+2025-03-25 15:30:52,559 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:30:52,576 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:31:03,740 - INFO - Found 200 domains for: White Chocolate Chips
+2025-03-25 15:31:03,745 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:31:03,769 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:31:03,810 - INFO - Found 200 domains for: Semi Sweet Chocolate Drops
+2025-03-25 15:31:03,816 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:31:03,840 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:31:12,858 - INFO - Found 200 domains for: White Chocolate Drops
+2025-03-25 15:31:12,863 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:31:12,890 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:31:14,858 - INFO - Found 200 domains for: Dark Chocolate Drops
+2025-03-25 15:31:14,866 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:31:14,882 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:31:39,793 - INFO - Found 200 domains for: Milk Chocolate Chunks
+2025-03-25 15:31:39,798 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:31:39,823 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:31:48,228 - INFO - Found 200 domains for: Dark Chocolate 
+2025-03-25 15:31:48,233 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:31:48,247 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:31:52,423 - INFO - Found 200 domains for: Filtered Water
+2025-03-25 15:31:52,428 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:31:52,448 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:31:52,723 - INFO - Found 200 domains for: Milk Chocolate 
+2025-03-25 15:31:52,727 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:31:52,748 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:32:24,195 - INFO - Found 200 domains for: Distilled Water
+2025-03-25 15:32:24,200 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:32:24,224 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:32:27,508 - INFO - Found 200 domains for: Deionized Water
+2025-03-25 15:32:27,511 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:32:27,528 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:32:32,783 - INFO - Found 200 domains for: USP Purified Water
+2025-03-25 15:32:32,788 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:32:32,809 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:32:56,740 - INFO - Found 200 domains for: Carbonated Spring Water
+2025-03-25 15:32:56,747 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:32:56,778 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:32:56,920 - INFO - Found 200 domains for: Carbonated Water
+2025-03-25 15:32:56,923 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:32:56,946 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:33:06,815 - INFO - Found 200 domains for: Soy Sauce Powder
+2025-03-25 15:33:06,820 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:33:06,858 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:33:08,081 - INFO - Found 200 domains for: Ionized Water
+2025-03-25 15:33:08,084 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:33:08,109 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:33:22,940 - INFO - Found 200 domains for: Dried Thyme
+2025-03-25 15:33:22,943 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:33:22,964 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:33:38,673 - INFO - Found 200 domains for: Carob Powder
+2025-03-25 15:33:38,680 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:33:38,703 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:33:46,248 - INFO - Found 200 domains for: Tapioca Syrup Solids
+2025-03-25 15:33:46,254 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:33:46,301 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:33:48,497 - INFO - Found 200 domains for: Liquid Sucrose
+2025-03-25 15:33:48,501 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:33:48,524 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:33:53,664 - INFO - Found 200 domains for: Date Syrup
+2025-03-25 15:33:53,674 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:33:53,760 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:34:17,682 - INFO - Found 200 domains for: Chipotle Chile
+2025-03-25 15:34:17,688 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:34:17,741 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:34:31,618 - INFO - Found 200 domains for: Shiitake Mushroom Powder
+2025-03-25 15:34:31,626 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:34:31,673 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:34:35,152 - INFO - Found 200 domains for: Vinegar Powder
+2025-03-25 15:34:35,159 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:34:35,216 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:34:49,191 - INFO - Found 200 domains for: Garam Masala
+2025-03-25 15:34:49,199 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:34:49,253 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:34:51,256 - INFO - Found 200 domains for: Mace
+2025-03-25 15:34:51,263 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:34:51,310 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:35:01,044 - INFO - Found 200 domains for: Worcestershire Sauce Powder
+2025-03-25 15:35:01,051 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:35:01,099 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:35:12,671 - INFO - Found 200 domains for: Rasberry Powder
+2025-03-25 15:35:12,677 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:35:12,719 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:35:24,253 - INFO - Found 200 domains for: Chile Powder
+2025-03-25 15:35:24,261 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:35:24,322 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:35:38,986 - INFO - Found 200 domains for: Camphor
+2025-03-25 15:35:38,995 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:35:39,049 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:35:42,586 - INFO - Found 200 domains for: Chili Flakes
+2025-03-25 15:35:42,594 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:35:42,642 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:35:47,978 - INFO - Found 200 domains for: Hot Sauce Powder
+2025-03-25 15:35:47,985 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:35:48,030 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:36:03,392 - INFO - Found 200 domains for: Ancho Chili Powder
+2025-03-25 15:36:03,399 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:36:03,465 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:36:04,936 - INFO - Found 200 domains for: Kale Powder
+2025-03-25 15:36:04,942 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:36:04,988 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:36:24,466 - INFO - Found 200 domains for: Porcini Mushroom Powder
+2025-03-25 15:36:24,478 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:36:24,542 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:36:33,784 - INFO - Found 200 domains for: Ground White Pepper
+2025-03-25 15:36:33,793 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:36:33,869 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:36:51,406 - INFO - Found 200 domains for: Ginger Root Extract
+2025-03-25 15:36:51,418 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:36:51,474 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:37:05,012 - INFO - Found 200 domains for: Sushi Seasoning
+2025-03-25 15:37:05,019 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:37:05,091 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:37:07,214 - INFO - Found 200 domains for: Black Pepper Extract
+2025-03-25 15:37:07,223 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:37:07,291 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:37:21,984 - INFO - Found 200 domains for: Taco Seasoning
+2025-03-25 15:37:21,992 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:37:22,054 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:37:27,870 - INFO - Found 200 domains for: Dried Ginger
+2025-03-25 15:37:27,878 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:37:27,931 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:37:29,740 - INFO - Found 200 domains for: Cinnamon Bark
+2025-03-25 15:37:29,748 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:37:29,793 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:37:53,453 - INFO - Found 200 domains for: Dried Green Bell Pepper
+2025-03-25 15:37:53,460 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:37:53,489 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:37:59,825 - INFO - Found 200 domains for: Coriander
+2025-03-25 15:37:59,832 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:37:59,869 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:38:03,619 - INFO - Found 200 domains for: Rosemary Extract
+2025-03-25 15:38:03,624 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:38:03,656 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:38:14,340 - INFO - Found 200 domains for: Marjoram
+2025-03-25 15:38:14,346 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:38:14,382 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:38:28,887 - INFO - Found 200 domains for: Hops
+2025-03-25 15:38:28,893 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:38:28,935 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:38:40,845 - INFO - Found 200 domains for: Galangal
+2025-03-25 15:38:40,850 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:38:40,883 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:38:43,780 - INFO - Found 200 domains for: Dill Weed
+2025-03-25 15:38:43,785 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:38:43,809 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:38:48,401 - INFO - Found 200 domains for: Parsley
+2025-03-25 15:38:48,405 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:38:48,442 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:38:55,921 - INFO - Found 200 domains for: Peppermint Extract
+2025-03-25 15:38:55,927 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:38:55,954 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:39:11,352 - INFO - Found 200 domains for: Lemon Balm
+2025-03-25 15:39:11,359 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:39:11,400 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:39:20,684 - INFO - Found 200 domains for: Rose Petals
+2025-03-25 15:39:20,689 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:39:20,712 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:39:22,436 - INFO - Found 200 domains for: Lemon Verbena
+2025-03-25 15:39:22,443 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:39:22,478 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:39:38,925 - INFO - Found 200 domains for: Holy Basil
+2025-03-25 15:39:38,929 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:39:38,970 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:39:39,041 - INFO - Found 200 domains for: Ground Dill Seed
+2025-03-25 15:39:39,047 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:39:39,093 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:39:57,272 - INFO - Found 200 domains for: Oleoresin Capsicum
+2025-03-25 15:39:57,279 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:39:57,317 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:40:09,582 - INFO - Found 200 domains for: Beet Juice
+2025-03-25 15:40:09,588 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:40:09,630 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:40:22,041 - INFO - Found 200 domains for: Beet Root Powder
+2025-03-25 15:40:22,050 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:40:22,083 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:40:29,517 - INFO - Found 200 domains for: Lycopene
+2025-03-25 15:40:29,520 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:40:29,541 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:40:38,162 - INFO - Found 200 domains for: Beta Carotene
+2025-03-25 15:40:38,167 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:40:38,210 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:40:49,548 - INFO - Found 200 domains for: Beet Juice Powder
+2025-03-25 15:40:49,555 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:40:49,591 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:41:12,212 - INFO - Found 200 domains for: Annatto
+2025-03-25 15:41:12,216 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:41:12,237 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:41:16,903 - INFO - Found 200 domains for: Chlorophyll
+2025-03-25 15:41:16,910 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:41:16,957 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:41:22,587 - INFO - Found 200 domains for: Basil
+2025-03-25 15:41:22,591 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:41:22,621 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:41:43,587 - INFO - Found 200 domains for: Cayenne
+2025-03-25 15:41:43,592 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:41:43,624 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:41:51,341 - INFO - Found 200 domains for: Mint
+2025-03-25 15:41:51,343 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:41:51,367 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:41:54,471 - INFO - Found 200 domains for: Lavender
+2025-03-25 15:41:54,476 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:41:54,507 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:41:59,673 - INFO - Found 200 domains for: Natamycin
+2025-03-25 15:41:59,676 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:41:59,708 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:42:06,334 - INFO - Found 200 domains for: TBHQ
+2025-03-25 15:42:06,337 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:42:06,362 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:42:30,212 - INFO - Found 200 domains for: Vanilla Bean Seeds
+2025-03-25 15:42:30,215 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:42:30,239 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:42:35,471 - INFO - Found 200 domains for: Copper Gluconate
+2025-03-25 15:42:35,476 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:42:35,502 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:42:57,064 - INFO - Found 200 domains for: Blue 2
+2025-03-25 15:42:57,070 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:42:57,095 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:42:57,942 - INFO - Found 200 domains for: Glycine
+2025-03-25 15:42:57,944 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:42:57,970 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:42:59,650 - INFO - Found 200 domains for: Sodium Ascorbate
+2025-03-25 15:42:59,655 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:42:59,679 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:43:20,687 - INFO - Found 200 domains for: Sodium Propionate
+2025-03-25 15:43:20,694 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:43:20,720 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:43:28,267 - INFO - Found 200 domains for: Sulfur Dioxide
+2025-03-25 15:43:28,275 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:43:28,312 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:43:32,700 - INFO - Found 200 domains for: Crospovidone
+2025-03-25 15:43:32,707 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:43:32,743 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:43:42,814 - INFO - Found 200 domains for: Ascorbyl Palmitate
+2025-03-25 15:43:42,820 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:43:42,846 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:43:48,472 - INFO - Found 200 domains for: Sodium Acetate
+2025-03-25 15:43:48,474 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:43:48,498 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:44:01,771 - INFO - Found 200 domains for: Sodium Sulfite
+2025-03-25 15:44:01,778 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:44:01,814 - INFO - Appended 200 entries to JSON file.
+2025-03-25 15:44:03,513 - INFO - Found 200 domains for: Methylparaben
+2025-03-25 15:44:03,520 - INFO - Appended 200 entries to CSV file.
+2025-03-25 15:44:03,548 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:53:34,619 - INFO - Found 200 domains for: Phenoxyethanol
+2025-03-25 16:53:34,624 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:53:34,659 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:53:49,874 - INFO - Found 200 domains for: Ethanol
+2025-03-25 16:53:49,877 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:53:49,902 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:53:55,157 - INFO - Found 200 domains for: Ethoxyquin
+2025-03-25 16:53:55,161 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:53:55,196 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:54:07,937 - INFO - Found 200 domains for: Potassium Sorbate
+2025-03-25 16:54:07,943 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:54:07,996 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:54:10,209 - INFO - Found 200 domains for: Calcium Disodium EDTA
+2025-03-25 16:54:10,216 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:54:10,274 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:54:17,832 - INFO - Found 200 domains for: Sodium Benzoate
+2025-03-25 16:54:17,841 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:54:17,899 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:54:41,201 - INFO - Found 200 domains for: Potassium Benzoate
+2025-03-25 16:54:41,207 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:54:41,281 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:54:51,575 - INFO - Found 200 domains for: Boric Acid
+2025-03-25 16:54:51,582 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:54:51,653 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:54:51,815 - INFO - Found 200 domains for: Phosphoric Acid
+2025-03-25 16:54:51,821 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:54:51,873 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:54:56,897 - INFO - Found 200 domains for: Vanilla Bean Specks
+2025-03-25 16:54:56,903 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:54:56,962 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:55:03,703 - INFO - Found 200 domains for: Vanilla Powder
+2025-03-25 16:55:03,711 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:55:03,766 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:55:25,004 - INFO - Found 200 domains for: Vanilla Beans
+2025-03-25 16:55:25,015 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:55:25,094 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:55:28,271 - INFO - Found 200 domains for: Madagascar Vanilla Extract
+2025-03-25 16:55:28,277 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:55:28,344 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:55:43,929 - INFO - Found 200 domains for: Shellac
+2025-03-25 16:55:43,938 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:55:44,005 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:55:45,298 - INFO - Found 200 domains for: Vanilla Flavor
+2025-03-25 16:55:45,306 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:55:45,364 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:55:45,504 - INFO - Found 200 domains for: Beeswax
+2025-03-25 16:55:45,514 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:55:45,575 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:56:07,784 - INFO - Found 200 domains for: Candelilla Wax
+2025-03-25 16:56:07,794 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:56:07,869 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:56:08,166 - INFO - Found 200 domains for: Canauba Wax
+2025-03-25 16:56:08,172 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:56:08,229 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:56:23,664 - INFO - Found 200 domains for: Methacrylic Acid Copolymer
+2025-03-25 16:56:23,671 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:56:23,734 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:56:49,896 - INFO - Found 200 domains for: Vitamin B12
+2025-03-25 16:56:49,904 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:56:49,977 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:56:58,145 - INFO - Found 200 domains for: Potassium Iodide
+2025-03-25 16:56:58,154 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:56:58,233 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:57:18,340 - INFO - Found 200 domains for: Inulin
+2025-03-25 16:57:18,347 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:57:18,415 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:57:20,768 - INFO - Found 200 domains for: L-Cysteine
+2025-03-25 16:57:20,774 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:57:20,830 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:57:38,596 - INFO - Found 200 domains for: Vitamin B7
+2025-03-25 16:57:38,605 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:57:38,683 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:57:46,668 - INFO - Found 200 domains for: Vitamin B2
+2025-03-25 16:57:46,677 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:57:46,749 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:58:08,257 - INFO - Found 200 domains for: Vitamin B1
+2025-03-25 16:58:08,266 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:58:08,337 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:58:28,109 - INFO - Found 200 domains for: Vitamin D3
+2025-03-25 16:58:28,121 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:58:28,191 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:58:30,881 - INFO - Found 200 domains for: Sodium Selenate
+2025-03-25 16:58:30,887 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:58:30,981 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:58:31,685 - INFO - Found 200 domains for: Vitamin B6
+2025-03-25 16:58:31,691 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:58:31,748 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:58:51,700 - INFO - Found 200 domains for: Choline Chloride
+2025-03-25 16:58:51,709 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:58:51,783 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:58:53,569 - INFO - Found 200 domains for: Ferrous Fumarate
+2025-03-25 16:58:53,575 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:58:53,650 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:59:14,993 - INFO - Found 200 domains for: Vitamin B5
+2025-03-25 16:59:15,000 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:59:15,074 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:59:16,501 - INFO - Found 200 domains for: Chicory Root Extract
+2025-03-25 16:59:16,509 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:59:16,579 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:59:30,609 - INFO - Found 200 domains for: Phenylalanine
+2025-03-25 16:59:30,616 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:59:30,681 - INFO - Appended 200 entries to JSON file.
+2025-03-25 16:59:41,616 - INFO - Found 200 domains for: Leucine
+2025-03-25 16:59:41,622 - INFO - Appended 200 entries to CSV file.
+2025-03-25 16:59:41,680 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:00:09,395 - INFO - Found 200 domains for: Ferric Phosphate
+2025-03-25 17:00:09,398 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:00:09,439 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:00:13,733 - INFO - Found 200 domains for: Spirulina
+2025-03-25 17:00:13,739 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:00:13,799 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:00:20,766 - INFO - Found 200 domains for: Vitamin K
+2025-03-25 17:00:20,778 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:00:20,855 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:00:31,812 - INFO - Found 200 domains for: Papain
+2025-03-25 17:00:31,827 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:00:31,885 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:00:35,603 - INFO - Found 200 domains for: Yellow 6
+2025-03-25 17:00:35,613 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:00:35,708 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:00:51,548 - INFO - Found 200 domains for: Blue 1
+2025-03-25 17:00:51,558 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:00:51,626 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:00:54,225 - INFO - Found 200 domains for: Yellow 5 Lake
+2025-03-25 17:00:54,230 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:00:54,297 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:01:20,784 - INFO - Found 200 domains for: Isoleucine
+2025-03-25 17:01:20,790 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:01:20,845 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:01:22,147 - INFO - Found 200 domains for: Vitamin B9
+2025-03-25 17:01:22,155 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:01:22,206 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:01:42,417 - INFO - Found 200 domains for: Aloe Vera Extract 
+2025-03-25 17:01:42,422 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:01:42,479 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:01:45,298 - INFO - Found 200 domains for: L-Glutamine
+2025-03-25 17:01:45,303 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:01:45,344 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:02:03,373 - INFO - Found 200 domains for: Chromium Picolinate
+2025-03-25 17:02:03,380 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:02:03,432 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:02:12,510 - INFO - Found 200 domains for: Tyrosine
+2025-03-25 17:02:12,515 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:02:12,577 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:02:33,658 - INFO - Found 200 domains for: Vitamin A
+2025-03-25 17:02:33,673 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:02:33,778 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:02:40,470 - INFO - Found 200 domains for: Ferrous Sulfate
+2025-03-25 17:02:40,476 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:02:40,575 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:02:42,823 - INFO - Found 200 domains for: Cupric Oxide
+2025-03-25 17:02:42,841 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:02:42,937 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:02:48,712 - INFO - Found 200 domains for: Manganese Gluconate
+2025-03-25 17:02:48,718 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:02:48,777 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:03:01,464 - ERROR - [Schizochytrium] Attempt 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-25 17:03:01,465 - ERROR - [Methionine] Attempt 1 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BB9EA57A10>: Failed to establish a new connection: [WinError 10053] An established connection was aborted by the software in your host machine'))
+2025-03-25 17:03:01,465 - ERROR - [Tryptophan] Attempt 1 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BB9E60E900>: Failed to establish a new connection: [WinError 10053] An established connection was aborted by the software in your host machine'))
+2025-03-25 17:03:01,465 - ERROR - [Aloe Vera Gel] Attempt 1 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001BB9E60DFA0>: Failed to establish a new connection: [WinError 10053] An established connection was aborted by the software in your host machine'))
+2025-03-25 17:03:01,763 - ERROR - [DHA Algal Oil] Attempt 1 failed: HTTPSConnectionPool(host='google.serper.dev', port=443): Max retries exceeded with url: /search (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BB9E6D0A40>: Failed to resolve 'google.serper.dev' ([Errno 11004] getaddrinfo failed)"))
+2025-03-25 17:03:33,140 - INFO - Found 200 domains for: Schizochytrium
+2025-03-25 17:03:33,146 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:03:33,215 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:03:59,046 - INFO - Found 200 domains for: Tryptophan
+2025-03-25 17:03:59,054 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:03:59,157 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:04:01,362 - INFO - Found 200 domains for: DHA Algal Oil
+2025-03-25 17:04:01,366 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:04:01,438 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:04:02,339 - INFO - Found 200 domains for: Aloe Vera Gel
+2025-03-25 17:04:02,355 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:04:02,437 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:04:14,978 - INFO - Found 200 domains for: Methionine
+2025-03-25 17:04:14,985 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:04:15,037 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:04:24,147 - INFO - Found 200 domains for: Coenzyme Q10
+2025-03-25 17:04:24,159 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:04:24,263 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:04:41,676 - INFO - Found 200 domains for: Seaweed Extract
+2025-03-25 17:04:41,692 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:04:41,797 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:04:50,028 - INFO - Found 200 domains for: Milk Thistle Extract
+2025-03-25 17:04:50,032 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:04:50,096 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:04:53,969 - INFO - Found 200 domains for: L-Threonine
+2025-03-25 17:04:53,974 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:04:54,048 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:04:58,153 - INFO - Found 200 domains for: Glucosamine HCl
+2025-03-25 17:04:58,159 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:04:58,205 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:05:27,549 - INFO - Found 200 domains for: Ashwagandha
+2025-03-25 17:05:27,556 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:05:27,603 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:05:43,491 - INFO - Found 200 domains for: Zinc Oxide
+2025-03-25 17:05:43,498 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:05:43,539 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:05:43,982 - INFO - Found 200 domains for: Zinc Chelate
+2025-03-25 17:05:43,987 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:05:44,055 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:05:54,036 - INFO - Found 200 domains for: Psyllium Husk Powder
+2025-03-25 17:05:54,041 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:05:54,119 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:06:00,860 - INFO - Found 200 domains for: Chromium Chelate
+2025-03-25 17:06:00,874 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:06:00,992 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:06:13,494 - INFO - Found 200 domains for: Kelp Powder
+2025-03-25 17:06:13,503 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:06:13,596 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:06:37,982 - INFO - Found 200 domains for: Lutein
+2025-03-25 17:06:38,000 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:06:38,119 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:06:40,015 - INFO - Found 200 domains for: Reishi Mushrooms
+2025-03-25 17:06:40,023 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:06:40,101 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:06:43,623 - INFO - Found 200 domains for: Grape Seed Extract
+2025-03-25 17:06:43,638 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:06:43,725 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:06:56,942 - INFO - Found 200 domains for: Resistant Maltodextrin
+2025-03-25 17:06:56,946 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:06:56,983 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:07:02,672 - INFO - Found 200 domains for: Inositol
+2025-03-25 17:07:02,677 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:07:02,731 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:07:17,661 - INFO - Found 200 domains for: Seaweed
+2025-03-25 17:07:17,666 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:07:17,711 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:07:19,217 - INFO - Found 200 domains for: Dried Seaweed
+2025-03-25 17:07:19,223 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:07:19,282 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:07:32,781 - INFO - Found 200 domains for: Cod Liver Oil
+2025-03-25 17:07:32,792 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:07:32,871 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:07:45,790 - INFO - Found 200 domains for: Ascerola Extract
+2025-03-25 17:07:45,796 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:07:45,867 - INFO - Found 200 domains for: Yellow 5
+2025-03-25 17:07:45,874 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:07:45,881 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:07:45,970 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:08:15,905 - INFO - Found 200 domains for: Yellow 6 Lake
+2025-03-25 17:08:15,915 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:08:16,001 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:08:19,050 - INFO - Found 200 domains for: Red 40
+2025-03-25 17:08:19,056 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:08:19,162 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:08:24,504 - INFO - Found 200 domains for: Red 40 Lake
+2025-03-25 17:08:24,516 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:08:24,617 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:08:27,759 - INFO - Found 200 domains for: Rennet
+2025-03-25 17:08:27,772 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:08:27,861 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:08:49,945 - INFO - Found 200 domains for: Red 3
+2025-03-25 17:08:49,956 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:08:50,059 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:09:04,197 - INFO - Found 200 domains for: Invertase
+2025-03-25 17:09:04,203 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:09:04,271 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:09:15,722 - INFO - Found 200 domains for: Lactobacillus Bulgaricus
+2025-03-25 17:09:15,732 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:09:15,835 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:09:32,493 - INFO - Found 200 domains for: Bifidobacterium Lactis
+2025-03-25 17:09:32,501 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:09:32,590 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:09:36,702 - INFO - Found 200 domains for: Lactobacillus Casei
+2025-03-25 17:09:36,711 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:09:36,814 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:09:37,336 - INFO - Found 200 domains for: Nisin
+2025-03-25 17:09:37,343 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:09:37,457 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:09:46,242 - ERROR - [Lactococcus Lactis] Attempt 1 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-25 17:10:03,489 - INFO - Found 200 domains for: Lipase
+2025-03-25 17:10:03,503 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:10:03,595 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:10:14,356 - INFO - Found 200 domains for: Lactobacillus Rhamnosus
+2025-03-25 17:10:14,371 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:10:14,457 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:10:15,936 - INFO - Found 200 domains for: Lactococcus Lactis
+2025-03-25 17:10:15,946 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:10:16,039 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:10:26,420 - INFO - Found 200 domains for: Citric Acid
+2025-03-25 17:10:26,429 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:10:26,499 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:10:32,019 - INFO - Found 200 domains for: White Distilled Vinegar
+2025-03-25 17:10:32,029 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:10:32,106 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:10:45,352 - INFO - Found 200 domains for: Sodium Carbonate
+2025-03-25 17:10:45,359 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:10:45,457 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:10:59,048 - INFO - Found 200 domains for: Potasium Hydroxide
+2025-03-25 17:10:59,055 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:10:59,127 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:11:06,723 - INFO - Found 200 domains for: Sodium Hydroxide
+2025-03-25 17:11:06,727 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:11:06,825 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:11:16,929 - INFO - Found 200 domains for: Distilled Vinegar
+2025-03-25 17:11:16,939 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:11:16,968 - INFO - Found 200 domains for: Trisodium Citrate
+2025-03-25 17:11:17,049 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:11:17,055 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:11:17,121 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:11:49,591 - INFO - Found 200 domains for: Oregano
+2025-03-25 17:11:49,602 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:11:49,685 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:11:49,723 - INFO - Found 200 domains for: Tripotassium Phosphate
+2025-03-25 17:11:49,732 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:11:49,821 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:11:58,816 - INFO - Found 200 domains for: Animal Rennet
+2025-03-25 17:11:58,822 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:11:58,892 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:12:02,249 - INFO - Found 200 domains for: Green Lentils
+2025-03-25 17:12:02,261 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:12:02,388 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:12:31,691 - INFO - Found 200 domains for: Xylanase
+2025-03-25 17:12:31,703 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:12:31,809 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:12:35,914 - INFO - Found 200 domains for: Symbiotic Culture of Bacteria and Yeast (SCOBY)
+2025-03-25 17:12:35,923 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:12:35,941 - INFO - Found 200 domains for: Lysozyme
+2025-03-25 17:12:36,016 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:12:36,024 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:12:36,104 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:12:49,048 - INFO - Found 200 domains for: Cellulase
+2025-03-25 17:12:49,054 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:12:49,156 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:12:51,631 - INFO - Found 200 domains for: Lacticaseibacillus Paracasei
+2025-03-25 17:12:51,637 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:12:51,727 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:13:15,507 - INFO - Found 200 domains for: Pectinase
+2025-03-25 17:13:15,518 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:13:15,628 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:13:18,220 - INFO - Found 200 domains for: Ammonium Chloride
+2025-03-25 17:13:18,228 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:13:18,334 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:13:30,849 - INFO - Found 200 domains for: Acidophilus
+2025-03-25 17:13:30,860 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:13:30,974 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:13:31,722 - INFO - Found 200 domains for: Tartrate
+2025-03-25 17:13:31,731 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:13:31,836 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:13:38,775 - INFO - Found 200 domains for: Spirit Vinegar
+2025-03-25 17:13:38,786 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:13:38,902 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:13:59,191 - INFO - Found 200 domains for: Sodium Acid Sulfate
+2025-03-25 17:13:59,203 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:13:59,283 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:14:08,423 - INFO - Found 200 domains for: Encapsulated Lactic Acid
+2025-03-25 17:14:08,434 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:14:08,560 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:14:11,607 - INFO - Found 200 domains for: Tartaric Acid
+2025-03-25 17:14:11,619 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:14:11,737 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:14:21,666 - INFO - Found 200 domains for: Adipic Acid
+2025-03-25 17:14:21,677 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:14:21,786 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:14:34,202 - INFO - Found 200 domains for: Citric Acid Anhydrous
+2025-03-25 17:14:34,208 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:14:34,280 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:14:48,912 - INFO - Found 200 domains for: Acetic Acid
+2025-03-25 17:14:48,920 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:14:49,013 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:14:56,762 - INFO - Found 200 domains for: Potassium Bicarbonate
+2025-03-25 17:14:56,770 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:14:56,858 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:15:04,070 - INFO - Found 200 domains for: Pistachios
+2025-03-25 17:15:04,079 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:15:04,193 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:15:08,421 - INFO - Found 200 domains for: Brazil Nuts
+2025-03-25 17:15:08,430 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:15:08,545 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:15:27,654 - INFO - Found 200 domains for: Hazelnuts
+2025-03-25 17:15:27,665 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:15:27,789 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:15:29,876 - INFO - Found 200 domains for: Pistachio Kernels
+2025-03-25 17:15:29,887 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:15:29,970 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:15:40,557 - INFO - Found 200 domains for: Pecans
+2025-03-25 17:15:40,568 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:15:40,674 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:15:41,922 - INFO - Found 200 domains for: Pine Nuts
+2025-03-25 17:15:41,932 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:15:42,032 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:16:02,455 - INFO - Found 200 domains for: Roasted Pecans
+2025-03-25 17:16:02,469 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:16:02,581 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:16:06,755 - INFO - Found 200 domains for: Roasted Macadamia Nuts
+2025-03-25 17:16:06,766 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:16:06,865 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:16:11,801 - INFO - Found 200 domains for: Roasted Salted Peanuts
+2025-03-25 17:16:11,811 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:16:11,900 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:16:15,066 - INFO - Found 200 domains for: Marcona Almonds
+2025-03-25 17:16:15,072 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:16:15,200 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:16:30,957 - INFO - Found 200 domains for: Roasted Hazelnuts
+2025-03-25 17:16:30,965 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:16:31,086 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:16:42,105 - INFO - Found 200 domains for: English Walnuts
+2025-03-25 17:16:42,114 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:16:42,205 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:16:44,426 - INFO - Found 200 domains for: Roasted Salted Cashews
+2025-03-25 17:16:44,436 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:16:44,542 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:17:05,674 - INFO - Found 200 domains for: Black Beans
+2025-03-25 17:17:05,684 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:17:05,806 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:17:16,936 - INFO - Found 200 domains for: Pinto Beans
+2025-03-25 17:17:16,945 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:17:17,063 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:17:22,975 - INFO - Found 200 domains for: Yellow Lentils
+2025-03-25 17:17:22,980 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:17:23,060 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:17:26,672 - INFO - Found 200 domains for: Peanuts
+2025-03-25 17:17:26,682 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:17:26,797 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:17:45,956 - INFO - Found 200 domains for: Kidney Beans
+2025-03-25 17:17:45,968 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:17:46,073 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:17:51,402 - INFO - Found 200 domains for: Black-Eyed Peas
+2025-03-25 17:17:51,414 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:17:51,525 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:18:03,092 - INFO - Found 200 domains for: Snow Peas
+2025-03-25 17:18:03,107 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:18:03,219 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:18:03,284 - INFO - Found 200 domains for: Ground Peanuts
+2025-03-25 17:18:03,293 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:18:03,381 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:18:07,096 - INFO - Found 200 domains for: Edamame
+2025-03-25 17:18:07,107 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:18:07,211 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:18:25,992 - INFO - Found 200 domains for: Cooked Pinto Beans
+2025-03-25 17:18:25,998 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:18:26,075 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:18:30,944 - INFO - Found 200 domains for: Dry Roasted Peanuts
+2025-03-25 17:18:30,948 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:18:31,049 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:18:47,007 - INFO - Found 200 domains for: Yellow Split Peas
+2025-03-25 17:18:47,017 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:18:47,127 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:18:48,468 - INFO - Found 200 domains for: Pink Beans
+2025-03-25 17:18:48,474 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:18:48,555 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:18:53,147 - INFO - Found 200 domains for: Prepared Dark Red Kidney Beans
+2025-03-25 17:18:53,164 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:18:53,266 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:19:02,373 - INFO - Found 200 domains for: Cranberry Beans
+2025-03-25 17:19:02,387 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:19:02,528 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:19:34,640 - INFO - Found 200 domains for: Cheddar
+2025-03-25 17:19:34,650 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:19:34,756 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:19:36,629 - INFO - Found 200 domains for: Ricotta
+2025-03-25 17:19:36,642 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:19:36,773 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:19:36,998 - INFO - Found 200 domains for: Half and Half
+2025-03-25 17:19:37,007 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:19:37,127 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:19:41,780 - INFO - Found 200 domains for: Pecorino Romano
+2025-03-25 17:19:41,790 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:19:41,935 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:19:58,271 - INFO - Found 200 domains for: Ghee
+2025-03-25 17:19:58,281 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:19:58,370 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:20:18,128 - INFO - Found 200 domains for: Swiss
+2025-03-25 17:20:18,138 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:20:18,242 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:20:25,034 - INFO - Found 200 domains for: Monterey Jack
+2025-03-25 17:20:25,045 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:20:25,169 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:20:27,399 - INFO - Found 200 domains for: Colby
+2025-03-25 17:20:27,407 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:20:27,523 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:20:34,834 - INFO - Found 200 domains for: Skim Milk
+2025-03-25 17:20:34,843 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:20:34,960 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:20:50,234 - INFO - Found 200 domains for: Queso 
+2025-03-25 17:20:50,243 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:20:50,349 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:21:16,104 - INFO - Found 200 domains for: Sweet Whey Powder
+2025-03-25 17:21:16,114 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:21:16,235 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:21:16,899 - INFO - Found 200 domains for: Cottage Cheese
+2025-03-25 17:21:16,909 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:21:17,031 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:21:21,066 - INFO - Found 200 domains for: Whole Milk
+2025-03-25 17:21:21,077 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:21:21,191 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:21:31,518 - INFO - Found 200 domains for: Colby Jack Cheese
+2025-03-25 17:21:31,527 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:21:31,672 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:21:57,538 - INFO - Found 200 domains for: Unsalted Butter
+2025-03-25 17:21:57,550 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:21:57,682 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:22:15,397 - INFO - Found 200 domains for: Aged Cheddar Cheese
+2025-03-25 17:22:15,407 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:22:15,557 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:22:22,177 - INFO - Found 200 domains for: Nonfat Yogurt
+2025-03-25 17:22:22,188 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:22:22,306 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:22:23,652 - INFO - Found 200 domains for: Buttermilk
+2025-03-25 17:22:23,662 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:22:23,786 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:22:45,105 - INFO - Found 200 domains for: Whole Milk Powder
+2025-03-25 17:22:45,114 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:22:45,224 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:22:59,135 - INFO - Found 200 domains for: Heavy Cream Powder
+2025-03-25 17:22:59,142 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:22:59,200 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:23:16,384 - INFO - Found 200 domains for: Shredded Cheddar Cheese
+2025-03-25 17:23:16,388 - INFO - Found 200 domains for: Shredded Parmesan Cheese
+2025-03-25 17:23:16,396 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:23:16,506 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:23:16,514 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:23:16,600 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:23:27,130 - INFO - Found 200 domains for: Cow's Milk
+2025-03-25 17:23:27,141 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:23:27,266 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:23:56,282 - INFO - Found 200 domains for: Margarine
+2025-03-25 17:23:56,293 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:23:56,429 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:23:58,183 - INFO - Found 200 domains for: Liquid Margarine
+2025-03-25 17:23:58,195 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:23:58,341 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:24:14,402 - INFO - Found 200 domains for: Monterey Jack Cheese
+2025-03-25 17:24:14,412 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:24:14,523 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:24:16,061 - INFO - Found 200 domains for: Blue Cheese Crumbles
+2025-03-25 17:24:16,069 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:24:16,209 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:24:19,309 - INFO - Found 200 domains for: Gruyere Cheese
+2025-03-25 17:24:19,316 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:24:19,463 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:24:38,185 - INFO - Found 200 domains for: Brie Cheese
+2025-03-25 17:24:38,196 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:24:38,323 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:24:48,340 - INFO - Found 200 domains for: Sheep Milk
+2025-03-25 17:24:48,350 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:24:48,478 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:25:05,023 - INFO - Found 200 domains for: Bulgur
+2025-03-25 17:25:05,029 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:25:05,127 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:25:10,579 - INFO - Found 200 domains for: Couscous
+2025-03-25 17:25:10,585 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:25:10,684 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:25:19,733 - INFO - Found 200 domains for: Orzo
+2025-03-25 17:25:19,742 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:25:19,853 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:25:41,900 - INFO - Found 200 domains for: Yogurt
+2025-03-25 17:25:41,909 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:25:42,053 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:25:47,111 - INFO - Found 200 domains for: Teff
+2025-03-25 17:25:47,120 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:25:47,230 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:25:47,244 - INFO - Found 200 domains for: Barley
+2025-03-25 17:25:47,253 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:25:47,408 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:26:03,842 - INFO - Found 200 domains for: Sorghum
+2025-03-25 17:26:03,852 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:26:04,006 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:26:04,887 - INFO - Found 200 domains for: Rosemary
+2025-03-25 17:26:04,895 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:26:05,025 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:26:24,783 - INFO - Found 200 domains for: Malt Powder
+2025-03-25 17:26:24,793 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:26:24,948 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:26:41,913 - INFO - Found 200 domains for: Red Quinoa
+2025-03-25 17:26:41,921 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:26:41,992 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:26:43,138 - INFO - Found 200 domains for: White Quinoa
+2025-03-25 17:26:43,145 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:26:43,199 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:26:47,517 - INFO - Found 200 domains for: Quinoa Flakes
+2025-03-25 17:26:47,520 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:26:47,608 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:26:56,965 - INFO - Found 200 domains for: Black Quinoa
+2025-03-25 17:26:56,971 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:26:57,103 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:27:13,486 - INFO - Found 200 domains for: Sprouted Quinoa
+2025-03-25 17:27:13,496 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:27:13,623 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:27:22,343 - INFO - Found 200 domains for: Hard Red Wheat
+2025-03-25 17:27:22,353 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:27:22,484 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:27:28,873 - INFO - Found 200 domains for: Popcorn
+2025-03-25 17:27:28,880 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:27:29,009 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:27:29,153 - INFO - Found 200 domains for: Rice Hulls
+2025-03-25 17:27:29,160 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:27:29,265 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:27:37,262 - INFO - Found 200 domains for: Arborio Rice
+2025-03-25 17:27:37,271 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:27:37,399 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:28:03,464 - INFO - Found 200 domains for: Oat Extract
+2025-03-25 17:28:03,473 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:28:03,582 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:28:08,749 - INFO - Found 200 domains for: Oat Bran
+2025-03-25 17:28:08,762 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:28:08,877 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:28:13,546 - INFO - Found 200 domains for: Shelled Pumpkin Seeds
+2025-03-25 17:28:13,560 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:28:13,660 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:28:13,676 - INFO - Found 200 domains for: Hulled Sunflower Seeds
+2025-03-25 17:28:13,682 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:28:13,789 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:28:25,108 - INFO - Found 200 domains for: Ammonium Bicarbonate
+2025-03-25 17:28:25,119 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:28:25,223 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:28:49,675 - INFO - Found 200 domains for: Trisodium Phosphate
+2025-03-25 17:28:49,681 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:28:49,787 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:28:52,356 - INFO - Found 200 domains for: Disodium Diphosphate
+2025-03-25 17:28:52,367 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:28:52,483 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:29:03,681 - INFO - Found 200 domains for: Disodium Pyrophosphate
+2025-03-25 17:29:03,691 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:29:03,817 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:29:10,066 - INFO - Found 200 domains for: Baking Soda
+2025-03-25 17:29:10,077 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:29:10,194 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:29:14,569 - INFO - Found 200 domains for: Deactivated Yeast
+2025-03-25 17:29:14,579 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:29:14,741 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:29:44,267 - INFO - Found 200 domains for: Ammonium Phosphate
+2025-03-25 17:29:44,278 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:29:44,427 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:29:53,951 - INFO - Found 200 domains for: Hemp Protein
+2025-03-25 17:29:53,962 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:29:54,069 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:29:57,131 - INFO - Found 200 domains for: Aluminum-Free Baking Powder
+2025-03-25 17:29:57,142 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:29:57,291 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:30:02,221 - INFO - Found 200 domains for: Yeast
+2025-03-25 17:30:02,233 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:30:02,380 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:30:05,203 - INFO - Found 200 domains for: Baker's Yeast
+2025-03-25 17:30:05,212 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:30:05,352 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:30:26,344 - INFO - Found 200 domains for: Aleurone
+2025-03-25 17:30:26,355 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:30:26,454 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:30:39,714 - INFO - Found 200 domains for: Yeast Extract Powder
+2025-03-25 17:30:39,725 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:30:39,870 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:30:41,759 - INFO - Found 200 domains for: Baker's Yeast Extract
+2025-03-25 17:30:41,770 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:30:41,917 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:30:48,565 - INFO - Found 200 domains for: Roasted Sunflower Seeds
+2025-03-25 17:30:48,570 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:30:48,712 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:30:58,386 - INFO - Found 200 domains for: Sunflower Creamer
+2025-03-25 17:30:58,392 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:30:58,515 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:31:05,250 - INFO - Found 200 domains for: Oat Groats
+2025-03-25 17:31:05,261 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:31:05,403 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:31:23,821 - INFO - Found 200 domains for: Toasted Wheat Germ
+2025-03-25 17:31:23,828 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:31:23,940 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:31:25,105 - INFO - Found 200 domains for: White Popcorn
+2025-03-25 17:31:25,113 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:31:25,220 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:31:25,489 - INFO - Found 200 domains for: Wheat Bran
+2025-03-25 17:31:25,495 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:31:25,591 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:31:44,887 - INFO - Found 200 domains for: Pistachio Milk
+2025-03-25 17:31:44,892 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:31:44,994 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:32:19,383 - INFO - Found 200 domains for: Non-Dairy Creamer
+2025-03-25 17:32:19,392 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:32:19,532 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:32:25,418 - INFO - Found 200 domains for: Rice Milk
+2025-03-25 17:32:25,424 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:32:25,569 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:32:25,882 - INFO - Found 200 domains for: Cashew Milk
+2025-03-25 17:32:25,889 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:32:26,020 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:32:27,625 - INFO - Found 200 domains for: Soy Milk
+2025-03-25 17:32:27,636 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:32:27,786 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:33:04,992 - INFO - Found 200 domains for: Sunflower Protein
+2025-03-25 17:33:04,996 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:33:05,047 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:33:10,344 - INFO - Found 200 domains for: Corn Protein
+2025-03-25 17:33:10,352 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:33:10,416 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:33:10,604 - INFO - Found 200 domains for: Tofu
+2025-03-25 17:33:10,608 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:33:10,671 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:33:14,151 - INFO - Found 200 domains for: Rice Protein
+2025-03-25 17:33:14,157 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:33:14,231 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:33:16,010 - INFO - Found 200 domains for: Egg Replacer
+2025-03-25 17:33:16,014 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:33:16,072 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:33:54,005 - INFO - Found 200 domains for: Fava Bean Protein
+2025-03-25 17:33:54,011 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:33:54,092 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:33:55,971 - INFO - Found 200 domains for: Pumpkin Seed Protein
+2025-03-25 17:33:55,976 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:33:56,034 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:33:57,424 - INFO - Found 200 domains for: Flax Seeds
+2025-03-25 17:33:57,430 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:33:57,492 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:34:01,916 - INFO - Found 200 domains for: Wheat Protein
+2025-03-25 17:34:01,926 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:34:02,088 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:34:06,931 - INFO - Found 200 domains for: Chia Seeds
+2025-03-25 17:34:06,941 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:34:07,094 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:34:33,273 - INFO - Found 200 domains for: Coriander Seeds
+2025-03-25 17:34:33,277 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:34:33,423 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:34:36,560 - INFO - Found 200 domains for: White Sesame Seeds
+2025-03-25 17:34:36,567 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:34:36,706 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:34:44,836 - INFO - Found 200 domains for: Cumin Seeds
+2025-03-25 17:34:44,845 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:34:44,962 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:34:54,372 - INFO - Found 200 domains for: Poppy Seeds
+2025-03-25 17:34:54,376 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:34:54,438 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:35:04,882 - INFO - Found 200 domains for: Caraway Seeds
+2025-03-25 17:35:04,886 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:35:04,972 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:35:16,659 - INFO - Found 200 domains for: Cardamom Seeds
+2025-03-25 17:35:16,666 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:35:16,737 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:35:21,811 - INFO - Found 200 domains for: Fennel Seeds
+2025-03-25 17:35:21,816 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:35:21,885 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:35:35,669 - INFO - Found 200 domains for: Guarana
+2025-03-25 17:35:35,673 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:35:35,784 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:35:39,574 - INFO - Found 200 domains for: Apricot Kernels
+2025-03-25 17:35:39,582 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:35:39,753 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:35:57,375 - INFO - Found 200 domains for: Pumpkin Kernels
+2025-03-25 17:35:57,379 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:35:57,444 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:36:07,042 - INFO - Found 200 domains for: Sesame Seeds
+2025-03-25 17:36:07,048 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:36:07,172 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:36:08,345 - INFO - Found 200 domains for: Roasted Pumpkin Seeds
+2025-03-25 17:36:08,351 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:36:08,465 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:36:31,336 - INFO - Found 200 domains for: Black Chia Seeds
+2025-03-25 17:36:31,346 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:36:31,504 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:36:39,113 - INFO - Found 200 domains for: Sunflower Kernels
+2025-03-25 17:36:39,122 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:36:39,266 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:36:59,127 - INFO - Found 200 domains for: Instant Yeast 
+2025-03-25 17:36:59,134 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:36:59,250 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:37:03,844 - INFO - Found 200 domains for: Dried Yeast 
+2025-03-25 17:37:03,852 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:37:03,995 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:37:11,176 - INFO - Found 200 domains for: Saccharomyces Cerevisiae
+2025-03-25 17:37:11,184 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:37:11,328 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:37:16,735 - INFO - Found 200 domains for: Beef Bone Extract
+2025-03-25 17:37:16,742 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:37:16,897 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:37:22,531 - INFO - Found 200 domains for: Safflower
+2025-03-25 17:37:22,540 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:37:22,692 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:37:49,822 - INFO - Found 200 domains for: Tallow
+2025-03-25 17:37:49,831 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:37:49,989 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:37:56,103 - INFO - Found 200 domains for: Refined Soybean Oil
+2025-03-25 17:37:56,111 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:37:56,249 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:37:57,775 - INFO - Found 200 domains for: Palm Olein
+2025-03-25 17:37:57,782 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:37:57,941 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:38:04,979 - INFO - Found 200 domains for: Sunflower Oil
+2025-03-25 17:38:04,990 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:38:05,180 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:38:10,029 - INFO - Found 200 domains for: Vegetable Oil
+2025-03-25 17:38:10,039 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:38:10,239 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:38:41,544 - INFO - Found 200 domains for: Olive Pomace Oil
+2025-03-25 17:38:41,551 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:38:41,718 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:38:42,085 - INFO - Found 200 domains for: Turkey Fat
+2025-03-25 17:38:42,092 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:38:42,225 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:38:53,852 - INFO - Found 200 domains for: Extra Virgin Olive Oil
+2025-03-25 17:38:53,862 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:38:53,996 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:38:57,455 - INFO - Found 200 domains for: Sesame Oil
+2025-03-25 17:38:57,464 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:38:57,612 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:39:07,954 - INFO - Found 200 domains for: Rapeseed Oil
+2025-03-25 17:39:07,961 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:39:08,093 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:39:32,387 - INFO - Found 200 domains for: Lard
+2025-03-25 17:39:32,393 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:39:32,514 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:39:36,962 - INFO - Found 200 domains for: Extra Virgin Coconut Oil
+2025-03-25 17:39:36,971 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:39:37,100 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:39:41,371 - INFO - Found 200 domains for: Flaxseed Oil
+2025-03-25 17:39:41,382 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:39:41,514 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:39:53,397 - INFO - Found 200 domains for: Shea Butter
+2025-03-25 17:39:53,411 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:39:53,416 - INFO - Found 200 domains for: Almond Oil
+2025-03-25 17:39:53,557 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:39:53,563 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:39:53,675 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:40:25,586 - INFO - Found 200 domains for: Clam Broth
+2025-03-25 17:40:25,600 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:40:25,727 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:40:31,663 - INFO - Found 200 domains for: Chicken Broth
+2025-03-25 17:40:31,671 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:40:31,785 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:40:40,035 - INFO - Found 200 domains for: Chicken Broth Concentrate
+2025-03-25 17:40:40,044 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:40:40,174 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:40:42,032 - INFO - Found 200 domains for: Dehydrated Pork Stock
+2025-03-25 17:40:42,041 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:40:42,174 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:40:53,290 - INFO - Found 200 domains for: Dehydrated Pork Broth
+2025-03-25 17:40:53,299 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:40:53,437 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:41:11,557 - INFO - Found 200 domains for: Pork Broth
+2025-03-25 17:41:11,564 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:41:11,717 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:41:24,560 - INFO - Found 200 domains for: Sodium Chloride
+2025-03-25 17:41:24,566 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:41:24,697 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:41:30,935 - INFO - Found 200 domains for: Sea Salt
+2025-03-25 17:41:30,943 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:41:31,089 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:41:43,262 - INFO - Found 200 domains for: Pink Salt
+2025-03-25 17:41:43,269 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:41:43,426 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:41:49,705 - INFO - Found 200 domains for: Disodium Guanylate
+2025-03-25 17:41:49,715 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:41:49,843 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:41:52,449 - INFO - Found 200 domains for: Disodium Succinate
+2025-03-25 17:41:52,458 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:41:52,592 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:42:19,082 - INFO - Found 200 domains for: Encapsulated Salt
+2025-03-25 17:42:19,088 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:42:19,234 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:42:19,604 - INFO - Found 200 domains for: Smoked Sea Salt
+2025-03-25 17:42:19,614 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:42:19,772 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:42:42,005 - INFO - Found 200 domains for: Lower Sodium Sea Salt
+2025-03-25 17:42:42,014 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:42:42,159 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:42:45,370 - INFO - Found 200 domains for: Unrefined Sea Salt
+2025-03-25 17:42:45,381 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:42:45,530 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:42:50,833 - INFO - Found 200 domains for: Black Salt
+2025-03-25 17:42:50,839 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:42:50,971 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:43:25,715 - INFO - Found 200 domains for: Potassium Salt
+2025-03-25 17:43:25,726 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:43:25,876 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:43:41,668 - INFO - Found 200 domains for: Anchovies
+2025-03-25 17:43:41,676 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:43:41,812 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:43:43,744 - INFO - Found 200 domains for: Ham
+2025-03-25 17:43:43,749 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:43:43,886 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:43:45,517 - INFO - Found 200 domains for: Casein
+2025-03-25 17:43:45,526 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:43:45,654 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:43:51,736 - INFO - Found 200 domains for: Turkey
+2025-03-25 17:43:51,743 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:43:51,862 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:44:29,011 - INFO - Found 200 domains for: Chicken Broth Powder
+2025-03-25 17:44:29,030 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:44:29,147 - ERROR - [Turkey Stock] Attempt 1 failed: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2025-03-25 17:44:29,435 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:44:38,341 - INFO - Found 200 domains for: Celery Stock
+2025-03-25 17:44:38,349 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:44:38,529 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:44:46,532 - INFO - Found 200 domains for: Turkey Stock
+2025-03-25 17:44:46,540 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:44:46,697 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:44:49,449 - INFO - Found 200 domains for: Beef Stock Concentrate
+2025-03-25 17:44:49,455 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:44:49,543 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:45:00,963 - INFO - Found 200 domains for: Onion Stock
+2025-03-25 17:45:00,967 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:45:01,050 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:45:29,254 - INFO - Found 200 domains for: Cheese Salt
+2025-03-25 17:45:29,260 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:45:29,336 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:45:29,916 - INFO - Found 200 domains for: Beef Stock
+2025-03-25 17:45:29,919 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:45:29,979 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:45:30,575 - INFO - Found 200 domains for: Ancient Sea Salt
+2025-03-25 17:45:30,582 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:45:30,662 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:45:35,140 - INFO - Found 200 domains for: Beef Bouillon
+2025-03-25 17:45:35,146 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:45:35,231 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:45:43,791 - INFO - Found 200 domains for: Chicken Soup Base
+2025-03-25 17:45:43,798 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:45:43,871 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:46:15,996 - INFO - Found 200 domains for: Italian Sausage
+2025-03-25 17:46:16,002 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:46:16,135 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:46:22,231 - INFO - Found 200 domains for: Parmesan
+2025-03-25 17:46:22,238 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:46:22,355 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:46:23,825 - INFO - Found 200 domains for: Rennet Casein
+2025-03-25 17:46:23,828 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:46:23,890 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:46:32,887 - INFO - Found 200 domains for: Tilapia
+2025-03-25 17:46:32,890 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:46:32,961 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:46:38,314 - INFO - Found 200 domains for: Alaska Pollock
+2025-03-25 17:46:38,321 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:46:38,394 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:47:07,910 - INFO - Found 200 domains for: Ground Turkey
+2025-03-25 17:47:07,913 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:47:07,972 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:47:08,899 - INFO - Found 200 domains for: Cod
+2025-03-25 17:47:08,902 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:47:08,979 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:47:15,407 - INFO - Found 200 domains for: Crab Extract
+2025-03-25 17:47:15,412 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:47:15,495 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:47:20,419 - INFO - Found 200 domains for: Lobster
+2025-03-25 17:47:20,426 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:47:20,512 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:47:30,208 - INFO - Found 200 domains for: Sodimum Caseinate
+2025-03-25 17:47:30,214 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:47:30,288 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:47:57,348 - INFO - Found 200 domains for: Capelin Roe
+2025-03-25 17:47:57,353 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:47:57,439 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:47:58,472 - INFO - Found 200 domains for: Pork Hearts
+2025-03-25 17:47:58,478 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:47:58,567 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:47:59,388 - INFO - Found 200 domains for: Bonito Extract
+2025-03-25 17:47:59,394 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:47:59,479 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:48:01,318 - INFO - Found 200 domains for: Crab
+2025-03-25 17:48:01,325 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:48:01,407 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:48:06,294 - INFO - Found 200 domains for: Salmo Salar
+2025-03-25 17:48:06,300 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:48:06,373 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:48:38,277 - INFO - Found 200 domains for: Threadfin Bream
+2025-03-25 17:48:38,283 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:48:38,370 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:48:41,858 - INFO - Found 200 domains for: Uncured Pepperoni
+2025-03-25 17:48:41,865 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:48:41,938 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:48:44,272 - INFO - Found 200 domains for: Clementine Flavors
+2025-03-25 17:48:44,277 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:48:44,353 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:48:47,628 - INFO - Found 200 domains for: Clam Extract
+2025-03-25 17:48:47,633 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:48:47,728 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:48:48,409 - INFO - Found 200 domains for: Marionberry Flavors
+2025-03-25 17:48:48,415 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:48:48,506 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:49:21,954 - INFO - Found 200 domains for: Uglifruit Flavors
+2025-03-25 17:49:21,958 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:49:22,032 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:49:33,631 - INFO - Found 200 domains for: Rambutan Flavors
+2025-03-25 17:49:33,635 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:49:33,711 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:49:33,789 - INFO - Found 200 domains for: Cloudberry Flavors
+2025-03-25 17:49:33,796 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:49:33,871 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:49:48,600 - INFO - Found 200 domains for: Frosted Flakes Flavors
+2025-03-25 17:49:48,608 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:49:48,709 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:49:52,768 - INFO - Found 200 domains for: Devil Food Flavors
+2025-03-25 17:49:52,773 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:49:52,863 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:50:21,477 - INFO - Found 200 domains for: Woodruff Flavors
+2025-03-25 17:50:21,484 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:50:21,561 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:50:23,824 - INFO - Found 200 domains for: Quassia Flavors
+2025-03-25 17:50:23,832 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:50:23,916 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:50:36,194 - INFO - Found 200 domains for: Crème de Cacao Flavors
+2025-03-25 17:50:36,200 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:50:36,292 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:50:39,172 - INFO - Found 200 domains for: Honeysuckle Flavors
+2025-03-25 17:50:39,180 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:50:39,256 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:50:54,689 - INFO - Found 200 domains for: Fruit Loops Flavors
+2025-03-25 17:50:54,696 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:50:54,777 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:51:00,216 - INFO - Found 200 domains for: Kokumi Flavors
+2025-03-25 17:51:00,221 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:51:00,303 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:51:02,317 - INFO - Found 200 domains for: Calamansi Lime Flavors
+2025-03-25 17:51:02,324 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:51:02,404 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:51:20,708 - INFO - Found 200 domains for: Acetylated Monoglycerides
+2025-03-25 17:51:20,716 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:51:20,803 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:51:20,924 - INFO - Found 200 domains for: Croscarmellose Sodium
+2025-03-25 17:51:20,927 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:51:21,004 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:51:43,503 - INFO - Found 200 domains for: Sambuca Flavors
+2025-03-25 17:51:43,510 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:51:43,582 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:51:52,160 - INFO - Found 200 domains for: Sodium Aluminosilicate
+2025-03-25 17:51:52,164 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:51:52,234 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:51:57,507 - INFO - Found 200 domains for: Sodium Silicoaluminate
+2025-03-25 17:51:57,513 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:51:57,614 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:52:11,528 - INFO - Found 200 domains for: Saccharin Sodium
+2025-03-25 17:52:11,532 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:52:11,604 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:52:19,986 - INFO - Found 200 domains for: Celery Puree
+2025-03-25 17:52:19,994 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:52:20,070 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:52:37,999 - INFO - Found 200 domains for: Beet Juice Concentrate
+2025-03-25 17:52:38,007 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:52:38,083 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:52:39,481 - INFO - Found 200 domains for: Wheat Dextrin
+2025-03-25 17:52:39,489 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:52:39,567 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:52:48,221 - INFO - Found 200 domains for: Hydrogenated Starch Hydrolysates
+2025-03-25 17:52:48,228 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:52:48,329 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:52:56,255 - INFO - Found 200 domains for: Stone Ground White Corn Meal
+2025-03-25 17:52:56,263 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:52:56,335 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:53:04,419 - INFO - Found 200 domains for: Elderberry Juice Concentrate
+2025-03-25 17:53:04,427 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:53:04,513 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:53:15,521 - INFO - Found 200 domains for: Collared Greens
+2025-03-25 17:53:15,528 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:53:15,607 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:53:26,863 - INFO - Found 200 domains for: Banana Flakes
+2025-03-25 17:53:26,868 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:53:26,946 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:53:33,479 - INFO - Found 200 domains for: Purple Carrot Juice Concentrate
+2025-03-25 17:53:33,486 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:53:33,595 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:53:39,123 - INFO - Found 200 domains for: Prune Juice Concentrate
+2025-03-25 17:53:39,132 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:53:39,210 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:53:59,473 - INFO - Found 200 domains for: Glycerol Ester of Wood Rosin
+2025-03-25 17:53:59,480 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:53:59,562 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:54:04,669 - INFO - Found 200 domains for: Wasabi Powder
+2025-03-25 17:54:04,672 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:54:04,741 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:54:11,758 - INFO - Found 200 domains for: Potassium Bitartrate
+2025-03-25 17:54:11,767 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:54:11,860 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:54:29,779 - INFO - Found 200 domains for: Sodium Stearoyl Lactylate
+2025-03-25 17:54:29,788 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:54:29,874 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:54:32,526 - INFO - Found 200 domains for: Neotame
+2025-03-25 17:54:32,533 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:54:32,617 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:54:36,250 - INFO - Found 200 domains for: Escarole
+2025-03-25 17:54:36,252 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:54:36,326 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:54:48,976 - INFO - Found 200 domains for: Smoked Torula Yeast
+2025-03-25 17:54:48,979 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:54:49,056 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:54:59,394 - INFO - Found 200 domains for: Sunkist Orange Flavors
+2025-03-25 17:54:59,396 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:54:59,465 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:55:12,171 - INFO - Found 200 domains for: Apocarotenal
+2025-03-25 17:55:12,178 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:55:12,292 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:55:15,021 - INFO - Found 200 domains for: Cherimoya Flavors
+2025-03-25 17:55:15,028 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:55:15,111 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:55:23,029 - INFO - Found 200 domains for: Lucky Charms Flavors
+2025-03-25 17:55:23,038 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:55:23,151 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:55:26,442 - INFO - Found 200 domains for: Sodium Copper Chlorophyllin
+2025-03-25 17:55:26,449 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:55:26,571 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:55:48,882 - INFO - Found 200 domains for: Propyl Gallate
+2025-03-25 17:55:48,889 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:55:48,975 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:55:56,620 - INFO - Found 200 domains for: Disodium EDTA
+2025-03-25 17:55:56,629 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:55:56,728 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:55:58,375 - INFO - Found 200 domains for: Palm Leaf Glaze
+2025-03-25 17:55:58,381 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:55:58,466 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:56:06,878 - INFO - Found 200 domains for: Potassium Citrate
+2025-03-25 17:56:06,887 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:56:06,970 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:56:16,258 - INFO - Found 200 domains for: White Beeswax
+2025-03-25 17:56:16,264 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:56:16,354 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:56:37,918 - INFO - Found 200 domains for: Pullulan
+2025-03-25 17:56:37,925 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:56:38,007 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:56:42,295 - INFO - Found 200 domains for: Wormwood Flavors
+2025-03-25 17:56:42,300 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:56:42,369 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:56:57,467 - INFO - Found 200 domains for: Ferric Orthophosphate
+2025-03-25 17:56:57,470 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:56:57,543 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:56:58,085 - INFO - Found 200 domains for: Phytonadione
+2025-03-25 17:56:58,092 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:56:58,149 - INFO - Found 200 domains for: Anchovy Extract
+2025-03-25 17:56:58,167 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:56:58,172 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:56:58,263 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:57:24,117 - INFO - Found 200 domains for: Whiteleg Shrimp
+2025-03-25 17:57:24,124 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:57:24,213 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:57:33,991 - INFO - Found 200 domains for: Pacific Whiting
+2025-03-25 17:57:33,999 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:57:34,110 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:57:41,647 - INFO - Found 200 domains for: Yumberry Flavors
+2025-03-25 17:57:41,652 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:57:41,740 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:57:46,053 - INFO - Found 200 domains for: Rendered Bacon Fat
+2025-03-25 17:57:46,058 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:57:46,130 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:58:05,803 - INFO - Found 200 domains for: Polyglycerol Polyricinoleate
+2025-03-25 17:58:05,811 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:58:05,898 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:58:07,221 - INFO - Found 200 domains for: Sodium Aluminium Phosphate
+2025-03-25 17:58:07,224 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:58:07,294 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:58:20,805 - INFO - Found 200 domains for: Citrus Blast
+2025-03-25 17:58:20,812 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:58:20,895 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:58:26,065 - INFO - Found 200 domains for: Ferrous Lactate
+2025-03-25 17:58:26,070 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:58:26,157 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:58:29,944 - INFO - Found 200 domains for: Panax Ginseng Root Extract
+2025-03-25 17:58:29,951 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:58:30,042 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:58:51,099 - INFO - Found 200 domains for: Penicillin Roqueforti
+2025-03-25 17:58:51,108 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:58:51,192 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:58:59,798 - INFO - Found 200 domains for: Oligofructose
+2025-03-25 17:58:59,802 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:58:59,875 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:59:19,578 - INFO - Found 200 domains for: Streptococcus Thermophilus
+2025-03-25 17:59:19,585 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:59:19,658 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:59:28,698 - INFO - Found 200 domains for: Bacillus Subtilis
+2025-03-25 17:59:28,707 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:59:28,786 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:59:45,648 - INFO - Found 200 domains for: White Distilled Vinegar Powder
+2025-03-25 17:59:45,653 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:59:45,747 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:59:47,639 - INFO - Found 200 domains for: Sliced Almonds
+2025-03-25 17:59:47,647 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:59:47,741 - INFO - Appended 200 entries to JSON file.
+2025-03-25 17:59:49,155 - INFO - Found 200 domains for: Bacillus Coagulans
+2025-03-25 17:59:49,163 - INFO - Appended 200 entries to CSV file.
+2025-03-25 17:59:49,263 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:00:13,507 - INFO - Found 200 domains for: Roasted Almonds
+2025-03-25 18:00:13,511 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:00:13,589 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:00:23,222 - INFO - Found 200 domains for: Calcium Stearoyl Lactylate
+2025-03-25 18:00:23,229 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:00:23,309 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:00:33,016 - INFO - Found 200 domains for: Kaffir Lime Peel 
+2025-03-25 18:00:33,023 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:00:33,104 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:00:41,312 - INFO - Found 200 domains for: Guanabana Flavors
+2025-03-25 18:00:41,320 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:00:41,404 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:00:41,444 - INFO - Found 200 domains for: Inactive Dried Yeast
+2025-03-25 18:00:41,454 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:00:41,565 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:01:05,004 - INFO - Found 200 domains for: Parmesan Cheese Powder
+2025-03-25 18:01:05,011 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:01:05,122 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:01:12,457 - INFO - Found 200 domains for: Lowfat Buttermilk
+2025-03-25 18:01:12,465 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:01:12,549 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:01:36,045 - INFO - Found 200 domains for: Red Rice
+2025-03-25 18:01:36,052 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:01:36,171 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:01:37,920 - INFO - Found 200 domains for: Polenta
+2025-03-25 18:01:37,927 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:01:38,055 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:01:42,447 - INFO - Found 200 domains for: Feta Cheese
+2025-03-25 18:01:42,453 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:01:42,545 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:01:54,818 - INFO - Found 200 domains for: Barley Malt
+2025-03-25 18:01:54,821 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:01:54,893 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:02:01,923 - INFO - Found 200 domains for: Toasted Oats
+2025-03-25 18:02:01,928 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:02:02,038 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:02:22,984 - INFO - Found 200 domains for: Cottonseed Oil
+2025-03-25 18:02:22,991 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:02:23,078 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:02:38,672 - INFO - Found 200 domains for: Matcha Flavors
+2025-03-25 18:02:38,676 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:02:38,752 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:02:46,393 - INFO - Found 200 domains for: Sourdough Starter
+2025-03-25 18:02:46,401 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:02:46,499 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:02:48,987 - INFO - Found 200 domains for: Tahitian Vanilla Flavors
+2025-03-25 18:02:48,997 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:02:49,095 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:02:49,954 - INFO - Found 200 domains for: Almond Milk
+2025-03-25 18:02:49,960 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:02:50,090 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:03:18,713 - INFO - Found 200 domains for: Cinnamon Roll Flavors
+2025-03-25 18:03:18,720 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:03:18,843 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:03:25,310 - INFO - Found 200 domains for: Triticale
+2025-03-25 18:03:25,314 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:03:25,390 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:03:33,081 - INFO - Found 200 domains for: Mushroom Flavors
+2025-03-25 18:03:33,088 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:03:33,175 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:03:35,918 - INFO - Found 200 domains for: Provolone
+2025-03-25 18:03:35,924 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:03:36,038 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:03:40,898 - INFO - Found 200 domains for: Seafood Flavors
+2025-03-25 18:03:40,906 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:03:41,018 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:04:15,130 - INFO - Found 200 domains for: Corn Oil
+2025-03-25 18:04:15,136 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:04:15,301 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:04:15,596 - INFO - Found 200 domains for: Pea Flour
+2025-03-25 18:04:15,600 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:04:15,679 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:04:16,776 - INFO - Found 200 domains for: Nutmeg Oil
+2025-03-25 18:04:16,781 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:04:16,872 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:04:17,383 - INFO - Found 200 domains for: Salt
+2025-03-25 18:04:17,388 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:04:17,484 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:04:54,596 - INFO - Found 200 domains for: Spring Onions
+2025-03-25 18:04:54,600 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:04:54,689 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:04:55,052 - INFO - Found 200 domains for: Brominated Soybean Oil
+2025-03-25 18:04:55,056 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:04:55,138 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:04:58,104 - INFO - Found 200 domains for: Armagnac Flavors
+2025-03-25 18:04:58,113 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:04:58,214 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:05:04,355 - INFO - Found 200 domains for: Vanilla Bean Flavors
+2025-03-25 18:05:04,358 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:05:04,460 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:05:35,817 - INFO - Found 200 domains for: Graham Cracker Flavors
+2025-03-25 18:05:35,822 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:05:35,907 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:05:41,238 - INFO - Found 200 domains for: Cheesecake Flavors
+2025-03-25 18:05:41,243 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:05:41,364 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:05:45,199 - INFO - Found 200 domains for: Anthocyanins
+2025-03-25 18:05:45,205 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:05:45,302 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:05:48,104 - INFO - Found 200 domains for: Green Tea Flavors
+2025-03-25 18:05:48,110 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:05:48,221 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:05:59,131 - INFO - Found 200 domains for: Donut Flavors
+2025-03-25 18:05:59,139 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:05:59,345 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:06:20,612 - INFO - Found 200 domains for: Mirepoix Flavors
+2025-03-25 18:06:20,617 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:06:20,717 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:06:30,941 - INFO - Found 200 domains for: Goat's Milk
+2025-03-25 18:06:30,947 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:06:31,040 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:06:31,186 - INFO - Found 200 domains for: Cotija Cheese
+2025-03-25 18:06:31,190 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:06:31,264 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:06:32,994 - INFO - Found 200 domains for: White Cheddar
+2025-03-25 18:06:33,000 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:06:33,096 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:06:36,028 - INFO - Found 200 domains for: Pecan Flavors
+2025-03-25 18:06:36,033 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:06:36,142 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:07:16,208 - INFO - Found 200 domains for: Parmigiano Reggiano Cheese
+2025-03-25 18:07:16,215 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:07:16,344 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:07:20,338 - INFO - Found 200 domains for: Risotto
+2025-03-25 18:07:20,344 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:07:20,423 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:07:21,597 - INFO - Found 200 domains for: Smoked Provolone Cheese
+2025-03-25 18:07:21,604 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:07:21,704 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:07:26,082 - INFO - Found 200 domains for: Farro
+2025-03-25 18:07:26,089 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:07:26,187 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:07:38,219 - INFO - Found 200 domains for: Sour Cream
+2025-03-25 18:07:38,224 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:07:38,325 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:07:59,967 - INFO - Found 200 domains for: Cracked Rye
+2025-03-25 18:07:59,972 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:08:00,078 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:08:14,722 - INFO - Found 200 domains for: Puffed Amaranth
+2025-03-25 18:08:14,731 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:08:14,924 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:08:21,575 - INFO - Found 200 domains for: Kamut Berries
+2025-03-25 18:08:21,586 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:08:21,731 - INFO - Found 200 domains for: Sprouted Millet
+2025-03-25 18:08:21,742 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:08:21,750 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:08:21,910 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:08:29,388 - INFO - Found 200 domains for: Rolled Oats
+2025-03-25 18:08:29,398 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:08:29,565 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:08:59,676 - INFO - Found 200 domains for: Oat Milk
+2025-03-25 18:08:59,687 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:08:59,941 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:09:01,518 - INFO - Found 200 domains for: Disodium Inosinate
+2025-03-25 18:09:01,528 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:09:01,772 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:09:07,072 - INFO - Found 200 domains for: BHA
+2025-03-25 18:09:07,082 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:09:07,291 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:09:29,460 - INFO - Found 200 domains for: Fruit Punch
+2025-03-25 18:09:29,464 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:09:29,661 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:09:32,281 - INFO - Found 200 domains for: Tamarind
+2025-03-25 18:09:32,290 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:09:32,475 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:09:51,682 - INFO - Found 200 domains for: Bubblegum Flavors
+2025-03-25 18:09:51,687 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:09:51,856 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:09:54,084 - INFO - Found 200 domains for: Snickerdoodle Flavors
+2025-03-25 18:09:54,090 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:09:54,241 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:09:54,933 - INFO - Found 200 domains for: Scotch Flavors
+2025-03-25 18:09:54,940 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:09:55,112 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:10:16,752 - INFO - Found 200 domains for: Turkey Breast
+2025-03-25 18:10:16,762 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:10:16,943 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:10:21,048 - INFO - Found 200 domains for: Greek Yogurt
+2025-03-25 18:10:21,059 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:10:21,300 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:10:37,936 - INFO - Found 200 domains for: White Tuna
+2025-03-25 18:10:37,942 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:10:38,129 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:10:41,418 - INFO - Found 200 domains for: Pork Skins
+2025-03-25 18:10:41,426 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:10:41,588 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:10:48,243 - INFO - Found 200 domains for: Egg Whites
+2025-03-25 18:10:48,260 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:10:48,421 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:10:54,160 - INFO - Found 200 domains for: Sugared Egg Yolks
+2025-03-25 18:10:54,168 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:10:54,373 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:11:26,943 - INFO - Found 200 domains for: Chili Extract
+2025-03-25 18:11:26,948 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:11:27,058 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:11:40,198 - INFO - Found 200 domains for: Vanilla Extract Replacer Flavors
+2025-03-25 18:11:40,204 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:11:40,308 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:11:43,031 - INFO - Found 200 domains for: Purified Water
+2025-03-25 18:11:43,038 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:11:43,156 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:11:43,363 - INFO - Found 200 domains for: BHT
+2025-03-25 18:11:43,371 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:11:43,510 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:11:50,819 - INFO - Found 200 domains for: Bison
+2025-03-25 18:11:50,826 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:11:50,938 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:12:20,972 - INFO - Found 200 domains for: Sautéed Onion Flavors
+2025-03-25 18:12:20,978 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:12:21,070 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:12:23,862 - INFO - Found 200 domains for: Black Tea Flavors
+2025-03-25 18:12:23,866 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:12:23,962 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:12:29,480 - INFO - Found 200 domains for: Rum Cake Flavors
+2025-03-25 18:12:29,486 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:12:29,578 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:12:40,290 - INFO - Found 200 domains for: Peanut Flavors
+2025-03-25 18:12:40,295 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:12:40,377 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:13:16,975 - INFO - Found 200 domains for: Sturgeon Roe
+2025-03-25 18:13:16,986 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:13:17,175 - INFO - Found 200 domains for: Hard Salami
+2025-03-25 18:13:17,198 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:13:17,210 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:13:17,401 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:13:17,881 - INFO - Found 200 domains for: Sage
+2025-03-25 18:13:17,887 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:13:18,038 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:13:21,326 - INFO - Found 200 domains for: Nonfat Milk
+2025-03-25 18:13:21,340 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:13:21,562 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:13:27,451 - INFO - Found 200 domains for: Blue Cheese
+2025-03-25 18:13:27,458 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:13:27,662 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:14:04,533 - INFO - Found 200 domains for: Glucono-Delta-Lactone (GdL)
+2025-03-25 18:14:04,548 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:14:04,728 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:14:11,523 - INFO - Found 200 domains for: Tuna
+2025-03-25 18:14:11,529 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:14:11,711 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:14:12,318 - INFO - Found 200 domains for: Distilled White Vinegar
+2025-03-25 18:14:12,324 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:14:12,506 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:14:15,368 - INFO - Found 200 domains for: Cherry Blossom Flavors
+2025-03-25 18:14:15,386 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:14:15,562 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:14:19,190 - INFO - Found 200 domains for: Taurine
+2025-03-25 18:14:19,196 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:14:19,354 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:15:05,813 - INFO - Found 200 domains for: Rice Bran Extract
+2025-03-25 18:15:05,821 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:15:05,991 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:15:12,570 - INFO - Found 200 domains for: Koji Rice
+2025-03-25 18:15:12,580 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:15:12,768 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:15:18,566 - INFO - Found 200 domains for: Pea Milk
+2025-03-25 18:15:18,574 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:15:18,743 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:15:18,938 - INFO - Found 200 domains for: Long Grain White Rice
+2025-03-25 18:15:18,946 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:15:19,117 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:15:58,023 - INFO - Found 200 domains for: Hydrolyzed Soy Protein
+2025-03-25 18:15:58,037 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:15:58,232 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:16:02,945 - INFO - Found 200 domains for: Hemp Milk
+2025-03-25 18:16:02,954 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:16:03,182 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:16:16,470 - INFO - Found 200 domains for: Corn
+2025-03-25 18:16:16,476 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:16:16,658 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:16:17,843 - INFO - Found 200 domains for: Pea Protein
+2025-03-25 18:16:17,851 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:16:18,077 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:16:27,853 - INFO - Found 200 domains for: Soy Protein
+2025-03-25 18:16:27,858 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:16:28,045 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:16:56,668 - INFO - Found 200 domains for: Potato Protein
+2025-03-25 18:16:56,675 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:16:56,887 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:17:04,339 - INFO - Found 200 domains for: Chickpea Protein
+2025-03-25 18:17:04,348 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:17:04,586 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:17:13,254 - INFO - Found 200 domains for: Hydrolyzed Wheat Protein
+2025-03-25 18:17:13,264 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:17:13,446 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:17:18,151 - INFO - Found 200 domains for: Sunflower Seeds
+2025-03-25 18:17:18,161 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:17:18,336 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:17:29,646 - INFO - Found 200 domains for: Pumpkin Seeds
+2025-03-25 18:17:29,657 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:17:29,826 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:17:45,837 - INFO - Found 200 domains for: Fenugreek Seeds
+2025-03-25 18:17:45,845 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:17:46,038 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:18:14,779 - INFO - Found 200 domains for: Black Sesame Seeds
+2025-03-25 18:18:14,791 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:18:15,020 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:18:16,558 - INFO - Found 200 domains for: Celery Seeds
+2025-03-25 18:18:16,571 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:18:16,772 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:18:19,642 - INFO - Found 200 domains for: Anise Seeds
+2025-03-25 18:18:19,648 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:18:19,845 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:18:28,430 - INFO - Found 200 domains for: Mustard Seeds
+2025-03-25 18:18:28,438 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:18:28,668 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:18:45,921 - INFO - Found 200 domains for: Dill Seeds
+2025-03-25 18:18:45,931 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:18:46,123 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:19:05,347 - INFO - Found 200 domains for: Pumpkin Seed Powder
+2025-03-25 18:19:05,352 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:19:05,556 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:19:08,001 - INFO - Found 200 domains for: Guarana Extract
+2025-03-25 18:19:08,010 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:19:08,202 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:19:18,755 - INFO - Found 200 domains for: White Chia Seeds
+2025-03-25 18:19:18,770 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:19:18,960 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:19:31,716 - INFO - Found 200 domains for: Ground Sesame Seeds
+2025-03-25 18:19:31,724 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:19:31,907 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:19:42,616 - INFO - Found 200 domains for: Pepitas
+2025-03-25 18:19:42,628 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:19:42,821 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:20:08,989 - INFO - Found 200 domains for: Atlantic Salmon
+2025-03-25 18:20:08,993 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:20:09,123 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:20:18,608 - INFO - Found 200 domains for: Sardines
+2025-03-25 18:20:18,611 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:20:18,744 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:20:27,653 - INFO - Found 200 domains for: Lamb
+2025-03-25 18:20:27,659 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:20:27,853 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:20:28,868 - INFO - Found 200 domains for: Smoked Ham
+2025-03-25 18:20:28,874 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:20:28,973 - INFO - Found 200 domains for: Pollock
+2025-03-25 18:20:29,093 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:20:29,101 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:20:29,265 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:20:53,323 - INFO - Found 200 domains for: Fully Cooked Bacon
+2025-03-25 18:20:53,333 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:20:53,570 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:21:03,417 - INFO - Found 200 domains for: Pork Sausage Patty
+2025-03-25 18:21:03,429 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:21:03,616 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:21:11,616 - INFO - Found 200 domains for: White Meat Chicken
+2025-03-25 18:21:11,629 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:21:11,859 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:21:24,701 - INFO - Found 200 domains for: Bamboo Fiber
+2025-03-25 18:21:24,710 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:21:24,895 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:21:25,183 - INFO - Found 200 domains for: Dehydrated Turkey Broth
+2025-03-25 18:21:25,191 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:21:25,379 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:21:44,269 - INFO - Found 200 domains for: Spicy Vanilla Flavors
+2025-03-25 18:21:44,275 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:21:44,446 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:21:47,485 - INFO - Found 200 domains for: Lime Blossom Flavors
+2025-03-25 18:21:47,490 - INFO - Appended 200 entries to CSV file.
+2025-03-25 18:21:47,665 - INFO - Appended 200 entries to JSON file.
+2025-03-25 18:21:47,790 - INFO - Finished. Domains written to: DATA_511/top_200_per_name2.json, DATA_511/top_200_per_name2.csv

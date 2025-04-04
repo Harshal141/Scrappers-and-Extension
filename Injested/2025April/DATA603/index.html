@@ -1,0 +1,11 @@
+while clicks < max_clicks:
+    see_more_button = driver.ele('@class:btn btn--secondary', timeout=2)
+
+    if see_more_button and see_more_button.visible:
+        see_more_button.click()
+        clicks += 1
+        logging.info(f'"View More" button clicked ({clicks})')
+        time.sleep(2)  # slight delay to allow content to load
+    else:
+        logging.info('"View More" button not found or no longer visible.')
+        break

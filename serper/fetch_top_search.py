@@ -4,23 +4,24 @@ from dotenv import load_dotenv
 import csv
 import json
 import os
+import time
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
-
+# Load env
 load_dotenv()
 
 SERPER_API_KEY = os.getenv('SERPER_API_KEY_V2')
 SERPER_API_URL = 'https://google.serper.dev/search'
 
 INPUT_JSON_FILE = "DATA_511/ingridients_source.json"
-OUTPUT_JSON_FILE = "DATA_511/top_200_per_name1.json"
-OUTPUT_CSV_FILE = "DATA_511/top_200_per_name1.csv"
+OUTPUT_JSON_FILE = "DATA_511/top_200_per_name2.json"
+OUTPUT_CSV_FILE = "DATA_511/top_200_per_name2.csv"
 LOG_FILE = "fetch_log.log"
-COMPLETED_PACKAGING_FILE = "DATA_511/completed_packaging.json"
-BATCH_SIZE = 10 
-
+COMPLETED_PACKAGING_FILE = "DATA_511/completed_packaging1.json"
+BATCH_SIZE = 10
+MAX_RETRIES = 3
 
 logging.basicConfig(
     filename=LOG_FILE,
@@ -42,7 +43,7 @@ def load_input_data(file_path):
     except Exception as e:
         log_message(f"Error loading JSON file: {e}", "error")
         return []
-    
+
 def append_to_csv(results, filename=OUTPUT_CSV_FILE):
     file_exists = os.path.isfile(filename)
     with open(filename, 'a', newline='', encoding='utf-8') as csvfile:
@@ -69,7 +70,7 @@ def append_to_json(results, filename=OUTPUT_JSON_FILE):
         domain = row['domain']
         if name not in existing_data:
             existing_data[name] = []
-        existing_data[name].append(domain)
+        existing_data[name].append(domain)  # allow duplicates
 
     with open(filename, 'w', encoding="utf-8") as jsonfile:
         json.dump(existing_data, jsonfile, indent=4)
@@ -105,9 +106,7 @@ def get_domain_from_url(url):
         return None
 
 def restricted_domain(domain: str) -> bool:
-    restricted_words = [
-        "news", ".org", ".edu", ".gov", "tribune", "report"
-    ]
+    restricted_words = ["news", ".org", ".edu", ".gov", "tribune", "report"]
     restricted_domains = [
         "dnb.com", "linkedin.com", "facebook.com", "bloomberg.com", "keychain.com",
         "safer.fmcsa.dot.gov", "fda.gov", "thomasnet.com", "opencorporates.com",
@@ -161,40 +160,55 @@ def restricted_domain(domain: str) -> bool:
         "reddit.com", "linkedin.com", "quora.com", "nih.gov", "youtube.com",
         "kroger.com", "walmart.com", "target.com", "fda.gov", "smithsfoodanddrug.com"
     ]
-    if any(rd in domain for rd in restricted_domains):
-        return True
-    if any(rw in domain for rw in restricted_words):
-        return True
-    return False
+    return any(rd in domain for rd in restricted_domains) or any(rw in domain for rw in restricted_words)
 
 def get_top_manufacturers_for_packaging(packaging_name):
     headers = {'Content-Type': 'application/json', 'X-API-Key': SERPER_API_KEY}
-    payload = {
-        'q': f"{packaging_name} official site",
-        'gl': 'us',
-        'num': 1
-    }
-    response = requests.post(SERPER_API_URL, json=payload, headers=headers)
-    top_manufacturers = []
-    if response.status_code == 200:
-        response_data = response.json()
-        if 'organic' in response_data:
-            for organic_result in response_data['organic']:
-                domain = get_domain_from_url(organic_result.get('link', ''))
-                if domain and not restricted_domain(domain):
-                    top_manufacturers.append(domain)
-        elif 'knowledge_graph' in response_data:
-            domain = get_domain_from_url(response_data['knowledge_graph'].get('website', ''))
-            if domain and not restricted_domain(domain):
-                top_manufacturers.append(domain)
-        else:
-            log_message(f"Error: Failed to fetch results for '{packaging_name}'. Status code: {response.status_code}", "error")
-            print(response.text)
+    domains = []
+    start = 0
+    max_results = 200
+    results_per_page = 10
 
-        page += 1  
+    while len(domains) < max_results:
+        payload = {
+            'q': f"Top {packaging_name} Suppliers in the United States",
+            'gl': 'us',
+            'num': results_per_page,
+            'start': start
+        }
 
-    log_message(f"Found {len(all_manufacturers)} manufacturers for: {packaging_name}")
-    return packaging_name, all_manufacturers[:200]
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                response = requests.post(SERPER_API_URL, json=payload, headers=headers)
+                if response.status_code != 200:
+                    raise Exception(f"Status code {response.status_code}")
+                data = response.json()
+                organic = data.get('organic', [])
+                if not organic:
+                    break
+
+                for result in organic:
+                    url = result.get('link', '')
+                    domain = get_domain_from_url(url)
+                    if domain and not restricted_domain(domain):
+                        domains.append(domain)
+                        if len(domains) >= max_results:
+                            break
+
+                start += results_per_page
+                time.sleep(1)  # avoid hitting rate limit
+                break  # success, exit retry loop
+
+            except Exception as e:
+                log_message(f"[{packaging_name}] Attempt {attempt} failed: {e}", "error")
+                if attempt < MAX_RETRIES:
+                    time.sleep(2 ** attempt)
+                else:
+                    log_message(f"[{packaging_name}] Failed after {MAX_RETRIES} attempts.", "error")
+                    return packaging_name, domains
+
+    log_message(f"Found {len(domains)} domains for: {packaging_name}")
+    return packaging_name, domains
 
 def get_top_manufacturers(input_data, max_threads=5):
     completed_packaging = load_completed_packaging()
@@ -206,13 +220,14 @@ def get_top_manufacturers(input_data, max_threads=5):
             executor.submit(get_top_manufacturers_for_packaging, row['name']): row['name']
             for row in input_data if row['name'] not in completed_packaging
         }
+
         for future in tqdm(as_completed(futures), total=len(futures), desc="Fetching Websites"):
             try:
-                packaging_name, top_manufacturers = future.result()
-                for manufacturer in top_manufacturers:
+                packaging_name, top_domains = future.result()
+                for domain in top_domains:
                     batch_results.append({
                         "packaging_name": packaging_name,
-                        "domain": manufacturer
+                        "domain": domain
                     })
                 completed_packaging.add(packaging_name)
                 save_completed_packaging(completed_packaging)
@@ -222,8 +237,6 @@ def get_top_manufacturers(input_data, max_threads=5):
                     append_to_json(batch_results)
                     results.extend(batch_results)
                     batch_results = []
-
-                    log_message(f"Saved a batch of {BATCH_SIZE} results to files.")
 
             except Exception as e:
                 packaging_name = futures[future]
@@ -240,12 +253,11 @@ def get_top_manufacturers(input_data, max_threads=5):
 if __name__ == "__main__":
     log_message("Starting script execution.")
     input_data = load_input_data(INPUT_JSON_FILE)
-    
+
     if not input_data:
         log_message("No input data found. Exiting.", "error")
         exit()
 
-    top_manufacturers = get_top_manufacturers(input_data)
+    get_top_manufacturers(input_data)
 
-    log_message(f"Top 200 websites per name saved to {OUTPUT_JSON_FILE} and {OUTPUT_CSV_FILE}")
-    log_message("Script execution completed.")
+    log_message(f"Finished. Domains written to: {OUTPUT_JSON_FILE}, {OUTPUT_CSV_FILE}")

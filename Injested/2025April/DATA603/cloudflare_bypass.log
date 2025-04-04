@@ -1,0 +1,21 @@
+2025-04-04 16:54:11,738 - INFO - Navigating to the page.
+2025-04-04 16:54:18,360 - INFO - Page loaded successfully.
+2025-04-04 16:54:18,360 - INFO - Attempting to bypass Cloudflare.
+2025-04-04 16:54:18,361 - INFO - Cloudflare bypassed.
+2025-04-04 16:54:18,365 - INFO - Looking for "View More Button" button.
+2025-04-04 16:54:18,610 - INFO - "View More" button clicked (1)
+2025-04-04 16:54:18,842 - INFO - "View More" button clicked (2)
+2025-04-04 16:54:19,106 - INFO - "View More" button clicked (3)
+2025-04-04 16:54:19,322 - INFO - "View More" button clicked (4)
+2025-04-04 16:54:19,541 - INFO - "View More" button clicked (5)
+2025-04-04 16:54:19,757 - INFO - "View More" button clicked (6)
+2025-04-04 16:54:19,976 - INFO - "View More" button clicked (7)
+2025-04-04 16:54:20,198 - INFO - "View More" button clicked (8)
+2025-04-04 16:54:20,418 - INFO - "View More" button clicked (9)
+2025-04-04 16:54:20,670 - INFO - "View More" button clicked (10)
+2025-04-04 16:54:20,904 - INFO - "View More" button clicked (11)
+2025-04-04 16:54:21,120 - INFO - "View More" button clicked (12)
+2025-04-04 16:54:21,873 - ERROR - Error navigating to the page: 
+The element object is invalid. This may be an overall refresh of the page, or a partial js refresh to replace or remove elements.
+Version: 4.1.0.17
+2025-04-04 16:54:21,873 - INFO - Closing the browser.
