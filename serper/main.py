@@ -4,10 +4,13 @@ import requests
 from urllib.parse import urlparse
 from dotenv import load_dotenv
 import os
+import pandas as pd
+import time
 load_dotenv()
 MAX_WORKERS = 40
 SERPER_API_URL = "https://google.serper.dev/search"
 SERPER_API_KEY = os.getenv("SERPER_API_KEY_V2")
+
 def restricted_domain(domain: str) -> bool:
     restricted_words = [
         "news", ".org", ".edu", ".gov", "tribune", "report"
@@ -90,13 +93,15 @@ def get_domain_from_url(url):
     except Exception as e:
         print(f"Error occurred while getting domain for URL {url}: {e}")
         return None
+
+
 def search_company_domain_using_serper(company_name: str):
     headers = {"Content-Type": "application/json", "X-API-Key": SERPER_API_KEY}
     payload = {
         "q": f"{company_name} official site",
-        "location": "Canada",
+        "location": "United States",
         "num": 10,
-        "gl": "ca",
+        "gl": "us",
     }
     response = requests.post(SERPER_API_URL, json=payload, headers=headers)
     domain = ""
@@ -121,22 +126,29 @@ def search_company_domain_using_serper(company_name: str):
     # print(company_name, domain, response_data["organic"][0]["link"])
     return domain
 
+def main(input_csv: str, output_csv: str = "serper/agent_serper_result.csv"):
+    df = pd.read_csv(input_csv)
+    df["domain_serper"] = ""
+
+    seen = set()
+
+    for idx, row in df.iterrows():
+        name = str(row.get("name", "")).strip()
+        address = str(row.get("address", "")).strip()
+        if not name:
+            continue
+
+        key = (name.lower(), address.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+
+        domain = search_company_domain_using_serper(name)
+        df.at[idx, "domain_serper"] = domain
+        print(f"{name} → {domain}")
+
+    df.to_csv(output_csv, index=False)
+    print(f"✅ Saved to {output_csv}")
+
 if __name__ == "__main__":
-    with open("careersinfood.json", "r") as file:
-        data = json.load(file)
-
-    names = [row["name"] for row in data]
-    print(len(names))
-    print(names[:10])
-    # with open("scraping/scripts/output/sqf_canada_nov_2024.csv", "r") as file:
-    #     names = [row[0] for row in csv.reader(file)]
-
-    with open("careersinfood", "w") as file:
-        writer = csv.writer(file)
-        writer.writerow(["Facility Name", "Domain"])
-        for name in names:
-            domain = search_company_domain_using_serper(name)
-            if not domain or domain == "":
-                continue
-            writer.writerow([name, domain])
-            print(f"{name}: {domain}")
+    main("serper/organic_data_300.csv")
