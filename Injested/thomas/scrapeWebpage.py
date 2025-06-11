@@ -6,9 +6,9 @@ from selenium.webdriver.support import expected_conditions as EC
 import os
 import time
 
-website = "https://www.thomasnet.com/suppliers/usa/nutritional-supplement-vitamin-contract-manufacturing-95962841?coverage_area=NA&pg="
-output_file = "./thomas/urlList.json"
-total_pages = 8
+website = "https://www.thomasnet.com/suppliers/search?cov=NA&heading=96007083&searchsource=suppliers&searchterm=beauty+care&what=Beauty+Care+Products"
+output_file = "./Injested/thomas/urlList.json"
+total_pages = 16
 
 # Ensure the output file exists and is valid JSON
 if not os.path.exists(output_file):
