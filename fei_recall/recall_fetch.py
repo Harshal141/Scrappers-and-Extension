@@ -76,7 +76,7 @@ headers = {
 }
 
 # fixed payload template
-data_template = 'payload={"displaycolumns": "productid,recalleventid,producttypeshort,firmcitynam,firmcountrynam,firmline1adr,firmline2adr,firmpostalcd,phasetxt,recallinitiationdt,firmlegalnam,voluntarytypetxt,distributionareasummarytxt,centercd,firmstateprvncnam,centerclassificationdt,terminationdt,initialfirmnotificationtxt,centerclassificationtypetxt,enforcementreportdt,firmfeinum,firmsurvivingnam,firmsurvivingfei,eventlmd,productdescriptiontxt,productshortreasontxt,recallnum,productdistributedquantity,determinationdt,postedinternetdt","filter":"[]","start":1,"rows": 20,"sort":"productid","sortorder":"asc"}'
+data_template = 'payload={"displaycolumns": "codeinformation,productid,recalleventid,producttypeshort,firmcitynam,firmcountrynam,firmline1adr,firmline2adr,firmpostalcd,phasetxt,recallinitiationdt,firmlegalnam,voluntarytypetxt,distributionareasummarytxt,centercd,firmstateprvncnam,centerclassificationdt,terminationdt,initialfirmnotificationtxt,centerclassificationtypetxt,enforcementreportdt,firmfeinum,firmsurvivingnam,firmsurvivingfei,eventlmd,productdescriptiontxt,productshortreasontxt,recallnum,productdistributedquantity,determinationdt,postedinternetdt","filter":"[{\'productid\':\'203305\'}]","start":1,"rows": 2,"sort":"productid","sortorder":"asc"}'
 
 # settings
 rows = 20

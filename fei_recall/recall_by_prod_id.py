@@ -31,7 +31,7 @@ def fetch_recall_by_product_id_parsed(product_id: int) -> list[dict]:
         return []
 
 # 🔍 Example usage
-product_id = 213856
+product_id = 142459
 records = fetch_recall_by_product_id_parsed(product_id)
 
 if records:
