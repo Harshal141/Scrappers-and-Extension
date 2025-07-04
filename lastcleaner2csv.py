@@ -56,8 +56,8 @@ def cleanDomain(domainName):
     return website
 
 # Read the original CSV and process it
-input_file = "thomanet_misc.csv"
-output_file = "cleaned_domains_thomasnet.csv"
+input_file = "output.csv"
+output_file = "cleaned_output.csv"
 
 cleaned_data = []
 
