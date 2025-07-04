@@ -2,8 +2,8 @@ import json
 import pandas as pd
 
 # File paths
-input_json_path = "node_server/data_cat2_f.json"
-output_csv_path = "node_server/data_cat2_cleaned.csv"
+input_json_path = "node_server/data_cat1_f.json"
+output_csv_path = "node_server/data_cat1_cleaned.csv"
 
 # Domain cleaning function
 def cleanDomain(domainName):

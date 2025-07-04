@@ -1,25 +1,32 @@
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   if (message.action === "scrape") {
     try {
-      // Locate the website section and extract the first link
+      // Extract supplier name
+      let name = "Unknown Company";
+      const supplierNameBlock = document.querySelector('[data-sentry-component="SupplierName"] h1');
+      if (supplierNameBlock) {
+        name = supplierNameBlock.innerText.trim();
+      }
+
+      // Extract domain
+      let domain = "Domain not found!";
       const websiteSection = document.querySelector(".business-details-section-column_column__ltcSo");
       if (websiteSection) {
-        const link = websiteSection.querySelector('a[href*="http"]'); // Find the first valid link
+        const link = websiteSection.querySelector('a[href*="http"]');
         if (link) {
-          sendResponse(link.href);
-        } else {
-          sendResponse("Domain not found!");
+          domain = link.href.trim();
         }
-      } else {
-        sendResponse("Domain not found!");
       }
+
+      sendResponse({ name, domain });
     } catch (error) {
-      // Catch any errors and respond
-      sendResponse("Error: " + error.message);
+      sendResponse({ name: "Unknown Company", domain: "Error: " + error.message });
     }
-    return true;
+
+    return true; // Keep the message port open for async response
   }
 });
+
 
 
 // function scrapeData() {

@@ -19,8 +19,8 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                     console.log("Scraping result:", httpsTab.result);
                     // return httpsTab.result;
                     return {
-                        name: product.name,
-                        domain: httpsTab.result,
+                        name: httpsTab.result.name,
+                        domain: httpsTab.result.domain,
                     };
                 } catch (httpsError) {
 
